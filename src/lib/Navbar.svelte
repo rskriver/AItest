@@ -4,7 +4,8 @@
 
 	const links = [
 		{ label: 'Home', labelDa: 'Hjem', sub: 'Start Here', path: '/' },
-		{ label: 'Shop', labelDa: 'Butik', sub: 'Browse Items', path: '/shop' }
+		{ label: 'Shop', labelDa: 'Butik', sub: 'Browse Items', path: '/shop' },
+		{ label: 'About', labelDa: 'Om os', sub: 'Browse Items', path: '/about' }
 	];
 
 	function navigate(path: string) {
@@ -46,20 +47,13 @@
 
 	.nav-menu {
 		display: flex;
+		gap: 4px;
 		margin: 0;
-		padding: 0;
+		padding: 4px;
 		list-style: none;
-		background: #2c3e50;
-		border-radius: 6px;
+		background: #1a252f;
+		border-radius: 10px;
 		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-	}
-
-	.nav-menu > li {
-		border-right: 1px solid #243342;
-	}
-
-	.nav-menu > li:last-child {
-		border-right: none;
 	}
 
 	.nav-menu li a {
@@ -116,7 +110,9 @@
 
 	.front,
 	.back {
-		display: block;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 		width: 100%;
 		height: 100%;
 		position: absolute;
@@ -127,6 +123,8 @@
 		color: white;
 		pointer-events: none;
 		box-sizing: border-box;
+		white-space: nowrap;
+		border-radius: 6px;
 	}
 
 	.nav-menu li .active .front,
