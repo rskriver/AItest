@@ -37,63 +37,87 @@
 </script>
 
 <div class="crud-container">
-	<h2>Love is in the air</h2>
-	<div class="form">
-		<input type="text" placeholder="Item name" bind:value={newName} />
-		<input type="text" placeholder="Item description" bind:value={newDescription} />
-		<button onclick={addItem} disabled={!isValid}>Add Item</button>
-	</div>
+	<form class="form" onsubmit={(e) => { e.preventDefault(); addItem(); }}>
+		<input type="text" placeholder="Item name" bind:value={newName} aria-label="Item name" />
+		<input type="text" placeholder="Item description" bind:value={newDescription} aria-label="Item description" />
+		<button type="submit" disabled={!isValid}>Add Item</button>
+	</form>
 
 	<div class="items">
-		{#each items as item (item.id)}
-			<div class="item">
-				<h3>{item.name}</h3>
-				<p>{item.description}</p>
-				<button onclick={() => deleteItem(item.id)}>Delete</button>
-			</div>
-		{/each}
+		{#if items.length === 0}
+			<p class="empty">No items yet. Add one above.</p>
+		{:else}
+			{#each items as item (item.id)}
+				<div class="item">
+					<div class="item-text">
+						<h3>{item.name}</h3>
+						{#if item.description}<p>{item.description}</p>{/if}
+					</div>
+					<button onclick={() => deleteItem(item.id)} aria-label="Delete {item.name}">Delete</button>
+				</div>
+			{/each}
+		{/if}
 	</div>
 </div>
 
 <style>
 	.crud-container {
-		max-width: 50vw;
+		display: flex;
+		flex-direction: column;
+		gap: 1.25rem;
 		width: 100%;
-		min-width: 320px;
-		padding: 2rem;
-		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-		border-radius: 8px;
-		background: #fafafa;
 	}
 
 	.form {
 		display: flex;
-		gap: 0.5rem;
-		margin-bottom: 1.5rem;
+		flex-wrap: wrap;
+		gap: 0.6rem;
 	}
 
 	.form input {
-		flex: 1;
-		padding: 0.8rem;
-		font-size: 1.2vw;
-		border: 1px solid #ddd;
-		border-radius: 4px;
+		flex: 1 1 180px;
+		padding: 0.7rem 0.9rem;
+		font-size: 1rem;
+		color: #1f2937;
+		border: 1px solid #d1d5db;
+		border-radius: 8px;
+		background: #fff;
+		transition:
+			border-color 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+	.form input:focus {
+		outline: none;
+		border-color: #2c3e50;
+		box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.12);
 	}
 
 	.form button {
-		padding: 0.8rem 1.2rem;
-		background: #2563eb;
+		padding: 0.7rem 1.25rem;
+		background: #e74c3c;
 		color: white;
 		border: none;
-		border-radius: 4px;
+		border-radius: 8px;
 		cursor: pointer;
-		font-weight: 500;
-		font-size: 1.2vw;
-		transition: background 0.2s;
+		font-weight: 600;
+		font-size: 1rem;
+		transition:
+			background 0.2s ease,
+			transform 0.1s ease;
 	}
 
-	.form button:hover {
-		background: #1d4ed8;
+	.form button:hover:not(:disabled) {
+		background: #c0392b;
+	}
+
+	.form button:active:not(:disabled) {
+		transform: scale(0.97);
+	}
+
+	.form button:disabled {
+		opacity: 0.4;
+		cursor: not-allowed;
 	}
 
 	.items {
@@ -102,46 +126,67 @@
 		gap: 0.75rem;
 		max-height: 60vh;
 		overflow-y: auto;
+		padding-right: 0.25rem;
+	}
+
+	.empty {
+		margin: 0;
+		padding: 1.5rem;
+		text-align: center;
+		color: #9ca3af;
+		font-size: 0.95rem;
+		border: 1px dashed #d1d5db;
+		border-radius: 10px;
 	}
 
 	.item {
 		border: 1px solid #e5e7eb;
 		padding: 1rem;
-		border-radius: 6px;
-		background: white;
+		border-radius: 10px;
+		background: #fff;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+		gap: 1rem;
+		transition:
+			border-color 0.2s ease,
+			box-shadow 0.2s ease;
 	}
 
-	.item h3 {
+	.item:hover {
+		border-color: #cbd5e1;
+		box-shadow: 0 4px 12px rgba(17, 24, 39, 0.06);
+	}
+
+	.item-text h3 {
 		margin: 0 0 0.25rem 0;
-		font-size: 1.4vw;
-		color: #1f2937;
+		font-size: 1.1rem;
+		font-weight: 600;
+		color: #2c3e50;
 	}
 
-	.item p {
+	.item-text p {
 		margin: 0;
-		font-size: 1.2vw;
+		font-size: 0.95rem;
 		color: #6b7280;
 	}
 
 	.item button {
-		padding: 0.6rem 1rem;
-		font-size: 1.2vw;
-		background: #ef4444;
-		color: white;
-		border: none;
-		border-radius: 4px;
+		flex-shrink: 0;
+		padding: 0.5rem 1rem;
+		font-size: 0.9rem;
+		background: transparent;
+		color: #ef4444;
+		border: 1px solid rgba(239, 68, 68, 0.4);
+		border-radius: 8px;
 		cursor: pointer;
-		transition: background 0.2s;
+		transition:
+			background 0.2s ease,
+			color 0.2s ease;
 	}
 
 	.item button:hover {
-		background: #dc2626;
-	}
-
-	h2 {
-		font-size: 2.5vw;
+		background: #ef4444;
+		color: white;
 	}
 </style>

@@ -45,9 +45,7 @@
 </script>
 
 <div class="counter">
-	<h2>{label}</h2>
-
-	<div class="display {status}">{count}</div>
+	<div class="display {status}" aria-live="polite">{count}</div>
 
 	<div class="controls">
 		<button onclick={decrement} disabled={isAtMin} aria-label="Decrement">−</button>
@@ -61,24 +59,17 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		gap: 1rem;
-		padding: 2rem;
-		min-width: 220px;
-		background: #fafafa;
+		gap: 1.25rem;
+		padding: 1.75rem;
+		background: linear-gradient(160deg, #f9fafb, #f3f4f6);
 		border: 1px solid #e5e7eb;
-		border-radius: 12px;
-		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
-	}
-
-	h2 {
-		margin: 0;
-		font-size: 1.5vw;
-		color: #1f2937;
+		border-radius: 14px;
 	}
 
 	.display {
-		font-size: 3vw;
-		font-weight: 700;
+		font-size: 3.5rem;
+		font-weight: 800;
+		line-height: 1;
 		font-variant-numeric: tabular-nums;
 		transition: color 0.2s ease;
 	}
@@ -102,14 +93,15 @@
 
 	button {
 		padding: 0.6rem 1.1rem;
-		font-size: 1.2vw;
+		font-size: 1rem;
 		border: none;
-		border-radius: 6px;
+		border-radius: 8px;
 		cursor: pointer;
 		font-weight: 600;
 		transition:
 			background 0.2s ease,
-			transform 0.1s ease;
+			transform 0.1s ease,
+			box-shadow 0.2s ease;
 	}
 
 	button:active:not(:disabled) {
@@ -123,21 +115,23 @@
 
 	.controls button:first-child,
 	.controls button:last-child {
-		background: #2563eb;
+		background: #2c3e50;
 		color: white;
+		box-shadow: 0 4px 12px rgba(44, 62, 80, 0.25);
 	}
 
 	.controls button:first-child:hover:not(:disabled),
 	.controls button:last-child:hover:not(:disabled) {
-		background: #1d4ed8;
+		background: #1f2d3a;
 	}
 
 	.controls button:nth-child(2) {
-		background: #6b7280;
+		background: #e74c3c;
 		color: white;
+		box-shadow: 0 4px 12px rgba(231, 76, 60, 0.25);
 	}
 
 	.controls button:nth-child(2):hover:not(:disabled) {
-		background: #4b5563;
+		background: #c0392b;
 	}
 </style>
