@@ -12,125 +12,139 @@
 	}
 </script>
 
-<nav class="nav-bar">
-	{#each links as link (link.path)}
-		<a
-			class="scene"
-			class:active={page.url.pathname === link.path}
-			href={link.path}
-			onclick={(e) => {
-				e.preventDefault();
-				navigate(link.path);
-			}}
-		>
-			<span class="cube">
-				<span class="face face-front">{link.label}</span>
-				<span class="face face-bottom">{link.sub}</span>
-				<span class="face face-back"></span>
-				<span class="face face-top">{link.labelDa}</span>
-				<span class="face face-left"></span>
-				<span class="face face-right"></span>
-			</span>
-		</a>
-	{/each}
-</nav>
+<div id="nav">
+	<ul class="nav-menu">
+		{#each links as link (link.path)}
+			<li>
+				<a
+					href={link.path}
+					class="three-d"
+					class:active={page.url.pathname === link.path}
+					onclick={(e) => {
+						e.preventDefault();
+						navigate(link.path);
+					}}
+				>
+					{link.label}
+					<span class="three-d-box"
+						><span class="front">{link.label}</span><span class="back">{link.labelDa}</span></span
+					>
+				</a>
+			</li>
+		{/each}
+	</ul>
+</div>
 
 <style>
-	.nav-bar {
+	#nav {
 		position: fixed;
 		top: 1.25rem;
 		left: 50%;
 		transform: translateX(-50%);
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
 		z-index: 100;
 	}
 
-	.scene {
-		width: 54px;
-		/* Height in em so top/bottom padding scales with the text size */
-		font-size: 1vw;
-		height: 1.88em;
-		perspective: 600px;
-		display: block;
-	}
-
-	.cube {
-		width: 100%;
-		height: 100%;
-		position: relative;
-		display: block;
-		transform-style: preserve-3d;
-		transition: transform 0.4s ease-in-out;
-		/* Resting tilt so the 3D box shape is visible even without hover */
-		transform: rotateX(-22deg);
-	}
-
-	.scene:hover .cube {
-		transform: rotateX(-90deg);
-	}
-
-	.face {
-		position: absolute;
-		width: 100%;
-		height: 100%;
+	.nav-menu {
 		display: flex;
-		justify-content: center;
-		align-items: center;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		background: #2c3e50;
+		border-radius: 6px;
+		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+	}
+
+	.nav-menu > li {
+		border-right: 1px solid #243342;
+	}
+
+	.nav-menu > li:last-child {
+		border-right: none;
+	}
+
+	.nav-menu li a {
 		color: #fff;
-		font-weight: bold;
+		display: block;
 		text-decoration: none;
-		text-transform: uppercase;
-		font-size: 1vw;
-		letter-spacing: 1px;
-		border-radius: 4px;
+		font-family: sans-serif;
+		-webkit-font-smoothing: antialiased;
+		-moz-font-smoothing: antialiased;
+		text-transform: capitalize;
+		overflow: visible;
+		line-height: 20px;
+		font-size: 18px;
+		padding: 15px 30px 15px 31px;
+	}
+
+	/* animation domination */
+	.three-d {
+		perspective: 200px;
+		transition: all 0.07s linear;
+		position: relative;
+	}
+
+	.three-d:not(.active):hover {
+		cursor: pointer;
+	}
+
+	.three-d:not(.active):hover .three-d-box,
+	.three-d:not(.active):focus .three-d-box {
+		transform: translateZ(-25px) rotateX(90deg);
+	}
+
+	.three-d-box {
+		transition: all 0.3s ease-out;
+		transform: translatez(-25px);
+		transform-style: preserve-3d;
+		pointer-events: none;
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+
+	.front {
+		transform: rotatex(0deg) translatez(25px);
+	}
+
+	.back {
+		transform: rotatex(-90deg) translatez(25px);
+		color: #fff;
+	}
+
+	.front,
+	.back {
+		display: block;
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		background: #2c3e50;
+		padding: 15px 30px 15px 31px;
+		color: white;
+		pointer-events: none;
 		box-sizing: border-box;
-		backface-visibility: hidden;
 	}
 
-	.face-front {
-		background-color: #2c3e50;
-		transform: translateZ(0.94em);
-	}
-
-	.face-bottom {
+	.nav-menu li .active .front,
+	.nav-menu li .active .back,
+	.nav-menu li a:hover .front,
+	.nav-menu li a:hover .back {
 		background-color: #e74c3c;
-		transform: rotateX(-90deg) translateZ(-0.94em);
-	}
-
-	.face-back {
-		background-color: #2c3e50;
-		transform: rotateY(180deg) translateZ(0.94em);
-	}
-
-	.face-top {
-		background-color: #2c3e50;
-		transform: rotateX(90deg) translateZ(0.94em);
-	}
-
-	.face-left {
-		background-color: #243342;
-		transform: rotateY(-90deg) translateZ(27px);
-	}
-
-	.face-right {
-		background-color: #243342;
-		transform: rotateY(90deg) translateZ(27px);
-	}
-
-	.scene.active .face-front,
-	.scene.active .face-top {
-		background-color: #e74c3c;
-	}
-
-	@media (max-width: 480px) {
-		.nav-bar {
-			top: 1rem;
-		}
-
-		.scene {
-			width: 42px;
-		}
+		background-size: 5px 5px;
+		background-position:
+			0 0,
+			30px 30px;
+		background-image: linear-gradient(
+			45deg,
+			#c0392b 25%,
+			transparent 25%,
+			transparent 75%,
+			#c0392b 75%,
+			#c0392b
+		);
 	}
 </style>
