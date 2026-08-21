@@ -5,6 +5,7 @@
 	const links = [
 		{ label: 'Home', labelDa: 'Hjem', sub: 'Start Here', path: '/' },
 		{ label: 'Shop', labelDa: 'Butik', sub: 'Browse Items', path: '/shop' },
+		{ label: 'Real food', labelDa: 'Herremad', sub: 'Fresh & Homemade', path: '/herremad' },
 		{ label: 'About', labelDa: 'Om os', sub: 'Browse Items', path: '/about' }
 	];
 
@@ -77,12 +78,12 @@
 		position: relative;
 	}
 
-	.three-d:not(.active):hover {
+	.three-d:hover {
 		cursor: pointer;
 	}
 
-	.three-d:not(.active):hover .three-d-box,
-	.three-d:not(.active):focus .three-d-box {
+	.three-d:hover .three-d-box,
+	.three-d:focus .three-d-box {
 		transform: translateZ(-25px) rotateX(90deg);
 	}
 
@@ -125,6 +126,8 @@
 		box-sizing: border-box;
 		white-space: nowrap;
 		border-radius: 6px;
+		border: 1px solid rgba(255, 255, 255, 0.35);
+		box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.2);
 	}
 
 	.nav-menu li .active .front,
@@ -144,5 +147,7 @@
 			#c0392b 75%,
 			#c0392b
 		);
+		border-color: rgba(0, 0, 0, 0.45);
+		box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.35);
 	}
 </style>
