@@ -1,17 +1,15 @@
 <script lang="ts">
-	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
+	import { resolve } from '$app/paths';
 
-	const links = [
+	type RoutePath = '/' | '/shop' | '/herremad' | '/about';
+
+	const links: { label: string; labelDa: string; sub: string; path: RoutePath }[] = [
 		{ label: 'Home', labelDa: 'Hjem', sub: 'Start Here', path: '/' },
 		{ label: 'Shop', labelDa: 'Butik', sub: 'Browse Items', path: '/shop' },
 		{ label: 'Real food', labelDa: 'Herremad', sub: 'Fresh & Homemade', path: '/herremad' },
 		{ label: 'About', labelDa: 'Om os', sub: 'Browse Items', path: '/about' }
 	];
-
-	function navigate(path: string) {
-		goto(path);
-	}
 </script>
 
 <div id="nav">
@@ -19,13 +17,10 @@
 		{#each links as link (link.path)}
 			<li>
 				<a
-					href={link.path}
+					href={resolve(link.path)}
 					class="three-d"
 					class:active={page.url.pathname === link.path}
-					onclick={(e) => {
-						e.preventDefault();
-						navigate(link.path);
-					}}
+					data-sveltekit-preload-data="hover"
 				>
 					{link.label}
 					<span class="three-d-box"

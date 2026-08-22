@@ -12,8 +12,8 @@
 
 	<div class="about-section">
 		<p>
-			We are a team passionate about building fast, modern web experiences. Our focus is on
-			quality, performance, and delightful user interactions.
+			We are a team passionate about building fast, modern web experiences. Our focus is on quality,
+			performance, and delightful user interactions.
 		</p>
 	</div>
 </div>
@@ -32,8 +32,10 @@
 		font-weight: 800;
 		margin-bottom: 1rem;
 		background: linear-gradient(135deg, #1f2937, #4b5563);
+		background-clip: text;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
+		color: transparent;
 	}
 
 	.intro-text {

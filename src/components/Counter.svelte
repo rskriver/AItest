@@ -14,8 +14,10 @@
 		label?: string;
 	} = $props();
 
-	// Reactive state via $state()
-	let count = $state(initialCount);
+	// Seed the initial value from the prop (read inside a closure so only the
+	// initial value is captured, per Svelte 5 best practice).
+	const seed = () => initialCount;
+	let count = $state(seed());
 
 	// Derived values via $derived()
 	const isAtMin = $derived(count <= min);

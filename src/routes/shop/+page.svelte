@@ -5,9 +5,9 @@
 
 <div class="shop-container">
 	<h1>Our Shop</h1>
-	
+
 	<p class="intro-text">Browse our collection of premium products.</p>
-	
+
 	<!-- Placeholder for future product grid -->
 	<div class="placeholder-section">
 		<div class="placeholder-icon">📦</div>
@@ -29,8 +29,10 @@
 		font-weight: 800;
 		margin-bottom: 1rem;
 		background: linear-gradient(135deg, #1f2937, #4b5563);
+		background-clip: text;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
+		color: transparent;
 	}
 
 	.intro-text {
