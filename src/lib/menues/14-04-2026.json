@@ -1,0 +1,121 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-04-14",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "lamme-kotelletter",
+				"name": "Lamme kotelletter",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Lamme culotte",
+						"items": [
+							"2 stk lamme culotte ca. 700g.",
+							"Smør/salt/peber",
+							"2 fed hvidløg",
+							"Lidt frisk rosmarin"
+						]
+					},
+					{
+						"label": "Grøntsagsfad med fløde",
+						"items": [
+							"600 g kartofler",
+							"300 g gulerødder",
+							"1 squash",
+							"2 rødløg",
+							"2 ½ dl fløde",
+							"1 tsk salt",
+							"Peber",
+							"Lidt smør/olie til fadet og pensling."
+						]
+					},
+					{
+						"label": "Bagt sellerimos med hasselflager, fløde og æg",
+						"items": [
+							"600 g knoldselleri",
+							"50 g smør",
+							"½ dl piskefløde",
+							"2 æg",
+							"1 dl hakkede hasselnødder (kan udelades)",
+							"1 tsk salt",
+							"Peber",
+							"Lidt smør/olie"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Lamme culotte",
+						"steps": [
+							"Lamme culotterne ridses og gnides i salt og drysses med rosmarin og gnides med hvidløg.",
+							"25 min. i 180graders varm ovn."
+						]
+					},
+					{
+						"label": "Grøntsagsfad med fløde",
+						"steps": [
+							"Tænd ovnen på 200 grader.",
+							"Skræl kartofler, gulerødder og squash og pil rødløg.",
+							"Skær alle dele i tynde skiver.",
+							"Hæld fløde op i et ildfast fad. Tilsæt salt og krydr med peber.",
+							"Stil grøntsagerne på højkant oveni fløden i fadet.",
+							"Pensl toppen med smør/olie og drys lidt ekstra salt og peber.",
+							"Bag fadet i ovnen ca. 45 til 50 min. til grøntsagerne er møre og Gyldne på toppen."
+						]
+					},
+					{
+						"label": "Bagt sellerimos med hasselflager, fløde og æg",
+						"steps": [
+							"Skræl sellerien og skær den i mindre stykker.",
+							"Kog dem godt møre. Hæld vandet fra sellerien og lad dem dampe tørre.",
+							"Mos sellerierne ikke fint men groft og rør smør og piskefløde i.",
+							"Rør æggeblommerne i – en ad gangen forsigtigt.",
+							"Tilsæt hasselnødderne og smag til med salt og peber.",
+							"Pisk æggehviderne stive og vend dem forsigtigt i mosen.",
+							"Hæld det i 4 smurte portionsforme og bag dem i ovnen ved 225 grader",
+							"I ca 20 min. hold øje med dem."
+						]
+					}
+				]
+			},
+			{
+				"id": "pandekager-med-aebleskiver-ogis",
+				"name": "Pandekager med æbleskiver og is",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"3 æg",
+							"40 g sukker",
+							"125 g mel",
+							"4 dl mælk",
+							"Lidt smør/olie til panden",
+							"3 æbler",
+							"Flormelis",
+							"Salt",
+							"½ l vanilieis"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Æggene piskes med sukker og tilsættes lidt efter lidt mel, til man ikke mere kan drive piskeriset rundt. Altså en fast ting.",
+							"Tilsæt mælk lidt efter lidt så vi undgår klumper ca. 3-4 dl mælk.",
+							"Mærk på dejen med 2 fingre. Den skal ikke være som mælk og ikke klistre, dog jo tyndere jo bedre.",
+							"Vask æblerne skær bund og top af og udstik kærnehuset. Skær æblerne i ½ cm tykke skiver, 3-4 pr pandekage.",
+							"Pandekagen når æbleskiverne har bidt sig fast. Bag færdig og læg pandekagerne på en plade med bagepapir så de alle varmes i ovnen på en gang.",
+							"Server med flormelis drys gennem sigte og 1 kugle is i midten."
+						]
+					}
+				]
+			}
+		]
+	}
+}

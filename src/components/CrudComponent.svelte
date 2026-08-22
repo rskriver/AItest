@@ -37,9 +37,20 @@
 </script>
 
 <div class="crud-container">
-	<form class="form" onsubmit={(e) => { e.preventDefault(); addItem(); }}>
+	<form
+		class="form"
+		onsubmit={(e) => {
+			e.preventDefault();
+			addItem();
+		}}
+	>
 		<input type="text" placeholder="Item name" bind:value={newName} aria-label="Item name" />
-		<input type="text" placeholder="Item description" bind:value={newDescription} aria-label="Item description" />
+		<input
+			type="text"
+			placeholder="Item description"
+			bind:value={newDescription}
+			aria-label="Item description"
+		/>
 		<button type="submit" disabled={!isValid}>Add Item</button>
 	</form>
 
@@ -53,7 +64,8 @@
 						<h3>{item.name}</h3>
 						{#if item.description}<p>{item.description}</p>{/if}
 					</div>
-					<button onclick={() => deleteItem(item.id)} aria-label="Delete {item.name}">Delete</button>
+					<button onclick={() => deleteItem(item.id)} aria-label="Delete {item.name}">Delete</button
+					>
 				</div>
 			{/each}
 		{/if}
@@ -78,10 +90,10 @@
 		flex: 1 1 180px;
 		padding: 0.7rem 0.9rem;
 		font-size: 1rem;
-		color: #1f2937;
-		border: 1px solid #d1d5db;
+		color: var(--text);
+		border: 1px solid var(--border);
 		border-radius: 8px;
-		background: #fff;
+		background: var(--surface);
 		transition:
 			border-color 0.2s ease,
 			box-shadow 0.2s ease;
@@ -89,8 +101,8 @@
 
 	.form input:focus {
 		outline: none;
-		border-color: #2c3e50;
-		box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.12);
+		border-color: var(--accent);
+		box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.18);
 	}
 
 	.form button {
@@ -133,17 +145,17 @@
 		margin: 0;
 		padding: 1.5rem;
 		text-align: center;
-		color: #9ca3af;
+		color: var(--text-muted);
 		font-size: 0.95rem;
-		border: 1px dashed #d1d5db;
+		border: 1px dashed var(--border);
 		border-radius: 10px;
 	}
 
 	.item {
-		border: 1px solid #e5e7eb;
+		border: 1px solid var(--border);
 		padding: 1rem;
 		border-radius: 10px;
-		background: #fff;
+		background: var(--surface);
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
@@ -154,21 +166,21 @@
 	}
 
 	.item:hover {
-		border-color: #cbd5e1;
-		box-shadow: 0 4px 12px rgba(17, 24, 39, 0.06);
+		border-color: var(--text-muted);
+		box-shadow: 0 4px 12px var(--shadow);
 	}
 
 	.item-text h3 {
 		margin: 0 0 0.25rem 0;
 		font-size: 1.1rem;
 		font-weight: 600;
-		color: #2c3e50;
+		color: var(--text);
 	}
 
 	.item-text p {
 		margin: 0;
 		font-size: 0.95rem;
-		color: #6b7280;
+		color: var(--text-muted);
 	}
 
 	.item button {

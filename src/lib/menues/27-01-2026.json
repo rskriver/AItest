@@ -1,0 +1,166 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-01-27",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "fyldte-aeg-deviled-eggs",
+				"name": "Fyldte æg – Deviled eggs",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"6 æg",
+							"½ pk bacon",
+							"3 spsk mayonnaise",
+							"2 tsk sennep",
+							"1 tsk vineddike",
+							"0,5 tsk sukker",
+							"paprika",
+							"8 små tomater",
+							"purløg",
+							"salt",
+							"peber",
+							"rugbrød eller toast"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kog æggene under låg i 10 minutter.",
+							"Overhæld herefter æggene med koldt vand for at stoppe kogningen og lad dem afkøle.",
+							"Steg bacon sprøde på bagepapir i ovnen ved 200 gr.",
+							"Pil æggene og del dem i halve på langs. Pil forsigtigt æggeblommerne ud og læg dem på en tallerken.",
+							"Tilsæt mayonnaise og sennep og mos det sammen med en gaffel til en ensartet creme – (cremen kan evt moses gennem en si for at gøre den homogen). Smag til med vineddike, sukker, salt og peber.",
+							"Kom æggecremen i en sprøjtepose med stjernetylle og sprøjt cremen ud i de halve æg.",
+							"Anret dem på en tallerken med knust bacon, paprika og fint klippet purløg. Læg halve tomater og brød ved siden af."
+						]
+					}
+				]
+			},
+			{
+				"id": "fish-and-chips",
+				"name": "Fish and chips",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Kartofler",
+						"items": ["8 kartofler", "salt og olie"]
+					},
+					{
+						"label": "Fisk",
+						"items": [
+							"2,5 dl øl",
+							"2 æg",
+							"180 g mel",
+							"½ tsk bagepulver",
+							"1 tsk. salt",
+							"20 g smeltet smør",
+							"Ca 600 g Kuller",
+							"neutral olie til friture"
+						]
+					},
+					{
+						"label": "Tartar sauce",
+						"items": [
+							"Mayonnaise",
+							"crème fraiche",
+							"cornichoner",
+							"1 rødløg",
+							"kapers",
+							"purløg",
+							"sennep",
+							"purløg",
+							"citronsaft"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Kartofler",
+						"steps": [
+							"Kartoflerne renses på overfladen og skæres i kvarter – behøver ikke at skrælles – vend dem i olie og salt.",
+							"Fordel dem i ét lag i et ovnfast fad eller på en bradepande, og steg dem i ovnen ved 200° i 25-30 minutter, til de er gyldne og sprøde."
+						]
+					},
+					{
+						"label": "Fisk",
+						"steps": [
+							"Bland mel, bagepulver, øl, æggeblommer, smeltet smør og salt i en skål og pisk det.",
+							"Pisk æggehviderne stive og vend dem forsigtigt i dejen. Stil dejen køligt mens du gør fisken klar.",
+							"Kontroller fiskestykkerne for ben, skær dem i passende stykker (5 – 8 cm), tør dem af for vand, drys dem med salt og lad dem stå køligt indtil olien er klar.",
+							"Varm olien op til 180 grader i en frituregryde. Dyp fiskestykkerne i dejen, lad dem dryppe af og kom dem derpå forsigtigt ned i olien. Fritér fisken 2-3 min til den er gyldenbrun og sprød. Læg de friterede fiskestykker på fedtsugende papir."
+						]
+					},
+					{
+						"label": "Tartar sauce",
+						"steps": [
+							"Hak kapers, cornichoner, rødløg og purløg fint og rør det sammen med mayonnaise og cremefraiche. Smag til med citronsaft, salt og peber."
+						]
+					}
+				]
+			},
+			{
+				"id": "banoffee-pie",
+				"name": "Banoffee Pie",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Bund",
+						"items": ["100 g. smør", "200 g. digestive kiks"]
+					},
+					{
+						"label": "Karamel",
+						"items": [
+							"75 g. smør",
+							"75 g. brun farin",
+							"1 ds. kondenseret mælk"
+						]
+					},
+					{
+						"label": "Topping",
+						"items": [
+							"2 stk. banan",
+							"2 dl. piskefløde",
+							"100 g. mørk chokolade"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Bund",
+						"steps": [
+							"Smelt smør. Knus digestive kiks helt fint i en plastpose. Bland smør og kiks godt sammen.",
+							"Fordel blandingen i bunden af et tærtefad. Pres kikseblandingen godt flad og op mod siderne, så den bliver fast.",
+							"Sæt på køl imens du laver karamellen."
+						]
+					},
+					{
+						"label": "Karamel",
+						"steps": [
+							"I en gryde smeltes smør og brun farin sammen. Når det er smeltet tilsættes kondenseret mælk.",
+							"Bring blandingen i kog ved middel varme og pisk det godt sammen. Lad det koge i ca. 1 min., så karamellen tykner.",
+							"Tag herefter gryden af varmen. Lad karamellen køle af 10-15 minutter.",
+							"Fordel karamellen oven på kiksebunden. Sæt fadet tilbage på køl i minimum 1 time."
+						]
+					},
+					{
+						"label": "Topping",
+						"steps": [
+							"Skær den ene banan i skiver. Fordel skiver af banan ovenpå karamellen. Skær den anden banan i små stykker.",
+							"Pisk fløde til en blød flødeskum. Bland bananstykkerne sammen med fløden. Fordel fløden ovenpå kagen.",
+							"Top med hakket mørk chokolade. Sæt på køl indtil servering."
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-02-10",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "kartoffelsuppe-med-porrer-og-broendkarse",
+				"name": "Kartoffelsuppe med porrer og brøndkarse",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"10 g Smør",
+							"1 Grofthakket løg (ca. 75 g)",
+							"500 g Kartofler i små tern",
+							"3 Porrer i ringe – den hvide del (ca. 375 g)",
+							"¾ liter Grøntsagsbouillon",
+							"1 dl Piskefløde eller madlavningsfløde 8% eller 15%",
+							"1 tsk Groft salt",
+							"Friskkværnet hvid peber"
+						]
+					},
+					{
+						"label": "Bacondrys",
+						"items": [
+							"150 g Bacon",
+							"1 Grofthakket porre – den grønne del (ca. 150 g)"
+						]
+					},
+					{
+						"label": "Pynt",
+						"items": ["Brøndkarse"]
+					},
+					{
+						"label": "Tilbehør",
+						"items": ["Groft brød – evt. ristet"]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Lad smørret smelte ved kraftig varme, men uden at det bruner.",
+							"Svits løg og kartofler i ca. 2 min. Tilsæt porrer og svits i yderligere ca. 1 min.",
+							"Hæld bouillon ved og lad suppen koge i ca. 15 min. – eller til grøntsagerne er møre.",
+							"Blend suppen til den er jævn – enten med en stavblender eller i en almindelig blender.",
+							"Kom suppen tilbage i gryden sammen med fløde, salt og peber.",
+							"Bring suppen i kog og smag den til."
+						]
+					},
+					{
+						"label": "Bacondrys",
+						"steps": [
+							"Læg imens bacon i en tør pande og steg det ved kraftig varme i ca. 3 min. Skru ned og steg det færdigt ved jævn varme i ca. 5 min. Tag bacon af panden og lad det dryppe af på fedtsugende papir.",
+							"Tør panden af og kom porrerne i, steg dem ved kraftig varme i ca. 4 min.",
+							"Knus den stegte bacon let og tilsæt det til porrerne."
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Server kartoffel porresuppen med brød og bacondrys. Pynt med brøndkarse."
+						]
+					}
+				]
+			},
+			{
+				"id": "fisk-i-roed-karry-med-ris-og-lime",
+				"name": "Fisk i rød karry med ris og lime",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Fisk i rød karry",
+						"items": [
+							"400 g lyssejfilet",
+							"1 bundt forårsløg",
+							"2 bundter gulerødder",
+							"2 fed hvidløg",
+							"2 tomater",
+							"2 stilke bladselleri",
+							"1 frisk rød chili",
+							"1 bundt frisk koriander",
+							"2 limefrugter",
+							"1 dåser kokosmælk",
+							"1½ tsk. rød karrypasta efter smag",
+							"Evt. fiskesauce"
+						]
+					},
+					{
+						"label": "Tilbehør",
+						"items": ["300 g jasminris"]
+					}
+				],
+				"method": [
+					{
+						"label": "Fisk i rød karry",
+						"steps": [
+							"Skær fisken i mindre tern på et spækbræt.",
+							"Skyl forårsløgene, og hak dem fint.",
+							"Skræl gulerødderne, og skær dem i små tern.",
+							"Pil og hak hvidløg fint.",
+							"Skyl tomaterne, og skær dem i mindre tern. Skyl bladselleristilkene, og skær dem i tynde skiver.",
+							"Skyl chilien, og hak den fint.",
+							"Pluk koriander groft.",
+							"Skær limefrugterne i kvarter.",
+							"Varm kokosmælken op til kogepunktet i en gryde, og rør den røde karry ud i kokosmælken.",
+							"Tilsæt halvdelen af forårsløgene, alle gulerødderne, hvidløg og 1 dl vand, og kog i 4 minutter.",
+							"Tilsæt fisk, læg låg på gryden, og lad retten simre i 4-5 minutter, til fisken er tilberedt.",
+							"Tilsæt tomater og bladselleri, og lad det trække lidt i den varme karrysauce. Smag til med lidt limesaft, rød karry og evt. lidt fiskesauce."
+						]
+					},
+					{
+						"label": "Tilbehør",
+						"steps": [
+							"Skyl risene, og kog dem efter anvisningen på emballagen"
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Servér fisk i rød karry med ris og limebåde, og top med resten af forårsløgene og frisk koriander."
+						]
+					}
+				]
+			},
+			{
+				"id": "roulade-med-hindbaer",
+				"name": "Roulade med hindbær",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"3 æg",
+							"125 gr sukker",
+							"tsk vaniljesukker",
+							"125 gr hvedemel",
+							"1 tsk bagepulver",
+							"1 nip salt",
+							"1 spsk sukker",
+							"2½ dl god hindbærmarmelade",
+							"evt. flormelis til pynt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pisk æg, sukker og vaniljesukker til en let og luftig æggesnaps.",
+							"Sigt hvedemel, bagepulver og salt sammen og pisk det i dejen.",
+							"Fordel dejen i et rektangel (ca 30 x 35 cm) på et stykke bagepapir og bag rouladebunden ved 225 °C (alm ovn – ikke varmluft) i ca 10 minutter, til den er gylden.",
+							"Læg et stykke bagepapir på køkkenbordet og drys med 1 spsk sukker. Læg den varme rouladebund på bagepapiret med den bagte overside nedad. Træk herefter det første stykke bagepapir af bunden.",
+							"Smør bunden med et jævnt lag hindbærmarmelade. Rul herefter den lune roulade sammen vha. bagepapiret. Det er en god ide at arbejde lidt hurtigt, så bunden ikke afkøles for meget og begynder at knække/sprække.",
+							"Læg rouladen med lukningen nedad på et fad og pynt evt. med flormelis.",
+							"Rouladen er bedst, når den er relativt nybagt, men den kan godt stå et par dage. Den kan desuden fryses og optøs ved stuetemperatur inden servering."
+						]
+					}
+				]
+			}
+		]
+	}
+}

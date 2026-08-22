@@ -1,0 +1,130 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-12-02",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "tuntatar-med-avocado",
+				"name": "Tuntatar med avocado",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Tuntatar",
+						"items": [
+							"350 g fersk tun",
+							"4 avocado",
+							"2 spsk citronsaft"
+						]
+					},
+					{
+						"label": "Marinade",
+						"items": [
+							"1 dl soya",
+							"2 spsk sesam",
+							"2 fed hvidløg",
+							"1 spsk fintrevet ingefær, ca. 2 cm",
+							"1 lime, fint revet skal og saften heraf"
+						]
+					},
+					{
+						"label": "Til servering",
+						"items": ["Salat", "Dild", "Groft brød", "Smør"]
+					}
+				],
+				"method": [
+					{
+						"label": "Marinade",
+						"steps": [
+							"Bland soya med hvidløg, ingefær samt saft og fintrevet skal af 1/2 lime.",
+							"Rist sesamfrøene på en tør pande til de tager farve og afgiver aroma, og hæld dem ned i soyasaucen. Rør godt rundt.",
+							"Smag til om den skal have mere limeskal og saft.",
+							"Smag til om der skal tilsættes mere lime saft og/eller skal, og lad marinaden trække til den skal serveres."
+						]
+					},
+					{
+						"label": "Tuntatar",
+						"steps": [
+							"Skær eventuelle sener mv. af tunen, så du har et helt reelt stykke kød og skær derefter tunen i mindre tern på ca. 1 x 1 cm.",
+							"Befri avocadoerne fra sten og skræl, og skær dem i mindre tern som tunen. Dryp med citronsaft og vend det godt sammen.",
+							"Anret avocado ternene midt på en tallerken",
+							"Kom den rå tun ovenpå avocadoen"
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Brødet lunes og skæres i skiver",
+							"Brød og smør fordeles på bordet",
+							"Anretningen pyntes med lidt salat og dild",
+							"Hæld lidt af marinaden ud på tallerkenen langs kanten af anretningen og server."
+						]
+					}
+				]
+			},
+			{
+				"id": "enebaergryde-med-kartoffelmos",
+				"name": "Enebærgryde med kartoffelmos",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"250 gram champignon, skåret i kvarte",
+							"1 løg finhakket",
+							"1 porre, halveret og skåret i tynde skiver",
+							"10 enebær, tørrede",
+							"1 stængel frisk rosmarin",
+							"2 spsk hvedemel",
+							"400 g skinkekød i tern",
+							"2 dl mælk",
+							"2,5 dl piskefløde",
+							"2 dl cremefraiche 18%",
+							"2 spsk smør til stegning",
+							"friskkværnet peber"
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"items": [
+							"1 kg kartofler",
+							"75 g smør",
+							"3 spsk sødmælk",
+							"1 knivspids muskatnød fintrevet",
+							"Salt og friskkværnet peber"
+						]
+					},
+					{
+						"label": "Til servering",
+						"items": [
+							"1 dl hasselnødder finthakket",
+							"2 spsk frisk rosmarin finthakket"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Sauter champignonerne i smør ved høj varme på Sauterpande, til de har fået farve.",
+							"Skru lidt ned for varmen, tilføj løg og porre og sauter dem, til de er blevet bløde. Kom det i en skål, som sættes til side et øjeblik.",
+							"Knus enebær og rosmarinnåle godt sammen i en morter, til det er helt fint, og bland krydderierne i en skål med mel og salt. Vend skinketernene heri til de har fået mel på alle sider.",
+							"Smelt resten af smørret i sauterpanden ved middelvarme og brun kødet godt på alle sider under omrøring. Det kan godt sætte sig lidt i bunden af panden, men når kødet er brunet af tilsættes mælk og fløde, og der røres godt i sauterpanden med en palet, til melet har sluppet bunden igen.",
+							"Kog op, tilsæt cremefraiche samt champignoner, løg og porre og lad det simrekoge i 45 min. Smag godt til med salt, peber, evt mere piskefløde, og server med kartoffelmos, et drys hasselnøddekerner og frisk rosmarin."
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"steps": [
+							"Kog kartoflerne i rigeligt vand uden salt, til de er møre.",
+							"Hæld vandet fra og pisk de møre kartofler med smør tilsat i små tern, pisk med en håndmikser til kartoffelmosen er lækker og luftig og pisk derefter mælk til den rette konsistens.",
+							"Smag til med salt, peber og muskatnød."
+						]
+					}
+				]
+			}
+		]
+	}
+}

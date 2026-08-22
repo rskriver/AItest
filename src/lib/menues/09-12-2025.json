@@ -1,0 +1,115 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-12-09",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "andebryststeg-med-aspargeskartofler",
+				"name": "Andebryststeg med Aspargeskartofler",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Andebryststeg",
+						"items": [
+							"1 Andebryststeg ca 1 kg",
+							"Lidt groft Salt",
+							"Friskkværnet peber",
+							"2,5 dl Pærecider",
+							"2,5 dl Andeboullion",
+							"2 tsk majsstivelse",
+							"1 tsk Hvidvinseddike",
+							"1 tsk Æblegele",
+							"1 knsp. fint salt",
+							"Kulør"
+						]
+					},
+					{
+						"label": "Brunede Kartofler og Asparges Kartofler",
+						"items": [
+							"ca 500 g små kartofler til de Brune kartofler",
+							"ca 50 g sukker",
+							"ca 25 g smør",
+							"1 kg Asparges kartofler"
+						]
+					},
+					{
+						"label": "Rødkål med tyttebær",
+						"items": [
+							"1 lille Rødkål",
+							"1 spsk smør",
+							"1 dl Rødvinseddike",
+							"2 dl Ribssaft",
+							"1 tsk saltflager",
+							"200 g Tyttebær"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Andebryststeg",
+						"steps": [
+							"Sæt ovnen på 175 g. Krydr stegen med groft salt og peber og læg den i en bradepande, steg stegen i ovnen i 30 min.",
+							"Kom pærecider samt andebouillon ved og steg den færdig endnu ca. 30 min.",
+							"Si skyen over i en gryde og skum fedtet fra, og jævn soucen med lidt majsstivelse. Smag til med eddike, æblegele, salt og peber og juster med Kulør.",
+							"Skær evt. kødet i skiver."
+						]
+					},
+					{
+						"label": "Brunede Kartofler og Asparges Kartofler",
+						"steps": [
+							"Smelt sukkeret på panden til det er lysebrunt ved middel varme.",
+							"Tilsæt smør og lad det bruse op før de små kartofler kommer på.",
+							"Asparges kartoflerne koges i letsaltet vand i 20 min."
+						]
+					},
+					{
+						"label": "Rødkål med tyttebær",
+						"steps": [
+							"Snit kålen fint og sauter den i smør i en gryde. Tilsæt eddike når kålen er faldet sammen.",
+							"Hæld ribssaft over, tilsæt salt og læg låg på gryden. Kog kålen ved svag varme i 30 min.",
+							"Vend tyttebærsyltetøjet i, varm det igennem og smag til med sukker og evt. lidt salt"
+						]
+					}
+				]
+			},
+			{
+				"id": "jule-tiramisu-med-hvid-chokolade-og-kirsebaer",
+				"name": "Jule tiramisu med Hvid Chokolade og Kirsebær",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"2 past. æggeblommer",
+							"ca 45 g sukker",
+							"1 stang Vanilje, kornene",
+							"1 bæger Mascarpone 250 g",
+							"2,5 dl fløde",
+							"50 g hakkede smuttede mandler",
+							"ca 12 ladyfingers",
+							"0,5 dl Kirsebærvin",
+							"400 g kirsebær i lage",
+							"75 g hakket hvid Chokolade"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pisk æggeblommer, sukker og vaniljekorn til en skummende æggesnaps.",
+							"Tilsæt Mascapone og fløde og pisk til en luftig og tyk creme.",
+							"Hak mandlerne, og vend dem i cremen.",
+							"Fordel Ladyfingers glassene.",
+							"Bland Kirsebærvin og Kirsebær og fordel saften samt halvdelen af kirsebærrene hen over kagerne.",
+							"Kom cremen i glassene, og pynt med resten af kirsebærrene samt chokolade."
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-01-06",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "cornish-pasty",
+				"name": "Cornish Pasty",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"250 g hvedemel",
+							"½ tsk bagepulver",
+							"½ tsk salt",
+							"1 æg",
+							"75 g smør",
+							"½ dl vand"
+						]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"50 g knoldselleri",
+							"2 kartofler (store)",
+							"1 løg",
+							"150 g skåret oksekød",
+							"salt",
+							"peber"
+						]
+					},
+					{
+						"label": "Salat",
+						"items": [
+							"½ rødkål",
+							"1 appelsin",
+							"1 æble",
+							"½ granatæble",
+							"Ristet sesam"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Lav dejen ved at blande æg, salt, smør, bagepulver og vand. Tilsæt melet lidt ad gangen og sørg for at røre hele tiden. Læg dejen på en ren overflade og ælt indtil den er glat og elastisk. Pak den ind i plastfolie og lad den hvile i køleskabet i ca. en time.",
+							"Skræl og skær knoldselleri og kartofler i tern. Lad dem koge indtil de er møre (ca. 5-10 min.)",
+							"Skær kød og løg i tern og krydr med lidt salt og peber.",
+							"Forvarm ovnen til 175 grader.",
+							"Tag dejen ud af køleskabet og del den i to kugler. Rul den ene ud, brug en lille middagstallerken som skabelon og skær en cirkel ud. Hæld lidt fyld langs midten af cirklens ene halvdel og fold den anden halvdel over. Kanten snores og hjørnerne foldes under, så den er helt forseglet.",
+							"Fortsæt denne fremgangsmåde, indtil al dejen og fyldet er brugt.",
+							"Børst med æg og læg på en bageplade beklædt med bagepapir.",
+							"Bages i 30 min. eller indtil de er gyldne."
+						]
+					},
+					{
+						"label": "Salat",
+						"steps": [
+							"Rødkål snittes i fine stykker",
+							"Æblet rives ned i rødkålen",
+							"Kernerne fra granatæblet frigøres og blandes i salaten",
+							"Appelsinen presses og saften blandes i salaten",
+							"De ristede sesam blandes i til sidst"
+						]
+					}
+				]
+			},
+			{
+				"id": "eton-mess",
+				"name": "Eton Mess",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Marengs",
+						"items": [
+							"2 Æggehvider",
+							"55 g Sukker (ca. ⅔ dl)",
+							"50 g Flormelis (ca. 1 dl)"
+						]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"330 g Rensede jordbær",
+							"⅓ liter Piskefløde",
+							"⅓ Vaniljestang – kornene heraf"
+						]
+					},
+					{
+						"label": "Pynt",
+						"items": [
+							"Mynteblade eller citronmelisse",
+							"Hakkede grønne usaltede pistacienødder"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Marengs",
+						"steps": [
+							"Pisk æggehviderne skummende og tilsæt sukker lidt efter lidt. Pisk til blandingen er sej.",
+							"Tilsæt flormelis og pisk kort.",
+							"Kom halvdelen af marengsen i en sprøjtepose med stjernetylle og sæt små toppe på en plade med bagepapir.",
+							"Smør resten af marengsmassen ud på et stykke bagepapir på en anden plade. Sæt begge bageplader i ovnen og bag toppe og marengsbund samtidig ca. 1 time ved 100° – varmluft.",
+							"Lad dem køle af på en bagerist."
+						]
+					},
+					{
+						"label": "Fyld",
+						"steps": [
+							"Tag ca. ⅓ af jordbærrene fra. Halver dem evt. hvis de er store. Mos resten af jordbærrene med en gaffel.",
+							"Pisk fløde og vaniljekorn til et let skum.",
+							"Knus marengsbunden og kom stykkerne i flødeskummet sammen med halvdelen af de mosede jordbær.",
+							"Anret jordbær-marengsflødeskummet lagvis i 6 glas med de friske jordbær, resten af jordbærmosen og marengstoppene."
+						]
+					},
+					{
+						"label": "Pynt",
+						"steps": [
+							"Pynt med pistacienødder og citronmelisse – og server."
+						]
+					}
+				]
+			}
+		]
+	}
+}

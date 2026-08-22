@@ -1,0 +1,108 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-02-03",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "gambas-al-ajillo",
+				"name": "Gambas al ajillo",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"275 g store argentinske rødrejer",
+							"1 rød chili",
+							"8 fed hvidløg presset",
+							"2 håndfulde finthakket persille",
+							"100 g smør",
+							"1 dl olivenolie",
+							"Salt og peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pil rejerne og sørg for at fjerne tarmen, dup dem tørre",
+							"Fjern kernerne fra chilien og skær den i tynde skiver",
+							"Bland smør, olie, chili og hvidløg i en lille gryde, krydr med salt og peber og lad det simre i ca. 15 min. så blandingen tager god smag.",
+							"Tilsæt persillen til sidst",
+							"Hæld rejerne i et lille fad, overhæld dem med olieblandingen og bag dem i en forvarmet ovn i 10 min ved 200 grader – almindelig ovn",
+							"Server straks med et drys frisk persille over og med flutes til"
+						]
+					}
+				]
+			},
+			{
+				"id": "ovnbagt-filet-royal-af-lange-kulmule-eller-torsk",
+				"name": "Ovnbagt filet royal af lange, kulmule eller torsk med rosmarin og citron på bund af grøntsager og hønseglace",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"600 g filet royal af lange, kulmule eller torsk",
+							"1 bundt forårsløg",
+							"1 citron",
+							"1 bundt grønne asparges",
+							"2 gulerødder",
+							"8 cherrytomater",
+							"1 dl hvidvin",
+							"2 dl hønsebouillon",
+							"Smør",
+							"Olivenolie",
+							"Rosmarin",
+							"Salt og peber",
+							"Små kartofler"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Fisk",
+						"steps": [
+							"Krydr fisken med salt og stil den koldt i ca. ½ time før tilberedning.",
+							"Del fisken i 4 portioner og placer dem i et smurt ovnfast fad",
+							"Lav tynde strimler (Julienne) af skallen fra en halv usprøjtet citron",
+							"Rosmarinblade (6 – 8 stk per portion) blandes i en skål med lidt olivenolie og fordeles over portionsstykkerne",
+							"Krydr med peber",
+							"Bag fisken i forvarmet ovn 200 grader i ca, 10 – 12 min. til fisken er fast",
+							"Lad fisken trække i 2 – 3 min før servering"
+						]
+					},
+					{
+						"label": "Grøntsagssauté",
+						"steps": [
+							"Rens grøntsagerne",
+							"Skær gulerødderne i meget tynde stave",
+							"Del tomaterne i halve",
+							"Del de grønne asparges og forårsløg i mindre stykker",
+							"Sauter det hele på en pande i lidt olie/smør, begynd med gulerødder og til sidst tomaterne",
+							"Krydr med salt og peber"
+						]
+					},
+					{
+						"label": "Hønseglace",
+						"steps": [
+							"Kom hønsefonden i en gryde og lad den reducere til det halve",
+							"Tilsæt hvidvin og kog igen ind til det halve",
+							"Smag til med en smørklat samt salt og peber",
+							"Lad det koge ind til sirupsagtig konsistens"
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Fisken serveres på grøntsagerne omgivet af hønseglace og med små kogte kartofler"
+						]
+					}
+				]
+			}
+		]
+	}
+}

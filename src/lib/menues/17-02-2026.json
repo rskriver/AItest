@@ -1,0 +1,111 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-02-17",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "ovnbagt-torsk-med-romesco-sovs-og-ovnkartofler",
+				"name": "Ovnbagt torsk med romesco-sovs og ovnkartofler",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"600 – 800 g torskefilet",
+							"salt og peber",
+							"olivenolie",
+							"2 tomater",
+							"2 røde peberfrugter",
+							"1 rød chili",
+							"6 fed hvidløg (med skræl)",
+							"1 skalotteløg (med skræl)",
+							"5 (1+1+3) spsk olivenolie",
+							"75 g lyst brød (1 – 2 skiver uden skorpe)",
+							"30 g mandler",
+							"3 stilke bredbladet persille (+ noget til pynt)",
+							"1 spsk sherryvineddike",
+							"1 kg kartofler",
+							"2 spsk olivenolie",
+							"1 spsk friskhakket rosmarin",
+							"300 g grønne bønner"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Tænd ovn på 180 grader."
+						]
+					},
+					{
+						"label": "Romesco sovs",
+						"steps": [
+							"Bland halve tomater og peberfrugter og hel chili, hvidløg og skalotteløg med 1 spsk olivenolie på en bageplade med bagepapir og bag dem i ovnen i ca 30 minutter.",
+							"Skær skorpe af brødet og riv det i mindre stykker. Bland stykkerne med mandler og 1 spsk olivenolie. Steg blandingen i ovnen. Efter ca 10 minutter tag ud og køl af.",
+							"Fjern kerner og skind fra tomater, peberfrugt og chili.",
+							"Smut skrællen af skalotteløg og hvidløg. Det hele blendes sammen med brød, mandler, persilleblade, sherryvineddike og 3 spsk olivenolie."
+						]
+					},
+					{
+						"label": "Kartofler",
+						"steps": [
+							"Skrub eller skræl kartofler. Del dem i halve eller kvarte (alt efter størrelse). Bland dem med olivenolie og finthakket rosmarin. Sæt dem i ovnen ca 30 minutter.",
+							"Rens bønnerne og blanchér dem i kogende, letsaltet vand i 3 minutter. Dryp af i en sigte og bland dem med kartoflerne de sidste 5 minutter af bagetiden."
+						]
+					},
+					{
+						"label": "Fisk",
+						"steps": [
+							"Del fisken i 4 – 8 stykker og læg dem på en bageplade med bagepapir. Drys med salt og peber og stænk med olivenolie. Sæt pladen i ovnen sammen med kartoflerne de sidste 8 – 10 minutter."
+						]
+					},
+					{
+						"label": null,
+						"steps": [
+							"Servér ovnbagt torsk med kartofler og bønner og romesco-sovs. Pynt med persille."
+						]
+					}
+				]
+			},
+			{
+				"id": "mokkadessert",
+				"name": "Mokkadessert",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"3 blade husblas",
+							"2 æg",
+							"60 g sukker (ca 2/3 dl)",
+							"85 g mørk chokolade",
+							"2/3 dl kold stærk kaffe (1 tsk pulverkaffe + vand)",
+							"3 dl piskefløde",
+							"1 dl piskefløde pisket til skum",
+							"18 g chokoladekaffebønner"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Læg husblas i blød i koldt vand i ca 5 minutter.",
+							"Pisk æg og sukker til en luftig æggesnaps.",
+							"Riv chokoladen og vend den i æggesnapsen.",
+							"Træk husblas op af vandet med det vand, der hænger ved. Smelt den ved svag varme.",
+							"Bland kaffen med husblas og rør det i æggesnapsen.",
+							"Pisk fløden til flødeskum og vend det forsigtigt i den letstivnede æggeblanding.",
+							"Hæld mokkadesserten i en glasskål eller 4 portionsglas og pynt med flødeskum.",
+							"Servér med drys af chokoladekaffebønner."
+						]
+					}
+				]
+			}
+		]
+	}
+}

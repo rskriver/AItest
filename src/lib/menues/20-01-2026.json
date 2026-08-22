@@ -1,0 +1,112 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-01-20",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "shepards-pie",
+				"name": "Shepards Pie",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Kødsauce",
+						"items": [
+							"10 g smør",
+							"2 hakkede løg",
+							"3 finthakkede fed hvidløg",
+							"500 g hakket oksekød",
+							"1 tsk groft salt",
+							"2 spk. hvedemel ca. 20 g",
+							"1 dl worcestershiresauce",
+							"1 spsk koncentreret tomatpuré",
+							"1 spsk koncentreret oksefond",
+							"3 dl vand",
+							"200 g gulerødder i grove tern",
+							"200 g ærter"
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"items": [
+							"1 kg kartofler",
+							"1 dl mælk",
+							"50 g smør",
+							"Salt",
+							"Groftkværnet peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Kødsauce",
+						"steps": [
+							"Lad smørret blive gyldent i gryden.",
+							"Steg løgene",
+							"Tilsæt kød og salt",
+							"Tilsæt hvedemel under omrøring og kom w-sauce, tomatpure, fond og vand i og smag til",
+							"Kom retten i et ovnfast fad, fordel gulerødder og ærter på toppen"
+						]
+					}
+				]
+			},
+			{
+				"id": "engelsk-apple-pie",
+				"name": "Engelsk apple pie",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Mørdej",
+						"items": [
+							"450 g hvedemel",
+							"225 g koldt smør – i små tern",
+							"1 knivspids salt",
+							"2-3 spsk iskoldt vand",
+							"1 æggehvide eller lidt mælk til pensling"
+						]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"Ca 1 kg syrlige æbler",
+							"100-150 g sukker",
+							"1 tsk. Stødt kanel",
+							"½ tsk stødt muskatnød",
+							"Saft fra ½ citron"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Mørdej",
+						"steps": [
+							"Lav dejen",
+							"Bland mel og salt. Smuldr det kolde smør i melet med fingrene. Tilsæt vand lidt ad gangen indtil dejen samler sig.",
+							"Del dejen i to – til bund og låg. Pak dem ind og lad dem hvile i køleskab."
+						]
+					},
+					{
+						"label": "Fyld",
+						"steps": [
+							"Bland æbleskiver med citronsaft, sukker og krydderier i en skål. Rul ud. Forvarm ovn til 200 g. Skal passe til tærteform."
+						]
+					},
+					{
+						"label": "Saml tærten",
+						"steps": [
+							"Fordel æblefyldet i formen. Rul den anden del af dejen ud som låg. Læg låget på og tryk kanterne sammen"
+						]
+					},
+					{
+						"label": "Bagning",
+						"steps": [
+							"Skær små snit i låget så dampen kan komme ud. Bag i midten af ovnen ca 35-45 minutter."
+						]
+					}
+				]
+			}
+		]
+	}
+}

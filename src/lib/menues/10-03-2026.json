@@ -1,0 +1,113 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-03-10",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "blinis-med-stenbiderrogn-og-lakserillette",
+				"name": "Blinis med stenbiderrogn og lakserillette",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"125 g hvedemel",
+							"1 tsk bagepulver",
+							"1 tsk groft salt",
+							"2 dl mælk",
+							"1 spsk olie",
+							"1 æg",
+							"25 g smør til stegning"
+						]
+					},
+					{
+						"label": "Topping",
+						"items": [
+							"150 g renset stenbiderrogn",
+							"2 spsk citronsaft",
+							"2 dl creme fraiche",
+							"1 rødløg",
+							"Dild",
+							"200 g varmrøget laks",
+							"0,50 dl cremefraiche",
+							"3 spsk mayonnaise",
+							"0,5 øko citron, fintrevet skal og saften herfra",
+							"0,5 tsk Dijon sennep",
+							"Salt og peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Blinis",
+						"steps": [
+							"Bland hvedemel, bagepulver og salt sammen i en skål.",
+							"Tilsæt mælk, olie og æg og pisk dejen godt igennem.",
+							"Varm en stegepande op og kom lidt smør på panden.",
+							"Hæld 1-2 spsk dej ad gangen på panden, så det bliver til små runde pandekager."
+						]
+					},
+					{
+						"label": null,
+						"steps": [
+							"Rør stenbiderrognen sammen med citronsaft og lidt salt.",
+							"Mos laksen let med en gaffel og kom den i en skål sammen med cremefraiche, mayonnaise, citronskal og citronsaft. Rør det godt rundt og smag til med sennep, salt og peber."
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Fordel lakserilletten på blinis og fordel stenbiderrognen på blinis og pynt med dild, hakket rødløg, cremefraiche og citron."
+						]
+					}
+				]
+			},
+			{
+				"id": "one-pot-ris-med-kylling",
+				"name": "One pot ris med kylling",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 tsk stødt spidskommen",
+							"0,5 tsk stødt koriander",
+							"1 tsk sød paprika",
+							"4 kyllingebryst",
+							"20 g hvedemel",
+							"3 dl basmatiris",
+							"1 løg, finthakket",
+							"3 fed hvidløg, finthakket",
+							"1 knivspids safran, stødt",
+							"6 dl kyllingefond",
+							"1 øko citron, saft og skal",
+							"1 tsk olivenolie til stegning",
+							"Salt og peber",
+							"2 spsk pinjekerner, ristede",
+							"1 håndfuld rucola"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kom spidskommen, koriander og paprika i en ovnfast sautergryde eller pande og rist dem ved middelvarme.",
+							"Hæld krydderierne på en tallerken og sæt til side.",
+							"Vend kyllingebryst i en blanding af hvedemel, salt og peber.",
+							"Kom olie og smør i sautergryden, som krydderierne er ristet i.",
+							"Brun kyllingekødet godt på alle sider og sæt derefter til side på en tallerken.",
+							"Skyl risene i en sigte til vandet er klart og kom olie, ris de ristede krydderier, løg, hvidløg, safran og kyllingeboullion i gryden, rør godt sammen og lad det simre med låg på i 5 minutter.",
+							"Kom kyllingekødet i retten og sæt sauterpanden uden låg i en forvarmet ovn ved 200 grader varmluft og bag i 25 minutter til kyllingen er gennemstegt og risene møre.",
+							"Smag til med citronsaft og revet citronskal.",
+							"Anret med rucola og pinjekerner."
+						]
+					}
+				]
+			}
+		]
+	}
+}

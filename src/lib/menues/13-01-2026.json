@@ -1,0 +1,164 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-01-13",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "sausage-rolls",
+				"name": "Sausage rolls",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 løg",
+							"6 stilke frisk timian",
+							"400 g hakket svinekød",
+							"1 æg",
+							"2 spk hvedemel",
+							"½ tsk stødt allehånde",
+							"½ tsk tørret timian",
+							"salt og peber",
+							"1 rulle butterdej (250 g)",
+							"1 æg til pensling",
+							"2 spk chiafrø til drys"
+						]
+					},
+					{
+						"label": "Syrlig løgcreme",
+						"items": [
+							"1 bananskalotteløg",
+							"1 potte kruspersille",
+							"2 dl cremefraiche 18 %",
+							"1 spk mayonnaise",
+							"1 tsk dijonsennep",
+							"½ tsk flydende honning",
+							"1 tsk hvidvinseddike",
+							"salt",
+							"peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pil og hak løget fint. Hak timian fint.",
+							"Rør det hakkede kød sammen med løg, timian, æg, mel, allehånde, tørret timian, salt og peber til en fast fars. Lad farsen hvile på køl i 15 minutter.",
+							"Skær butterdejen i 2 dele på langs, og fordel farsen i en aflang pølse på midten af hvert dejstykke.",
+							"Pensl kanterne af butterdejen med sammenpisket æg, og rul dejen rundt om farsen, så den er helt lukket inde.",
+							"Pensl de 2 butterdejsruller med sammenpisket æg, og drys med chiafrø.",
+							"Tænd ovnen på 200°. Skær hver dejrulle ud i 10 stykker, og fordel dem på en bageplade med bagepapir.",
+							"Bag dem i ovnen i 20 minutter, til de er gyldne, og kødet er gennemstegt."
+						]
+					},
+					{
+						"label": "Syrlig løgcreme",
+						"steps": [
+							"Pil bananskalotteløget, og hak det fint. Skyl og hak persille fint.",
+							"Rør løg og persille sammen med cremefraiche, mayonnaise, sennep, honning og eddike, og smag til med salt og peber.",
+							"Servér de engelske sausage rolls lune med løgcreme til. Rullerne kan også fryses og lunes let i ovnen før servering"
+						]
+					}
+				]
+			},
+			{
+				"id": "shepards-pie",
+				"name": "Shepards Pie",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"½ kilo hakket lammekød",
+							"1 spsk smør",
+							"1 løg",
+							"2 fed hvidløg",
+							"2 gulerødder",
+							"2 stængler bladselleri",
+							"2 spsk Worcestershire-sauce",
+							"1 dåse tomatpure",
+							"Timian",
+							"Rosmarin",
+							"1 dl rødvin",
+							"2 dl hønsefond",
+							"Salt peber"
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"items": [
+							"1 kilo kartofler",
+							"75 g smør",
+							"1 dl fløde",
+							"Parmesan",
+							"Rasp",
+							"Salt",
+							"Peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kog kartoflerne",
+							"Hak løg og sauter dem, tilsæt herefter kød og brun det.",
+							"Tilføj gulerødder, bladselleri, hvidløg, tomatpure, rødvin, sauce, fond, timian, rosmarin, salt og peber.",
+							"Lad det koge i cirka 10 minutter.",
+							"Tilføj de øvrige ingredienser til kartoflerne, når vandet er hældt fra, og pisk det hele godt sammen.",
+							"Lav en bund af ragout, og en top af kartoffelmos i et ildfast fad.",
+							"Bag det hele i ovnen ved 180 grader i cirka 40 minutter."
+						]
+					}
+				]
+			},
+			{
+				"id": "aeblecrumble",
+				"name": "Æblecrumble",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"40 gram Hasselnødder",
+							"60 gram Mandler",
+							"90 gram Havregryn (finvalsede)",
+							"90 gram Hvedemel",
+							"60 gram Brun farin",
+							"30 gram Sukker",
+							"150 gram Smør",
+							"5 stk Æbler",
+							"1 spsk Kanel"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Æblecrumble dej",
+						"steps": [
+							"Hasselnødder og mandler hakkes groft.",
+							"Bland alle tørre ingredienser, og rør det godt sammen.",
+							"Skær det kolde smør ud i små tern, og bland det godt sammen med de tørre ingredienser."
+						]
+					},
+					{
+						"label": "Æblecrumble",
+						"steps": [
+							"Æblerne skrælles og skæres ud i små tern. Hvis der ønskes mere bid i æblecrumblen, skæres æblet ud i grove tern eller både.",
+							"Læg æblerne i et smurt tærtefad (ca. 27 cm).",
+							"Drys æblerne med kanel.",
+							"Æblecrumble dejen drysses henover æblerne.",
+							"Bag æblecrumblen ved 200 grader i almindelig ovn i 30 minutter.",
+							"Serveres lun med Flødeskum eller cremefraiche."
+						]
+					}
+				]
+			}
+		]
+	}
+}

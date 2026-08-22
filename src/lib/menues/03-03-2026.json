@@ -1,0 +1,108 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-03-03",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "tarteletter-med-hoens-i-asparges",
+				"name": "Tarteletter med høns i asparges",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Kogt Kyllingebryst",
+						"items": [
+							"2 hønsebryst",
+							"3 dl hønse eller grønsagsbouillon",
+							"1 løg i tern",
+							"2 laurbærblade",
+							"salt og peber"
+						]
+					},
+					{
+						"label": "Fyld til Tarteletter",
+						"items": [
+							"40 g smør",
+							"2 spsk mel",
+							"200 g aspargessnits",
+							"salt peber",
+							"4 dl mælk",
+							"8 tarteletter",
+							"Persille til pynt."
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Kogt Kyllingebryst",
+						"steps": [
+							"Kom hønsebryst i en gryde med bouillon, løg, salt, peber og laurbærblade og lad det simre koge i 15-20 min. Gem 3 dl kogevand til tartelet saucen"
+						]
+					},
+					{
+						"label": "Fyld til Tarteletter",
+						"steps": [
+							"Smelt smør i en gryde og pisk mel til en smørbolle.",
+							"Pisk derefter mælk i lidt efter lidt til saucen er helt jævn. Kog op i ca. 2 min under omrøring og smag til med salt og peber, juster med kogevand fra kyllingen.",
+							"Skær hønsekødet i tern, dræn asparges og kom det i saucen.",
+							"Lun tarteletterne i ovnen se tiden på pakken",
+							"Fyld tarteletterne og pynt med Persille"
+						]
+					}
+				]
+			},
+			{
+				"id": "kyllinge-vildtgryde-med-hasselback-kartofler",
+				"name": "Kyllinge vildtgryde med Hasselback kartofler",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"2-3 stk kyllingebryst skåret i mindre stykker",
+							"1 pk bacon i skiver",
+							"1 ds tomater",
+							"1 bk svampe",
+							"3 stk skalotteløg hakket",
+							"3 fed hvidløg presset",
+							"½ l hønse bouillon",
+							"1 brik fløde",
+							"1 spsk røget paprika",
+							"1 spsk timian",
+							"1 spsk rosmarin",
+							"1 pk smør",
+							"3 dl portvin",
+							"1 glas perleløg",
+							"Salt og peber"
+						]
+					},
+					{
+						"label": "Hasselback kartofler",
+						"items": ["1 kg kartofler"]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Rist baconskiverne sprøde og læg dem til side. Skær kyllingebrysterne i mindre stykker og steg dem på samme pande som baconen. Tilsæt evt lidt ekstra olie/smør til stegning. Læg kyllingestykkerne til side. Panden bruges senere til perleløgene.",
+							"Rist svampene gyldne i lidt smør, i en gryde. Lad løg og hvidløg riste med efter lidt tid. Tilsæt portvin og lad det bruse lidt af.",
+							"Tilsæt kylling, tomater, bouillon, fløde og krydderier. Lad det hele koge lidt ind til kyllingestykkerne er gennemstegt.",
+							"Medens retten koger kommes lidt smør på panden og perleløgene steges, drys lidt sukker over og lad dem simre i ca 10 min til løgene bliver gyldne.",
+							"Tilsæt perleløgene og bacon brækket i mindre stykker til gryden."
+						]
+					},
+					{
+						"label": "Hasselback kartofler",
+						"steps": [
+							"Skræl kartoflerne og skær kartoflerne med hasselbackskærer. Læg dem i et smurt ildfast fad og pensl med smør. Drys med salt.",
+							"Bag kartoflerne i ovnen i en time ved 225 grader."
+						]
+					}
+				]
+			}
+		]
+	}
+}

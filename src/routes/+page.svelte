@@ -53,7 +53,7 @@
 		font-weight: 600;
 		letter-spacing: 0.08em;
 		text-transform: uppercase;
-		color: #e74c3c;
+		color: var(--accent);
 		background: rgba(231, 76, 60, 0.1);
 		border: 1px solid rgba(231, 76, 60, 0.25);
 		border-radius: 999px;
@@ -65,7 +65,7 @@
 		font-weight: 800;
 		letter-spacing: -0.02em;
 		margin: 0 0 1rem;
-		background: linear-gradient(135deg, #2c3e50, #4b5563);
+		background: linear-gradient(135deg, var(--heading-1), var(--heading-2));
 		-webkit-background-clip: text;
 		background-clip: text;
 		-webkit-text-fill-color: transparent;
@@ -76,11 +76,11 @@
 		margin: 0 auto;
 		font-size: 1.1rem;
 		line-height: 1.6;
-		color: #6b7280;
+		color: var(--text-muted);
 	}
 
 	.lede a {
-		color: #2c3e50;
+		color: var(--text);
 		font-weight: 600;
 		text-decoration: none;
 		border-bottom: 2px solid rgba(231, 76, 60, 0.5);
@@ -88,7 +88,7 @@
 	}
 
 	.lede a:hover {
-		border-color: #e74c3c;
+		border-color: var(--accent);
 	}
 
 	.grid {
@@ -102,17 +102,17 @@
 		flex-direction: column;
 		gap: 1.25rem;
 		padding: 1.75rem;
-		background: #ffffff;
-		border: 1px solid #e5e7eb;
+		background: var(--surface);
+		border: 1px solid var(--border);
 		border-radius: 16px;
-		box-shadow: 0 10px 30px rgba(17, 24, 39, 0.06);
+		box-shadow: 0 10px 30px var(--shadow);
 		transition:
 			box-shadow 0.25s ease,
 			transform 0.25s ease;
 	}
 
 	.card:hover {
-		box-shadow: 0 16px 40px rgba(17, 24, 39, 0.1);
+		box-shadow: 0 16px 40px var(--shadow-strong);
 		transform: translateY(-2px);
 	}
 
@@ -120,12 +120,12 @@
 		margin: 0 0 0.35rem;
 		font-size: 1.4rem;
 		font-weight: 700;
-		color: #2c3e50;
+		color: var(--text);
 	}
 
 	.card-head p {
 		margin: 0;
 		font-size: 0.95rem;
-		color: #6b7280;
+		color: var(--text-muted);
 	}
 </style>

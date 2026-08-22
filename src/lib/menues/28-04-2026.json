@@ -1,0 +1,206 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-04-28",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "blinis-med-stenbiderrogn",
+				"name": "Blinis med stenbiderrogn",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"100 g Hvedemel (ca. 1¾ dl)",
+							"50 g Boghvedemel (ca. 1 dl)",
+							"½ tsk Bagepulver",
+							"1 tsk Sukker",
+							"½ tsk Groft salt",
+							"2 Æg",
+							"1½ dl Mælk",
+							"50 g Smeltet smør"
+						]
+					},
+					{
+						"label": "Stenbiderrogn",
+						"items": [
+							"Stenbiderrogn",
+							"Dildkviste"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Bland mel, boghvedemel, bagepulver, sukker og salt.",
+							"Rør æg og mælk sammen i en skål og pisk melblandingen og det smeltede smør i.",
+							"Lad en blinispande blive varm og kom evt. lidt smør i hullerne.",
+							"Kom ca. ½ dl dej i hvert hul og bag de små blinis, ved jævn varme, ca. 2 min. på hver side, til de er gennembagte og gyldne."
+						]
+					},
+					{
+						"label": "Stenbiderrogn",
+						"steps": [
+							"Fordel creme fraiche, løg og stenbiderrogn på de nybagte blinis.",
+							"Pynt med dildkviste og server."
+						]
+					}
+				]
+			},
+			{
+				"id": "oste-tag-selv-bord",
+				"name": "Oste-tag-selv-bord",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"Vesterhavsost",
+							"Bornzola (blåskimmel fra Bornholms mejeri)",
+							"Danablue (blåskimmel fra Høgelund)",
+							"Brie",
+							"Camembert",
+							"Kiks og rugbrød",
+							"Smør"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Vesterhavsosten (udskæres i tern) og anrettes på 'tag selv bord' sammen med alle de andre oste."
+						]
+					}
+				]
+			},
+			{
+				"id": "saltimbocca",
+				"name": "SALTIMBOCCA",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 kalveschnitzler (ca 150 g)",
+							"4 skiver lufttørret skinke (parma- eller serrano skinke)",
+							"8 salvieblade",
+							"50 g smør",
+							"2 dl hvidvin",
+							"½ dl marsala",
+							"1 dl kalveboullion"
+						]
+					},
+					{
+						"label": "Bønnesalat",
+						"items": [
+							"400 g grønne bønner",
+							"200 g cherrytomater",
+							"1 rødløg",
+							"origanum",
+							"Saften af ½ citron",
+							"2 spsk olivenolie"
+						]
+					},
+					{
+						"label": "\"Pommes Anne\" Kartofler",
+						"items": [
+							"1 kg kartofler",
+							"200 g smør",
+							"3 scalotteløg",
+							"1 fed hvidløg",
+							"1 håndfuld timian",
+							"1 håndfuld rosmarin",
+							"Salt og peber",
+							"Parmesanost",
+							"Smør til stegning"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kalveschnitzlerne bankes flade (med en pande og i en plasticpose).",
+							"Vend hvert stykke kød i mel tilsat salt og peber, og ryst det let, så overskydende mel drysses af.",
+							"På en schnitzel lægges en skive lufttørret skinke og oven på den lægges et par salvieblade, der hæftes fast med en tandstik.",
+							"Krydr hvedemel med salt og peber.",
+							"Schnitzler steges på overfladen på en varm pande i olie – 2 min på hver side – derefter tilsættes smør og der skrues ned til middelvarme.",
+							"Der tilsættes hvidvin og Marsala – lad det simre 3 min – tag kødet op og pak det ind i folie.",
+							"Hæld stegeskyen i en gryde – tør panden af og gentag proceduren med resten af kødet.",
+							"Saucen fremstilles af stegeskyen – tilsæt evt kalveboullion – jævnes med maizena.",
+							"Ønsker du en tykkere sauce, kan du vælge at jævne den eller montere den med koldt smør; det vil sige, at du tager panden af varmen og pisker kolde smørtern i ét efter et."
+						]
+					},
+					{
+						"label": "Bønnesalat",
+						"steps": [
+							"En pose frosne Haricots Verts bønner hældes direkte i en gryde med kogende let saltet vand.",
+							"Når vandet koger igen skal bønnerne max have 1 min. De hældes op i en sigte og sættes til afkøling. Eventuelle stilke og bladstykker fjernes.",
+							"Skyl tomater og halver dem.",
+							"Et rødløg hakkes i fine stykker.",
+							"Pluk blade af oregano – klippes evt i mindre stykker.",
+							"Rør citronsaft og olivenolie sammen og vend dressing med bønner, tomater, rødløg og oregano."
+						]
+					},
+					{
+						"label": "\"Pommes Anne\" kartofler",
+						"steps": [
+							"Hak løg, hvidløg og krydderurter fint.",
+							"Smelt 200 g smør ved svag varme – og tilsæt den hakkede løgblanding og lad det bruse op",
+							"Skræl kartoflerne og skær dem i meget tynde skiver (brug mandolinjern eller køkkenmaskine)",
+							"Beklæd et ovnfast fad (ca 18 x 24 cm) med bagepapir.",
+							"Læg kartoffelskiver i et lag – tilsæt ca. en fjerdedel af kryddersmør – fordel det med en pensel, tilsæt salt og peber og riv parmasanost over.",
+							"Læg næste lag kartoffelskiver oven på og gentag processen.",
+							"Læg til slut et stykke stanniol over kartoflerne og pres dem godt sammen.",
+							"Bag kartoflerne ca 45 min ved 180 gr varmluftovn.",
+							"Når kartoflerne er bagt skal de køle af min 5 timer – gerne natten over.",
+							"Skær dem ud i passende firkanter (ca 6 x 8 cm) – brun dem derefter på en varm pande i en klat smør for at give lidt farve på siderne – kan også gøres i en ovn på en bageplade beklædt med bagepapir, ca 15 min ved 220 gr."
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Server retten som portions anretning."
+						]
+					}
+				]
+			},
+			{
+				"id": "skivede-jordbaer-med-friskkvaernet-peber",
+				"name": "Skivede jordbær med friskkværnet peber",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"500 gram friske jordbær",
+							"2 spsk ahornsirup",
+							"4 spsk balsamico",
+							"1 tsk groft revne peberkorn",
+							"2 spsk olivenolie",
+							"Flødeis",
+							"Rød Skovsyre til pynt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Del jordbærrene i kvarte og vend dem med balsamico, peber og ahornsirup. Lad det trække mindst 10 minutter (gerne længere).",
+							"Fordel de marinerede jordbær på tallerknerne og top med væske som er frigivet under marinering, og slut med et 'skvat' olivenolie.",
+							"Slut af med en kugle is og lidt skovsyre på toppen af hver portion og server straks."
+						]
+					}
+				]
+			}
+		]
+	}
+}

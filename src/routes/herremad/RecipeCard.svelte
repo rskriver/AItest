@@ -77,11 +77,11 @@
 
 <style>
 	.recipe-card {
-		background: #ffffff;
-		border: 1px solid #e5e7eb;
+		background: var(--surface);
+		border: 1px solid var(--border);
 		border-radius: 16px;
 		padding: 1.5rem;
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+		box-shadow: 0 4px 12px var(--shadow);
 		transition:
 			transform 0.2s ease,
 			box-shadow 0.2s ease;
@@ -92,7 +92,7 @@
 
 	.recipe-card:hover {
 		transform: translateY(-4px);
-		box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+		box-shadow: 0 10px 24px var(--shadow-strong);
 	}
 
 	.card-header {
@@ -104,21 +104,21 @@
 	h2 {
 		font-size: 1.5rem;
 		font-weight: 700;
-		color: #1f2937;
+		color: var(--text);
 		margin: 0;
 	}
 
 	h3 {
 		font-size: 1.1rem;
 		font-weight: 700;
-		color: #374151;
+		color: var(--text);
 		margin: 0 0 0.75rem;
 	}
 
 	h4 {
 		font-size: 0.95rem;
 		font-weight: 600;
-		color: #6b7280;
+		color: var(--text-muted);
 		margin: 0 0 0.5rem;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
@@ -126,8 +126,8 @@
 
 	.serves-badge {
 		align-self: flex-start;
-		background: #dcfce7;
-		color: #166534;
+		background: var(--badge-bg);
+		color: var(--badge-text);
 		font-size: 0.85rem;
 		font-weight: 600;
 		padding: 0.25rem 0.75rem;
@@ -141,9 +141,9 @@
 	}
 
 	.toggle-btn {
-		background: #f3f4f6;
-		border: 1px solid #e5e7eb;
-		color: #374151;
+		background: var(--surface-2);
+		border: 1px solid var(--border);
+		color: var(--text);
 		font-size: 0.85rem;
 		font-weight: 600;
 		padding: 0.5rem 1rem;
@@ -155,17 +155,17 @@
 	}
 
 	.toggle-btn:hover {
-		background: #e5e7eb;
+		background: var(--border);
 	}
 
 	.toggle-btn[aria-expanded='true'] {
-		background: #16a34a;
-		border-color: #16a34a;
+		background: var(--accent-2);
+		border-color: var(--accent-2);
 		color: #ffffff;
 	}
 
 	.recipe-section {
-		border-top: 1px solid #e5e7eb;
+		border-top: 1px solid var(--border);
 		padding-top: 1rem;
 		display: flex;
 		flex-direction: column;
@@ -176,7 +176,7 @@
 	ol {
 		margin: 0;
 		padding-left: 1.25rem;
-		color: #4b5563;
+		color: var(--text-muted);
 		font-size: 0.95rem;
 		line-height: 1.6;
 	}

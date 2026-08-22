@@ -1,0 +1,102 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-02-24",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "potjiekos",
+				"name": "POTJIEKOS",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"8-900 g kalkunkød",
+							"3 store gulerødder",
+							"3 bagekartofler",
+							"½ butternutsquash",
+							"Salt og peber",
+							"2 ss garam masala",
+							"5 dl hønsebouillon",
+							"3 ½ dl rødvin",
+							"2 store løg",
+							"2 store tomater",
+							"200 g grønne bønner",
+							"3 røde peberfrugt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Skræl kartofler, gulerødder og butternutsquash og del dem i mundrette stykker.",
+							"Skær kødet ud i store tern og krydr med salt og peber.",
+							"Brun kødet gyldent i olie sammen med garam masala.",
+							"Hæld bullion og rødvin i og lad det simre ca. 45 minutter til kødet er næsten mørt.",
+							"Hak løg groft, del tomater i kvarte og kom dem i gryden sammen med kartofler, gulerødder og butternutsquash.",
+							"Lad retten småsimre til kødet er mørt og alt er kogt (ca. 15 minutter). Tilsæt evt. mere bouillon.",
+							"Skær peberfrugt i tern og tilsæt sammen med grønne bønner og kog i ca. 3 minutter.",
+							"Server med godt brød"
+						]
+					}
+				]
+			},
+			{
+				"id": "malva-pudding",
+				"name": "MALVA PUDDING",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Wok",
+						"items": [
+							"1 æg",
+							"1 ss smør",
+							"4 ss abrikosmarmelade",
+							"2 ½ dl brun farin",
+							"½ ts salt",
+							"2 ½ dl sødmælk",
+							"2 ss eddike",
+							"2 ts vaniljeessens",
+							"2 ½ dl hvedemel",
+							"1 ts bagepulver"
+						]
+					},
+					{
+						"label": "SAUCE",
+						"items": [
+							"4 ss brun farin",
+							"2 ss smør",
+							"1 ¼ dl fløde",
+							"2 ss vand"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Tænd ovnen på 180 grader",
+							"Pisk æg, smør, marmelade, brun farin og salt indtil det lysner og bliver luftigt",
+							"Rør mælk, eddike og vaniljeessens sammen i en anden skål og hæld det i under omrøring",
+							"Bland mel og bagepulver og hæld dejen i",
+							"Rør det hele godt sammen",
+							"Hæld det i et ovnfast fad (ca. 30 x 15 cm) og bag 30 minutter"
+						]
+					},
+					{
+						"label": "SAUCE",
+						"steps": [
+							"Til saucen blandes ingredienserne og bringes i kog. Lad simre under omrøring i 3 minutter",
+							"Stik i kagen nogle gange og hæld saucen langsomt over. Dæk hele kagen med saucen og lad kagen hvile i nogen tid.",
+							"Server med vaniljeis og lidt revet chokolade"
+						]
+					}
+				]
+			}
+		]
+	}
+}

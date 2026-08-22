@@ -1,0 +1,106 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-11-25",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "tunesisk-kaffebroed",
+				"name": "Tunesisk Kaffebrød",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Dej",
+						"items": [
+							"300 g hvedemel",
+							"150 g kold margarine",
+							"75 g sukker",
+							"2 æg",
+							"15 g bagepulver",
+							"10 g vanilje"
+						]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"50 g margarine",
+							"45 g sukker",
+							"20 g marcipan",
+							"10 g kakao"
+						]
+					},
+					{
+						"label": "Pynt",
+						"items": ["Perlesukker", "1 sammenpisket æg til pensling"]
+					}
+				],
+				"method": [
+					{
+						"label": "Dej",
+						"steps": [
+							"Ælt alle ingredienser til dejen sammen og læg den på køl i ca. 30 min.",
+							"Rul dejen ud og skær i trekanter."
+						]
+					},
+					{
+						"label": "Fyld og pynt",
+						"steps": [
+							"Bland fyldet og fordel på trekanterne.",
+							"Rul sammen fra den brede ende, pensl med æg og drys med perlesukker.",
+							"Bag ved 180 °C i ca. 10-12 min, til de er gyldne."
+						]
+					}
+				]
+			},
+			{
+				"id": "marokkansk-kyllingegryde",
+				"name": "Marokkansk Kyllingegryde",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 stk Kyllingelår (eller andet kød)",
+							"2 stk Rødløg",
+							"3 spsk Olivenolie",
+							"2 tsk Hvedemel",
+							"0,5 tsk Salt",
+							"1 knivspids Safran (kan undlades)",
+							"1/2 tsk Stødt gurkemeje",
+							"1 tsk Stødt koriander",
+							"1 tsk Kanel",
+							"1 tsk Stødt nellike",
+							"1 tsk Stødt spidskommen",
+							"40 gr Tørret abrikos, finthakket",
+							"1 stk Dadel, gerne medjool, finthakket",
+							"1 dåse Hakkede tomater",
+							"1 spsk Honning",
+							"2 dl Grøntsagsbouillon",
+							"1/2 Citron",
+							"50 g Mandler, finthakkede, eller cashewnødder",
+							"1 dåse Kikærter",
+							"1 håndfuld Frisk koriander (til servering)",
+							"1 håndfuld Frisk mynte"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Sauter løg og hvidløg i en gryde ved middelvarme til de er bløde og klare.",
+							"Vend alle krydderierne sammen med mel, salt og peber, og vend kyllingelårene i halvdelen af blandingen.",
+							"Brun kyllingelårene af i gryden, og tag dem derefter kortvarigt op af gryden – hvor de lægges fra på en tallerken et øjeblik.",
+							"Tilsæt tomat, grøntsagsboullion, honning, dadler, abrikoser samt den anden halvdel mel med krydderierne i gryden, og rør det godt sammen med løgene.",
+							"Kom kyllingestykkerne tilbage i gryden, med skindsiden op. Tilsæt finthakkede mandler, kikærter samt fintrevet citronskal og saft.",
+							"Læg låg på gryden, og stil efterfølgende gryden i en kold ovn, som tændes på 150 grader. Lad retten simre i ovnen i cirka 2 timer. Smag saucen til med ekstra krydderier, indtil du rammer lige præcis den smag du ønsker.",
+							"Server den udsøgte Marokkansk Kyllingegryde med ris toppet med friske krydderurter."
+						]
+					}
+				]
+			}
+		]
+	}
+}

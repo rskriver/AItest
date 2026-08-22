@@ -1,0 +1,147 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-11-18",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "cremet-kyllingesuppe-med-kyllingefilet-og-groentsager",
+				"name": "Cremet Kyllingesuppe med kyllingefilet og grøntsager",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 kyllinge fileter",
+							"salt peber",
+							"6 spsk olie",
+							"1 bdt forårsløg",
+							"300 g gulerødder",
+							"400 g kartofler",
+							"2 peberfrugter",
+							"4 fed hvidløg",
+							"2 tsk afrikansk krydderi",
+							"200 g tomatpuré (koncentreret)",
+							"12 dl vand",
+							"4 hønsebouillonterninger",
+							"3 dl piskefløde"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Krydr kyllingefileterne med salt og peber, og steg dem af i halvdelen af olien i en gryde, til de er gennemstegte. Tag dem op, og gem dem til senere. Imens kyllingen steger, kan du forberede grøntsagerne.",
+							"Skyl forårsløg, og snit dem fint. Gem noget af den grønne del til servering.",
+							"Skræl gulerødder og kartofler, og skær begge dele i mundrette tern.",
+							"Skyl peberfrugt, og skær også disse i små tern.",
+							"Svits grøntsagerne i den resterende mængde olie i fem minutter.",
+							"Pil hvidløg, og pres det over grøntsagerne i gryden.",
+							"Tilsæt afrikansk krydderi og koncentreret tomatpuré, og lad det svitse med et par minutter.",
+							"Tilsæt dernæst vand og hønsebouillonterninger, og bring det i kog. Lad det koge ca. 20 minutter, til kartofler og gulerødder er møre.",
+							"Riv eller skær imens den stegte kylling i mundrette stykker.",
+							"Kom kyllingen i suppen sammen med fløden, og lad det simre i fem minutter, til kyllingen er varmet igennem.",
+							"Smag til med salt og peber, og servér."
+						]
+					}
+				]
+			},
+			{
+				"id": "shakshuka",
+				"name": "Shakshuka",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 løg, grofthakket",
+							"4 fed hvidløg, finthakket",
+							"1 lille squash, skåret i tern",
+							"1 rød peber, skåret i tern",
+							"2 tsk sød paprika",
+							"1 1/2 tsk stødt spidskommen",
+							"1 1/2 tsk stødt koriander",
+							"1/2 tsk mild chilipulver",
+							"3 spsk tomatkoncentrat",
+							"2 ds hakkede tomater",
+							"Salt og peber",
+							"Olivenolie",
+							"4-6 æg",
+							"Finthakket persille og forårsløg"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Tilbehør",
+						"steps": [
+							"Varm en pande op ved middel varme, og steg løgene klare i en god sjat olivenolie.",
+							"Tilsæt hvidløg, peberfrugt og squash, og steg det med i 2-3 minutter. Krydr med salt og peber.",
+							"Hæld krydderierne over og vend det godt sammen på panden, og tilsæt derefter tomatkoncentrat og varm det igennem et minuts tid.",
+							"Hæld tomaterne over, og lad tomatsaucen koge ind ved god høj varme i ca. 10- 15 minutter. Smag til med salt og peber, – og evt. mere chili/krydderier.",
+							"Tomatsaucen skal tykne, og meget af den tynde tomatvæske skal være kogt godt ind. Du skal kunne lave fordybninger i saucen, uden at den flyder helt sammen igen.",
+							"Skru ned for blusset til lav/let middel varme, og lav fordybninger i tomatsaucen til æggene. Hæld et æg i hver fordybning.",
+							"Dæk panden til med et låg, og lad nu æggene tilberede i ca. 8 minutter, eller til hviden har sat sig. Kig til æggene undervejs, måske du skal skrue op/ned for blusset.",
+							"Server din shakshuka toppet med finthakket persille/forårsløg og friskkværnet peber. Server den med en portion fladbrød, ristet franskbrød eller lignende."
+						]
+					}
+				]
+			},
+			{
+				"id": "vanilje-lakrids-mousse-med-havtornpure",
+				"name": "Vanilje-lakrids mousse med havtornpuré",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Havtornpuré",
+						"items": [
+							"100 g havtorn fra frost",
+							"300 g mango, skåret i små tern",
+							"1 dl æblejuice",
+							"Revet skal fra 1 økologisk appelsin",
+							"Vaniljekorn fra en vaniljestang",
+							"2-3 spsk. akaciehonning"
+						]
+					},
+					{
+						"label": "Vanilje-lakrids moussen",
+						"items": [
+							"3 dl fløde",
+							"150 g fromage frais",
+							"1½-2 spsk akaciehonning",
+							"Vaniljekorn fra 3 vaniljestænger",
+							"2 tsk rå lakridspulver"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Havtornpuré",
+						"steps": [
+							"Start med havtornpuréen.",
+							"Hæld alle ingredienserne (undtagen akaciehonningen) op i en lille gryde.",
+							"Bring det i kog. Rør hyppigt, så det ikke brænder på.",
+							"Efter små 10 min. er puréen klar til at blive blendet.",
+							"Tilsæt honningen, når du begynder at blende.",
+							"Si puréen igennem en lille tæt si for at fjerne de overskydende havtornkerner. Stil til afkøling."
+						]
+					},
+					{
+						"label": "Vanilje-lakrids moussen",
+						"steps": [
+							"Pisk fløden. Vend forsigtigt fromage frais – lidt af gangen – ned i den piskede fløde.",
+							"Tilsæt honning, vanilje og lakrids.",
+							"Smag evt. til med lidt ekstra vanilje eller lakrids.",
+							"Hæld moussen op i 4 små glasskåle og anret forsigtigt den afkølede havtornpuré ovenpå.",
+							"Stil desserten på køl."
+						]
+					}
+				]
+			}
+		]
+	}
+}

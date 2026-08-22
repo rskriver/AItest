@@ -63,8 +63,8 @@
 		align-items: center;
 		gap: 1.25rem;
 		padding: 1.75rem;
-		background: linear-gradient(160deg, #f9fafb, #f3f4f6);
-		border: 1px solid #e5e7eb;
+		background: var(--surface-2);
+		border: 1px solid var(--border);
 		border-radius: 14px;
 	}
 

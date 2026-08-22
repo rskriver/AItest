@@ -1,0 +1,198 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-11-04",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "roedbedesuppe",
+				"name": "Rødbedesuppe",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1/2 tsk stødt kanel",
+							"1/2 tsk stødt allehånde",
+							"1/2 tsk stødt spidskommen",
+							"½ tsk cayennepeber",
+							"1 tsk smagsneutral olie",
+							"1/2 hakket løg",
+							"1 fed hakket hvidløg",
+							"350 g skrællede, revne rødbeder",
+							"4,5 dl god grøntsagsbouillon",
+							"50 g skyllede, røde linser",
+							"1/2 spsk friskpresset citronsaft",
+							"10 g (2 kugler) syltet, hakket ingefær samt lidt sirup fra glasset",
+							"Hakket bredbladet persille til pynt",
+							"20 g smuldret fetaost 40%",
+							"Salt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Steg kanel, allehånde, spidskommen og cayennepeber kort i olien, tilsæt løg og hvidløg og steg nogle minutter under omrøring.",
+							"Tilsæt rødbederne og steg videre nogle minutter.",
+							"Tilsæt bouillon og linser og lad suppen simre under låg i mindst 45 min., til grønsagerne er møre.",
+							"Blend suppen med en stavblender eller andet egnet instrument og kom mere bouillon i, hvis du synes, suppen er for tyk.",
+							"Smag suppen til med citronsaft og salt.",
+							"Varm suppen igennem, anret den portionsvis i glas, kopper eller skåle og pynt med ingefær, persille, feta og lidt ingefærsirup."
+						]
+					}
+				]
+			},
+			{
+				"id": "marokansk-risfad-med-kylling",
+				"name": "Marokansk risfad med kylling",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 hel kylling, parteret",
+							"salt og friskkværnet peber",
+							"1 spsk. olivenolie",
+							"8 dl hønsebouillon",
+							"1 brev safran",
+							"4 dl basmati-ris",
+							"30 g mandler"
+						]
+					},
+					{
+						"label": "Tilbehør",
+						"items": [
+							"2 løg",
+							"1 cm frisk ingefær",
+							"4 fed hvidløg",
+							"500 g tomater",
+							"10 friske dadler",
+							"2 spsk. olivenolie",
+							"1 tsk. stødt koriander",
+							"1 tsk. røget paprika",
+							"1 tsk. kanel",
+							"½ tsk. tørrede chiliflager",
+							"salt og friskkværnet peber"
+						]
+					},
+					{
+						"label": "Servering",
+						"items": ["bredbladet persille"]
+					}
+				],
+				"method": [
+					{
+						"label": "Tilbehør",
+						"steps": [
+							"Tænd ovnen på 200°.",
+							"Pil og skær løg i grove skiver.",
+							"Skræl og hak ingefær fint.",
+							"Pil og skær hvidløg i tynde skiver.",
+							"Skyl og skær tomater i grove tern.",
+							"Halvér dadlerne, og fjern stenen.",
+							"Læg løg, ingefær, hvidløg, tomater og dadler i et stort ovnfast fad, og vend med olie, koriander, paprika, kanel, chili, salt og peber.",
+							"Sæt fadet i ovnen i 15 minutter, til grøntsagerne begynder at blive gyldne.",
+							"Varm bouillonen i en gryde, rør safran i, og lad det stå i 10 minutter."
+						]
+					},
+					{
+						"label": "Kylling",
+						"steps": [
+							"Tag fadet ud af ovnen, tilsæt ris og safranbouillon, og rør rundt. Drys salt og peber over kyllingestykkerne, og dryp med olie; fordel stykkerne over risottoen.",
+							"Sæt fadet i ovnen i 30 minutter, indtil kødet er netop gennemstegt, og risene møre.",
+							"Hak mandlerne groft, tænd for ovnens grillfunktion, og drys dem over fadet. Bag det i ovnen i yderligere 3-5 minutter, til mandlerne er ristede og kyllingeskindet sprødt."
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Skyl og hak persille, drys det over fadet, og servér."
+						]
+					}
+				]
+			},
+			{
+				"id": "muhallebi-maelkebudding",
+				"name": "Muhallebi (mælkebudding)",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Mælkecreme",
+						"items": [
+							"1/2 liter sødmælk",
+							"25 g majsstivelse – 30 g hvis cremen ønskes helt fast og buddingagtig",
+							"25 gram sukker",
+							"Lidt havsalt",
+							"1,5 spsk. orangeblomstvand"
+						]
+					},
+					{
+						"label": "Sirup",
+						"items": [
+							"125 gram sukker",
+							"½ dl vand",
+							"Saft af 1/4 citron",
+							"1,5 tsk orangeblomstvand"
+						]
+					},
+					{
+						"label": "Bagte abrikoser",
+						"items": [
+							"2 friske abrikoser",
+							"1 spsk sukker",
+							"1/2 spsk orangeblomstvand"
+						]
+					},
+					{
+						"label": "Pynt",
+						"items": [
+							"Ca. 1,5 spsk. usaltede, afskallede pistaciekerner",
+							"Lidt tørret kornblomst til drys",
+							"1 spsk. sirup pr. dessert"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Mælkecreme",
+						"steps": [
+							"Hæld mælk, sukker, salt og majsstivelse i en tykbundet gryde, og pisk det sammen.",
+							"Tip: Rør majsstivelsen ud i lidt af den kolde mælk i en lille skål, og rør så denne blanding sammen med resten af mælken og salt og sukker i gryden – så undgår klumper.",
+							"Varm op ved middel varme og under konstant omrøring, da cremen nemt brænder på. Bring i kog, og kog cremen igennem under piskning i 5-10 minutter. Tilsæt orangeblomstvand, og hæld den varme creme direkte i små varmefaste glas.",
+							"Sæt desserten i køleskabet i minimum 30 minutter, så den bliver helt kold og stivner."
+						]
+					},
+					{
+						"label": "Sirup",
+						"steps": [
+							"Kom sukker og vand i en kasserolle, og kog det op, så sukkeret smelter.",
+							"Tilsæt citronsaft og orangeblomst, og træk straks sukkersiruppen af varme. Lad den køle til stuetemperatur."
+						]
+					},
+					{
+						"label": "Bagte abrikoser",
+						"steps": [
+							"Forvarm ovnen til 200 grader. Flæk abrikoserne og befri dem for sten. Læg abrikoserne i et ovnfast fad med den buede kind nedad, drys med sukker og dryp med orangeblomstvand.",
+							"Sæt fadet i ovnen i 20-25 minutter til abrikoserne er møre og let karamelliserede.",
+							"Lad dem køle af til stuetemperatur."
+						]
+					},
+					{
+						"label": "Servering",
+						"steps": [
+							"Tag glassene med mælkecreme ud af køleskabet.",
+							"Kom en skefuld orangeblomstsirup oven på mælkecremen i hvert glas.",
+							"Drys med hakket pistacie, top med en bagt abrikos, og pynt til sidst med lidt tørret blå kornblomst.",
+							"Server straks."
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-11-11",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "harira-marokkansk-suppe",
+				"name": "Harira (Marokkansk suppe)",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 spsk stødt spidskommen",
+							"1 spsk stødt koriander",
+							"2 finthakkede løg",
+							"3 fed finthakkede hvidløg",
+							"2 stængler bladselleri skåret i tern",
+							"50 g koncentreret tomatpuré",
+							"400 g hakkede tomater",
+							"100 g squash groftrevet",
+							"1 tsk stødt gurkemeje",
+							"1 spsk fintrevet ingefær",
+							"½ rød chili finthakket",
+							"1 tsk sød paprika",
+							"1 tsk røget paprika",
+							"1 knivspids stødt safran",
+							"1 liter grøntsagsbouillon",
+							"1 dåse kikærter",
+							"75 g røde linser",
+							"Saften fra ½ citron",
+							"2 spsk olivenolie",
+							"Salt og peber",
+							"1 håndfuld frisk mynte",
+							"1 håndfuld grofthakket bredbladet persille"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kikærterne drænes og skylles i si",
+							"Rist spidskommen og koriander i en varm tør gryde til det dufter",
+							"Skru ned for varmen.",
+							"Kom olivenolie, løg og hvidløg på og sauter under omrøring til løgene er klare og bløde.",
+							"Tilsæt bladselleri, tomatpuré, hakkede tomater, squash, gurkemeje, ingefær, chili, sød paprika, røget paprika, safran, grøntsagsbouillon, kikærter og røde linser.",
+							"Varm op til kogepunktet under omrøring, skru ned for varmen og lad suppen simre under låg i 20 – 25 min.",
+							"Smag til med citronsaft, salt og peber",
+							"Pynt med mynte og persille"
+						]
+					}
+				]
+			},
+			{
+				"id": "marokkansk-kylling-med-rosiner-og-pinjekerner",
+				"name": "Marokkansk kylling med rosiner og pinjekerner",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 kyllingebryster",
+							"3 spsk hvedemel",
+							"3 rødløg",
+							"2 tsk stødt kanel",
+							"¾ tsk stødte nelliker",
+							"4½ dl hønsebouillon",
+							"¾ dl rosiner",
+							"1 citron (skal fra den hele, saft fra den halve)",
+							"30 g ristede pinjekerner",
+							"olivenolie",
+							"salt og peber",
+							"1 håndfuld friske koriander (evt persille)",
+							"ca 300 g risen",
+							"klat yoghurt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Tilbehør",
+						"steps": [
+							"Skær kyllingebrysterne i mundrette tern og vend dem i en skål med mel, salt og peber.",
+							"Opvarm 2 store spsk olivenolie i en stor pande ved høj varme og steg kødet, til det er gyldent og næsten gennemstegt.",
+							"Tag kødet af panden og hæld det op på en tallerken.",
+							"Skræl rødløgene og skær dem i tynde skiver.",
+							"Rist pinjekernerne.",
+							"Opvarm 1 spsk olivenolie på samme pande som kødet og steg rødløgene i 10 min. ved middelvarme, til de er bløde.",
+							"Tilsæt kanel, nelliker, kylling, rosiner, citronskal og hønsebouillon.",
+							"Lad det simre i 5 min. til retten er gennemvarm og sovsen en smule tyknet. Tilsæt evt. en smule kogende vand.",
+							"Vend til sidst citronsaft, grofthakkede koriander og ristede pinjekerner i.",
+							"Servér sammen med ris og en klat yoghurt og friske koriander på toppen."
+						]
+					}
+				]
+			},
+			{
+				"id": "vanilje-lakrids-mousse-med-havtornpure",
+				"name": "Vanilje-lakrids mousse med havtornpuré",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Havtornpuré",
+						"items": [
+							"100 g havtorn fra frost",
+							"300 g mango, skåret i små tern",
+							"1 dl æblejuice",
+							"Revet skal fra 1 økologisk appelsin",
+							"Vaniljekorn fra en vaniljestang",
+							"2-3 spsk. akaciehonning"
+						]
+					},
+					{
+						"label": "Vanilje-lakrids moussen",
+						"items": [
+							"3 dl fløde",
+							"150 g fromage frais",
+							"1½-2 spsk akaciehonning",
+							"Vaniljekorn fra 3 vaniljestænger",
+							"2 tsk rå lakridspulver"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Havtornpuré",
+						"steps": [
+							"Start med havtornpuréen.",
+							"Hæld alle ingredienserne (undtagen akaciehonningen) op i en lille gryde.",
+							"Bring det i kog. Rør hyppigt, så det ikke brænder på.",
+							"Efter små 10 min. er puréen klar til at blive blendet.",
+							"Tilsæt honningen, når du begynder at blende.",
+							"Si puréen igennem en lille tæt si for at fjerne de overskydende havtornkerner. Stil til afkøling."
+						]
+					},
+					{
+						"label": "Vanilje-lakrids moussen",
+						"steps": [
+							"Pisk fløden. Vend forsigtigt fromage frais – lidt af gangen – ned i den piskede fløde.",
+							"Tilsæt honning, vanilje og lakrids.",
+							"Smag evt. til med lidt ekstra vanilje eller lakrids.",
+							"Hæld moussen op i 4 små glasskåle og anret forsigtigt den afkølede havtornpuré ovenpå.",
+							"Stil desserten på køl."
+						]
+					}
+				]
+			}
+		]
+	}
+}

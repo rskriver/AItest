@@ -1,0 +1,116 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-10-28",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "bagte-kartofler-med-spinat-og-ost",
+				"name": "Bagte kartofler med spinat og ost",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 bagekartofler",
+							"100 g frisk skyllet spinat",
+							"25 g smør",
+							"1 dl cremefraiche 18%",
+							"1 dl hakket persille",
+							"2 tomater",
+							"Revet mozzarella",
+							"Salt og peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Vask kartoflerne og tør dem. Halver kartoflerne og læg dem sammen igen.",
+							"Bag dem i ovnen ved 200 grader i 1 – 11/4 time til de er møre (mærk evt. med en kødnål)",
+							"Damp spinaten til den falder sammen. Lad den afdryppe i et dørslag. Hak den afdryppede spinat.",
+							"Halver tomaterne og fjern kerner og saften. Skær tomatkødet i små tern",
+							"Udhul de bagte kartofler forsigtigt og mos kartoffelmassen. Gem kartoffelskallerne.",
+							"Bland kartoffelmassen med cremefraiche, smør, spinat, tomat tern og persille. Krydr med salt og peber.",
+							"Stil kartoffelskallerne på et ildfast fad. Fordel massen i kartoffelskallerne og drys med mozzarella. Bag dem i ovnen 225 grader i 15 min."
+						]
+					}
+				]
+			},
+			{
+				"id": "svamperagout-med-pasta",
+				"name": "Svamperagout med pasta",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"800 g blandede svampe",
+							"1 stk løg",
+							"2 fed hvidløg",
+							"2 kviste rosmarin",
+							"2 kviste frisk timian",
+							"3 dl olivenolie",
+							"25 g smør",
+							"2 dl rødvin",
+							"½ l oksefond",
+							"salt og friskkværnet peber",
+							"1 dl revet parmasan"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Rengør svampene og skær dem i grove stykker",
+							"Snit løg, hvidløg, rosmarin og timian fint.",
+							"Kom smør og olivenolie i en gryde. Når olivenolie og smør er rygende varmt kommes svampene i og steg svampene gyldne. Skru lidt ned for varmen og tilsæt løg og urter. Lad det hele stege i yderligere nogle minutter.",
+							"Tilsæt nu rødvinen og lad det koge med i nogle minutter.",
+							"Kom fonden på og lad det hele småsimre i 35 – 40 minutter. Tilsæt evt lidt rødvin hvis det bliver for reduceret. Smag til med salt og peber.",
+							"Kog pastaen med lidt salt. Kom den i gryden med svampene sammen med lidt af kogevandet og lad det koge sammen i et par minutter.",
+							"Server med friskrevet parmesan."
+						]
+					}
+				]
+			},
+			{
+				"id": "floedebollekage",
+				"name": "Flødebollekage",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"5 flødeboller",
+							"10 knuste makroner",
+							"1 1/2 dl piskefløde",
+							"1 dl cremefraiche",
+							"1 tsk vaniljesukker",
+							"2 bakker med bær",
+							"100 gram grofthakket chokolade."
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Skyl bærrene. Lad dem dryppe af og dup dem tørre.",
+							"Mos flødebollerne flade i et serveringsfad.",
+							"Knus makronerne og drys dem ovenpå flødebollerne",
+							"Pisk fløden let og vend cremefraiche i. Smag til med vaniljesukker.",
+							"Fordel flødeskumscremen på toppen",
+							"Pynt med bærrene. Halvér evt. større bær. Fordel grofthakket chokolade på toppen.",
+							"Stil flødebollekagen på køl, til den skal serveres."
+						]
+					}
+				]
+			}
+		]
+	}
+}

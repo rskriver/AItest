@@ -1,0 +1,114 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-03-24",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "boef-stroganoff",
+				"name": "Bøf Stroganoff",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1.200 g oksekød (fx inderlår)",
+							"2 dl hvedemel",
+							"12 skiver bacon (80 g)",
+							"4 store løg",
+							"4 fed hvidløg",
+							"500 g champignon",
+							"6 spsk. sød paprika",
+							"160 g tomatpuré (3 spsk.)",
+							"2 tsk. salt",
+							"friskkværnet peber",
+							"8 laurbærblade",
+							"4 dl okseboullion (1 terning)",
+							"6 dl piskefløde",
+							"frisk persille (til pynt)"
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"items": [
+							"2 kg kartofler (skrællede)",
+							"160 g smør",
+							"3 dl mælk (eller fløde)",
+							"1 tsk. revet muskatnød (kan undlades)",
+							"2 tsk. groft salt",
+							"friskkværnet peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Dup kødet tør med køkkenrulle og skær derefter kødet ud i strimler. Kom kødet i en pose og vend det godt rundt med hvedemel.",
+							"Hak løg og hvidløg fint og skær champignon i kvarte.",
+							"Skær bacon i 4 cm skiver og brun det af i en tykbundet gryde. Læg baconen til side og rist derefter løg, hvidløg og champignon. Tilføj evt. lidt ekstra fedtstof.",
+							"Når løgene er klare og bløde og champignon har fået lidt farve, tages de op på en tallerken til baconen.",
+							"Tilføj mere fedtstof og brun nu kødet på alle sider.",
+							"Tilføj paprika, salt, peber og tomatpure og lad kødet stege i yderligere 2-3 minutter.",
+							"Tilføj nu din tallerken med løg, hvidløg, champignon og bacon til gryden sammen med fløde, 1 dl af din okseboullion og laurbærblade.",
+							"Lad retten simre ved svag varme under låg i ca. 45 minutter.",
+							"Rør i gryden undervejs og tilføj ekstra okseboullion hvis retten er ved at koge for meget ind.",
+							"Smag til med salt og peber server med kartoffelmos."
+						]
+					},
+					{
+						"label": "Kartoffelmos",
+						"steps": [
+							"Skræl kartoflerne og skær dem i mindre stykker.",
+							"Kog dem i usaltet vand til de er møre i ca. 20 minutter.",
+							"Mos kartoflerne med en håndmixer sammen med smør.",
+							"Tilføj mælken lidt efter lidt, imens du pisker til du får en dejlig cremet, luftig konsistens.",
+							"Smag til med salt, peber og revet muskatnød."
+						]
+					}
+				]
+			},
+			{
+				"id": "pandekager-med-syltetoj-og-is",
+				"name": "Pandekager med syltetøj og is",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Pandekagedej",
+						"items": [
+							"6 Æg M/L, hele",
+							"225 gram Hvedemel",
+							"37.5 gram Smør",
+							"4.5 dl. Sødmælk",
+							"1.5 knsp. Salt",
+							"75 gram Sukker",
+							"3 tsk. Vaniljesukker"
+						]
+					},
+					{
+						"label": "Til stegningen",
+						"items": ["Smør"]
+					}
+				],
+				"method": [
+					{
+						"label": "Pandekagedej",
+						"steps": [
+							"Æg og mel piskes sammen. Heri piskes det varme smeltede smør, spæd med mælk og smag til med salt, sukker og vanilje.",
+							"Bag pandekagerne lysebrune i smør på panden. Der bliver 16 pandekager alt efter pandens størrelse og pandekagens tykkelse.",
+							"Server pandekagerne med, sukker og syltetøj, blød vaniljeis eller flødeskum."
+						]
+					},
+					{
+						"label": "Tips",
+						"steps": [
+							"Det kan være en fordel at have en pande som kun bruges til pandekager, for at undgå de hænger fast på panden."
+						]
+					}
+				]
+			}
+		]
+	}
+}

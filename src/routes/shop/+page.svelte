@@ -28,7 +28,7 @@
 		font-size: 3rem;
 		font-weight: 800;
 		margin-bottom: 1rem;
-		background: linear-gradient(135deg, #1f2937, #4b5563);
+		background: linear-gradient(135deg, var(--heading-1), var(--heading-2));
 		background-clip: text;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
@@ -37,13 +37,14 @@
 
 	.intro-text {
 		font-size: 1.25rem;
-		color: #6b7280;
+		color: var(--text-muted);
 		margin-bottom: 3rem;
 	}
 
 	.placeholder-section {
 		padding: 4rem 2rem;
-		background: linear-gradient(135deg, #f9fafb, #f3f4f6);
+		background: var(--surface-2);
+		border: 1px solid var(--border);
 		border-radius: 12px;
 	}
 
@@ -53,7 +54,7 @@
 	}
 
 	.placeholder-section p {
-		color: #9ca3af;
+		color: var(--text-muted);
 		font-size: 1.1rem;
 	}
 </style>

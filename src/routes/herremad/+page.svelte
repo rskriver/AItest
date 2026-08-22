@@ -49,7 +49,7 @@
 		font-size: 3rem;
 		font-weight: 800;
 		margin-bottom: 1rem;
-		background: linear-gradient(135deg, #1f2937, #4b5563);
+		background: linear-gradient(135deg, var(--heading-1), var(--heading-2));
 		-webkit-background-clip: text;
 		background-clip: text;
 		-webkit-text-fill-color: transparent;
@@ -57,7 +57,7 @@
 
 	.intro-text {
 		font-size: 1.25rem;
-		color: #6b7280;
+		color: var(--text-muted);
 	}
 
 	.menu-date {
@@ -65,7 +65,7 @@
 		margin-top: 0.5rem;
 		font-size: 0.95rem;
 		font-weight: 600;
-		color: #16a34a;
+		color: var(--accent-2);
 	}
 
 	.recipe-grid {

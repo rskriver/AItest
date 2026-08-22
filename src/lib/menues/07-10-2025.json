@@ -1,0 +1,112 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-10-07",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "kanin-i-sennep",
+				"name": "Kanin i Sennep",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 kanin ca. 1½ – 2 kg",
+							"100 g god bacon i et stykke",
+							"250 g champignon",
+							"4 skalotteløg",
+							"4 fed hvidløg",
+							"2 dl. hvidvin",
+							"1 - 2 dl dijonsennep",
+							"1/4 L piskefløde",
+							"2½ dl hønse- eller grøntsagsfond",
+							"Krydderbuket af persillestilke, laurbærblad, timian",
+							"Portvin Otto"
+						]
+					},
+					{
+						"label": "Portvin Otto",
+						"items": ["3 dl. Perlebyg", "6 dl. Kalvefond", "1½ dl. portvin", "Smør"]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Parter kaninen ved, at skære benene fra og dele dem ved leddene. Skær dernæst brystkødet fra, ligesom ved en kylling, og del det i to til tre stykker. Du kan også få din slagter til at partere den. Brug evt. skroget til, at koge fond på.",
+							"Smør kaninstykkerne godt ind i sennep og stil dem i køleskabet et par timer. En time inden tilberedning tages kaninstykkerne ud af køleskabet.",
+							"Rens og skær champignonerne i kvarte.",
+							"Fjern skallen fra skalotteløgene og del dem i kvarte.",
+							"Hvidløgsfeddene skæres i små tern.",
+							"Skær baconen i tern, og svits dem i en tykbundet gryde til de får lidt farve, hvorefter kaninstykkerne brunes med.",
+							"Når de har fået lidt farve kommes champignoner, løg og hvidløg ved i et par minutter. Hæld dernæst hvidvinen ved og lad alkoholen fordampe, hvorefter fonden hældes i sammen med krydderbuketten. Lad det hele simre i 30 minutter.",
+							"Fisk ingredienserne op af gryden undtagen saucen.",
+							"Tilsæt piskefløden og smag til med salt, peber og evt. ekstra dijonsennep og lidt citronsaft. Kom de øvrige ingredienser tilbage i gryden."
+						]
+					},
+					{
+						"label": "Portvin Otto",
+						"steps": [
+							"Kog perlebyggen i kalvefonden i ca. 25 – 30 minutter indtil de er al dente. Tilberedte med lidt bid.",
+							"Tag låget af gryden og skru lidt op for varmen til medium. Smag til med salt og peber.",
+							"Tilsæt ½ – 1 dl. portvin, lad det fordampe og tilsæt en god klat smør.",
+							"I stedet for portvin og kalvefond kan vand, hønsefond eller øl bruges."
+						]
+					}
+				]
+			},
+			{
+				"id": "aebletrifli",
+				"name": "Æbletrifli",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Æblemos",
+						"items": ["6-7 mellemstore æbler", "½ vaniljestang", "50 g sukker", "½ dl vand"]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"makroner (et passende antal – 5-6-7-stykker)",
+							"hasselnødflager (efter gehør)",
+							"marcipan (ligeledes efter gehør)",
+							"solbærsyltetøj"
+						]
+					},
+					{
+						"label": "Flødeskum",
+						"items": ["¼ piskefløde"]
+					}
+				],
+				"method": [
+					{
+						"label": "Æblemos",
+						"steps": [
+							"Skær æblerne i mindre stykker",
+							"Skrab kornene ud af den halve vaniljestang",
+							"Kom æbler, vaniljestang, sukker og vand i en tykbundet gryde",
+							"Kog det langsomt op og lad det simre i ca. 20 minutter, mos det, og lad det derefter køle af"
+						]
+					},
+					{
+						"label": "Fyld",
+						"steps": ["Intet at bemærke."]
+					},
+					{
+						"label": "Flødeskum",
+						"steps": ["Pisk flødeskum."]
+					},
+					{
+						"label": null,
+						"steps": [
+							"Portions-anret fyldet i store glas efter kunstneriske evner i lag: knust makron, hasselnødflager, smuldret marcipan, solbærsyltetøj, en sjat portvin samt flødeskum foroven, forneden imellem."
+						]
+					}
+				]
+			}
+		]
+	}
+}

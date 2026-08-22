@@ -1,0 +1,94 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-03-17",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "croissanter-med-kyllingesalat",
+				"name": "Croissanter med kyllingesalat",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"4 croissanter",
+							"400 g kyllingefileter",
+							"1 pakke bacon",
+							"1 ½ dl cremefraiche 18 %",
+							"½ dl mayonnaise",
+							"1 tsk dijonsennep",
+							"1 ærteskud",
+							"Salt og peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Bag croissanterne",
+							"Kom kyllingefileterne op i en gryde og dæk med hønsebouillon. Bring det i kog, og lad det simre i ca. 15 minutter til det er gennemkogt. Tag fileterne op og læg dem på en tallerken. Lad dem køle af.",
+							"Beklæd en bageplade med bagepapir og fordel baconskiverne herpå. Steg baconen i ca 15 minutter til den er helt sprød. Læg baconen på fedtsugende papir.",
+							"Riv kyllingefileterne i strimler og bland kødet med cremefraiche, mayonnaise og dijonsennep.",
+							"Klip eller hak purløg fint og bland det i kyllingesalaten.",
+							"Smuldr baconen til små stykker. Tilsæt baconen og smag til med salt og peber.",
+							"Flæk croissanterne og kom kyllingesalaten i, pynt med ærteskud."
+						]
+					}
+				]
+			},
+			{
+				"id": "asiatisk-wok-med-kylling-nudler-og-groentsager",
+				"name": "Asiatisk wok med kylling nudler og grøntsager",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Wok",
+						"items": [
+							"600 g kylling skåret i strimler",
+							"1 løg skåret i skiver",
+							"3 fed hvidløg, revet eller presset",
+							"300 g brune svampe skåret i skiver",
+							"125 g sugarsnaps eller slikærter, snittet",
+							"4 forårsløg, snittet",
+							"½ rød chili, finthakket (kan udelades)",
+							"250 g ægnudler – ukogt vægt",
+							"½-1 lime, saften heraf",
+							"Olie",
+							"Friskkværnet peber og evt. salt"
+						]
+					},
+					{
+						"label": "Marinade",
+						"items": [
+							"¾ dl hoisin eller østerssauce",
+							"½ dl soya",
+							"2 spsk friskrevet ingefær",
+							"2 tsk sesamolie (kan udelades)",
+							"2 tsk maizena"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Kog nudlerne som beskrevet på pakken og skyl dem derefter i koldt vand. Lige inden de skal vendes på panden, kan du med fordel skylle dem igen – det gør det meget nemmere at vende med de andre ingredienser.",
+							"Varm en pande op og steg kyllingen af i en smule olie til den er gennemstegt, – krydr med peber.",
+							"Læg kyllingen til side på en tallerken.",
+							"På samme pande svitses svampene af ved en god høj varme, til de har smidt al væden. Tilsæt evt. mere olie, hvis der er behov for det.",
+							"Tilsæt løg og hvidløg og steg med et par minutter.",
+							"Tilsæt derefter forårsløg, sukkerærter og chili, og steg det yderligere 2-3 minutter. Bland imens ingredienserne til marinaden.",
+							"Hæld kyllingen tilbage på panden sammen med marinaden, og vend det godt sammen.",
+							"Tilsæt nudler og basilikumblade og vend det godt sammen.",
+							"Smag til med friskkværnet peber, limesaft og tilsæt evt mere soya, hoison eller Østerssauce."
+						]
+					}
+				]
+			}
+		]
+	}
+}

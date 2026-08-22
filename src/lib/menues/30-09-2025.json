@@ -1,0 +1,110 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-09-30",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "tabouleh",
+				"name": "Tabouleh",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 dl bulgur",
+							"1½ dl kogende vand",
+							"½ dl olivenolie + reven skal og saft fra én citron",
+							"1 fed presset hvidløg",
+							"1 tsk sukker",
+							"2 håndfuld fint hakket persille",
+							"2 håndfulde fint hakket mynteblade",
+							"2 finthakkede forårsløg",
+							"2 tomater i små tern",
+							"1 finthakket rødløg",
+							"Salt og peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Hæld det kogende vand over bulgur og lad det stå",
+							"Lav dressing ved at blande resten af ingredienserne godt, og smag til med salt og peber",
+							"Når bulgur har trukket alt vandet blandes med dressing/grøntsagsblanding",
+							"Spises medens hovedretten simrer i ovnen"
+						]
+					}
+				]
+			},
+			{
+				"id": "baba-ganoush-med-kylling",
+				"name": "Baba Ganoush med Kylling",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"2 Auberginer",
+							"2 fed knust hvidløg",
+							"2 tsk sesamolie",
+							"Salt, peber og citronsaft",
+							"4-8 små snackagurker",
+							"4 grovpita",
+							"4 kyllingelår (med overlår)",
+							"Krydderblanding (1 tsk hver af stødt Allehånde, spidskommen, sort peber og salt)",
+							"olivenolie"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Bland krydderier godt med olien og vend kyllingelårene i krydderi blandingen.",
+							"Læg de krydrede kyllingelår på en bageplade med bagepapir under, og bag ca. 40 minutter ved 200°C.",
+							"Prik auberginerne med en gaffel og læg dem på bagepladen sammen med kyllingelårene.",
+							"Når bagt flækkes auberginerne og indmaden skrabes væk.",
+							"Resten moses og blandes godt med olie og krydderierne. Bruges som dip til pita og snackagurker"
+						]
+					}
+				]
+			},
+			{
+				"id": "mandelkage-med-syltede-paerer",
+				"name": "Mandelkage med syltede pærer",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"125 g sukker",
+							"125 g blødt smør",
+							"75 g marcipan",
+							"2 hele økologiske æg",
+							"1 økologisk æggeblomme",
+							"90 g mandelmel",
+							"25 g mel",
+							"1 dåse pærer plus ½ liter creme fraiche"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pisk sukker, blødt smør og marcipan luftigt og tilsæt æg og mel.",
+							"Pisk massen lind. Fyld den i en smurt sandkageform og pres de syltede pærer ned i midten af formen.",
+							"Bag kagen ved 160 grader i ca. 40 minutter eller til den er gylden.",
+							"Tjek med en lille kniv om den er lun i midten. Hvis ja, så tag kagen ud og lad den køle af før du serverer den med creme fraiche."
+						]
+					}
+				]
+			}
+		]
+	}
+}

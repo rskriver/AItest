@@ -1,0 +1,112 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2026-04-07",
+		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+		"dishes": [
+			{
+				"id": "koteletter-i-fad",
+				"name": "Koteletter i fad",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"8 svinekoteletter",
+							"1 stk. dåsetomater hele (som indeholder mest saft)",
+							"1 glas champignon i skiver",
+							"70 gram koncentreret tomatpuré",
+							"2½ dl madlavningsfløde",
+							"1 pk. sliced bacon – 8 skiver",
+							"10 sherrytomater",
+							"salt og peber",
+							"pinjekerner (passende mængde)"
+						]
+					},
+					{
+						"label": "Tilbehør Basmati-ris",
+						"items": [
+							"4 dl Basmati-ris",
+							"6 dl Vand",
+							"1 ts Salt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Brun koteletterne på begge sider på panden med salt og peber. Læg dem i et ovnfast fad.",
+							"Kog panden af med champignonsaften – men gem champignonerne.",
+							"Tilsæt saften fra dåsetomaterne (mos dem gennem en sigte) kom fløden i panden og lad det hele koge op, og hæld det derefter over koteletterne, som nu sættes i ovnen ved 200 grader i 20-25 minutter.",
+							"Rist champignon og pinjekernerne og læg sherrytomaterne ved – de må gerne halveres – og dette lægges over koteletterne når halvdelen af stegetiden er gået.",
+							"Til sidst ristes bacon stykkerne og lægges på koteletterne ved serveringen."
+						]
+					},
+					{
+						"label": "Tilbehør Basmati-ris",
+						"steps": [
+							"Skyl & Udblød: Skyl 4 dl basmatiris i en sigte, til vandet er klart. Lad dem gerne trække i koldt vand i 20-30 minutter (kan springes over, men giver bedre ris).",
+							"Kog op: Hæld vandet fra. Kom ris, friskt vand og salt i en gryde.",
+							"Simre: Bring gryden i kog, skru ned til laveste blus, og læg låg på. Lad det småkoge i 10-12 minutter uden at løfte låget.",
+							"Hvile: Sluk for varmen, og lad gryden stå med låget på i 10 minutter, så dampen fordeles.",
+							"Løsn: Løsn risene med en gaffel før servering."
+						]
+					}
+				]
+			},
+			{
+				"id": "abemad",
+				"name": "Abemad",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"2 appelsiner",
+							"2 æbler (fx Pink Lady)",
+							"2 pærer",
+							"100 g stenfri druer",
+							"3 bananer",
+							"1 ds. ananas",
+							"100 gr. rosiner – har stået i blød i likør 1 døgn",
+							"1 lille dåse mandariner",
+							"12 makroner (som lægges i blød i appelsinsaft) i serveringsskålen",
+							"½ plade chokolade",
+							"1 håndfuld nøddekerner"
+						]
+					},
+					{
+						"label": "Råcremen",
+						"items": [
+							"3 æggeblommer",
+							"2 spiseskefulde sukker",
+							"2½ -3 dl. piskefløde",
+							"vanilje"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Pil appelsinerne – del dem i både og befri frugtkødet for hinder – læg appelsin stykkerne oven på makronerne i serveringsskålen.",
+							"Skræl æbler og pærer, fjern kernehus og skær frugterne i terninger, der dryppes med lidt citronsaft og lægges derefter i serveringsskålen.",
+							"Halver de stenfri druer og læg dem i skålen sammen med de blødgjorte rosiner.",
+							"Så hældes ananassaft og evt. mandarinsaft over frugterne.",
+							"Og til sidst hakkede nøddekerner og hakket chokolade over skålens indhold, som dekoreres med bananskiver."
+						]
+					},
+					{
+						"label": "Råcreme",
+						"steps": [
+							"Rør æggeblommerne grundigt sammen med sukkeret, pisk fløden, og vend den forsigtigt i æggemassen og smag til med vanilje."
+						]
+					}
+				]
+			}
+		]
+	}
+}
