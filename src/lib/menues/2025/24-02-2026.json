@@ -7,7 +7,7 @@
 			{
 				"id": "potjiekos",
 				"name": "POTJIEKOS",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -47,7 +47,7 @@
 			{
 				"id": "malva-pudding",
 				"name": "MALVA PUDDING",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -67,12 +67,7 @@
 					},
 					{
 						"label": "SAUCE",
-						"items": [
-							"4 ss brun farin",
-							"2 ss smør",
-							"1 ¼ dl fløde",
-							"2 ss vand"
-						]
+						"items": ["4 ss brun farin", "2 ss smør", "1 ¼ dl fløde", "2 ss vand"]
 					}
 				],
 				"method": [

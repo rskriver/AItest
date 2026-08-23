@@ -7,7 +7,7 @@
 			{
 				"id": "lamme-kotelletter",
 				"name": "Lamme kotelletter",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -84,7 +84,7 @@
 			{
 				"id": "pandekager-med-aebleskiver-ogis",
 				"name": "Pandekager med æbleskiver og is",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{

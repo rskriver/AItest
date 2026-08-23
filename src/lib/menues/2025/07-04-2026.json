@@ -7,7 +7,7 @@
 			{
 				"id": "koteletter-i-fad",
 				"name": "Koteletter i fad",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -26,11 +26,7 @@
 					},
 					{
 						"label": "Tilbehør Basmati-ris",
-						"items": [
-							"4 dl Basmati-ris",
-							"6 dl Vand",
-							"1 ts Salt"
-						]
+						"items": ["4 dl Basmati-ris", "6 dl Vand", "1 ts Salt"]
 					}
 				],
 				"method": [
@@ -59,7 +55,7 @@
 			{
 				"id": "abemad",
 				"name": "Abemad",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -80,12 +76,7 @@
 					},
 					{
 						"label": "Råcremen",
-						"items": [
-							"3 æggeblommer",
-							"2 spiseskefulde sukker",
-							"2½ -3 dl. piskefløde",
-							"vanilje"
-						]
+						"items": ["3 æggeblommer", "2 spiseskefulde sukker", "2½ -3 dl. piskefløde", "vanilje"]
 					}
 				],
 				"method": [

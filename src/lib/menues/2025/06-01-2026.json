@@ -7,7 +7,7 @@
 			{
 				"id": "cornish-pasty",
 				"name": "Cornish Pasty",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -34,13 +34,7 @@
 					},
 					{
 						"label": "Salat",
-						"items": [
-							"½ rødkål",
-							"1 appelsin",
-							"1 æble",
-							"½ granatæble",
-							"Ristet sesam"
-						]
+						"items": ["½ rødkål", "1 appelsin", "1 æble", "½ granatæble", "Ristet sesam"]
 					}
 				],
 				"method": [
@@ -72,16 +66,12 @@
 			{
 				"id": "eton-mess",
 				"name": "Eton Mess",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{
 						"label": "Marengs",
-						"items": [
-							"2 Æggehvider",
-							"55 g Sukker (ca. ⅔ dl)",
-							"50 g Flormelis (ca. 1 dl)"
-						]
+						"items": ["2 Æggehvider", "55 g Sukker (ca. ⅔ dl)", "50 g Flormelis (ca. 1 dl)"]
 					},
 					{
 						"label": "Fyld",
@@ -93,10 +83,7 @@
 					},
 					{
 						"label": "Pynt",
-						"items": [
-							"Mynteblade eller citronmelisse",
-							"Hakkede grønne usaltede pistacienødder"
-						]
+						"items": ["Mynteblade eller citronmelisse", "Hakkede grønne usaltede pistacienødder"]
 					}
 				],
 				"method": [
@@ -121,9 +108,7 @@
 					},
 					{
 						"label": "Pynt",
-						"steps": [
-							"Pynt med pistacienødder og citronmelisse – og server."
-						]
+						"steps": ["Pynt med pistacienødder og citronmelisse – og server."]
 					}
 				]
 			}

@@ -7,7 +7,7 @@
 			{
 				"id": "ovnbagt-torsk-med-romesco-sovs-og-ovnkartofler",
 				"name": "Ovnbagt torsk med romesco-sovs og ovnkartofler",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -36,9 +36,7 @@
 				"method": [
 					{
 						"label": null,
-						"steps": [
-							"Tænd ovn på 180 grader."
-						]
+						"steps": ["Tænd ovn på 180 grader."]
 					},
 					{
 						"label": "Romesco sovs",
@@ -73,7 +71,7 @@
 			{
 				"id": "mokkadessert",
 				"name": "Mokkadessert",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{

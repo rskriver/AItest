@@ -7,7 +7,7 @@
 			{
 				"id": "kanin-i-sennep",
 				"name": "Kanin i Sennep",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -60,7 +60,7 @@
 			{
 				"id": "aebletrifli",
 				"name": "Æbletrifli",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{

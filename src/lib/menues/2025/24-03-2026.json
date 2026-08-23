@@ -7,7 +7,7 @@
 			{
 				"id": "boef-stroganoff",
 				"name": "Bøf Stroganoff",
-				"type": "Forret",
+				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [
 					{
@@ -72,7 +72,7 @@
 			{
 				"id": "pandekager-med-syltetoj-og-is",
 				"name": "Pandekager med syltetøj og is",
-				"type": "Hovedret",
+				"type": "Dessert",
 				"serves": 4,
 				"ingredients": [
 					{
