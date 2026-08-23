@@ -94,6 +94,12 @@
 	}
 
 	function openRecipe(recipe: Recipe, date: string): void {
+		// Toggle: if this exact recipe is already open, close it.
+		if (selectedDate === date && selectedRecipeName === recipe.name) {
+			closeRecipe();
+			return;
+		}
+
 		const dish = recipeLookup.get(normalize(recipe.name));
 		selectedRecipe = dish ?? null;
 		selectedRecipeName = recipe.name;
