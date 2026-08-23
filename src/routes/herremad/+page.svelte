@@ -68,6 +68,7 @@
 
 	let selectedRecipe = $state<Dish | null>(null);
 	let selectedRecipeName = $state<string | null>(null);
+	let selectedDate = $state<string | null>(null);
 
 	function parseDate(d: string): number {
 		const [day, month, year] = d.split('.').map(Number);
@@ -92,15 +93,17 @@
 			.trim();
 	}
 
-	function openRecipe(recipe: Recipe): void {
+	function openRecipe(recipe: Recipe, date: string): void {
 		const dish = recipeLookup.get(normalize(recipe.name));
 		selectedRecipe = dish ?? null;
 		selectedRecipeName = recipe.name;
+		selectedDate = date;
 	}
 
 	function closeRecipe(): void {
 		selectedRecipe = null;
 		selectedRecipeName = null;
+		selectedDate = null;
 	}
 </script>
 
@@ -132,50 +135,52 @@
 							<button
 								class="dish-name"
 								type="button"
-								aria-expanded={selectedRecipeName === recipe.name ? 'true' : 'false'}
-								onclick={() => openRecipe(recipe)}
+								aria-expanded={selectedDate === menu.date && selectedRecipeName === recipe.name
+									? 'true'
+									: 'false'}
+								onclick={() => openRecipe(recipe, menu.date)}
 							>
 								{recipe.name}
 							</button>
 						</li>
 					{/each}
 				</ul>
+
+				{#if selectedDate === menu.date && selectedRecipe}
+					<div class="recipe-card-wrapper" aria-live="polite">
+						<div class="recipe-card-header">
+							<button
+								class="recipe-close"
+								type="button"
+								aria-label="Luk opskrift"
+								onclick={closeRecipe}
+							>
+								Luk <span aria-hidden="true">✕</span>
+							</button>
+						</div>
+						<RecipeCard recipe={selectedRecipe} />
+					</div>
+				{:else if selectedDate === menu.date && selectedRecipeName}
+					<div class="recipe-card-wrapper" aria-live="polite">
+						<div class="recipe-card-header">
+							<button
+								class="recipe-close"
+								type="button"
+								aria-label="Luk opskrift"
+								onclick={closeRecipe}
+							>
+								Luk <span aria-hidden="true">✕</span>
+							</button>
+						</div>
+						<div class="recipe-fallback">
+							<h2 class="fallback-title">{selectedRecipeName}</h2>
+							<p>Desværre er der ingen opskrift tilgængelig for denne ret endnu.</p>
+						</div>
+					</div>
+				{/if}
 			</article>
 		{/each}
 	</div>
-
-	{#if selectedRecipe}
-		<div class="recipe-card-wrapper" aria-live="polite">
-			<div class="recipe-card-header">
-				<button
-					class="recipe-close"
-					type="button"
-					aria-label="Luk opskrift"
-					onclick={closeRecipe}
-				>
-					Luk <span aria-hidden="true">✕</span>
-				</button>
-			</div>
-			<RecipeCard recipe={selectedRecipe} />
-		</div>
-	{:else if selectedRecipeName}
-		<div class="recipe-card-wrapper" aria-live="polite">
-			<div class="recipe-card-header">
-				<button
-					class="recipe-close"
-					type="button"
-					aria-label="Luk opskrift"
-					onclick={closeRecipe}
-				>
-					Luk <span aria-hidden="true">✕</span>
-				</button>
-			</div>
-			<div class="recipe-fallback">
-				<h2 class="fallback-title">{selectedRecipeName}</h2>
-				<p>Desværre er der ingen opskrift tilgængelig for denne ret endnu.</p>
-			</div>
-		</div>
-	{/if}
 </div>
 
 <style>
@@ -315,7 +320,9 @@
 	}
 
 	.recipe-card-wrapper {
-		margin-top: 1.5rem;
+		margin-top: 1.25rem;
+		padding-top: 1.25rem;
+		border-top: 1px solid var(--border);
 		display: flex;
 		flex-direction: column;
 		gap: 0.75rem;
