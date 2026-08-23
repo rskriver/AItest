@@ -1,5 +1,5 @@
-﻿<script lang="ts">
-	import { resolve } from '$app/locations';
+<script lang="ts">
+	import RecipeCard from '$lib/components/RecipeCard.svelte';
 	import menuData from '$lib/menues/2025/herremad_datoer_2025.json';
 
 	interface Recipe {
@@ -15,6 +15,39 @@
 		recipes: Recipe[];
 	}
 
+	interface IngredientGroup {
+		label: string | null;
+		items: string[];
+	}
+
+	interface MethodGroup {
+		label: string | null;
+		steps: string[];
+	}
+
+	interface Dish {
+		id: string;
+		name: string;
+		type: string;
+		serves?: number;
+		ingredients: IngredientGroup[];
+		method: MethodGroup[];
+	}
+
+	interface MenuFile {
+		menu: {
+			title: string;
+			date: string;
+			image: string;
+			dishes: Dish[];
+		};
+	}
+
+	const menuFiles = import.meta.glob('../../lib/menues/2025/*.json', { eager: true }) as Record<
+		string,
+		{ default: MenuFile }
+	>;
+
 	const menus = $derived(
 		(menuData as MenuDate[]).slice().sort((a, b) => parseDate(a.date) - parseDate(b.date))
 	);
@@ -24,6 +57,17 @@
 		hovedret: 'Hovedret',
 		dessert: 'Dessert'
 	};
+
+	// Build a normalized-name lookup of all dishes from the per-date menu files.
+	const recipeLookup = new Map<string, Dish>();
+	for (const mod of Object.values(menuFiles)) {
+		for (const dish of mod.default?.menu?.dishes ?? []) {
+			recipeLookup.set(normalize(dish.name), dish);
+		}
+	}
+
+	let selectedRecipe = $state<Dish | null>(null);
+	let selectedRecipeName = $state<string | null>(null);
 
 	function parseDate(d: string): number {
 		const [day, month, year] = d.split('.').map(Number);
@@ -38,6 +82,25 @@
 			month: 'long',
 			year: 'numeric'
 		});
+	}
+
+	function normalize(name: string): string {
+		return name
+			.normalize('NFD')
+			.replace(/[\u0300-\u036f]/g, '')
+			.toLowerCase()
+			.trim();
+	}
+
+	function openRecipe(recipe: Recipe): void {
+		const dish = recipeLookup.get(normalize(recipe.name));
+		selectedRecipe = dish ?? null;
+		selectedRecipeName = recipe.name;
+	}
+
+	function closeRecipe(): void {
+		selectedRecipe = null;
+		selectedRecipeName = null;
 	}
 </script>
 
@@ -58,15 +121,6 @@
 			<article class="menu-card">
 				<header class="menu-card-header">
 					<time class="menu-date" datetime={menu.date}>{formatDate(menu.date)}</time>
-					<a
-						class="menu-link"
-						href={resolve(menu.Link)}
-						target="_blank"
-						rel="noopener noreferrer"
-						aria-label="Åbn menu for {menu.date}"
-					>
-						Se hele menuen <span aria-hidden="true">↗</span>
-					</a>
 				</header>
 
 				<ul class="dish-list">
@@ -75,20 +129,53 @@
 							<span class="dish-type type-{recipe.type}">
 								{typeLabels[recipe.type] ?? recipe.type}
 							</span>
-							<a
+							<button
 								class="dish-name"
-								href={resolve(recipe.Link)}
-								target="_blank"
-								rel="noopener noreferrer"
+								type="button"
+								aria-expanded={selectedRecipeName === recipe.name ? 'true' : 'false'}
+								onclick={() => openRecipe(recipe)}
 							>
 								{recipe.name}
-							</a>
+							</button>
 						</li>
 					{/each}
 				</ul>
 			</article>
 		{/each}
 	</div>
+
+	{#if selectedRecipe}
+		<div class="recipe-card-wrapper" aria-live="polite">
+			<div class="recipe-card-header">
+				<button
+					class="recipe-close"
+					type="button"
+					aria-label="Luk opskrift"
+					onclick={closeRecipe}
+				>
+					Luk <span aria-hidden="true">✕</span>
+				</button>
+			</div>
+			<RecipeCard recipe={selectedRecipe} />
+		</div>
+	{:else if selectedRecipeName}
+		<div class="recipe-card-wrapper" aria-live="polite">
+			<div class="recipe-card-header">
+				<button
+					class="recipe-close"
+					type="button"
+					aria-label="Luk opskrift"
+					onclick={closeRecipe}
+				>
+					Luk <span aria-hidden="true">✕</span>
+				</button>
+			</div>
+			<div class="recipe-fallback">
+				<h2 class="fallback-title">{selectedRecipeName}</h2>
+				<p>Desværre er der ingen opskrift tilgængelig for denne ret endnu.</p>
+			</div>
+		</div>
+	{/if}
 </div>
 
 <style>
@@ -161,18 +248,6 @@
 		text-transform: capitalize;
 	}
 
-	.menu-link {
-		font-size: 0.9rem;
-		font-weight: 600;
-		color: var(--accent-2);
-		text-decoration: none;
-		white-space: nowrap;
-	}
-
-	.menu-link:hover {
-		text-decoration: underline;
-	}
-
 	.dish-list {
 		list-style: none;
 		margin: 0;
@@ -219,12 +294,87 @@
 		font-size: 1rem;
 		font-weight: 600;
 		color: var(--text);
-		text-decoration: none;
+		background: none;
+		border: none;
+		padding: 0;
+		margin: 0;
+		cursor: pointer;
+		text-align: left;
+		font-family: inherit;
 	}
 
 	.dish-name:hover {
 		color: var(--accent-2);
 		text-decoration: underline;
+	}
+
+	.dish-name:focus-visible {
+		outline: 2px solid var(--accent-2);
+		outline-offset: 2px;
+		border-radius: 4px;
+	}
+
+	.recipe-card-wrapper {
+		margin-top: 1.5rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+		animation: fade-in 0.25s ease;
+	}
+
+	.recipe-card-header {
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.recipe-close {
+		font-size: 0.9rem;
+		font-weight: 600;
+		color: var(--text-muted);
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 999px;
+		padding: 0.4rem 1rem;
+		cursor: pointer;
+		transition:
+			color 0.2s ease,
+			border-color 0.2s ease;
+	}
+
+	.recipe-close:hover {
+		color: var(--accent-2);
+		border-color: var(--accent-2);
+	}
+
+	.recipe-fallback {
+		background: var(--surface);
+		border: 1px solid var(--border);
+		border-radius: 16px;
+		padding: 1.5rem;
+		box-shadow: 0 4px 12px var(--shadow);
+	}
+
+	.fallback-title {
+		font-size: 1.4rem;
+		font-weight: 800;
+		margin: 0 0 0.5rem;
+		color: var(--text);
+	}
+
+	.recipe-fallback p {
+		margin: 0;
+		color: var(--text-muted);
+	}
+
+	@keyframes fade-in {
+		from {
+			opacity: 0;
+			transform: translateY(-8px);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(0);
+		}
 	}
 
 	@media (max-width: 480px) {
