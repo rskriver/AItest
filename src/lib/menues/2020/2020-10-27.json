@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2020-10-27",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "fransk-loegsuppe",
+                "name": "FRANSK LØGSUPPE",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "skindstegt-kulmule-med-bloede-loeg",
+                "name": "Skindstegt kulmule med bløde løg",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

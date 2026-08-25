@@ -1,0 +1,242 @@
+[
+	{
+		"date": "01.10.2024",
+		"Link": "https://herremadwp.herremad.dk/01-10-2024-menu/",
+		"recipes": [
+			{
+				"name": "Cremet pasta med laks, fløde og grønt",
+				"ID": "cremet-pasta-med-laks-floede-og-groent",
+				"Link": "https://herremadwp.herremad.dk/01-10-2024-cremet-pasta-med-laks-floede-og-groent/",
+				"type": "forret"
+			},
+			{
+				"name": "Vildtgryde",
+				"ID": "vildtgryde",
+				"Link": "https://herremadwp.herremad.dk/01-10-2024-vildtgryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "08.10.2024",
+		"Link": "https://herremadwp.herremad.dk/08-10-2024-menu/",
+		"recipes": [
+			{
+				"name": "Røget krondyr, grillet salat og mormordressing",
+				"ID": "roeget-krondyr-grillet-salat-og-mormordressing",
+				"Link": "https://herremadwp.herremad.dk/08-10-2024-roeget-krondyr-grillet-salat-og-mormordressing/",
+				"type": "forret"
+			},
+			{
+				"name": "Vildtgryde med svampe",
+				"ID": "vildtgryde-med-svampe",
+				"Link": "https://herremadwp.herremad.dk/08-10-2024-vildtgryde-med-svampe/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "22.10.2024",
+		"Link": "https://herremadwp.herremad.dk/22-10-2024-menu/",
+		"recipes": [
+			{
+				"name": "Aspargessuppe med hjemmelavede kødboller",
+				"ID": "aspargessuppe-med-hjemmelavede-koedboller",
+				"Link": "https://herremadwp.herremad.dk/22-10-2024-aspargessuppe-med-hjemmelavede-koedboller/",
+				"type": "forret"
+			},
+			{
+				"name": "Krondyrkølle i gryde",
+				"ID": "krondyrkoelle-i-gryde",
+				"Link": "https://herremadwp.herremad.dk/22-10-2024-krondyrkoelle-i-gryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.10.2024",
+		"Link": "https://herremadwp.herremad.dk/29-10-2024-menu/",
+		"recipes": [
+			{
+				"name": "Ovnstegte fasaner med hasselback-kartofler, sauce, sellerigratin og svampe",
+				"ID": "ovnstegte-fasaner-med-hasselback-kartofler-sauce-sellerigratin-og-svampe",
+				"Link": "https://herremadwp.herremad.dk/29-10-2024-ovnstegte-fasaner-med-hasselback-kartofler-sauce-sellerigratin-og-svampe/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbletærte",
+				"ID": "aebletaerte",
+				"Link": "https://herremadwp.herremad.dk/29-10-2024-aebletaerte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "05.11.2024",
+		"Link": "https://herremadwp.herremad.dk/05-11-2024-menu/",
+		"recipes": [
+			{
+				"name": "Kammusling Aguachile",
+				"ID": "kammusling-aguachile",
+				"Link": "https://herremadwp.herremad.dk/05-11-2024-kammusling-aguachile/",
+				"type": "forret"
+			},
+			{
+				"name": "Torsk i fad med grøntsager og perlebyg",
+				"ID": "torsk-i-fad-med-groentsager-og-perlebyg",
+				"Link": "https://herremadwp.herremad.dk/05-11-2024-torsk-i-fad-med-groentsager-og-perlebyg/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Citron og passionsfrugttærte med marengs",
+				"ID": "citron-og-passionsfrugttaerte-med-marengs",
+				"Link": "https://herremadwp.herremad.dk/05-11-2024-citron-og-passionsfrugttaerte-med-marengs/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "12.11.2024",
+		"Link": "https://herremadwp.herremad.dk/12-11-2024-menu/",
+		"recipes": [
+			{
+				"name": "Flået pighaj",
+				"ID": "flaet-pighaj",
+				"Link": "https://herremadwp.herremad.dk/12-11-2024-flaet-pighaj/",
+				"type": "forret"
+			},
+			{
+				"name": "Bastogne kage",
+				"ID": "bastogne-kage",
+				"Link": "https://herremadwp.herremad.dk/12-11-2024-bastogne-kage/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "19.11.2024",
+		"Link": "https://herremadwp.herremad.dk/19-11-2024-menu/",
+		"recipes": [
+			{
+				"name": "Avocadomos med rejer",
+				"ID": "avocadomos-med-rejer",
+				"Link": "https://herremadwp.herremad.dk/19-11-2024-avocadomos-med-rejer/",
+				"type": "forret"
+			},
+			{
+				"name": "Rombo al Forno con patate",
+				"ID": "rombo-al-forno-con-patate",
+				"Link": "https://herremadwp.herremad.dk/19-11-2024-rombo-al-forno-con-patate/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Nem æbletærte med kanel og smuldredej",
+				"ID": "nem-aebletaerte-med-kanel-og-smuldredej",
+				"Link": "https://herremadwp.herremad.dk/19-11-2024-nem-aebletaerte-med-kanel-og-smuldredej/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "26.11.2024",
+		"Link": "https://herremadwp.herremad.dk/26-11-2024-menu/",
+		"recipes": [
+			{
+				"name": "Kammusling Aguachile",
+				"ID": "kammusling-aguachile",
+				"Link": "https://herremadwp.herremad.dk/26-11-2024-kammusling-aguachile/",
+				"type": "forret"
+			},
+			{
+				"name": "Torsk i fad med grøntsager og perlebyg",
+				"ID": "torsk-i-fad-med-groentsager-og-perlebyg",
+				"Link": "https://herremadwp.herremad.dk/26-11-2024-torsk-i-fad-med-groentsager-og-perlebyg/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Citron og passionsfrugttærte med marengs",
+				"ID": "citron-og-passionsfrugttaerte-med-marengs",
+				"Link": "https://herremadwp.herremad.dk/26-11-2024-citron-og-passionsfrugttaerte-med-marengs/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "03.12.2024",
+		"Link": "https://herremadwp.herremad.dk/03-12-2024-menu/",
+		"recipes": [
+			{
+				"name": "Bruchetta",
+				"ID": "bruchetta",
+				"Link": "https://herremadwp.herremad.dk/03-12-2024-bruchetta/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst med honningstegte rosenkål",
+				"ID": "andebryst-med-honningstegte-rosenkaal",
+				"Link": "https://herremadwp.herremad.dk/03-12-2024-andebryst-med-honningstegte-rosenkaal/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æblecrumble med marcipan",
+				"ID": "aeblecrumble-med-marcipan",
+				"Link": "https://herremadwp.herremad.dk/03-12-2024-aeblecrumble-med-marcipan/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.12.2024",
+		"Link": "https://herremadwp.herremad.dk/10-12-2024-menu/",
+		"recipes": [
+			{
+				"name": "Julegryde med kartoffelmos",
+				"ID": "julegryde-med-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/10-12-2024-julegryde-med-kartoffelmos/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Tærte med sommerbær og kokoscreme",
+				"ID": "taerte-med-sommerbaer-og-kokoscreme",
+				"Link": "https://herremadwp.herremad.dk/10-12-2024-taerte-med-sommerbaer-og-kokoscreme/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.01.2025",
+		"Link": "https://herremadwp.herremad.dk/07-01-2025-menu/",
+		"recipes": [
+			{
+				"name": "Tuntærte",
+				"ID": "tuntaerte",
+				"Link": "https://herremadwp.herremad.dk/07-01-2025-tuntaerte/",
+				"type": "forret"
+			},
+			{
+				"name": "Pasta med laks og spinat",
+				"ID": "pasta-med-laks-og-spinat",
+				"Link": "https://herremadwp.herremad.dk/07-01-2025-pasta-med-laks-og-spinat/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Hindbærsnitter",
+				"ID": "hindbaersnitter",
+				"Link": "https://herremadwp.herremad.dk/07-01-2025-hindbaersnitter/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.01.2025",
+		"Link": "https://herremadwp.herremad.dk/14-01-2025-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetta med tomater/svampe og gedeost med parmaskinke",
+				"ID": "bruschetta-med-tomater-svampe-og-gedeost-med-parmaskinke",
+				"Link": "https://herremadwp.herremad.dk/14-01-2025-bruschetta-med-tomater-svampe-og-gedeost-med-parmaskinke/",
+				"type": "forret"
+			}
+		]
+	}
+]

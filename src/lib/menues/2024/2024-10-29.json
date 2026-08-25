@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-10-29",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "ovnstegte-fasaner-med-hasselback-kartofler-sauce-sellerigratin-og-svampe",
+                "name": "Ovnstegte fasaner med hasselback-kartofler, sauce, sellerigratin og svampe",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "aebletaerte",
+                "name": "Æbletærte",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

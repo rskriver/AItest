@@ -1,0 +1,50 @@
+[
+	{
+		"date": "13.10.2020",
+		"Link": "https://herremadwp.herremad.dk/13-10-2020-menu/",
+		"recipes": [
+			{
+				"name": "Gourmesaltet pankopaneret sø- eller rødtunge med fennikel remoulade",
+				"ID": "gourmesaltet-pankopaneret-soe-eller-roedtunge-med-fennikel-remoulade",
+				"Link": "https://herremadwp.herremad.dk/13-10-2020-gourmesaltet-pankopaneret-soe-eller-roedtunge-med-fennikel-remoulade/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.10.2020",
+		"Link": "https://herremadwp.herremad.dk/20-10-2020-menu/",
+		"recipes": [
+			{
+				"name": "Græske rejer",
+				"ID": "graeske-rejer",
+				"Link": "https://herremadwp.herremad.dk/20-10-2020-graeske-rejer/",
+				"type": "forret"
+			},
+			{
+				"name": "Chiligryde med Kartoffel-Sellerimos",
+				"ID": "chiligryde-med-kartoffel-sellerimos",
+				"Link": "https://herremadwp.herremad.dk/20-10-2020-chiligryde-med-kartoffel-sellerimos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "27.10.2020",
+		"Link": "https://herremadwp.herremad.dk/27-10-2020-menu/",
+		"recipes": [
+			{
+				"name": "FRANSK LØGSUPPE",
+				"ID": "fransk-loegsuppe",
+				"Link": "https://herremadwp.herremad.dk/27-10-2020-fransk-loegsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Skindstegt kulmule med bløde løg",
+				"ID": "skindstegt-kulmule-med-bloede-loeg",
+				"Link": "https://herremadwp.herremad.dk/27-10-2020-skindstegt-kulmule-med-bloede-loeg/",
+				"type": "hovedret"
+			}
+		]
+	}
+]

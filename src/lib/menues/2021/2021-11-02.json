@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2021-11-02",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "spinatpandekager-med-laks-rejer-avocado-og-dilddressing",
+                "name": "Spinatpandekager med laks, rejer, avocado og dilddressing",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "indisk-curry-med-kylling",
+                "name": "Indisk curry med kylling",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

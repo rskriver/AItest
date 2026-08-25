@@ -1,0 +1,27 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2022-10-04",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "kammuslinger-med-aertepure-og-chorizo",
+                "name": "Kammuslinger med ærtepure og chorizo",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-10-10",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "gravad-laks-med-raevesauce",
+                "name": "Gravad laks med rævesauce",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "osso-buco-med-polenta",
+                "name": "Osso Buco med polenta",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "panna-cotta-med-baercoulis",
+                "name": "Panna Cotta med bærcoulis",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

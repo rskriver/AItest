@@ -1,0 +1,86 @@
+[
+	{
+		"date": "03.10.2023",
+		"Link": "https://herremadwp.herremad.dk/03-10-2023-menu/",
+		"recipes": [
+			{
+				"name": "Kammuslinger med jordskokke-puré",
+				"ID": "kammuslinger-med-jordskokke-pure",
+				"Link": "https://herremadwp.herremad.dk/03-10-2023-kammuslinger-med-jordskokke-pure/",
+				"type": "forret"
+			},
+			{
+				"name": "Svineragout med svampe og kartoffelmos",
+				"ID": "svineragout-med-svampe-og-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/03-10-2023-svineragout-med-svampe-og-kartoffelmos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "10.10.2023",
+		"Link": "https://herremadwp.herremad.dk/10-10-2023-menu/",
+		"recipes": [
+			{
+				"name": "Gravad laks med rævesauce",
+				"ID": "gravad-laks-med-raevesauce",
+				"Link": "https://herremadwp.herremad.dk/10-10-2023-gravad-laks-med-raevesauce/",
+				"type": "forret"
+			},
+			{
+				"name": "Osso Buco med polenta",
+				"ID": "osso-buco-med-polenta",
+				"Link": "https://herremadwp.herremad.dk/10-10-2023-osso-buco-med-polenta/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Panna Cotta med bærcoulis",
+				"ID": "panna-cotta-med-baercoulis",
+				"Link": "https://herremadwp.herremad.dk/10-10-2023-panna-cotta-med-baercoulis/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.11.2023",
+		"Link": "https://herremadwp.herremad.dk/07-11-2023-menu/",
+		"recipes": [
+			{
+				"name": "Løgtærte med timian",
+				"ID": "loegtaerte-med-timian",
+				"Link": "https://herremadwp.herremad.dk/07-11-2023-loegtaerte-med-timian/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst med rødkål og brunede kartofler",
+				"ID": "andebryst-med-roedkaal-og-brunede-kartofler",
+				"Link": "https://herremadwp.herremad.dk/07-11-2023-andebryst-med-roedkaal-og-brunede-kartofler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "16.01.2024",
+		"Link": "https://herremadwp.herremad.dk/16-01-2024-menu/",
+		"recipes": [
+			{
+				"name": "Carpaccio af oksemørbrad",
+				"ID": "carpaccio-af-oksemoerbrad",
+				"Link": "https://herremadwp.herremad.dk/16-01-2024-carpaccio-af-oksemoerbrad/",
+				"type": "forret"
+			},
+			{
+				"name": "Torsk i fad med purløgssauce",
+				"ID": "torsk-i-fad-med-purloegssauce",
+				"Link": "https://herremadwp.herremad.dk/16-01-2024-torsk-i-fad-med-purloegssauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Citrontærte",
+				"ID": "citrontaerte",
+				"Link": "https://herremadwp.herremad.dk/16-01-2024-citrontaerte/",
+				"type": "dessert"
+			}
+		]
+	}
+]

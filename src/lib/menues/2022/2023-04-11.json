@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-04-11",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "porre-loegsuppe-med-butterdejslaag",
+                "name": "Porre-løgsuppe med butterdejslåg",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            },
+            {
+                "id": "lam-med-champignon-tomat-olivensauce-med-knuste-kartofler",
+                "name": "Lam med champignon-tomat-olivensauce med knuste kartofler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

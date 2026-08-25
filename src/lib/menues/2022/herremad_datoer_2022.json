@@ -1,0 +1,62 @@
+[
+	{
+		"date": "04.10.2022",
+		"Link": "https://herremadwp.herremad.dk/04-10-2022-menu/",
+		"recipes": [
+			{
+				"name": "Kammuslinger med ærtepure og chorizo",
+				"ID": "kammuslinger-med-aertepure-og-chorizo",
+				"Link": "https://herremadwp.herremad.dk/04-10-2022-kammuslinger-med-aertepure-og-chorizo/",
+				"type": "forret"
+			}
+		]
+	},
+	{
+		"date": "17.01.2023",
+		"Link": "https://herremadwp.herremad.dk/17-01-2023-menu/",
+		"recipes": [
+			{
+				"name": "Bouillabaisse med Rouille",
+				"ID": "bouillabaisse-med-rouille",
+				"Link": "https://herremadwp.herremad.dk/17-01-2023-bouillabaisse-med-rouille/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crepes Suzette",
+				"ID": "crepes-suzette",
+				"Link": "https://herremadwp.herremad.dk/17-01-2023-crepes-suzette/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "28.03.2023",
+		"Link": "https://herremadwp.herremad.dk/28-03-2023-menu/",
+		"recipes": [
+			{
+				"name": "Blinis med purløg, rødløg og laks",
+				"ID": "blinis-med-purloeg-roedloeg-og-laks",
+				"Link": "https://herremadwp.herremad.dk/28-03-2023-blinis-med-purloeg-roedloeg-og-laks/",
+				"type": "forret"
+			}
+		]
+	},
+	{
+		"date": "11.04.2023",
+		"Link": "https://herremadwp.herremad.dk/11-04-2023-menu/",
+		"recipes": [
+			{
+				"name": "Porre-løgsuppe med butterdejslåg",
+				"ID": "porre-loegsuppe-med-butterdejslaag",
+				"Link": "https://herremadwp.herremad.dk/11-04-2023-porre-loegsuppe-med-butterdejslaag/",
+				"type": "forret"
+			},
+			{
+				"name": "Lam med champignon-tomat-olivensauce med knuste kartofler",
+				"ID": "lam-med-champignon-tomat-olivensauce-med-knuste-kartofler",
+				"Link": "https://herremadwp.herremad.dk/11-04-2023-lam-med-champignon-tomat-olivensauce-med-knuste-kartofler/",
+				"type": "hovedret"
+			}
+		]
+	}
+]

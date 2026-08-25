@@ -1,0 +1,27 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-03-28",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "blinis-med-purloeg-roedloeg-og-laks",
+                "name": "Blinis med purløg, rødløg og laks",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}

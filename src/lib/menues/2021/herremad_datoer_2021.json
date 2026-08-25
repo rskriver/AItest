@@ -1,0 +1,98 @@
+[
+	{
+		"date": "05.10.2021",
+		"Link": "https://herremadwp.herremad.dk/05-10-2021-menu/",
+		"recipes": [
+			{
+				"name": "Cremet sellerisuppe med trøffel",
+				"ID": "cremet-sellerisuppe-med-troeffel",
+				"Link": "https://herremadwp.herremad.dk/05-10-2021-cremet-sellerisuppe-med-troeffel/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalvemørbrad med svampe, parmaskinke og spinat",
+				"ID": "kalvemoerbrad-med-svampe-parmaskinke-og-spinat",
+				"Link": "https://herremadwp.herremad.dk/05-10-2021-kalvemoerbrad-med-svampe-parmaskinke-og-spinat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.10.2021",
+		"Link": "https://herremadwp.herremad.dk/12-10-2021-menu/",
+		"recipes": [
+			{
+				"name": "Gratineret hummer",
+				"ID": "gratineret-hummer",
+				"Link": "https://herremadwp.herremad.dk/12-10-2021-gratineret-hummer/",
+				"type": "forret"
+			},
+			{
+				"name": "Ale braiseret andebryst med quinoa-salat",
+				"ID": "ale-braiseret-andebryst-med-quinoa-salat",
+				"Link": "https://herremadwp.herremad.dk/12-10-2021-ale-braiseret-andebryst-med-quinoa-salat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "02.11.2021",
+		"Link": "https://herremadwp.herremad.dk/02-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Spinatpandekager med laks, rejer, avocado og dilddressing",
+				"ID": "spinatpandekager-med-laks-rejer-avocado-og-dilddressing",
+				"Link": "https://herremadwp.herremad.dk/02-11-2021-spinatpandekager-med-laks-rejer-avocado-og-dilddressing/",
+				"type": "forret"
+			},
+			{
+				"name": "Indisk curry med kylling",
+				"ID": "indisk-curry-med-kylling",
+				"Link": "https://herremadwp.herremad.dk/02-11-2021-indisk-curry-med-kylling/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "30.11.2021",
+		"Link": "https://herremadwp.herremad.dk/30-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Grønne linser men skindstegt Catch of the Day",
+				"ID": "groenne-linser-men-skindstegt-catch-of-the-day",
+				"Link": "https://herremadwp.herremad.dk/30-11-2021-groenne-linser-men-skindstegt-catch-of-the-day/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crema Catalana",
+				"ID": "crema-catalana",
+				"Link": "https://herremadwp.herremad.dk/30-11-2021-crema-catalana/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "01.03.2022",
+		"Link": "https://herremadwp.herremad.dk/01-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Fransk løgsuppe",
+				"ID": "fransk-loegsuppe",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-fransk-loegsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Franske koteletter",
+				"ID": "franske-koteletter",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-franske-koteletter/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crepes Suzette",
+				"ID": "crepes-suzette",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-crepes-suzette/",
+				"type": "dessert"
+			}
+		]
+	}
+]

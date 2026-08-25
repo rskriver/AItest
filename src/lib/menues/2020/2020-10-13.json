@@ -1,0 +1,27 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2020-10-13",
+        "image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
+        "dishes": [
+            {
+                "id": "gourmesaltet-pankopaneret-soe-eller-roedtunge-med-fennikel-remoulade",
+                "name": "Gourmesaltet pankopaneret sø- eller rødtunge med fennikel remoulade",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": []
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": []
+                    }
+                ]
+            }
+        ]
+    }
+}
