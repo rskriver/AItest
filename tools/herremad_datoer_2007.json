@@ -1,0 +1,416 @@
+[
+	{
+		"date": "07.-0.2008",
+		"Link": "https://herremadwp.herremad.dk/07--0-2008-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/07--0-2008-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/07--0-2008-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.10.2007",
+		"Link": "https://herremadwp.herremad.dk/22-10-2007-menu/",
+		"recipes": [
+			{
+				"name": "SHERRY- OG\n      LØGSUPPE M/SAFRAN",
+				"ID": "sherry-og-loegsuppe-msafran",
+				"Link": "https://herremadwp.herremad.dk/22-10-2007-sherry-og-loegsuppe-msafran/",
+				"type": "forret"
+			},
+			{
+				"name": "STEGT\n                      ANDEBRYST",
+				"ID": "stegt-andebryst",
+				"Link": "https://herremadwp.herremad.dk/22-10-2007-stegt-andebryst/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FIGNER POCHERET I RØDVIN OG TIMIAN",
+				"ID": "figner-pocheret-i-roedvin-og-timian",
+				"Link": "https://herremadwp.herremad.dk/22-10-2007-figner-pocheret-i-roedvin-og-timian/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "19.10.2007",
+		"Link": "https://herremadwp.herremad.dk/19-10-2007-menu/",
+		"recipes": [
+			{
+				"name": "VILDÆNDER I RØDVINSSAUCE",
+				"ID": "vildaender-i-roedvinssauce",
+				"Link": "https://herremadwp.herremad.dk/19-10-2007-vildaender-i-roedvinssauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "PANDEKAGER MEDAPPELSINCREME",
+				"ID": "pandekager-medappelsincreme",
+				"Link": "https://herremadwp.herremad.dk/19-10-2007-pandekager-medappelsincreme/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "23.10.2007",
+		"Link": "https://herremadwp.herremad.dk/23-10-2007-menu/",
+		"recipes": [
+			{
+				"name": "SELLERISUPPE\n                      MED PERSILLEOLIE OG BACON",
+				"ID": "sellerisuppe-med-persilleolie-og-bacon",
+				"Link": "https://herremadwp.herremad.dk/23-10-2007-sellerisuppe-med-persilleolie-og-bacon/",
+				"type": "forret"
+			},
+			{
+				"name": "KOGT\n                      TORSK",
+				"ID": "kogt-torsk",
+				"Link": "https://herremadwp.herremad.dk/23-10-2007-kogt-torsk/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "30.10.2007",
+		"Link": "https://herremadwp.herremad.dk/30-10-2007-menu/",
+		"recipes": [
+			{
+				"name": "VILDÆNDER I RØDVINSSAUCE",
+				"ID": "vildaender-i-roedvinssauce",
+				"Link": "https://herremadwp.herremad.dk/30-10-2007-vildaender-i-roedvinssauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "PANDEKAGER MEDAPPELSINCREME",
+				"ID": "pandekager-medappelsincreme",
+				"Link": "https://herremadwp.herremad.dk/30-10-2007-pandekager-medappelsincreme/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "16.11.2007",
+		"Link": "https://herremadwp.herremad.dk/16-11-2007-menu/",
+		"recipes": [
+			{
+				"name": "Hot\n                      Pot med oksekød, øl og lakridsrod",
+				"ID": "hot-pot-med-oksekoed-oel-og-lakridsrod",
+				"Link": "https://herremadwp.herremad.dk/16-11-2007-hot-pot-med-oksekoed-oel-og-lakridsrod/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Blødende\n                      chokoladekage med stout sabayonne.",
+				"ID": "bloedende-chokoladekage-med-stout-sabayonne",
+				"Link": "https://herremadwp.herremad.dk/16-11-2007-bloedende-chokoladekage-med-stout-sabayonne/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.11.2007",
+		"Link": "https://herremadwp.herremad.dk/15-11-2007-menu/",
+		"recipes": [
+			{
+				"name": "BONDESUPPE",
+				"ID": "bondesuppe",
+				"Link": "https://herremadwp.herremad.dk/15-11-2007-bondesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "MØRBRAD M/ABRIKOS -\n      a´la PRINS HENRIK",
+				"ID": "moerbrad-mabrikos-ala-prins-henrik",
+				"Link": "https://herremadwp.herremad.dk/15-11-2007-moerbrad-mabrikos-ala-prins-henrik/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.11.2007",
+		"Link": "https://herremadwp.herremad.dk/20-11-2007-menu/",
+		"recipes": [
+			{
+				"name": "ESTOFADO",
+				"ID": "estofado",
+				"Link": "https://herremadwp.herremad.dk/20-11-2007-estofado/",
+				"type": "hovedret"
+			},
+			{
+				"name": "CREME\n                      BRULEÉ",
+				"ID": "creme-brulee",
+				"Link": "https://herremadwp.herremad.dk/20-11-2007-creme-brulee/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.11.2007",
+		"Link": "https://herremadwp.herremad.dk/27-11-2007-menu/",
+		"recipes": [
+			{
+				"name": "LETTUCE-SUPPE\n                      MED KØDBOLLER",
+				"ID": "lettuce-suppe-med-koedboller",
+				"Link": "https://herremadwp.herremad.dk/27-11-2007-lettuce-suppe-med-koedboller/",
+				"type": "forret"
+			},
+			{
+				"name": "KYLLING\n                      I GUL KARRY PASTA",
+				"ID": "kylling-i-gul-karry-pasta",
+				"Link": "https://herremadwp.herremad.dk/27-11-2007-kylling-i-gul-karry-pasta/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "14.12.2007",
+		"Link": "https://herremadwp.herremad.dk/14-12-2007-menu/",
+		"recipes": [
+			{
+				"name": "KIDNEY\n                      PIEROGNONS EN CASSEROLE(Sauterede nyrer)",
+				"ID": "kidney-pierognons-en-casserolesauterede-nyrer",
+				"Link": "https://herremadwp.herremad.dk/14-12-2007-kidney-pierognons-en-casserolesauterede-nyrer/",
+				"type": "hovedret"
+			},
+			{
+				"name": "ÆBLEPAKKER M/\n                      FLØDECREME",
+				"ID": "aeblepakker-m-floedecreme",
+				"Link": "https://herremadwp.herremad.dk/14-12-2007-aeblepakker-m-floedecreme/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.12.2007",
+		"Link": "https://herremadwp.herremad.dk/11-12-2007-menu/",
+		"recipes": [
+			{
+				"name": "Opskrifter\n      der dannede udgangspunkt for julefrokostenHAMBURGERRYGFRIKADELLERSTUVET SPINATRØDKÅLKORENDEKAGER",
+				"ID": "opskrifter-der-dannede-udgangspunkt-for-julefrokostenhamburgerrygfrikadellerstuvet-spinatroedkaalkorendekager",
+				"Link": "https://herremadwp.herremad.dk/11-12-2007-opskrifter-der-dannede-udgangspunkt-for-julefrokostenhamburgerrygfrikadellerstuvet-spinatroedkaalkorendekager/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "18.12.2007",
+		"Link": "https://herremadwp.herremad.dk/18-12-2007-menu/",
+		"recipes": [
+			{
+				"name": "FJERKRÆaf en eller anden slags",
+				"ID": "fjerkraeaf-en-eller-anden-slags",
+				"Link": "https://herremadwp.herremad.dk/18-12-2007-fjerkraeaf-en-eller-anden-slags/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Risalamande ( Det er jo\n              trods alt JUL)",
+				"ID": "risalamande-det-er-jo-trods-alt-jul",
+				"Link": "https://herremadwp.herremad.dk/18-12-2007-risalamande-det-er-jo-trods-alt-jul/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.01.2008",
+		"Link": "https://herremadwp.herremad.dk/18-01-2008-menu/",
+		"recipes": [
+			{
+				"name": "THAILANDSK\n                      KYLLINGESUPPE(Tom Kha Gai)",
+				"ID": "thailandsk-kyllingesuppetom-kha-gai",
+				"Link": "https://herremadwp.herremad.dk/18-01-2008-thailandsk-kyllingesuppetom-kha-gai/",
+				"type": "forret"
+			},
+			{
+				"name": "FISKEFRIKADELLERm/tomatsovs og gulerodssalat",
+				"ID": "fiskefrikadellermtomatsovs-og-gulerodssalat",
+				"Link": "https://herremadwp.herremad.dk/18-01-2008-fiskefrikadellermtomatsovs-og-gulerodssalat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "15.01.2008",
+		"Link": "https://herremadwp.herremad.dk/15-01-2008-menu/",
+		"recipes": [
+			{
+				"name": "MUSLINGESUPPE\n                      FRA SKAGEN",
+				"ID": "muslingesuppe-fra-skagen",
+				"Link": "https://herremadwp.herremad.dk/15-01-2008-muslingesuppe-fra-skagen/",
+				"type": "forret"
+			},
+			{
+				"name": "STIFADO",
+				"ID": "stifado",
+				"Link": "https://herremadwp.herremad.dk/15-01-2008-stifado/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "22.01.2008",
+		"Link": "https://herremadwp.herremad.dk/22-01-2008-menu/",
+		"recipes": [
+			{
+				"name": "FYLDT\n      AVOCADO",
+				"ID": "fyldt-avocado",
+				"Link": "https://herremadwp.herremad.dk/22-01-2008-fyldt-avocado/",
+				"type": "forret"
+			},
+			{
+				"name": "FARSEREDE KØDRULLER",
+				"ID": "farserede-koedruller",
+				"Link": "https://herremadwp.herremad.dk/22-01-2008-farserede-koedruller/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.01.2008",
+		"Link": "https://herremadwp.herremad.dk/29-01-2008-menu/",
+		"recipes": [
+			{
+				"name": "Legeret\n      Kartoffelsuppe",
+				"ID": "legeret-kartoffelsuppe",
+				"Link": "https://herremadwp.herremad.dk/29-01-2008-legeret-kartoffelsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Kyllingefilet\n      med svampefyld i\n              bacon",
+				"ID": "kyllingefilet-med-svampefyld-i-bacon",
+				"Link": "https://herremadwp.herremad.dk/29-01-2008-kyllingefilet-med-svampefyld-i-bacon/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "15.02.2008",
+		"Link": "https://herremadwp.herremad.dk/15-02-2008-menu/",
+		"recipes": [
+			{
+				"name": "Forloren\n                      Skildpadde",
+				"ID": "forloren-skildpadde",
+				"Link": "https://herremadwp.herremad.dk/15-02-2008-forloren-skildpadde/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Abrikos-\n                      og valnøddetærte",
+				"ID": "abrikos-og-valnoeddetaerte",
+				"Link": "https://herremadwp.herremad.dk/15-02-2008-abrikos-og-valnoeddetaerte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "19.02.2008",
+		"Link": "https://herremadwp.herremad.dk/19-02-2008-menu/",
+		"recipes": [
+			{
+				"name": "Fyldt\n      svinemørbrad med æbler, bacon og soltørrede tomater",
+				"ID": "fyldt-svinemoerbrad-med-aebler-bacon-og-soltoerrede-tomater",
+				"Link": "https://herremadwp.herremad.dk/19-02-2008-fyldt-svinemoerbrad-med-aebler-bacon-og-soltoerrede-tomater/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ferskner med toscadej",
+				"ID": "ferskner-med-toscadej",
+				"Link": "https://herremadwp.herremad.dk/19-02-2008-ferskner-med-toscadej/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "26.02.2008",
+		"Link": "https://herremadwp.herremad.dk/26-02-2008-menu/",
+		"recipes": [
+			{
+				"name": "Svampesuppe",
+				"ID": "svampesuppe",
+				"Link": "https://herremadwp.herremad.dk/26-02-2008-svampesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Krondyrmørbrad",
+				"ID": "krondyrmoerbrad",
+				"Link": "https://herremadwp.herremad.dk/26-02-2008-krondyrmoerbrad/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "14.marts.2008",
+		"Link": "https://herremadwp.herremad.dk/14-marts-2008-menu/",
+		"recipes": [
+			{
+				"name": "Tarteletter med brisler i trøffelolie",
+				"ID": "tarteletter-med-brisler-i-troeffelolie",
+				"Link": "https://herremadwp.herremad.dk/14-marts-2008-tarteletter-med-brisler-i-troeffelolie/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalvelever\n      som i Venedig(Fregato di vitello alla veneziana)",
+				"ID": "kalvelever-som-i-venedigfregato-di-vitello-alla-veneziana",
+				"Link": "https://herremadwp.herremad.dk/14-marts-2008-kalvelever-som-i-venedigfregato-di-vitello-alla-veneziana/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "11.marts..2008",
+		"Link": "https://herremadwp.herremad.dk/11-marts.-2008-menu/",
+		"recipes": [
+			{
+				"name": "Koteletter\n                      i fad",
+				"ID": "koteletter-i-fad",
+				"Link": "https://herremadwp.herremad.dk/11-marts.-2008-koteletter-i-fad/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Abemad",
+				"ID": "abemad",
+				"Link": "https://herremadwp.herremad.dk/11-marts.-2008-abemad/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.marts.2008",
+		"Link": "https://herremadwp.herremad.dk/25-marts-2008-menu/",
+		"recipes": [
+			{
+				"name": "ZUPPA\n      DEL VENERDI SANTO(Den hellige fredags suppe)",
+				"ID": "zuppa-del-venerdi-santoden-hellige-fredags-suppe",
+				"Link": "https://herremadwp.herremad.dk/25-marts-2008-zuppa-del-venerdi-santoden-hellige-fredags-suppe/",
+				"type": "forret"
+			},
+			{
+				"name": "STUFATINO\n      ALLA ROMANA(Oksegryde på romersk manér)",
+				"ID": "stufatino-alla-romanaoksegryde-paa-romersk-maner",
+				"Link": "https://herremadwp.herremad.dk/25-marts-2008-stufatino-alla-romanaoksegryde-paa-romersk-maner/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FORÅRSKAGE(En aidel-version)",
+				"ID": "foraarskageen-aidel-version",
+				"Link": "https://herremadwp.herremad.dk/25-marts-2008-foraarskageen-aidel-version/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.04.2008",
+		"Link": "https://herremadwp.herremad.dk/21-04-2008-menu/",
+		"recipes": [
+			{
+				"name": "Dameaften",
+				"ID": "dameaften",
+				"Link": "https://herremadwp.herremad.dk/21-04-2008-dameaften/",
+				"type": "hovedret"
+			}
+		]
+	}
+]

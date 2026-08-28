@@ -1,0 +1,530 @@
+[
+	{
+		"date": "09.-0.2010",
+		"Link": "https://herremadwp.herremad.dk/09--0-2010-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/09--0-2010-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/09--0-2010-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "26.10.2009",
+		"Link": "https://herremadwp.herremad.dk/26-10-2009-menu/",
+		"recipes": [
+			{
+				"name": "JOMFRUHUMMER I DILDSAUCE MED \n\t\tSPIDSKÅL",
+				"ID": "jomfruhummer-i-dildsauce-med-spidskaal",
+				"Link": "https://herremadwp.herremad.dk/26-10-2009-jomfruhummer-i-dildsauce-med-spidskaal/",
+				"type": "forret"
+			},
+			{
+				"name": "KALVECULOTTESTEG I OVNm/porrecreme, gulerods- og kartoffelpandekage",
+				"ID": "kalveculottesteg-i-ovnmporrecreme-gulerods-og-kartoffelpandekage",
+				"Link": "https://herremadwp.herremad.dk/26-10-2009-kalveculottesteg-i-ovnmporrecreme-gulerods-og-kartoffelpandekage/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.10.2009",
+		"Link": "https://herremadwp.herremad.dk/20-10-2009-menu/",
+		"recipes": [
+			{
+				"name": "PAELLAm/græsk salat",
+				"ID": "paellamgraesk-salat",
+				"Link": "https://herremadwp.herremad.dk/20-10-2009-paellamgraesk-salat/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FRANSK ÆBLETÆRTE",
+				"ID": "fransk-aebletaerte",
+				"Link": "https://herremadwp.herremad.dk/20-10-2009-fransk-aebletaerte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.10.2009",
+		"Link": "https://herremadwp.herremad.dk/27-10-2009-menu/",
+		"recipes": [
+			{
+				"name": "Middelhavssalat",
+				"ID": "middelhavssalat",
+				"Link": "https://herremadwp.herremad.dk/27-10-2009-middelhavssalat/",
+				"type": "forret"
+			},
+			{
+				"name": "Fasan i champignon, vindrue og portvins sauce",
+				"ID": "fasan-i-champignon-vindrue-og-portvins-sauce",
+				"Link": "https://herremadwp.herremad.dk/27-10-2009-fasan-i-champignon-vindrue-og-portvins-sauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "13.11.2009",
+		"Link": "https://herremadwp.herremad.dk/13-11-2009-menu/",
+		"recipes": [
+			{
+				"name": "Salat (tre slags)med ristede valnødder, pinjekerner og honning gratineret gedeost.",
+				"ID": "salat-tre-slagsmed-ristede-valnoedder-pinjekerner-og-honning-gratineret-gedeost",
+				"Link": "https://herremadwp.herremad.dk/13-11-2009-salat-tre-slagsmed-ristede-valnoedder-pinjekerner-og-honning-gratineret-gedeost/",
+				"type": "forret"
+			},
+			{
+				"name": "Marineret Dådyrkøllemed ovnstegte kartofler og Waldorf Salat",
+				"ID": "marineret-daadyrkoellemed-ovnstegte-kartofler-og-waldorf-salat",
+				"Link": "https://herremadwp.herremad.dk/13-11-2009-marineret-daadyrkoellemed-ovnstegte-kartofler-og-waldorf-salat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "10.11.2009",
+		"Link": "https://herremadwp.herremad.dk/10-11-2009-menu/",
+		"recipes": [
+			{
+				"name": "FISKESUPPE",
+				"ID": "fiskesuppe",
+				"Link": "https://herremadwp.herremad.dk/10-11-2009-fiskesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "FORELLER I OVN",
+				"ID": "foreller-i-ovn",
+				"Link": "https://herremadwp.herremad.dk/10-11-2009-foreller-i-ovn/",
+				"type": "hovedret"
+			},
+			{
+				"name": "ÆBLEKAGE",
+				"ID": "aeblekage",
+				"Link": "https://herremadwp.herremad.dk/10-11-2009-aeblekage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "17.11.2009",
+		"Link": "https://herremadwp.herremad.dk/17-11-2009-menu/",
+		"recipes": [
+			{
+				"name": "Appelsinsalat med \n\t\tsafrandressing",
+				"ID": "appelsinsalat-med-safrandressing",
+				"Link": "https://herremadwp.herremad.dk/17-11-2009-appelsinsalat-med-safrandressing/",
+				"type": "forret"
+			},
+			{
+				"name": "Vildtgryde",
+				"ID": "vildtgryde",
+				"Link": "https://herremadwp.herremad.dk/17-11-2009-vildtgryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "24.11.2009",
+		"Link": "https://herremadwp.herremad.dk/24-11-2009-menu/",
+		"recipes": [
+			{
+				"name": "Baconbrød",
+				"ID": "baconbroed",
+				"Link": "https://herremadwp.herremad.dk/24-11-2009-baconbroed/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegt vildand m/ \n\t\t\t\t\tflødesalat",
+				"ID": "stegt-vildand-m-floedesalat",
+				"Link": "https://herremadwp.herremad.dk/24-11-2009-stegt-vildand-m-floedesalat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "11.12.2009",
+		"Link": "https://herremadwp.herremad.dk/11-12-2009-menu/",
+		"recipes": [
+			{
+				"name": "FISKESUPPE MED JOMFRUHUMMERHALER",
+				"ID": "fiskesuppe-med-jomfruhummerhaler",
+				"Link": "https://herremadwp.herremad.dk/11-12-2009-fiskesuppe-med-jomfruhummerhaler/",
+				"type": "hovedret"
+			},
+			{
+				"name": "CITRONFROMAGE",
+				"ID": "citronfromage",
+				"Link": "https://herremadwp.herremad.dk/11-12-2009-citronfromage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "28.12.2009",
+		"Link": "https://herremadwp.herremad.dk/28-12-2009-menu/",
+		"recipes": [
+			{
+				"name": "Små sprøde \n\t\t\t\t\taubergine sandwiches",
+				"ID": "smaa-sproede-aubergine-sandwiches",
+				"Link": "https://herremadwp.herremad.dk/28-12-2009-smaa-sproede-aubergine-sandwiches/",
+				"type": "forret"
+			},
+			{
+				"name": "Aromatisk \n\t\t\t\t\tappelsinsalat/Kylling i karry",
+				"ID": "aromatisk-appelsinsalatkylling-i-karry",
+				"Link": "https://herremadwp.herremad.dk/28-12-2009-aromatisk-appelsinsalatkylling-i-karry/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Clafoutis",
+				"ID": "clafoutis",
+				"Link": "https://herremadwp.herremad.dk/28-12-2009-clafoutis/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.12.2009",
+		"Link": "https://herremadwp.herremad.dk/15-12-2009-menu/",
+		"recipes": [
+			{
+				"name": "Stegte sildRødspættefileterLaksetatar",
+				"ID": "stegte-sildroedspaettefileterlaksetatar",
+				"Link": "https://herremadwp.herremad.dk/15-12-2009-stegte-sildroedspaettefileterlaksetatar/",
+				"type": "forret"
+			},
+			{
+				"name": "Gammeldaws ÆbleflæskMørbradbøf",
+				"ID": "gammeldaws-aebleflaeskmoerbradboef",
+				"Link": "https://herremadwp.herremad.dk/15-12-2009-gammeldaws-aebleflaeskmoerbradboef/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ris a la Mande",
+				"ID": "ris-a-la-mande",
+				"Link": "https://herremadwp.herremad.dk/15-12-2009-ris-a-la-mande/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.01.2010",
+		"Link": "https://herremadwp.herremad.dk/25-01-2010-menu/",
+		"recipes": [
+			{
+				"name": "Makrelfilet a la \n\t\t\t\t\tHemningwayFriske rispapirsruller",
+				"ID": "makrelfilet-a-la-hemningwayfriske-rispapirsruller",
+				"Link": "https://herremadwp.herremad.dk/25-01-2010-makrelfilet-a-la-hemningwayfriske-rispapirsruller/",
+				"type": "forret"
+			},
+			{
+				"name": "Ovnbagt rødtunge med \n\t\t\t\t\tfriske tomater",
+				"ID": "ovnbagt-roedtunge-med-friske-tomater",
+				"Link": "https://herremadwp.herremad.dk/25-01-2010-ovnbagt-roedtunge-med-friske-tomater/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.01.2010",
+		"Link": "https://herremadwp.herremad.dk/12-01-2010-menu/",
+		"recipes": [
+			{
+				"name": "Krydret rejesuppe(Tom Yam Gung)",
+				"ID": "krydret-rejesuppetom-yam-gung",
+				"Link": "https://herremadwp.herremad.dk/12-01-2010-krydret-rejesuppetom-yam-gung/",
+				"type": "forret"
+			},
+			{
+				"name": "Fisk \n\t\t\t\t\tog skaldyr med risnudler",
+				"ID": "fisk-og-skaldyr-med-risnudler",
+				"Link": "https://herremadwp.herremad.dk/12-01-2010-fisk-og-skaldyr-med-risnudler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "19.01.2010",
+		"Link": "https://herremadwp.herremad.dk/19-01-2010-menu/",
+		"recipes": [
+			{
+				"name": "Krabbe- \n\t\t\t\t\tog avokadosalat",
+				"ID": "krabbe-og-avokadosalat",
+				"Link": "https://herremadwp.herremad.dk/19-01-2010-krabbe-og-avokadosalat/",
+				"type": "forret"
+			},
+			{
+				"name": "Kylling i cola",
+				"ID": "kylling-i-cola",
+				"Link": "https://herremadwp.herremad.dk/19-01-2010-kylling-i-cola/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "26.01.2010",
+		"Link": "https://herremadwp.herremad.dk/26-01-2010-menu/",
+		"recipes": [
+			{
+				"name": "Farserede tomater",
+				"ID": "farserede-tomater",
+				"Link": "https://herremadwp.herremad.dk/26-01-2010-farserede-tomater/",
+				"type": "forret"
+			},
+			{
+				"name": "Svinekød med kos-salat i æggecitronsauce",
+				"ID": "svinekoed-med-kos-salat-i-aeggecitronsauce",
+				"Link": "https://herremadwp.herremad.dk/26-01-2010-svinekoed-med-kos-salat-i-aeggecitronsauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Bagt figen med \n\t\t\t\t\tricotta",
+				"ID": "bagt-figen-med-ricotta",
+				"Link": "https://herremadwp.herremad.dk/26-01-2010-bagt-figen-med-ricotta/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.02.2010",
+		"Link": "https://herremadwp.herremad.dk/22-02-2010-menu/",
+		"recipes": [
+			{
+				"name": "2 SLAGS BRUSCHETTA",
+				"ID": "2-slags-bruschetta",
+				"Link": "https://herremadwp.herremad.dk/22-02-2010-2-slags-bruschetta/",
+				"type": "forret"
+			},
+			{
+				"name": "HJERTER I VILDTSAUCE \n\t\t\t\t\tMED KARTOFFELMOS",
+				"ID": "hjerter-i-vildtsauce-med-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/22-02-2010-hjerter-i-vildtsauce-med-kartoffelmos/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FRUGTSALAT",
+				"ID": "frugtsalat",
+				"Link": "https://herremadwp.herremad.dk/22-02-2010-frugtsalat/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "19.02.2010",
+		"Link": "https://herremadwp.herremad.dk/19-02-2010-menu/",
+		"recipes": [
+			{
+				"name": "Salat med lotusrod",
+				"ID": "salat-med-lotusrod",
+				"Link": "https://herremadwp.herremad.dk/19-02-2010-salat-med-lotusrod/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegt lever som på \n\t\t\t\t\tBali",
+				"ID": "stegt-lever-som-paa-bali",
+				"Link": "https://herremadwp.herremad.dk/19-02-2010-stegt-lever-som-paa-bali/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kaffefromage",
+				"ID": "kaffefromage",
+				"Link": "https://herremadwp.herremad.dk/19-02-2010-kaffefromage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "23.02.2010",
+		"Link": "https://herremadwp.herremad.dk/23-02-2010-menu/",
+		"recipes": [
+			{
+				"name": "Porreforret/salat",
+				"ID": "porreforretsalat",
+				"Link": "https://herremadwp.herremad.dk/23-02-2010-porreforretsalat/",
+				"type": "forret"
+			},
+			{
+				"name": "Peberfrugter med kyllingelever",
+				"ID": "peberfrugter-med-kyllingelever",
+				"Link": "https://herremadwp.herremad.dk/23-02-2010-peberfrugter-med-kyllingelever/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.marts.2010",
+		"Link": "https://herremadwp.herremad.dk/12-marts-2010-menu/",
+		"recipes": [
+			{
+				"name": "Avokado m/rejer og kaviar",
+				"ID": "avokado-mrejer-og-kaviar",
+				"Link": "https://herremadwp.herremad.dk/12-marts-2010-avokado-mrejer-og-kaviar/",
+				"type": "forret"
+			},
+			{
+				"name": "Farseret svinekam m/vindruesalsa",
+				"ID": "farseret-svinekam-mvindruesalsa",
+				"Link": "https://herremadwp.herremad.dk/12-marts-2010-farseret-svinekam-mvindruesalsa/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.marts.2010",
+		"Link": "https://herremadwp.herremad.dk/29-marts-2010-menu/",
+		"recipes": [
+			{
+				"name": "Københavnerbrød",
+				"ID": "koebenhavnerbroed",
+				"Link": "https://herremadwp.herremad.dk/29-marts-2010-koebenhavnerbroed/",
+				"type": "forret"
+			},
+			{
+				"name": "Karbonader med \n\t\t\t\t\tgrønkålssalat og Bearnaisesauce",
+				"ID": "karbonader-med-groenkaalssalat-og-bearnaisesauce",
+				"Link": "https://herremadwp.herremad.dk/29-marts-2010-karbonader-med-groenkaalssalat-og-bearnaisesauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kræmmerhuse med flødeskum",
+				"ID": "kraemmerhuse-med-floedeskum",
+				"Link": "https://herremadwp.herremad.dk/29-marts-2010-kraemmerhuse-med-floedeskum/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "16.marts.2010",
+		"Link": "https://herremadwp.herremad.dk/16-marts-2010-menu/",
+		"recipes": [
+			{
+				"name": "Stegt flæsk med \n\t\tpersillesovs",
+				"ID": "stegt-flaesk-med-persillesovs",
+				"Link": "https://herremadwp.herremad.dk/16-marts-2010-stegt-flaesk-med-persillesovs/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crepes Suzette",
+				"ID": "crepes-suzette",
+				"Link": "https://herremadwp.herremad.dk/16-marts-2010-crepes-suzette/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "23.marts.2010",
+		"Link": "https://herremadwp.herremad.dk/23-marts-2010-menu/",
+		"recipes": [
+			{
+				"name": "Blini",
+				"ID": "blini",
+				"Link": "https://herremadwp.herremad.dk/23-marts-2010-blini/",
+				"type": "forret"
+			},
+			{
+				"name": "Lammeragout",
+				"ID": "lammeragout",
+				"Link": "https://herremadwp.herremad.dk/23-marts-2010-lammeragout/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Tynde \n\t\t\t\t\tpandekager",
+				"ID": "tynde-pandekager",
+				"Link": "https://herremadwp.herremad.dk/23-marts-2010-tynde-pandekager/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "16.april.2010",
+		"Link": "https://herremadwp.herremad.dk/16-april-2010-menu/",
+		"recipes": [
+			{
+				"name": "Choritos de Andalusià",
+				"ID": "choritos-de-andalusi",
+				"Link": "https://herremadwp.herremad.dk/16-april-2010-choritos-de-andalusi/",
+				"type": "forret"
+			},
+			{
+				"name": "Marineret Mørbrad m/pastasalat med chilibacon",
+				"ID": "marineret-moerbrad-mpastasalat-med-chilibacon",
+				"Link": "https://herremadwp.herremad.dk/16-april-2010-marineret-moerbrad-mpastasalat-med-chilibacon/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Issurprice på grill",
+				"ID": "issurprice-paa-grill",
+				"Link": "https://herremadwp.herremad.dk/16-april-2010-issurprice-paa-grill/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "13.april.2010",
+		"Link": "https://herremadwp.herremad.dk/13-april-2010-menu/",
+		"recipes": [
+			{
+				"name": "Tigerrejer",
+				"ID": "tigerrejer",
+				"Link": "https://herremadwp.herremad.dk/13-april-2010-tigerrejer/",
+				"type": "forret"
+			},
+			{
+				"name": "Mørbrad à la Lerchenfeld",
+				"ID": "moerbrad-la-lerchenfeld",
+				"Link": "https://herremadwp.herremad.dk/13-april-2010-moerbrad-la-lerchenfeld/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.april.2010",
+		"Link": "https://herremadwp.herremad.dk/20-april-2010-menu/",
+		"recipes": [
+			{
+				"name": "Lynstegt laks med \n\t\t\t\t\tfemkrydderi og ingefær",
+				"ID": "lynstegt-laks-med-femkrydderi-og-ingefaer",
+				"Link": "https://herremadwp.herremad.dk/20-april-2010-lynstegt-laks-med-femkrydderi-og-ingefaer/",
+				"type": "forret"
+			},
+			{
+				"name": "Oksekødskarry med appelsin",
+				"ID": "oksekoedskarry-med-appelsin",
+				"Link": "https://herremadwp.herremad.dk/20-april-2010-oksekoedskarry-med-appelsin/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "23.april.2010",
+		"Link": "https://herremadwp.herremad.dk/23-april-2010-menu/",
+		"recipes": [
+			{
+				"name": "Rejecocktail med avocadocreme",
+				"ID": "rejecocktail-med-avocadocreme",
+				"Link": "https://herremadwp.herremad.dk/23-april-2010-rejecocktail-med-avocadocreme/",
+				"type": "forret"
+			},
+			{
+				"name": "Indbagt kalvemørbrad og \n\t\t\t\t\testragonsauce",
+				"ID": "indbagt-kalvemoerbrad-og-estragonsauce",
+				"Link": "https://herremadwp.herremad.dk/23-april-2010-indbagt-kalvemoerbrad-og-estragonsauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Cherry Heering dessert",
+				"ID": "cherry-heering-dessert",
+				"Link": "https://herremadwp.herremad.dk/23-april-2010-cherry-heering-dessert/",
+				"type": "dessert"
+			}
+		]
+	}
+]

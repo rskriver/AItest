@@ -1,0 +1,350 @@
+[
+	{
+		"date": "10.-0.2011",
+		"Link": "https://herremadwp.herremad.dk/10--0-2011-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/10--0-2011-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/10--0-2011-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "12.10.2010",
+		"Link": "https://herremadwp.herremad.dk/12-10-2010-menu/",
+		"recipes": [
+			{
+				"name": "Svampesuppe m/låg",
+				"ID": "svampesuppe-mlaag",
+				"Link": "https://herremadwp.herremad.dk/12-10-2010-svampesuppe-mlaag/",
+				"type": "forret"
+			},
+			{
+				"name": "Revelsben",
+				"ID": "revelsben",
+				"Link": "https://herremadwp.herremad.dk/12-10-2010-revelsben/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "26.10.2010",
+		"Link": "https://herremadwp.herremad.dk/26-10-2010-menu/",
+		"recipes": [
+			{
+				"name": "Ceviche af torsk med \n\t\tBaies Rose og koriander",
+				"ID": "ceviche-af-torsk-med-baies-rose-og-koriander",
+				"Link": "https://herremadwp.herremad.dk/26-10-2010-ceviche-af-torsk-med-baies-rose-og-koriander/",
+				"type": "forret"
+			},
+			{
+				"name": "Beef \n\t\t\t\t\tWellington",
+				"ID": "beef-wellington",
+				"Link": "https://herremadwp.herremad.dk/26-10-2010-beef-wellington/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Sachertorte",
+				"ID": "sachertorte",
+				"Link": "https://herremadwp.herremad.dk/26-10-2010-sachertorte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "16.11.2010",
+		"Link": "https://herremadwp.herremad.dk/16-11-2010-menu/",
+		"recipes": [
+			{
+				"name": "Fyldte \n\t\t\t\t\tchampignoner",
+				"ID": "fyldte-champignoner",
+				"Link": "https://herremadwp.herremad.dk/16-11-2010-fyldte-champignoner/",
+				"type": "forret"
+			},
+			{
+				"name": "Vildtgryde/vildtragout med sellerimos",
+				"ID": "vildtgrydevildtragout-med-sellerimos",
+				"Link": "https://herremadwp.herremad.dk/16-11-2010-vildtgrydevildtragout-med-sellerimos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "23.11.2010",
+		"Link": "https://herremadwp.herremad.dk/23-11-2010-menu/",
+		"recipes": [
+			{
+				"name": "Hokkaidosuppe",
+				"ID": "hokkaidosuppe",
+				"Link": "https://herremadwp.herremad.dk/23-11-2010-hokkaidosuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Lav en \n\t\t\t\t\tret af ...? ? ?",
+				"ID": "lav-en-ret-af",
+				"Link": "https://herremadwp.herremad.dk/23-11-2010-lav-en-ret-af/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "30.11.2010",
+		"Link": "https://herremadwp.herremad.dk/30-11-2010-menu/",
+		"recipes": [
+			{
+				"name": "Limesuppe",
+				"ID": "limesuppe",
+				"Link": "https://herremadwp.herremad.dk/30-11-2010-limesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst",
+				"ID": "andebryst",
+				"Link": "https://herremadwp.herremad.dk/30-11-2010-andebryst/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "14.12.2010",
+		"Link": "https://herremadwp.herremad.dk/14-12-2010-menu/",
+		"recipes": [
+			{
+				"name": "Stegte \n\t\t\t\t\tsild + julesild",
+				"ID": "stegte-sild-julesild",
+				"Link": "https://herremadwp.herremad.dk/14-12-2010-stegte-sild-julesild/",
+				"type": "forret"
+			},
+			{
+				"name": "Grønlangkål lavet som i Vendsyssel",
+				"ID": "groenlangkaal-lavet-som-i-vendsyssel",
+				"Link": "https://herremadwp.herremad.dk/14-12-2010-groenlangkaal-lavet-som-i-vendsyssel/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ris à \n\t\t\t\t\tl’mande",
+				"ID": "ris-lmande",
+				"Link": "https://herremadwp.herremad.dk/14-12-2010-ris-lmande/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.01.2011",
+		"Link": "https://herremadwp.herremad.dk/11-01-2011-menu/",
+		"recipes": [
+			{
+				"name": "Kogt \n\t\t\t\t\ttorsk med sennepssovs",
+				"ID": "kogt-torsk-med-sennepssovs",
+				"Link": "https://herremadwp.herremad.dk/11-01-2011-kogt-torsk-med-sennepssovs/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Chokolademousse",
+				"ID": "chokolademousse",
+				"Link": "https://herremadwp.herremad.dk/11-01-2011-chokolademousse/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.01.2011",
+		"Link": "https://herremadwp.herremad.dk/18-01-2011-menu/",
+		"recipes": [
+			{
+				"name": "LEGERET KARTOFFELSUPPE",
+				"ID": "legeret-kartoffelsuppe",
+				"Link": "https://herremadwp.herremad.dk/18-01-2011-legeret-kartoffelsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "HAVØRRED \n\t\t\t\t\tÀ LA MINI",
+				"ID": "havoerred-la-mini",
+				"Link": "https://herremadwp.herremad.dk/18-01-2011-havoerred-la-mini/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HJEMMEBAGTE KOKOSMAKRONER med KAFFE",
+				"ID": "hjemmebagte-kokosmakroner-med-kaffe",
+				"Link": "https://herremadwp.herremad.dk/18-01-2011-hjemmebagte-kokosmakroner-med-kaffe/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.01.2011",
+		"Link": "https://herremadwp.herremad.dk/25-01-2011-menu/",
+		"recipes": [
+			{
+				"name": "Bouillabaisse",
+				"ID": "bouillabaisse",
+				"Link": "https://herremadwp.herremad.dk/25-01-2011-bouillabaisse/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kejserinderis m. sukkerslør",
+				"ID": "kejserinderis-m-sukkersloer",
+				"Link": "https://herremadwp.herremad.dk/25-01-2011-kejserinderis-m-sukkersloer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.02.2011",
+		"Link": "https://herremadwp.herremad.dk/15-02-2011-menu/",
+		"recipes": [
+			{
+				"name": "Blini",
+				"ID": "blini",
+				"Link": "https://herremadwp.herremad.dk/15-02-2011-blini/",
+				"type": "forret"
+			},
+			{
+				"name": "Chateaubriand i Pesto-Parmasvøbm/varm safran-aiolicreme",
+				"ID": "chateaubriand-i-pesto-parmasvoebmvarm-safran-aiolicreme",
+				"Link": "https://herremadwp.herremad.dk/15-02-2011-chateaubriand-i-pesto-parmasvoebmvarm-safran-aiolicreme/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pinãcolada is m/tropefrugter i kokoskurve",
+				"ID": "pincolada-is-mtropefrugter-i-kokoskurve",
+				"Link": "https://herremadwp.herremad.dk/15-02-2011-pincolada-is-mtropefrugter-i-kokoskurve/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.02.2011",
+		"Link": "https://herremadwp.herremad.dk/22-02-2011-menu/",
+		"recipes": [
+			{
+				"name": "Kalkun i chili-chokoladesauce",
+				"ID": "kalkun-i-chili-chokoladesauce",
+				"Link": "https://herremadwp.herremad.dk/22-02-2011-kalkun-i-chili-chokoladesauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Flamberede bananer",
+				"ID": "flamberede-bananer",
+				"Link": "https://herremadwp.herremad.dk/22-02-2011-flamberede-bananer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.marts.2011",
+		"Link": "https://herremadwp.herremad.dk/15-marts-2011-menu/",
+		"recipes": [
+			{
+				"name": "OliventapenadeHyggehapser medens maden tilberedes….",
+				"ID": "oliventapenadehyggehapser-medens-maden-tilberedes",
+				"Link": "https://herremadwp.herremad.dk/15-marts-2011-oliventapenadehyggehapser-medens-maden-tilberedes/",
+				"type": "forret"
+			},
+			{
+				"name": "VikingbøfOpskrift fra Viking Bøfhus - anno 1965",
+				"ID": "vikingboefopskrift-fra-viking-boefhus-anno-1965",
+				"Link": "https://herremadwp.herremad.dk/15-marts-2011-vikingboefopskrift-fra-viking-boefhus-anno-1965/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kokospanerede ananasringe med mokkasauce",
+				"ID": "kokospanerede-ananasringe-med-mokkasauce",
+				"Link": "https://herremadwp.herremad.dk/15-marts-2011-kokospanerede-ananasringe-med-mokkasauce/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.marts.2011",
+		"Link": "https://herremadwp.herremad.dk/22-marts-2011-menu/",
+		"recipes": [
+			{
+				"name": "Ovnstegte \n\t\t\t\t\tskiver af okseskank på urtebund",
+				"ID": "ovnstegte-skiver-af-okseskank-paa-urtebund",
+				"Link": "https://herremadwp.herremad.dk/22-marts-2011-ovnstegte-skiver-af-okseskank-paa-urtebund/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Lun ost \n\t\t\t\t\tmed rosmarin og ahornsirup",
+				"ID": "lun-ost-med-rosmarin-og-ahornsirup",
+				"Link": "https://herremadwp.herremad.dk/22-marts-2011-lun-ost-med-rosmarin-og-ahornsirup/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "29.marts.2011",
+		"Link": "https://herremadwp.herremad.dk/29-marts-2011-menu/",
+		"recipes": [
+			{
+				"name": "Frølår a \n\t\t\t\t\tla Faldsled Kro",
+				"ID": "froelaar-a-la-faldsled-kro",
+				"Link": "https://herremadwp.herremad.dk/29-marts-2011-froelaar-a-la-faldsled-kro/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegt \n\t\t\t\t\tlaks med ingefær-appelsinsauce, fennikelsalat med \n\t\t\t\t\tkaramelliseret appelsin",
+				"ID": "stegt-laks-med-ingefaer-appelsinsauce-fennikelsalat-med-karamelliseret-appelsin",
+				"Link": "https://herremadwp.herremad.dk/29-marts-2011-stegt-laks-med-ingefaer-appelsinsauce-fennikelsalat-med-karamelliseret-appelsin/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.april.2011",
+		"Link": "https://herremadwp.herremad.dk/12-april-2011-menu/",
+		"recipes": [
+			{
+				"name": "Forårssalat med godt fra havet",
+				"ID": "foraarssalat-med-godt-fra-havet",
+				"Link": "https://herremadwp.herremad.dk/12-april-2011-foraarssalat-med-godt-fra-havet/",
+				"type": "forret"
+			},
+			{
+				"name": "Forårssalat med andebryst",
+				"ID": "foraarssalat-med-andebryst",
+				"Link": "https://herremadwp.herremad.dk/12-april-2011-foraarssalat-med-andebryst/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kaffe med småkager m.v.",
+				"ID": "kaffe-med-smaakager-mv",
+				"Link": "https://herremadwp.herremad.dk/12-april-2011-kaffe-med-smaakager-mv/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "29.april.2011",
+		"Link": "https://herremadwp.herremad.dk/29-april-2011-menu/",
+		"recipes": [
+			{
+				"name": "VelkomstdrinkFidderolles a la MBLRødtunge",
+				"ID": "velkomstdrinkfidderolles-a-la-mblroedtunge",
+				"Link": "https://herremadwp.herremad.dk/29-april-2011-velkomstdrinkfidderolles-a-la-mblroedtunge/",
+				"type": "forret"
+			},
+			{
+				"name": "Herremads \n\t\t\t\t\tChateaubriand",
+				"ID": "herremads-chateaubriand",
+				"Link": "https://herremadwp.herremad.dk/29-april-2011-herremads-chateaubriand/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pinãcolada isKaffeKransekage/SaraBernhart",
+				"ID": "pincolada-iskaffekransekagesarabernhart",
+				"Link": "https://herremadwp.herremad.dk/29-april-2011-pincolada-iskaffekransekagesarabernhart/",
+				"type": "dessert"
+			}
+		]
+	}
+]

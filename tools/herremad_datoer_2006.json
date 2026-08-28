@@ -1,0 +1,146 @@
+[
+	{
+		"date": "10.10.2006",
+		"Link": "https://herremadwp.herremad.dk/10-10-2006-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetta al pomodoro e basilico",
+				"ID": "bruschetta-al-pomodoro-e-basilico",
+				"Link": "https://herremadwp.herremad.dk/10-10-2006-bruschetta-al-pomodoro-e-basilico/",
+				"type": "forret"
+			},
+			{
+				"name": "Parmigiana\n              di melanzane",
+				"ID": "parmigiana-di-melanzane",
+				"Link": "https://herremadwp.herremad.dk/10-10-2006-parmigiana-di-melanzane/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pere\n              con gorgonzola",
+				"ID": "pere-con-gorgonzola",
+				"Link": "https://herremadwp.herremad.dk/10-10-2006-pere-con-gorgonzola/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "24.10.2006",
+		"Link": "https://herremadwp.herremad.dk/24-10-2006-menu/",
+		"recipes": [
+			{
+				"name": "Involtini di prosciutto e Mozzarella",
+				"ID": "involtini-di-prosciutto-e-mozzarella",
+				"Link": "https://herremadwp.herremad.dk/24-10-2006-involtini-di-prosciutto-e-mozzarella/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pastiera\n      Napoletana Maniera di Knud-Erik",
+				"ID": "pastiera-napoletana-maniera-di-knud-erik",
+				"Link": "https://herremadwp.herremad.dk/24-10-2006-pastiera-napoletana-maniera-di-knud-erik/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.11.2006",
+		"Link": "https://herremadwp.herremad.dk/21-11-2006-menu/",
+		"recipes": [
+			{
+				"name": "ZARZUELA DE PESCADO(Catalansk fiskegryde)",
+				"ID": "zarzuela-de-pescadocatalansk-fiskegryde",
+				"Link": "https://herremadwp.herremad.dk/21-11-2006-zarzuela-de-pescadocatalansk-fiskegryde/",
+				"type": "hovedret"
+			},
+			{
+				"name": "TARTE AU CITRON(Typisk repræsentant for det\n              provençalske køkken)",
+				"ID": "tarte-au-citrontypisk-repraesentant-for-det-provenalske-koekken",
+				"Link": "https://herremadwp.herremad.dk/21-11-2006-tarte-au-citrontypisk-repraesentant-for-det-provenalske-koekken/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "19.12.2006",
+		"Link": "https://herremadwp.herremad.dk/19-12-2006-menu/",
+		"recipes": [
+			{
+				"name": "Ingen\n              forret",
+				"ID": "ingen-forret",
+				"Link": "https://herremadwp.herremad.dk/19-12-2006-ingen-forret/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegt\n              andebryst med ristede svampe, forårsløg og rødvinssauce",
+				"ID": "stegt-andebryst-med-ristede-svampe-foraarsloeg-og-roedvinssauce",
+				"Link": "https://herremadwp.herremad.dk/19-12-2006-stegt-andebryst-med-ristede-svampe-foraarsloeg-og-roedvinssauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ris\n              à l'amande",
+				"ID": "ris-lamande",
+				"Link": "https://herremadwp.herremad.dk/19-12-2006-ris-lamande/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "23.01.2007",
+		"Link": "https://herremadwp.herremad.dk/23-01-2007-menu/",
+		"recipes": [
+			{
+				"name": "SHERRY- OG LØGSUPPE MED SAFRAN",
+				"ID": "sherry-og-loegsuppe-med-safran",
+				"Link": "https://herremadwp.herremad.dk/23-01-2007-sherry-og-loegsuppe-med-safran/",
+				"type": "forret"
+			},
+			{
+				"name": "STUVNING MED KALV OG BØNNERMED TILBEHØR: MOJETE OG PATATAS BRAVAS",
+				"ID": "stuvning-med-kalv-og-boennermed-tilbehoer-mojete-og-patatas-bravas",
+				"Link": "https://herremadwp.herremad.dk/23-01-2007-stuvning-med-kalv-og-boennermed-tilbehoer-mojete-og-patatas-bravas/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.02.2007",
+		"Link": "https://herremadwp.herremad.dk/20-02-2007-menu/",
+		"recipes": [
+			{
+				"name": "Se fotos",
+				"ID": "se-fotos",
+				"Link": "https://herremadwp.herremad.dk/20-02-2007-se-fotos/",
+				"type": "forret"
+			},
+			{
+				"name": "Se fotos",
+				"ID": "se-fotos",
+				"Link": "https://herremadwp.herremad.dk/20-02-2007-se-fotos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.marts.2007",
+		"Link": "https://herremadwp.herremad.dk/20-marts-2007-menu/",
+		"recipes": [
+			{
+				"name": "Avokado og mangofrugt m/rejer og dressing",
+				"ID": "avokado-og-mangofrugt-mrejer-og-dressing",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2007-avokado-og-mangofrugt-mrejer-og-dressing/",
+				"type": "forret"
+			},
+			{
+				"name": "Farseret dyrekølle, dyreryg, bagte hvidløgskartofler og\n      waldorfsalat",
+				"ID": "farseret-dyrekoelle-dyreryg-bagte-hvidloegskartofler-og-waldorfsalat",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2007-farseret-dyrekoelle-dyreryg-bagte-hvidloegskartofler-og-waldorfsalat/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Chokoladekage",
+				"ID": "chokoladekage",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2007-chokoladekage/",
+				"type": "dessert"
+			}
+		]
+	}
+]

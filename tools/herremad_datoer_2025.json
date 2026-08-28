@@ -1,0 +1,536 @@
+[
+	{
+		"date": "25.-0.2026",
+		"Link": "https://herremadwp.herremad.dk/25--0-2026-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/25--0-2026-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/25--0-2026-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "30.11.2025",
+		"Link": "https://herremadwp.herremad.dk/30-11-2025-menu/",
+		"recipes": [
+			{
+				"name": "Tabouleh",
+				"ID": "tabouleh",
+				"Link": "https://herremadwp.herremad.dk/30-11-2025-tabouleh/",
+				"type": "forret"
+			},
+			{
+				"name": "Baba \r\n\t\t\t\t\tGanoush med Kylling",
+				"ID": "baba-ganoush-med-kylling",
+				"Link": "https://herremadwp.herremad.dk/30-11-2025-baba-ganoush-med-kylling/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mandelkage med syltede pærer",
+				"ID": "mandelkage-med-syltede-paerer",
+				"Link": "https://herremadwp.herremad.dk/30-11-2025-mandelkage-med-syltede-paerer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.10.2025",
+		"Link": "https://herremadwp.herremad.dk/07-10-2025-menu/",
+		"recipes": [
+			{
+				"name": "Kanin i \r\n\t\t\t\t\tSennep",
+				"ID": "kanin-i-sennep",
+				"Link": "https://herremadwp.herremad.dk/07-10-2025-kanin-i-sennep/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbletrifli",
+				"ID": "aebletrifli",
+				"Link": "https://herremadwp.herremad.dk/07-10-2025-aebletrifli/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.10.2025",
+		"Link": "https://herremadwp.herremad.dk/21-10-2025-menu/",
+		"recipes": [
+			{
+				"name": "Grøn \r\n\t\t\t\t\ttarte tatinRistet \r\n\t\t\t\t\trosenkål med hasselnødder og dildsovs",
+				"ID": "groen-tarte-tatinristet-rosenkaal-med-hasselnoedder-og-dildsovs",
+				"Link": "https://herremadwp.herremad.dk/21-10-2025-groen-tarte-tatinristet-rosenkaal-med-hasselnoedder-og-dildsovs/",
+				"type": "forret"
+			},
+			{
+				"name": "Chili sin \r\n\t\t\t\t\tcarne",
+				"ID": "chili-sin-carne",
+				"Link": "https://herremadwp.herremad.dk/21-10-2025-chili-sin-carne/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.10.2025",
+		"Link": "https://herremadwp.herremad.dk/28-10-2025-menu/",
+		"recipes": [
+			{
+				"name": "Bagte \r\n\t\t\t\t\tkartofler med spinat og ostSvamperagout med pasta",
+				"ID": "bagte-kartofler-med-spinat-og-ostsvamperagout-med-pasta",
+				"Link": "https://herremadwp.herremad.dk/28-10-2025-bagte-kartofler-med-spinat-og-ostsvamperagout-med-pasta/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Flødebollekage",
+				"ID": "floedebollekage",
+				"Link": "https://herremadwp.herremad.dk/28-10-2025-floedebollekage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "04.11.2025",
+		"Link": "https://herremadwp.herremad.dk/04-11-2025-menu/",
+		"recipes": [
+			{
+				"name": "Rødbedesuppe",
+				"ID": "roedbedesuppe",
+				"Link": "https://herremadwp.herremad.dk/04-11-2025-roedbedesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Marokansk \r\n\t\t\t\t\trisfad med kylling",
+				"ID": "marokansk-risfad-med-kylling",
+				"Link": "https://herremadwp.herremad.dk/04-11-2025-marokansk-risfad-med-kylling/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Muhallebi \r\n\t\t\t\t\t(mælkebudding)",
+				"ID": "muhallebi-maelkebudding",
+				"Link": "https://herremadwp.herremad.dk/04-11-2025-muhallebi-maelkebudding/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.11.2025",
+		"Link": "https://herremadwp.herremad.dk/11-11-2025-menu/",
+		"recipes": [
+			{
+				"name": "Harira \r\n\t\t\t\t\t(Marokkansk suppe)",
+				"ID": "harira-marokkansk-suppe",
+				"Link": "https://herremadwp.herremad.dk/11-11-2025-harira-marokkansk-suppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Marokkansk kylling med rosiner og pinjekerner",
+				"ID": "marokkansk-kylling-med-rosiner-og-pinjekerner",
+				"Link": "https://herremadwp.herremad.dk/11-11-2025-marokkansk-kylling-med-rosiner-og-pinjekerner/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Vanilje-lakrids mousse med havtornpuré",
+				"ID": "vanilje-lakrids-mousse-med-havtornpure",
+				"Link": "https://herremadwp.herremad.dk/11-11-2025-vanilje-lakrids-mousse-med-havtornpure/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.11.2025",
+		"Link": "https://herremadwp.herremad.dk/18-11-2025-menu/",
+		"recipes": [
+			{
+				"name": "Cremet \r\n\t\t\t\t\tKyllingesuppe med kyllingefilet og grøntsager",
+				"ID": "cremet-kyllingesuppe-med-kyllingefilet-og-groentsager",
+				"Link": "https://herremadwp.herremad.dk/18-11-2025-cremet-kyllingesuppe-med-kyllingefilet-og-groentsager/",
+				"type": "forret"
+			},
+			{
+				"name": "Shakshuka",
+				"ID": "shakshuka",
+				"Link": "https://herremadwp.herremad.dk/18-11-2025-shakshuka/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Basbousa",
+				"ID": "basbousa",
+				"Link": "https://herremadwp.herremad.dk/18-11-2025-basbousa/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.11.2025",
+		"Link": "https://herremadwp.herremad.dk/25-11-2025-menu/",
+		"recipes": [
+			{
+				"name": "Tunesisk Kaffebrød",
+				"ID": "tunesisk-kaffebroed",
+				"Link": "https://herremadwp.herremad.dk/25-11-2025-tunesisk-kaffebroed/",
+				"type": "forret"
+			},
+			{
+				"name": "Marokkansk Kyllingegryde",
+				"ID": "marokkansk-kyllingegryde",
+				"Link": "https://herremadwp.herremad.dk/25-11-2025-marokkansk-kyllingegryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "02.12.2025",
+		"Link": "https://herremadwp.herremad.dk/02-12-2025-menu/",
+		"recipes": [
+			{
+				"name": "Tuntatar \r\n\t\t\t\t\tmed avocado",
+				"ID": "tuntatar-med-avocado",
+				"Link": "https://herremadwp.herremad.dk/02-12-2025-tuntatar-med-avocado/",
+				"type": "forret"
+			},
+			{
+				"name": "Enebærgryde med kartoffelmos",
+				"ID": "enebaergryde-med-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/02-12-2025-enebaergryde-med-kartoffelmos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "09.12.2025",
+		"Link": "https://herremadwp.herremad.dk/09-12-2025-menu/",
+		"recipes": [
+			{
+				"name": "Andebryststeg med Aspargeskartofler",
+				"ID": "andebryststeg-med-aspargeskartofler",
+				"Link": "https://herremadwp.herremad.dk/09-12-2025-andebryststeg-med-aspargeskartofler/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Jule \r\n\t\t\t\t\ttiramisu med Hvid Chokolade og Kirsebær",
+				"ID": "jule-tiramisu-med-hvid-chokolade-og-kirsebaer",
+				"Link": "https://herremadwp.herremad.dk/09-12-2025-jule-tiramisu-med-hvid-chokolade-og-kirsebaer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "06.01.2026",
+		"Link": "https://herremadwp.herremad.dk/06-01-2026-menu/",
+		"recipes": [
+			{
+				"name": "Cornish Pasty",
+				"ID": "cornish-pasty",
+				"Link": "https://herremadwp.herremad.dk/06-01-2026-cornish-pasty/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Eton Mess",
+				"ID": "eton-mess",
+				"Link": "https://herremadwp.herremad.dk/06-01-2026-eton-mess/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "13.01.2026",
+		"Link": "https://herremadwp.herremad.dk/13-01-2026-menu/",
+		"recipes": [
+			{
+				"name": "Sausage \r\n\t\t\t\t\trolls",
+				"ID": "sausage-rolls",
+				"Link": "https://herremadwp.herremad.dk/13-01-2026-sausage-rolls/",
+				"type": "forret"
+			},
+			{
+				"name": "Shepards \r\n\t\t\t\t\tPie",
+				"ID": "shepards-pie",
+				"Link": "https://herremadwp.herremad.dk/13-01-2026-shepards-pie/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æblecrumble",
+				"ID": "aeblecrumble",
+				"Link": "https://herremadwp.herremad.dk/13-01-2026-aeblecrumble/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "20.01.2026",
+		"Link": "https://herremadwp.herremad.dk/20-01-2026-menu/",
+		"recipes": [
+			{
+				"name": "Shepards Pie",
+				"ID": "shepards-pie",
+				"Link": "https://herremadwp.herremad.dk/20-01-2026-shepards-pie/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Engelsk \r\n\t\t\t\t\tapple pie",
+				"ID": "engelsk-apple-pie",
+				"Link": "https://herremadwp.herremad.dk/20-01-2026-engelsk-apple-pie/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.01.2026",
+		"Link": "https://herremadwp.herremad.dk/27-01-2026-menu/",
+		"recipes": [
+			{
+				"name": "Fyldte æg \r\n\t\t\t\t\t- Deviled eggs",
+				"ID": "fyldte-aeg-deviled-eggs",
+				"Link": "https://herremadwp.herremad.dk/27-01-2026-fyldte-aeg-deviled-eggs/",
+				"type": "forret"
+			},
+			{
+				"name": "Fish and \r\n\t\t\t\t\tchips",
+				"ID": "fish-and-chips",
+				"Link": "https://herremadwp.herremad.dk/27-01-2026-fish-and-chips/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Banoffee \r\n\t\t\t\t\tPie Engelsk banantærte med sprød kiksebund, karamel, \r\n\t\t\t\t\tflødeskum, bananerog chokolade",
+				"ID": "banoffee-pie-engelsk-banantaerte-med-sproed-kiksebund-karamel-floedeskum-bananerog-chokolade",
+				"Link": "https://herremadwp.herremad.dk/27-01-2026-banoffee-pie-engelsk-banantaerte-med-sproed-kiksebund-karamel-floedeskum-bananerog-chokolade/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "03.02.2026",
+		"Link": "https://herremadwp.herremad.dk/03-02-2026-menu/",
+		"recipes": [
+			{
+				"name": "Gambas \r\n\tal ajillo",
+				"ID": "gambas-al-ajillo",
+				"Link": "https://herremadwp.herremad.dk/03-02-2026-gambas-al-ajillo/",
+				"type": "forret"
+			},
+			{
+				"name": "Ovnbagt filet royal af lange, kulmule eller torsk",
+				"ID": "ovnbagt-filet-royal-af-lange-kulmule-eller-torsk",
+				"Link": "https://herremadwp.herremad.dk/03-02-2026-ovnbagt-filet-royal-af-lange-kulmule-eller-torsk/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "10.02.2026",
+		"Link": "https://herremadwp.herremad.dk/10-02-2026-menu/",
+		"recipes": [
+			{
+				"name": "Kartoffelsuppe med porrer og brøndkarse",
+				"ID": "kartoffelsuppe-med-porrer-og-broendkarse",
+				"Link": "https://herremadwp.herremad.dk/10-02-2026-kartoffelsuppe-med-porrer-og-broendkarse/",
+				"type": "forret"
+			},
+			{
+				"name": "Fisk i rød karry med ris og lime",
+				"ID": "fisk-i-roed-karry-med-ris-og-lime",
+				"Link": "https://herremadwp.herremad.dk/10-02-2026-fisk-i-roed-karry-med-ris-og-lime/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Roulade med hindbær",
+				"ID": "roulade-med-hindbaer",
+				"Link": "https://herremadwp.herremad.dk/10-02-2026-roulade-med-hindbaer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "17.02.2026",
+		"Link": "https://herremadwp.herremad.dk/17-02-2026-menu/",
+		"recipes": [
+			{
+				"name": "Ovnbagt \r\n\t\t\t\t\ttorsk med romesco-sovs og ovnkartofler",
+				"ID": "ovnbagt-torsk-med-romesco-sovs-og-ovnkartofler",
+				"Link": "https://herremadwp.herremad.dk/17-02-2026-ovnbagt-torsk-med-romesco-sovs-og-ovnkartofler/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mokkadessert",
+				"ID": "mokkadessert",
+				"Link": "https://herremadwp.herremad.dk/17-02-2026-mokkadessert/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "24.02.2026",
+		"Link": "https://herremadwp.herremad.dk/24-02-2026-menu/",
+		"recipes": [
+			{
+				"name": "Bøf Stroganoff",
+				"ID": "boef-stroganoff",
+				"Link": "https://herremadwp.herremad.dk/24-02-2026-boef-stroganoff/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pandekager med syltetøj og is",
+				"ID": "pandekager-med-syltetoej-og-is",
+				"Link": "https://herremadwp.herremad.dk/24-02-2026-pandekager-med-syltetoej-og-is/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "03.03.2026",
+		"Link": "https://herremadwp.herremad.dk/03-03-2026-menu/",
+		"recipes": [
+			{
+				"name": "Tarteletter med høns i asparges",
+				"ID": "tarteletter-med-hoens-i-asparges",
+				"Link": "https://herremadwp.herremad.dk/03-03-2026-tarteletter-med-hoens-i-asparges/",
+				"type": "forret"
+			},
+			{
+				"name": "Kyllinge \r\n\t\t\t\t\tvildtgryde med Hasselback kartofler",
+				"ID": "kyllinge-vildtgryde-med-hasselback-kartofler",
+				"Link": "https://herremadwp.herremad.dk/03-03-2026-kyllinge-vildtgryde-med-hasselback-kartofler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "10.03.2026",
+		"Link": "https://herremadwp.herremad.dk/10-03-2026-menu/",
+		"recipes": [
+			{
+				"name": "Blinis \r\n\t\t\t\t\tmed stenbiderrogn og lakserillette",
+				"ID": "blinis-med-stenbiderrogn-og-lakserillette",
+				"Link": "https://herremadwp.herremad.dk/10-03-2026-blinis-med-stenbiderrogn-og-lakserillette/",
+				"type": "forret"
+			},
+			{
+				"name": "One pot \r\n\t\t\t\t\tris med kylling",
+				"ID": "one-pot-ris-med-kylling",
+				"Link": "https://herremadwp.herremad.dk/10-03-2026-one-pot-ris-med-kylling/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "17.03.2026",
+		"Link": "https://herremadwp.herremad.dk/17-03-2026-menu/",
+		"recipes": [
+			{
+				"name": "Croissanter med kyllingesalat",
+				"ID": "croissanter-med-kyllingesalat",
+				"Link": "https://herremadwp.herremad.dk/17-03-2026-croissanter-med-kyllingesalat/",
+				"type": "forret"
+			},
+			{
+				"name": "Asiatisk wok med kylling nudler og grøntsager",
+				"ID": "asiatisk-wok-med-kylling-nudler-og-groentsager",
+				"Link": "https://herremadwp.herremad.dk/17-03-2026-asiatisk-wok-med-kylling-nudler-og-groentsager/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "24.03.2026",
+		"Link": "https://herremadwp.herremad.dk/24-03-2026-menu/",
+		"recipes": [
+			{
+				"name": "POTJIEKOS",
+				"ID": "potjiekos",
+				"Link": "https://herremadwp.herremad.dk/24-03-2026-potjiekos/",
+				"type": "hovedret"
+			},
+			{
+				"name": "MALVA \r\n\t\t\t\t\tPUDDING",
+				"ID": "malva-pudding",
+				"Link": "https://herremadwp.herremad.dk/24-03-2026-malva-pudding/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.04.2026",
+		"Link": "https://herremadwp.herremad.dk/07-04-2026-menu/",
+		"recipes": [
+			{
+				"name": "Koteletter i fad",
+				"ID": "koteletter-i-fad",
+				"Link": "https://herremadwp.herremad.dk/07-04-2026-koteletter-i-fad/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Abemad",
+				"ID": "abemad",
+				"Link": "https://herremadwp.herremad.dk/07-04-2026-abemad/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.04.2026",
+		"Link": "https://herremadwp.herremad.dk/14-04-2026-menu/",
+		"recipes": [
+			{
+				"name": "Lamme culotte",
+				"ID": "lamme-culotte",
+				"Link": "https://herremadwp.herremad.dk/14-04-2026-lamme-culotte/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pandekager med æbleskiver og is",
+				"ID": "pandekager-med-aebleskiver-og-is",
+				"Link": "https://herremadwp.herremad.dk/14-04-2026-pandekager-med-aebleskiver-og-is/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.04.2026",
+		"Link": "https://herremadwp.herremad.dk/21-04-2026-menu/",
+		"recipes": [
+			{
+				"name": "Rejecocktail",
+				"ID": "rejecocktail",
+				"Link": "https://herremadwp.herremad.dk/21-04-2026-rejecocktail/",
+				"type": "forret"
+			},
+			{
+				"name": "Pariserbøf",
+				"ID": "pariserboef",
+				"Link": "https://herremadwp.herremad.dk/21-04-2026-pariserboef/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.04.2026",
+		"Link": "https://herremadwp.herremad.dk/28-04-2026-menu/",
+		"recipes": [
+			{
+				"name": "Blinis med stenbiderrogn",
+				"ID": "blinis-med-stenbiderrogn",
+				"Link": "https://herremadwp.herremad.dk/28-04-2026-blinis-med-stenbiderrogn/",
+				"type": "forret"
+			},
+			{
+				"name": "SALTIMBOCCA",
+				"ID": "saltimbocca",
+				"Link": "https://herremadwp.herremad.dk/28-04-2026-saltimbocca/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Skivede \r\n\t\t\t\t\tjordbær med friskkværnet peberOste-tag-selv-bord",
+				"ID": "skivede-jordbaer-med-friskkvaernet-peberoste-tag-selv-bord",
+				"Link": "https://herremadwp.herremad.dk/28-04-2026-skivede-jordbaer-med-friskkvaernet-peberoste-tag-selv-bord/",
+				"type": "dessert"
+			}
+		]
+	}
+]

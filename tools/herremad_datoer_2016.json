@@ -1,0 +1,470 @@
+[
+	{
+		"date": "16.-0.2017",
+		"Link": "https://herremadwp.herremad.dk/16--0-2017-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/16--0-2017-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/16--0-2017-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "04.10.2016",
+		"Link": "https://herremadwp.herremad.dk/04-10-2016-menu/",
+		"recipes": [
+			{
+				"name": "Fransk \n\t\t\t\t\tHvidløgssuppe",
+				"ID": "fransk-hvidloegssuppe",
+				"Link": "https://herremadwp.herremad.dk/04-10-2016-fransk-hvidloegssuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Bøffer \n\t\t\t\t\tmed Tomat og Oliven",
+				"ID": "boeffer-med-tomat-og-oliven",
+				"Link": "https://herremadwp.herremad.dk/04-10-2016-boeffer-med-tomat-og-oliven/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "11.10.2016",
+		"Link": "https://herremadwp.herremad.dk/11-10-2016-menu/",
+		"recipes": [
+			{
+				"name": "Salat med confiteret and, rødbeder, croutoner og \n\t\tvalnødder",
+				"ID": "salat-med-confiteret-and-roedbeder-croutoner-og-valnoedder",
+				"Link": "https://herremadwp.herremad.dk/11-10-2016-salat-med-confiteret-and-roedbeder-croutoner-og-valnoedder/",
+				"type": "forret"
+			},
+			{
+				"name": "Kylling i sur/sød sauce",
+				"ID": "kylling-i-sursoed-sauce",
+				"Link": "https://herremadwp.herremad.dk/11-10-2016-kylling-i-sursoed-sauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æblekage med mandellåg",
+				"ID": "aeblekage-med-mandellaag",
+				"Link": "https://herremadwp.herremad.dk/11-10-2016-aeblekage-med-mandellaag/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.10.2016",
+		"Link": "https://herremadwp.herremad.dk/18-10-2016-menu/",
+		"recipes": [
+			{
+				"name": "Ristet \n\t\t\t\t\tbrød med rejer og sesam",
+				"ID": "ristet-broed-med-rejer-og-sesam",
+				"Link": "https://herremadwp.herremad.dk/18-10-2016-ristet-broed-med-rejer-og-sesam/",
+				"type": "forret"
+			},
+			{
+				"name": "Ovnbagt \n\t\t\t\t\tmørksejfilet",
+				"ID": "ovnbagt-moerksejfilet",
+				"Link": "https://herremadwp.herremad.dk/18-10-2016-ovnbagt-moerksejfilet/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Toscanaske ferskner",
+				"ID": "toscanaske-ferskner",
+				"Link": "https://herremadwp.herremad.dk/18-10-2016-toscanaske-ferskner/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.10.2016",
+		"Link": "https://herremadwp.herremad.dk/25-10-2016-menu/",
+		"recipes": [
+			{
+				"name": "Krebsehalesuppe",
+				"ID": "krebsehalesuppe",
+				"Link": "https://herremadwp.herremad.dk/25-10-2016-krebsehalesuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Helsteget \n\t\t\t\t\tsvinemørbrad med purløgssauce og gulerødstimbale",
+				"ID": "helsteget-svinemoerbrad-med-purloegssauce-og-guleroedstimbale",
+				"Link": "https://herremadwp.herremad.dk/25-10-2016-helsteget-svinemoerbrad-med-purloegssauce-og-guleroedstimbale/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "01.11.2016",
+		"Link": "https://herremadwp.herremad.dk/01-11-2016-menu/",
+		"recipes": [
+			{
+				"name": "Pepperoni \n\t\t\t\t\ta la Piemonte",
+				"ID": "pepperoni-a-la-piemonte",
+				"Link": "https://herremadwp.herremad.dk/01-11-2016-pepperoni-a-la-piemonte/",
+				"type": "forret"
+			},
+			{
+				"name": "Braiserede svinekæber i øl med kartoffelmos",
+				"ID": "braiserede-svinekaeber-i-oel-med-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/01-11-2016-braiserede-svinekaeber-i-oel-med-kartoffelmos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "08.11.2016",
+		"Link": "https://herremadwp.herremad.dk/08-11-2016-menu/",
+		"recipes": [
+			{
+				"name": "Frisk \n\t\t\t\t\tkogte muslinger",
+				"ID": "frisk-kogte-muslinger",
+				"Link": "https://herremadwp.herremad.dk/08-11-2016-frisk-kogte-muslinger/",
+				"type": "forret"
+			},
+			{
+				"name": "Sprødstegt andebryst",
+				"ID": "sproedstegt-andebryst",
+				"Link": "https://herremadwp.herremad.dk/08-11-2016-sproedstegt-andebryst/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "15.11.2016",
+		"Link": "https://herremadwp.herremad.dk/15-11-2016-menu/",
+		"recipes": [
+			{
+				"name": "Fyldte \n\t\t\t\t\tmuslinger",
+				"ID": "fyldte-muslinger",
+				"Link": "https://herremadwp.herremad.dk/15-11-2016-fyldte-muslinger/",
+				"type": "forret"
+			},
+			{
+				"name": "Lammesteg \n\t\t\t\t\tmed oliven",
+				"ID": "lammesteg-med-oliven",
+				"Link": "https://herremadwp.herremad.dk/15-11-2016-lammesteg-med-oliven/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Omelet en \n\t\t\t\t\tsurprise",
+				"ID": "omelet-en-surprise",
+				"Link": "https://herremadwp.herremad.dk/15-11-2016-omelet-en-surprise/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "29.11.2016",
+		"Link": "https://herremadwp.herremad.dk/29-11-2016-menu/",
+		"recipes": [
+			{
+				"name": "Andebryst \n\t\t\t\t\tmed sprød rødkålssalat, kartofler og rosenkål",
+				"ID": "andebryst-med-sproed-roedkaalssalat-kartofler-og-rosenkaal",
+				"Link": "https://herremadwp.herremad.dk/29-11-2016-andebryst-med-sproed-roedkaalssalat-kartofler-og-rosenkaal/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbler på \n\t\t\t\t\thonningristet havregrynscrumble med creme og flødeskum",
+				"ID": "aebler-paa-honningristet-havregrynscrumble-med-creme-og-floedeskum",
+				"Link": "https://herremadwp.herremad.dk/29-11-2016-aebler-paa-honningristet-havregrynscrumble-med-creme-og-floedeskum/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "03.01.2017",
+		"Link": "https://herremadwp.herremad.dk/03-01-2017-menu/",
+		"recipes": [
+			{
+				"name": "Dampet \n\t\t\t\t\tpighvar med dildsauce og tomatkompot",
+				"ID": "dampet-pighvar-med-dildsauce-og-tomatkompot",
+				"Link": "https://herremadwp.herremad.dk/03-01-2017-dampet-pighvar-med-dildsauce-og-tomatkompot/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crepes \n\t\t\t\t\tSuzettes med to slags is",
+				"ID": "crepes-suzettes-med-to-slags-is",
+				"Link": "https://herremadwp.herremad.dk/03-01-2017-crepes-suzettes-med-to-slags-is/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.01.2017",
+		"Link": "https://herremadwp.herremad.dk/10-01-2017-menu/",
+		"recipes": [
+			{
+				"name": "Borsjtj",
+				"ID": "borsjtj",
+				"Link": "https://herremadwp.herremad.dk/10-01-2017-borsjtj/",
+				"type": "forret"
+			},
+			{
+				"name": "Mandelylling",
+				"ID": "mandelylling",
+				"Link": "https://herremadwp.herremad.dk/10-01-2017-mandelylling/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "17.01.2017",
+		"Link": "https://herremadwp.herremad.dk/17-01-2017-menu/",
+		"recipes": [
+			{
+				"name": "Bouillabaisse med Rouille",
+				"ID": "bouillabaisse-med-rouille",
+				"Link": "https://herremadwp.herremad.dk/17-01-2017-bouillabaisse-med-rouille/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbletærte \n\t\t\t\t\tmed marcipan",
+				"ID": "aebletaerte-med-marcipan",
+				"Link": "https://herremadwp.herremad.dk/17-01-2017-aebletaerte-med-marcipan/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "24.01.2017",
+		"Link": "https://herremadwp.herremad.dk/24-01-2017-menu/",
+		"recipes": [
+			{
+				"name": "Fois gras med stegte \n\t\t\t\t\tæbler",
+				"ID": "fois-gras-med-stegte-aebler",
+				"Link": "https://herremadwp.herremad.dk/24-01-2017-fois-gras-med-stegte-aebler/",
+				"type": "forret"
+			},
+			{
+				"name": "Kogt Torsk med \n\t\t\t\t\tsennepssovs",
+				"ID": "kogt-torsk-med-sennepssovs",
+				"Link": "https://herremadwp.herremad.dk/24-01-2017-kogt-torsk-med-sennepssovs/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Vanilje-lakrids mousse \n\t\t\t\t\tmed havtornpurè",
+				"ID": "vanilje-lakrids-mousse-med-havtornpure",
+				"Link": "https://herremadwp.herremad.dk/24-01-2017-vanilje-lakrids-mousse-med-havtornpure/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "31.01.2017",
+		"Link": "https://herremadwp.herremad.dk/31-01-2017-menu/",
+		"recipes": [
+			{
+				"name": "Svineskank med \n\t\t\t\t\tHasselback kartofler",
+				"ID": "svineskank-med-hasselback-kartofler",
+				"Link": "https://herremadwp.herremad.dk/31-01-2017-svineskank-med-hasselback-kartofler/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Hofdessert",
+				"ID": "hofdessert",
+				"Link": "https://herremadwp.herremad.dk/31-01-2017-hofdessert/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.02.2017",
+		"Link": "https://herremadwp.herremad.dk/07-02-2017-menu/",
+		"recipes": [
+			{
+				"name": "Pizza med persillepesto og jordskokker",
+				"ID": "pizza-med-persillepesto-og-jordskokker",
+				"Link": "https://herremadwp.herremad.dk/07-02-2017-pizza-med-persillepesto-og-jordskokker/",
+				"type": "forret"
+			},
+			{
+				"name": "Knase kylling med tomatdip og babyleaves",
+				"ID": "knase-kylling-med-tomatdip-og-babyleaves",
+				"Link": "https://herremadwp.herremad.dk/07-02-2017-knase-kylling-med-tomatdip-og-babyleaves/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Citronfromage",
+				"ID": "citronfromage",
+				"Link": "https://herremadwp.herremad.dk/07-02-2017-citronfromage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.02.2017",
+		"Link": "https://herremadwp.herremad.dk/14-02-2017-menu/",
+		"recipes": [
+			{
+				"name": "Forloren \n\t\t\t\t\thare med squash, hvidløg og rosmarinsauce",
+				"ID": "forloren-hare-med-squash-hvidloeg-og-rosmarinsauce",
+				"Link": "https://herremadwp.herremad.dk/14-02-2017-forloren-hare-med-squash-hvidloeg-og-rosmarinsauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pærer med \n\t\t\t\t\tvinchokoladesauce",
+				"ID": "paerer-med-vinchokoladesauce",
+				"Link": "https://herremadwp.herremad.dk/14-02-2017-paerer-med-vinchokoladesauce/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.02.2017",
+		"Link": "https://herremadwp.herremad.dk/21-02-2017-menu/",
+		"recipes": [
+			{
+				"name": "Indisk \n\t\t\t\t\tMulligatawny suppe",
+				"ID": "indisk-mulligatawny-suppe",
+				"Link": "https://herremadwp.herremad.dk/21-02-2017-indisk-mulligatawny-suppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Ale \n\t\t\t\t\tbraiseret andebryst med quinoa-salat",
+				"ID": "ale-braiseret-andebryst-med-quinoa-salat",
+				"Link": "https://herremadwp.herremad.dk/21-02-2017-ale-braiseret-andebryst-med-quinoa-salat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.02.2017",
+		"Link": "https://herremadwp.herremad.dk/28-02-2017-menu/",
+		"recipes": [
+			{
+				"name": "Blinis \n\t\t\t\t\tmed laks",
+				"ID": "blinis-med-laks",
+				"Link": "https://herremadwp.herremad.dk/28-02-2017-blinis-med-laks/",
+				"type": "forret"
+			},
+			{
+				"name": "Gullashsuppe - i særklasse",
+				"ID": "gullashsuppe-i-saerklasse",
+				"Link": "https://herremadwp.herremad.dk/28-02-2017-gullashsuppe-i-saerklasse/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æblecrumble med kanel og blåbær",
+				"ID": "aeblecrumble-med-kanel-og-blaabaer",
+				"Link": "https://herremadwp.herremad.dk/28-02-2017-aeblecrumble-med-kanel-og-blaabaer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.03.2017",
+		"Link": "https://herremadwp.herremad.dk/07-03-2017-menu/",
+		"recipes": [
+			{
+				"name": "Saltimbocca med ratatouille",
+				"ID": "saltimbocca-med-ratatouille",
+				"Link": "https://herremadwp.herremad.dk/07-03-2017-saltimbocca-med-ratatouille/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "14.03.2017",
+		"Link": "https://herremadwp.herremad.dk/14-03-2017-menu/",
+		"recipes": [
+			{
+				"name": "Flankesteg på panden med portvinsbraiseret fennikel og bagt \n\t\t\t\t\tkartoffel med persillesmør",
+				"ID": "flankesteg-paa-panden-med-portvinsbraiseret-fennikel-og-bagt-kartoffel-med-persillesmoer",
+				"Link": "https://herremadwp.herremad.dk/14-03-2017-flankesteg-paa-panden-med-portvinsbraiseret-fennikel-og-bagt-kartoffel-med-persillesmoer/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kræmmerhuse med chokolademousse og ananas",
+				"ID": "kraemmerhuse-med-chokolademousse-og-ananas",
+				"Link": "https://herremadwp.herremad.dk/14-03-2017-kraemmerhuse-med-chokolademousse-og-ananas/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.03.2017",
+		"Link": "https://herremadwp.herremad.dk/21-03-2017-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetta med svampe",
+				"ID": "bruschetta-med-svampe",
+				"Link": "https://herremadwp.herremad.dk/21-03-2017-bruschetta-med-svampe/",
+				"type": "forret"
+			},
+			{
+				"name": "Spoleben i \n\t\t\t\t\thvedeøl med æbler og timian",
+				"ID": "spoleben-i-hvedeoel-med-aebler-og-timian",
+				"Link": "https://herremadwp.herremad.dk/21-03-2017-spoleben-i-hvedeoel-med-aebler-og-timian/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.03.2017",
+		"Link": "https://herremadwp.herremad.dk/28-03-2017-menu/",
+		"recipes": [
+			{
+				"name": "Aspargessuppe med hjemmelavede kødboller",
+				"ID": "aspargessuppe-med-hjemmelavede-koedboller",
+				"Link": "https://herremadwp.herremad.dk/28-03-2017-aspargessuppe-med-hjemmelavede-koedboller/",
+				"type": "forret"
+			},
+			{
+				"name": "Bagt \n\t\t\t\t\tbrosme med pasta og muslinger",
+				"ID": "bagt-brosme-med-pasta-og-muslinger",
+				"Link": "https://herremadwp.herremad.dk/28-03-2017-bagt-brosme-med-pasta-og-muslinger/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "04.april.2017",
+		"Link": "https://herremadwp.herremad.dk/04-april-2017-menu/",
+		"recipes": [
+			{
+				"name": "Blini",
+				"ID": "blini",
+				"Link": "https://herremadwp.herremad.dk/04-april-2017-blini/",
+				"type": "forret"
+			},
+			{
+				"name": "Lammekoteletter med \n\t\t\t\t\tparmesankartoffelmos og tzatziki",
+				"ID": "lammekoteletter-med-parmesankartoffelmos-og-tzatziki",
+				"Link": "https://herremadwp.herremad.dk/04-april-2017-lammekoteletter-med-parmesankartoffelmos-og-tzatziki/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "21.april.2017",
+		"Link": "https://herremadwp.herremad.dk/21-april-2017-menu/",
+		"recipes": [
+			{
+				"name": "Blinis \n\t\t\t\t\tmed laks",
+				"ID": "blinis-med-laks",
+				"Link": "https://herremadwp.herremad.dk/21-april-2017-blinis-med-laks/",
+				"type": "forret"
+			},
+			{
+				"name": "Chateaubriand med tilbehør og sauce bordelaise",
+				"ID": "chateaubriand-med-tilbehoer-og-sauce-bordelaise",
+				"Link": "https://herremadwp.herremad.dk/21-april-2017-chateaubriand-med-tilbehoer-og-sauce-bordelaise/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Portvinsfromage",
+				"ID": "portvinsfromage",
+				"Link": "https://herremadwp.herremad.dk/21-april-2017-portvinsfromage/",
+				"type": "dessert"
+			}
+		]
+	}
+]

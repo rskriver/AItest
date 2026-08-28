@@ -1,0 +1,194 @@
+[
+	{
+		"date": "11.10.2005",
+		"Link": "https://herremadwp.herremad.dk/11-10-2005-menu/",
+		"recipes": [
+			{
+				"name": "GULERODSSUPPE",
+				"ID": "gulerodssuppe",
+				"Link": "https://herremadwp.herremad.dk/11-10-2005-gulerodssuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "GRØNTSAGSLASAGNE",
+				"ID": "groentsagslasagne",
+				"Link": "https://herremadwp.herremad.dk/11-10-2005-groentsagslasagne/",
+				"type": "hovedret"
+			},
+			{
+				"name": "PÆRER BELLE HELENE",
+				"ID": "paerer-belle-helene",
+				"Link": "https://herremadwp.herremad.dk/11-10-2005-paerer-belle-helene/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.10.2005",
+		"Link": "https://herremadwp.herremad.dk/25-10-2005-menu/",
+		"recipes": [
+			{
+				"name": "SKALDYRSSUPPE",
+				"ID": "skaldyrssuppe",
+				"Link": "https://herremadwp.herremad.dk/25-10-2005-skaldyrssuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "OVNSTEGT LYSSEJ",
+				"ID": "ovnstegt-lyssej",
+				"Link": "https://herremadwp.herremad.dk/25-10-2005-ovnstegt-lyssej/",
+				"type": "hovedret"
+			},
+			{
+				"name": "KANELÆBLER",
+				"ID": "kanelaebler",
+				"Link": "https://herremadwp.herremad.dk/25-10-2005-kanelaebler/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.11.2005",
+		"Link": "https://herremadwp.herremad.dk/22-11-2005-menu/",
+		"recipes": [
+			{
+				"name": "AVOCADO MED ÆGGESALAT\n      OG RYGEOST",
+				"ID": "avocado-med-aeggesalat-og-rygeost",
+				"Link": "https://herremadwp.herremad.dk/22-11-2005-avocado-med-aeggesalat-og-rygeost/",
+				"type": "forret"
+			},
+			{
+				"name": "VILDTGULLASCH",
+				"ID": "vildtgullasch",
+				"Link": "https://herremadwp.herremad.dk/22-11-2005-vildtgullasch/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FRANSK CITRONFROMAGE",
+				"ID": "fransk-citronfromage",
+				"Link": "https://herremadwp.herremad.dk/22-11-2005-fransk-citronfromage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "20.12.2005",
+		"Link": "https://herremadwp.herremad.dk/20-12-2005-menu/",
+		"recipes": [
+			{
+				"name": "MINSTRONE\n            med RØGET LAKS",
+				"ID": "minstrone-med-roeget-laks",
+				"Link": "https://herremadwp.herremad.dk/20-12-2005-minstrone-med-roeget-laks/",
+				"type": "forret"
+			},
+			{
+				"name": "STEGT\n            ANDEBRYST m. RODFRUGTGRATIN",
+				"ID": "stegt-andebryst-m-rodfrugtgratin",
+				"Link": "https://herremadwp.herremad.dk/20-12-2005-stegt-andebryst-m-rodfrugtgratin/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HINDBÆRMOUSSE",
+				"ID": "hindbaermousse",
+				"Link": "https://herremadwp.herremad.dk/20-12-2005-hindbaermousse/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.01.2006",
+		"Link": "https://herremadwp.herremad.dk/10-01-2006-menu/",
+		"recipes": [
+			{
+				"name": "AVOKADO\n      og MANGOFRUGT m/REJER og DRESSING",
+				"ID": "avokado-og-mangofrugt-mrejer-og-dressing",
+				"Link": "https://herremadwp.herremad.dk/10-01-2006-avokado-og-mangofrugt-mrejer-og-dressing/",
+				"type": "forret"
+			},
+			{
+				"name": "FRIKADELLER\n            m/RØDVIN og HAKKEDE NØDDER",
+				"ID": "frikadeller-mroedvin-og-hakkede-noedder",
+				"Link": "https://herremadwp.herremad.dk/10-01-2006-frikadeller-mroedvin-og-hakkede-noedder/",
+				"type": "hovedret"
+			},
+			{
+				"name": "DRUETÆRTE",
+				"ID": "druetaerte",
+				"Link": "https://herremadwp.herremad.dk/10-01-2006-druetaerte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "24.01.2006",
+		"Link": "https://herremadwp.herremad.dk/24-01-2006-menu/",
+		"recipes": [
+			{
+				"name": "(ingen forret)",
+				"ID": "ingen-forret",
+				"Link": "https://herremadwp.herremad.dk/24-01-2006-ingen-forret/",
+				"type": "forret"
+			},
+			{
+				"name": "BORSJTJ M/FLUTES",
+				"ID": "borsjtj-mflutes",
+				"Link": "https://herremadwp.herremad.dk/24-01-2006-borsjtj-mflutes/",
+				"type": "hovedret"
+			},
+			{
+				"name": "MANDELRAND",
+				"ID": "mandelrand",
+				"Link": "https://herremadwp.herremad.dk/24-01-2006-mandelrand/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.02.2006",
+		"Link": "https://herremadwp.herremad.dk/21-02-2006-menu/",
+		"recipes": [
+			{
+				"name": "MATJESTATAR M/REJE-TOMATER",
+				"ID": "matjestatar-mreje-tomater",
+				"Link": "https://herremadwp.herremad.dk/21-02-2006-matjestatar-mreje-tomater/",
+				"type": "forret"
+			},
+			{
+				"name": "PORRETÆRTE",
+				"ID": "porretaerte",
+				"Link": "https://herremadwp.herremad.dk/21-02-2006-porretaerte/",
+				"type": "hovedret"
+			},
+			{
+				"name": "BASELER PFNUTLI",
+				"ID": "baseler-pfnutli",
+				"Link": "https://herremadwp.herremad.dk/21-02-2006-baseler-pfnutli/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.marts.2006",
+		"Link": "https://herremadwp.herremad.dk/21-marts-2006-menu/",
+		"recipes": [
+			{
+				"name": "ARTISKOKBUND \n      m/ champignonstuvning",
+				"ID": "artiskokbund-m-champignonstuvning",
+				"Link": "https://herremadwp.herremad.dk/21-marts-2006-artiskokbund-m-champignonstuvning/",
+				"type": "forret"
+			},
+			{
+				"name": "LAMMEKØLLE PROVENCALE",
+				"ID": "lammekoelle-provencale",
+				"Link": "https://herremadwp.herremad.dk/21-marts-2006-lammekoelle-provencale/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FRAGILITÉKAGE",
+				"ID": "fragilitekage",
+				"Link": "https://herremadwp.herremad.dk/21-marts-2006-fragilitekage/",
+				"type": "dessert"
+			}
+		]
+	}
+]

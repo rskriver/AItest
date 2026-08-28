@@ -1,0 +1,500 @@
+[
+	{
+		"date": "08.-0.2009",
+		"Link": "https://herremadwp.herremad.dk/08--0-2009-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/08--0-2009-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/08--0-2009-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.10.2008",
+		"Link": "https://herremadwp.herremad.dk/27-10-2008-menu/",
+		"recipes": [
+			{
+				"name": "JAPANSK\n                      MISOSUPPE",
+				"ID": "japansk-misosuppe",
+				"Link": "https://herremadwp.herremad.dk/27-10-2008-japansk-misosuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "JAPANSK\n              SKINKESCHNITZEL m/ marinerede peberfrugter og nudlerJAPANSK\n              SALATDRESSING",
+				"ID": "japansk-skinkeschnitzel-m-marinerede-peberfrugter-og-nudlerjapansk-salatdressing",
+				"Link": "https://herremadwp.herremad.dk/27-10-2008-japansk-skinkeschnitzel-m-marinerede-peberfrugter-og-nudlerjapansk-salatdressing/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "21.10.2008",
+		"Link": "https://herremadwp.herremad.dk/21-10-2008-menu/",
+		"recipes": [
+			{
+				"name": "INDISK KARRYSUPPEm/flutes",
+				"ID": "indisk-karrysuppemflutes",
+				"Link": "https://herremadwp.herremad.dk/21-10-2008-indisk-karrysuppemflutes/",
+				"type": "forret"
+			},
+			{
+				"name": "OKSEKØD\n      MED GRØNNE BØNNER",
+				"ID": "oksekoed-med-groenne-boenner",
+				"Link": "https://herremadwp.herremad.dk/21-10-2008-oksekoed-med-groenne-boenner/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.10.2008",
+		"Link": "https://herremadwp.herremad.dk/28-10-2008-menu/",
+		"recipes": [
+			{
+				"name": "REJE-CURRY",
+				"ID": "reje-curry",
+				"Link": "https://herremadwp.herremad.dk/28-10-2008-reje-curry/",
+				"type": "forret"
+			},
+			{
+				"name": "INDISK\n      FISKERET",
+				"ID": "indisk-fiskeret",
+				"Link": "https://herremadwp.herremad.dk/28-10-2008-indisk-fiskeret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FRISKE\n                      FIGNER",
+				"ID": "friske-figner",
+				"Link": "https://herremadwp.herremad.dk/28-10-2008-friske-figner/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.11.2008",
+		"Link": "https://herremadwp.herremad.dk/14-11-2008-menu/",
+		"recipes": [
+			{
+				"name": "TOM\n                      KHA KHAI",
+				"ID": "tom-kha-khai",
+				"Link": "https://herremadwp.herremad.dk/14-11-2008-tom-kha-khai/",
+				"type": "hovedret"
+			},
+			{
+				"name": "SUNG KAYN CRÈME CARAMEL",
+				"ID": "sung-kayn-creme-caramel",
+				"Link": "https://herremadwp.herremad.dk/14-11-2008-sung-kayn-creme-caramel/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.11.2008",
+		"Link": "https://herremadwp.herremad.dk/11-11-2008-menu/",
+		"recipes": [
+			{
+				"name": "BORTSCH",
+				"ID": "bortsch",
+				"Link": "https://herremadwp.herremad.dk/11-11-2008-bortsch/",
+				"type": "forret"
+			},
+			{
+				"name": "STEGT AND",
+				"ID": "stegt-and",
+				"Link": "https://herremadwp.herremad.dk/11-11-2008-stegt-and/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "18.11.2008",
+		"Link": "https://herremadwp.herremad.dk/18-11-2008-menu/",
+		"recipes": [
+			{
+				"name": "KINESISK\n                      GRYDEM/KINESISKE STEGTE RIS",
+				"ID": "kinesisk-grydemkinesiske-stegte-ris",
+				"Link": "https://herremadwp.herremad.dk/18-11-2008-kinesisk-grydemkinesiske-stegte-ris/",
+				"type": "hovedret"
+			},
+			{
+				"name": "KINESISKE LYKKEKAGER",
+				"ID": "kinesiske-lykkekager",
+				"Link": "https://herremadwp.herremad.dk/18-11-2008-kinesiske-lykkekager/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.11.2008",
+		"Link": "https://herremadwp.herremad.dk/25-11-2008-menu/",
+		"recipes": [
+			{
+				"name": "KARRYSUPPE",
+				"ID": "karrysuppe",
+				"Link": "https://herremadwp.herremad.dk/25-11-2008-karrysuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "URTEBØFFER MED RODFRUGTEMOS &\n              BALSAMICOSAUCE",
+				"ID": "urteboeffer-med-rodfrugtemos-balsamicosauce",
+				"Link": "https://herremadwp.herremad.dk/25-11-2008-urteboeffer-med-rodfrugtemos-balsamicosauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.12.2008",
+		"Link": "https://herremadwp.herremad.dk/12-12-2008-menu/",
+		"recipes": [
+			{
+				"name": "SVINEKØD M/SALVIE OG KAPERS",
+				"ID": "svinekoed-msalvie-og-kapers",
+				"Link": "https://herremadwp.herremad.dk/12-12-2008-svinekoed-msalvie-og-kapers/",
+				"type": "hovedret"
+			},
+			{
+				"name": "FIGNER POCHERET I RØDVIN OG\n      TIMIAN",
+				"ID": "figner-pocheret-i-roedvin-og-timian",
+				"Link": "https://herremadwp.herremad.dk/12-12-2008-figner-pocheret-i-roedvin-og-timian/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "29.12.2008",
+		"Link": "https://herremadwp.herremad.dk/29-12-2008-menu/",
+		"recipes": [
+			{
+				"name": "TARTE Á LA ET MOUTARDE",
+				"ID": "tarte-la-et-moutarde",
+				"Link": "https://herremadwp.herremad.dk/29-12-2008-tarte-la-et-moutarde/",
+				"type": "forret"
+			},
+			{
+				"name": "FASAN\n                      SOM I NORMANDIET",
+				"ID": "fasan-som-i-normandiet",
+				"Link": "https://herremadwp.herremad.dk/29-12-2008-fasan-som-i-normandiet/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "16.12.2008",
+		"Link": "https://herremadwp.herremad.dk/16-12-2008-menu/",
+		"recipes": [
+			{
+				"name": "RødspættefileterStegte sild",
+				"ID": "roedspaettefileterstegte-sild",
+				"Link": "https://herremadwp.herremad.dk/16-12-2008-roedspaettefileterstegte-sild/",
+				"type": "forret"
+			},
+			{
+				"name": "Gammeldaws ÆbleflæskRibbensstegMørbradbøf",
+				"ID": "gammeldaws-aebleflaeskribbensstegmoerbradboef",
+				"Link": "https://herremadwp.herremad.dk/16-12-2008-gammeldaws-aebleflaeskribbensstegmoerbradboef/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ris a la Mande",
+				"ID": "ris-a-la-mande",
+				"Link": "https://herremadwp.herremad.dk/16-12-2008-ris-a-la-mande/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "26.01.2009",
+		"Link": "https://herremadwp.herremad.dk/26-01-2009-menu/",
+		"recipes": [
+			{
+				"name": "Paté\n                      af fjerkræleverSauce CumberlandFlutes",
+				"ID": "pate-af-fjerkraeleversauce-cumberlandflutes",
+				"Link": "https://herremadwp.herremad.dk/26-01-2009-pate-af-fjerkraeleversauce-cumberlandflutes/",
+				"type": "forret"
+			},
+			{
+				"name": "Peberbøf Flambém. grønne MadagaskarpeberAspargeskartofler m.ProvencekrydderiSauce SpecialeGrøn salat",
+				"ID": "peberboef-flambem-groenne-madagaskarpeberaspargeskartofler-mprovencekrydderisauce-specialegroen-salat",
+				"Link": "https://herremadwp.herremad.dk/26-01-2009-peberboef-flambem-groenne-madagaskarpeberaspargeskartofler-mprovencekrydderisauce-specialegroen-salat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "13.01.2009",
+		"Link": "https://herremadwp.herremad.dk/13-01-2009-menu/",
+		"recipes": [
+			{
+				"name": "Rejer\n                      i chili og whisky",
+				"ID": "rejer-i-chili-og-whisky",
+				"Link": "https://herremadwp.herremad.dk/13-01-2009-rejer-i-chili-og-whisky/",
+				"type": "forret"
+			},
+			{
+				"name": "Fiskeret fra Skagen",
+				"ID": "fiskeret-fra-skagen",
+				"Link": "https://herremadwp.herremad.dk/13-01-2009-fiskeret-fra-skagen/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.01.2009",
+		"Link": "https://herremadwp.herremad.dk/20-01-2009-menu/",
+		"recipes": [
+			{
+				"name": "Lakseroulade",
+				"ID": "lakseroulade",
+				"Link": "https://herremadwp.herremad.dk/20-01-2009-lakseroulade/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegte\n                      rødspættefileter med bønnesalat",
+				"ID": "stegte-roedspaettefileter-med-boennesalat",
+				"Link": "https://herremadwp.herremad.dk/20-01-2009-stegte-roedspaettefileter-med-boennesalat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "27.01.2009",
+		"Link": "https://herremadwp.herremad.dk/27-01-2009-menu/",
+		"recipes": [
+			{
+				"name": "SELLERISUPPE MED SPINAT",
+				"ID": "sellerisuppe-med-spinat",
+				"Link": "https://herremadwp.herremad.dk/27-01-2009-sellerisuppe-med-spinat/",
+				"type": "forret"
+			},
+			{
+				"name": "PANGASIUS\n      FILET MED KAMMUSLINGER I FENNIKELSAUCE",
+				"ID": "pangasius-filet-med-kammuslinger-i-fennikelsauce",
+				"Link": "https://herremadwp.herremad.dk/27-01-2009-pangasius-filet-med-kammuslinger-i-fennikelsauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "23.02.2009",
+		"Link": "https://herremadwp.herremad.dk/23-02-2009-menu/",
+		"recipes": [
+			{
+				"name": "MINESTRONE",
+				"ID": "minestrone",
+				"Link": "https://herremadwp.herremad.dk/23-02-2009-minestrone/",
+				"type": "forret"
+			},
+			{
+				"name": "ITALIENSK\n                      KALVERYG",
+				"ID": "italiensk-kalveryg",
+				"Link": "https://herremadwp.herremad.dk/23-02-2009-italiensk-kalveryg/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "17.02.2009",
+		"Link": "https://herremadwp.herremad.dk/17-02-2009-menu/",
+		"recipes": [
+			{
+				"name": "ØL-BEN\n      FRA SEVEL KRO(ligger syd for Skive ved Hjerl Hede).",
+				"ID": "oel-ben-fra-sevel-kroligger-syd-for-skive-ved-hjerl-hede",
+				"Link": "https://herremadwp.herremad.dk/17-02-2009-oel-ben-fra-sevel-kroligger-syd-for-skive-ved-hjerl-hede/",
+				"type": "hovedret"
+			},
+			{
+				"name": "ÆBLEKAGE\n              PÅ FYNSK",
+				"ID": "aeblekage-paa-fynsk",
+				"Link": "https://herremadwp.herremad.dk/17-02-2009-aeblekage-paa-fynsk/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "24.02.2009",
+		"Link": "https://herremadwp.herremad.dk/24-02-2009-menu/",
+		"recipes": [
+			{
+				"name": "SPRØDE AUBERGINE SANDWICHES",
+				"ID": "sproede-aubergine-sandwiches",
+				"Link": "https://herremadwp.herremad.dk/24-02-2009-sproede-aubergine-sandwiches/",
+				"type": "forret"
+			},
+			{
+				"name": "BRÆNDENDE KÆRLIGHEDm/rodfrugtmos,\n                      hyldebærsyltet rødbedesalat med frisk peberrod\n                      og hyldebærsirup",
+				"ID": "braendende-kaerlighedmrodfrugtmos-hyldebaersyltet-roedbedesalat-med-frisk-peberrod-og-hyldebaersirup",
+				"Link": "https://herremadwp.herremad.dk/24-02-2009-braendende-kaerlighedmrodfrugtmos-hyldebaersyltet-roedbedesalat-med-frisk-peberrod-og-hyldebaersirup/",
+				"type": "hovedret"
+			},
+			{
+				"name": "KOLDHÆVET BAQUETTE",
+				"ID": "koldhaevet-baquette",
+				"Link": "https://herremadwp.herremad.dk/24-02-2009-koldhaevet-baquette/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "13.marts.2009",
+		"Link": "https://herremadwp.herremad.dk/13-marts-2009-menu/",
+		"recipes": [
+			{
+				"name": "Moussaka Me Melitzanes (Moussaka med auberginer)\n      m/græsk salat",
+				"ID": "moussaka-me-melitzanes-moussaka-med-auberginer-mgraesk-salat",
+				"Link": "https://herremadwp.herremad.dk/13-marts-2009-moussaka-me-melitzanes-moussaka-med-auberginer-mgraesk-salat/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ferskner med retsina",
+				"ID": "ferskner-med-retsina",
+				"Link": "https://herremadwp.herremad.dk/13-marts-2009-ferskner-med-retsina/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.marts.2009",
+		"Link": "https://herremadwp.herremad.dk/10-marts-2009-menu/",
+		"recipes": [
+			{
+				"name": "JAPANSK\n                      GRØNSAGSSUPPE",
+				"ID": "japansk-groensagssuppe",
+				"Link": "https://herremadwp.herremad.dk/10-marts-2009-japansk-groensagssuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "JAPANSK SKINKESCHNITZEL",
+				"ID": "japansk-skinkeschnitzel",
+				"Link": "https://herremadwp.herremad.dk/10-marts-2009-japansk-skinkeschnitzel/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "17.marts.2009",
+		"Link": "https://herremadwp.herremad.dk/17-marts-2009-menu/",
+		"recipes": [
+			{
+				"name": "Græske rejer \n\t\t- Saganaki",
+				"ID": "graeske-rejer-saganaki",
+				"Link": "https://herremadwp.herremad.dk/17-marts-2009-graeske-rejer-saganaki/",
+				"type": "forret"
+			},
+			{
+				"name": "Lammeculottemed græsk tzaziki",
+				"ID": "lammeculottemed-graesk-tzaziki",
+				"Link": "https://herremadwp.herremad.dk/17-marts-2009-lammeculottemed-graesk-tzaziki/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "24.marts.2009",
+		"Link": "https://herremadwp.herremad.dk/24-marts-2009-menu/",
+		"recipes": [
+			{
+				"name": "Blinis med stenbiderrogn",
+				"ID": "blinis-med-stenbiderrogn",
+				"Link": "https://herremadwp.herremad.dk/24-marts-2009-blinis-med-stenbiderrogn/",
+				"type": "forret"
+			},
+			{
+				"name": "Vagtler i æbler",
+				"ID": "vagtler-i-aebler",
+				"Link": "https://herremadwp.herremad.dk/24-marts-2009-vagtler-i-aebler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "31.marts.2009",
+		"Link": "https://herremadwp.herremad.dk/31-marts-2009-menu/",
+		"recipes": [
+			{
+				"name": "Brunkål á la Munkebakkevej",
+				"ID": "brunkaal-la-munkebakkevej",
+				"Link": "https://herremadwp.herremad.dk/31-marts-2009-brunkaal-la-munkebakkevej/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mocca \n\t\t\t\t\tdessert",
+				"ID": "mocca-dessert",
+				"Link": "https://herremadwp.herremad.dk/31-marts-2009-mocca-dessert/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.april.2009",
+		"Link": "https://herremadwp.herremad.dk/14-april-2009-menu/",
+		"recipes": [
+			{
+				"name": "Pain grillé au sel et á l’hulie \n\td’oliveChile hummerhaler i \n\tkarrysauce,hertil flutes",
+				"ID": "pain-grille-au-sel-et-lhulie-dolivechile-hummerhaler-i-karrysaucehertil-flutes",
+				"Link": "https://herremadwp.herremad.dk/14-april-2009-pain-grille-au-sel-et-lhulie-dolivechile-hummerhaler-i-karrysaucehertil-flutes/",
+				"type": "forret"
+			},
+			{
+				"name": "Vagtler i sauce \n\tchampignon med ovnstegte baby-kartofler (m. skræl)hertil en grøn salat \n\tm. gedeost",
+				"ID": "vagtler-i-sauce-champignon-med-ovnstegte-baby-kartofler-m-skraelhertil-en-groen-salat-m-gedeost",
+				"Link": "https://herremadwp.herremad.dk/14-april-2009-vagtler-i-sauce-champignon-med-ovnstegte-baby-kartofler-m-skraelhertil-en-groen-salat-m-gedeost/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Chokoladekage m/syltede appelsinskiver og vaniljeis",
+				"ID": "chokoladekage-msyltede-appelsinskiver-og-vaniljeis",
+				"Link": "https://herremadwp.herremad.dk/14-april-2009-chokoladekage-msyltede-appelsinskiver-og-vaniljeis/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.april.2009",
+		"Link": "https://herremadwp.herremad.dk/21-april-2009-menu/",
+		"recipes": [
+			{
+				"name": "Kalveculotte, med ovnbagte små \n\tkartofler,ovnbagte kryddertomater og forårsløg.",
+				"ID": "kalveculotte-med-ovnbagte-smaa-kartoflerovnbagte-kryddertomater-og-foraarsloeg",
+				"Link": "https://herremadwp.herremad.dk/21-april-2009-kalveculotte-med-ovnbagte-smaa-kartoflerovnbagte-kryddertomater-og-foraarsloeg/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ostetallerken med gorgonzolatærte og \n\tportvinssvesker med brie.",
+				"ID": "ostetallerken-med-gorgonzolataerte-og-portvinssvesker-med-brie",
+				"Link": "https://herremadwp.herremad.dk/21-april-2009-ostetallerken-med-gorgonzolataerte-og-portvinssvesker-med-brie/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "28.april.2009",
+		"Link": "https://herremadwp.herremad.dk/28-april-2009-menu/",
+		"recipes": [
+			{
+				"name": "Chile hummerhaler i \n\tkarrysauce,hertil flutes",
+				"ID": "chile-hummerhaler-i-karrysaucehertil-flutes",
+				"Link": "https://herremadwp.herremad.dk/28-april-2009-chile-hummerhaler-i-karrysaucehertil-flutes/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalveculotte, med ovnbagte små \n\tkartofler,ovnbagte kryddertomater og forårsløg",
+				"ID": "kalveculotte-med-ovnbagte-smaa-kartoflerovnbagte-kryddertomater-og-foraarsloeg",
+				"Link": "https://herremadwp.herremad.dk/28-april-2009-kalveculotte-med-ovnbagte-smaa-kartoflerovnbagte-kryddertomater-og-foraarsloeg/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mocca dessert",
+				"ID": "mocca-dessert",
+				"Link": "https://herremadwp.herremad.dk/28-april-2009-mocca-dessert/",
+				"type": "dessert"
+			}
+		]
+	}
+]

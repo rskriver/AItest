@@ -1,0 +1,500 @@
+[
+	{
+		"date": "11.-0.2012",
+		"Link": "https://herremadwp.herremad.dk/11--0-2012-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/11--0-2012-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/11--0-2012-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.10.2011",
+		"Link": "https://herremadwp.herremad.dk/11-10-2011-menu/",
+		"recipes": [
+			{
+				"name": "Gazpacho",
+				"ID": "gazpacho",
+				"Link": "https://herremadwp.herremad.dk/11-10-2011-gazpacho/",
+				"type": "forret"
+			},
+			{
+				"name": "Paella",
+				"ID": "paella",
+				"Link": "https://herremadwp.herremad.dk/11-10-2011-paella/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Melon m/skinke/ost/flutes",
+				"ID": "melon-mskinkeostflutes",
+				"Link": "https://herremadwp.herremad.dk/11-10-2011-melon-mskinkeostflutes/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.10.2011",
+		"Link": "https://herremadwp.herremad.dk/18-10-2011-menu/",
+		"recipes": [
+			{
+				"name": "Grillet jomfruhummer",
+				"ID": "grillet-jomfruhummer",
+				"Link": "https://herremadwp.herremad.dk/18-10-2011-grillet-jomfruhummer/",
+				"type": "forret"
+			},
+			{
+				"name": "Reje- og svinekødsgumbo",
+				"ID": "reje-og-svinekoedsgumbo",
+				"Link": "https://herremadwp.herremad.dk/18-10-2011-reje-og-svinekoedsgumbo/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "25.10.2011",
+		"Link": "https://herremadwp.herremad.dk/25-10-2011-menu/",
+		"recipes": [
+			{
+				"name": "Aja Blanco",
+				"ID": "aja-blanco",
+				"Link": "https://herremadwp.herremad.dk/25-10-2011-aja-blanco/",
+				"type": "forret"
+			},
+			{
+				"name": "Cajun Gumbo med \n\t\t\t\t\trejer, krydrede pølser og svinekød",
+				"ID": "cajun-gumbo-med-rejer-krydrede-poelser-og-svinekoed",
+				"Link": "https://herremadwp.herremad.dk/25-10-2011-cajun-gumbo-med-rejer-krydrede-poelser-og-svinekoed/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Cajun Lime Pie",
+				"ID": "cajun-lime-pie",
+				"Link": "https://herremadwp.herremad.dk/25-10-2011-cajun-lime-pie/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.11.2011",
+		"Link": "https://herremadwp.herremad.dk/15-11-2011-menu/",
+		"recipes": [
+			{
+				"name": "Minirösti med laks",
+				"ID": "miniroesti-med-laks",
+				"Link": "https://herremadwp.herremad.dk/15-11-2011-miniroesti-med-laks/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst med appelsinsauce",
+				"ID": "andebryst-med-appelsinsauce",
+				"Link": "https://herremadwp.herremad.dk/15-11-2011-andebryst-med-appelsinsauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "22.11.2011",
+		"Link": "https://herremadwp.herremad.dk/22-11-2011-menu/",
+		"recipes": [
+			{
+				"name": "Røget laks i Cajun tomatsuppe",
+				"ID": "roeget-laks-i-cajun-tomatsuppe",
+				"Link": "https://herremadwp.herremad.dk/22-11-2011-roeget-laks-i-cajun-tomatsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Cajun \n\tKalvehaler",
+				"ID": "cajun-kalvehaler",
+				"Link": "https://herremadwp.herremad.dk/22-11-2011-cajun-kalvehaler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.11.2011",
+		"Link": "https://herremadwp.herremad.dk/29-11-2011-menu/",
+		"recipes": [
+			{
+				"name": "Sherryglaseret kyllingelever",
+				"ID": "sherryglaseret-kyllingelever",
+				"Link": "https://herremadwp.herremad.dk/29-11-2011-sherryglaseret-kyllingelever/",
+				"type": "forret"
+			},
+			{
+				"name": "Ovnbagt guldbrasen med kartofler og \n\t\t\t\t\thvidløgsmayonnaise",
+				"ID": "ovnbagt-guldbrasen-med-kartofler-og-hvidloegsmayonnaise",
+				"Link": "https://herremadwp.herremad.dk/29-11-2011-ovnbagt-guldbrasen-med-kartofler-og-hvidloegsmayonnaise/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mandelsmåkager",
+				"ID": "mandelsmaakager",
+				"Link": "https://herremadwp.herremad.dk/29-11-2011-mandelsmaakager/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "13.12.2011",
+		"Link": "https://herremadwp.herremad.dk/13-12-2011-menu/",
+		"recipes": [
+			{
+				"name": "Carpaccio",
+				"ID": "carpaccio",
+				"Link": "https://herremadwp.herremad.dk/13-12-2011-carpaccio/",
+				"type": "forret"
+			},
+			{
+				"name": "Flæskesteg m/sprød svær, \n\t\t\t\t\trødkål og brunede kartofler",
+				"ID": "flaeskesteg-msproed-svaer-roedkaal-og-brunede-kartofler",
+				"Link": "https://herremadwp.herremad.dk/13-12-2011-flaeskesteg-msproed-svaer-roedkaal-og-brunede-kartofler/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbleskiver m/æblestykker \n\t\t\t\t\tog kardemomme",
+				"ID": "aebleskiver-maeblestykker-og-kardemomme",
+				"Link": "https://herremadwp.herremad.dk/13-12-2011-aebleskiver-maeblestykker-og-kardemomme/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "20.12.2011",
+		"Link": "https://herremadwp.herremad.dk/20-12-2011-menu/",
+		"recipes": [
+			{
+				"name": "Bornholmske saltsild",
+				"ID": "bornholmske-saltsild",
+				"Link": "https://herremadwp.herremad.dk/20-12-2011-bornholmske-saltsild/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst med rodfrugter og rødkål.Æbleflæsk",
+				"ID": "andebryst-med-rodfrugter-og-roedkaalaebleflaesk",
+				"Link": "https://herremadwp.herremad.dk/20-12-2011-andebryst-med-rodfrugter-og-roedkaalaebleflaesk/",
+				"type": "hovedret"
+			},
+			{
+				"name": "OstIndbagt brie med solbærsyltetøjJulesalat \n\t\t\t\t\tmed creme Gorgonzola",
+				"ID": "ostindbagt-brie-med-solbaersyltetoejjulesalat-med-creme-gorgonzola",
+				"Link": "https://herremadwp.herremad.dk/20-12-2011-ostindbagt-brie-med-solbaersyltetoejjulesalat-med-creme-gorgonzola/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.01.2012",
+		"Link": "https://herremadwp.herremad.dk/10-01-2012-menu/",
+		"recipes": [
+			{
+				"name": "Cremet Sellerisuppe",
+				"ID": "cremet-sellerisuppe",
+				"Link": "https://herremadwp.herremad.dk/10-01-2012-cremet-sellerisuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Sandart med oliven",
+				"ID": "sandart-med-oliven",
+				"Link": "https://herremadwp.herremad.dk/10-01-2012-sandart-med-oliven/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Bløde bagte choko-fristelser",
+				"ID": "bloede-bagte-choko-fristelser",
+				"Link": "https://herremadwp.herremad.dk/10-01-2012-bloede-bagte-choko-fristelser/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "17.01.2012",
+		"Link": "https://herremadwp.herremad.dk/17-01-2012-menu/",
+		"recipes": [
+			{
+				"name": "Suppe med rejer i rød \n\t\t\t\t\tkarry",
+				"ID": "suppe-med-rejer-i-roed-karry",
+				"Link": "https://herremadwp.herremad.dk/17-01-2012-suppe-med-rejer-i-roed-karry/",
+				"type": "forret"
+			},
+			{
+				"name": "Laksefilet med rejefyld \n\t\t\t\t\tm/timbaler med broccoli og gulerødder og estragonsauce",
+				"ID": "laksefilet-med-rejefyld-mtimbaler-med-broccoli-og-guleroedder-og-estragonsauce",
+				"Link": "https://herremadwp.herremad.dk/17-01-2012-laksefilet-med-rejefyld-mtimbaler-med-broccoli-og-guleroedder-og-estragonsauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "24.01.2012",
+		"Link": "https://herremadwp.herremad.dk/24-01-2012-menu/",
+		"recipes": [
+			{
+				"name": "Jordskoksuppe",
+				"ID": "jordskoksuppe",
+				"Link": "https://herremadwp.herremad.dk/24-01-2012-jordskoksuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Fisk en papillotes",
+				"ID": "fisk-en-papillotes",
+				"Link": "https://herremadwp.herremad.dk/24-01-2012-fisk-en-papillotes/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbledessert",
+				"ID": "aebledessert",
+				"Link": "https://herremadwp.herremad.dk/24-01-2012-aebledessert/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "31.01.2012",
+		"Link": "https://herremadwp.herremad.dk/31-01-2012-menu/",
+		"recipes": [
+			{
+				"name": "Hummercrostini med portvinssmør og \n\t\t\t\t\tparmesanchips",
+				"ID": "hummercrostini-med-portvinssmoer-og-parmesanchips",
+				"Link": "https://herremadwp.herremad.dk/31-01-2012-hummercrostini-med-portvinssmoer-og-parmesanchips/",
+				"type": "forret"
+			},
+			{
+				"name": "Vildtragout med rodfrugter",
+				"ID": "vildtragout-med-rodfrugter",
+				"Link": "https://herremadwp.herremad.dk/31-01-2012-vildtragout-med-rodfrugter/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kokossmåkage",
+				"ID": "kokossmaakage",
+				"Link": "https://herremadwp.herremad.dk/31-01-2012-kokossmaakage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "14.02.2012",
+		"Link": "https://herremadwp.herremad.dk/14-02-2012-menu/",
+		"recipes": [
+			{
+				"name": "Hummerhaler i karry",
+				"ID": "hummerhaler-i-karry",
+				"Link": "https://herremadwp.herremad.dk/14-02-2012-hummerhaler-i-karry/",
+				"type": "forret"
+			},
+			{
+				"name": "Ølmarineret lam med \n\t\t\t\t\tovnkartofler",
+				"ID": "oelmarineret-lam-med-ovnkartofler",
+				"Link": "https://herremadwp.herremad.dk/14-02-2012-oelmarineret-lam-med-ovnkartofler/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "21.02.2012",
+		"Link": "https://herremadwp.herremad.dk/21-02-2012-menu/",
+		"recipes": [
+			{
+				"name": "Tigerrejer i Tempura dej med Tartar \n\t\t\t\t\tsauce",
+				"ID": "tigerrejer-i-tempura-dej-med-tartar-sauce",
+				"Link": "https://herremadwp.herremad.dk/21-02-2012-tigerrejer-i-tempura-dej-med-tartar-sauce/",
+				"type": "forret"
+			},
+			{
+				"name": "Catalansk oksegryde med et tvist.",
+				"ID": "catalansk-oksegryde-med-et-tvist",
+				"Link": "https://herremadwp.herremad.dk/21-02-2012-catalansk-oksegryde-med-et-tvist/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Napoleonshatte",
+				"ID": "napoleonshatte",
+				"Link": "https://herremadwp.herremad.dk/21-02-2012-napoleonshatte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "28.02.2012",
+		"Link": "https://herremadwp.herremad.dk/28-02-2012-menu/",
+		"recipes": [
+			{
+				"name": "Rødtungeroulade med laks \n\t\t\t\t\tog fine urter",
+				"ID": "roedtungeroulade-med-laks-og-fine-urter",
+				"Link": "https://herremadwp.herremad.dk/28-02-2012-roedtungeroulade-med-laks-og-fine-urter/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalv i sursød-dildsauce",
+				"ID": "kalv-i-sursoed-dildsauce",
+				"Link": "https://herremadwp.herremad.dk/28-02-2012-kalv-i-sursoed-dildsauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "13.marts.2012",
+		"Link": "https://herremadwp.herremad.dk/13-marts-2012-menu/",
+		"recipes": [
+			{
+				"name": "Krydret karrysuppe med rejer og \n\t\t\t\t\tferskner",
+				"ID": "krydret-karrysuppe-med-rejer-og-ferskner",
+				"Link": "https://herremadwp.herremad.dk/13-marts-2012-krydret-karrysuppe-med-rejer-og-ferskner/",
+				"type": "forret"
+			},
+			{
+				"name": "Viking Gryde",
+				"ID": "viking-gryde",
+				"Link": "https://herremadwp.herremad.dk/13-marts-2012-viking-gryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "20.marts.2012",
+		"Link": "https://herremadwp.herremad.dk/20-marts-2012-menu/",
+		"recipes": [
+			{
+				"name": "Cozze con pomodoro",
+				"ID": "cozze-con-pomodoro",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2012-cozze-con-pomodoro/",
+				"type": "forret"
+			},
+			{
+				"name": "Filetto di maiale impanato di \n\t\t\t\t\tpistacchi m/Pasta alla Norma",
+				"ID": "filetto-di-maiale-impanato-di-pistacchi-mpasta-alla-norma",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2012-filetto-di-maiale-impanato-di-pistacchi-mpasta-alla-norma/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Appelsinkage",
+				"ID": "appelsinkage",
+				"Link": "https://herremadwp.herremad.dk/20-marts-2012-appelsinkage/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.marts.2012",
+		"Link": "https://herremadwp.herremad.dk/27-marts-2012-menu/",
+		"recipes": [
+			{
+				"name": "Kyllinglever Bobotie med salat og \n\t\t\t\t\tchutney",
+				"ID": "kyllinglever-bobotie-med-salat-og-chutney",
+				"Link": "https://herremadwp.herremad.dk/27-marts-2012-kyllinglever-bobotie-med-salat-og-chutney/",
+				"type": "forret"
+			},
+			{
+				"name": "Lamme SosatiesSydafrikansk Rissalat",
+				"ID": "lamme-sosatiessydafrikansk-rissalat",
+				"Link": "https://herremadwp.herremad.dk/27-marts-2012-lamme-sosatiessydafrikansk-rissalat/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Malva Pudding",
+				"ID": "malva-pudding",
+				"Link": "https://herremadwp.herremad.dk/27-marts-2012-malva-pudding/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "10.april.2012",
+		"Link": "https://herremadwp.herremad.dk/10-april-2012-menu/",
+		"recipes": [
+			{
+				"name": "Peberfrugt med kammuslinger , hvidløg \n\t\t\t\t\tog pesto",
+				"ID": "peberfrugt-med-kammuslinger-hvidloeg-og-pesto",
+				"Link": "https://herremadwp.herremad.dk/10-april-2012-peberfrugt-med-kammuslinger-hvidloeg-og-pesto/",
+				"type": "forret"
+			},
+			{
+				"name": "Filetto divitelloalla sardo",
+				"ID": "filetto-divitelloalla-sardo",
+				"Link": "https://herremadwp.herremad.dk/10-april-2012-filetto-divitelloalla-sardo/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Kongelig soufflé med sæsonens bær",
+				"ID": "kongelig-souffle-med-saesonens-baer",
+				"Link": "https://herremadwp.herremad.dk/10-april-2012-kongelig-souffle-med-saesonens-baer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "17.april.2012",
+		"Link": "https://herremadwp.herremad.dk/17-april-2012-menu/",
+		"recipes": [
+			{
+				"name": "Lakse ”hapser” med rejer",
+				"ID": "lakse-hapser-med-rejer",
+				"Link": "https://herremadwp.herremad.dk/17-april-2012-lakse-hapser-med-rejer/",
+				"type": "forret"
+			},
+			{
+				"name": "Kylling på kartoffelbund",
+				"ID": "kylling-paa-kartoffelbund",
+				"Link": "https://herremadwp.herremad.dk/17-april-2012-kylling-paa-kartoffelbund/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "24.april.2012",
+		"Link": "https://herremadwp.herremad.dk/24-april-2012-menu/",
+		"recipes": [
+			{
+				"name": "Artiskok med persillerelish og \n\tserranoI",
+				"ID": "artiskok-med-persillerelish-og-serranoi",
+				"Link": "https://herremadwp.herremad.dk/24-april-2012-artiskok-med-persillerelish-og-serranoi/",
+				"type": "forret"
+			},
+			{
+				"name": "Indbagte koteletter!",
+				"ID": "indbagte-koteletter",
+				"Link": "https://herremadwp.herremad.dk/24-april-2012-indbagte-koteletter/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Trifli med sveskekompot",
+				"ID": "trifli-med-sveskekompot",
+				"Link": "https://herremadwp.herremad.dk/24-april-2012-trifli-med-sveskekompot/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "27.april.2012",
+		"Link": "https://herremadwp.herremad.dk/27-april-2012-menu/",
+		"recipes": [
+			{
+				"name": "Rødtungefilet med laksesoufflé \n\t\t\t\t\tog safransauce",
+				"ID": "roedtungefilet-med-laksesouffle-og-safransauce",
+				"Link": "https://herremadwp.herremad.dk/27-april-2012-roedtungefilet-med-laksesouffle-og-safransauce/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalvefilet \n\tm/kartofler/mozarellagratin/grøntsagskokotte/rødvinssauce",
+				"ID": "kalvefilet-mkartoflermozarellagratingroentsagskokotteroedvinssauce",
+				"Link": "https://herremadwp.herremad.dk/27-april-2012-kalvefilet-mkartoflermozarellagratingroentsagskokotteroedvinssauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Tærte med sommerbær og kokoscreme",
+				"ID": "taerte-med-sommerbaer-og-kokoscreme",
+				"Link": "https://herremadwp.herremad.dk/27-april-2012-taerte-med-sommerbaer-og-kokoscreme/",
+				"type": "dessert"
+			}
+		]
+	}
+]

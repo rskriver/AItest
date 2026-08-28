@@ -1,0 +1,452 @@
+[
+	{
+		"date": "21.-0.2022",
+		"Link": "https://herremadwp.herremad.dk/21--0-2022-menu/",
+		"recipes": [
+			{
+				"name": "FORRET",
+				"ID": "forret",
+				"Link": "https://herremadwp.herremad.dk/21--0-2022-forret/",
+				"type": "hovedret"
+			},
+			{
+				"name": "HOVEDRET",
+				"ID": "hovedret",
+				"Link": "https://herremadwp.herremad.dk/21--0-2022-hovedret/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "05.10.2021",
+		"Link": "https://herremadwp.herremad.dk/05-10-2021-menu/",
+		"recipes": [
+			{
+				"name": "Cremet \n\t\t\t\t\tsellerisuppe med trøffel",
+				"ID": "cremet-sellerisuppe-med-troeffel",
+				"Link": "https://herremadwp.herremad.dk/05-10-2021-cremet-sellerisuppe-med-troeffel/",
+				"type": "forret"
+			},
+			{
+				"name": "Kalvemørbrad med svampe, parmaskinke og spinat",
+				"ID": "kalvemoerbrad-med-svampe-parmaskinke-og-spinat",
+				"Link": "https://herremadwp.herremad.dk/05-10-2021-kalvemoerbrad-med-svampe-parmaskinke-og-spinat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "12.10.2021",
+		"Link": "https://herremadwp.herremad.dk/12-10-2021-menu/",
+		"recipes": [
+			{
+				"name": "Gratineret hummer",
+				"ID": "gratineret-hummer",
+				"Link": "https://herremadwp.herremad.dk/12-10-2021-gratineret-hummer/",
+				"type": "forret"
+			},
+			{
+				"name": "Ale \n\t\t\t\t\tbraiseret andebryst med quinoa-salat",
+				"ID": "ale-braiseret-andebryst-med-quinoa-salat",
+				"Link": "https://herremadwp.herremad.dk/12-10-2021-ale-braiseret-andebryst-med-quinoa-salat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "02.11.2021",
+		"Link": "https://herremadwp.herremad.dk/02-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Spinatpandekager med laks, \n\t\t\t\t\trejer, avocado og dilddressing",
+				"ID": "spinatpandekager-med-laks-rejer-avocado-og-dilddressing",
+				"Link": "https://herremadwp.herremad.dk/02-11-2021-spinatpandekager-med-laks-rejer-avocado-og-dilddressing/",
+				"type": "forret"
+			},
+			{
+				"name": "Indisk curry med \n\t\t\t\t\tkylling",
+				"ID": "indisk-curry-med-kylling",
+				"Link": "https://herremadwp.herremad.dk/02-11-2021-indisk-curry-med-kylling/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "09.11.2021",
+		"Link": "https://herremadwp.herremad.dk/09-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Jomfruhummerhaler med hvidløgssmør",
+				"ID": "jomfruhummerhaler-med-hvidloegssmoer",
+				"Link": "https://herremadwp.herremad.dk/09-11-2021-jomfruhummerhaler-med-hvidloegssmoer/",
+				"type": "forret"
+			},
+			{
+				"name": "Indbagt \n\t\t\t\t\tsvinemørbrad med Insalata Caprese fra Campania",
+				"ID": "indbagt-svinemoerbrad-med-insalata-caprese-fra-campania",
+				"Link": "https://herremadwp.herremad.dk/09-11-2021-indbagt-svinemoerbrad-med-insalata-caprese-fra-campania/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "16.11.2021",
+		"Link": "https://herremadwp.herremad.dk/16-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Peber/tomat Suppe med pesto",
+				"ID": "pebertomat-suppe-med-pesto",
+				"Link": "https://herremadwp.herremad.dk/16-11-2021-pebertomat-suppe-med-pesto/",
+				"type": "forret"
+			},
+			{
+				"name": "Fasan med \n\t\t\t\t\tgrønt",
+				"ID": "fasan-med-groent",
+				"Link": "https://herremadwp.herremad.dk/16-11-2021-fasan-med-groent/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "23.11.2021",
+		"Link": "https://herremadwp.herremad.dk/23-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Rejecocktail med avocadocreme",
+				"ID": "rejecocktail-med-avocadocreme",
+				"Link": "https://herremadwp.herremad.dk/23-11-2021-rejecocktail-med-avocadocreme/",
+				"type": "forret"
+			},
+			{
+				"name": "Enebærgryde med bagt kartoffelmos",
+				"ID": "enebaergryde-med-bagt-kartoffelmos",
+				"Link": "https://herremadwp.herremad.dk/23-11-2021-enebaergryde-med-bagt-kartoffelmos/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "30.11.2021",
+		"Link": "https://herremadwp.herremad.dk/30-11-2021-menu/",
+		"recipes": [
+			{
+				"name": "Grønne linser men skindstegt “Catch of the Day”",
+				"ID": "groenne-linser-men-skindstegt-catch-of-the-day",
+				"Link": "https://herremadwp.herremad.dk/30-11-2021-groenne-linser-men-skindstegt-catch-of-the-day/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crema Catalana",
+				"ID": "crema-catalana",
+				"Link": "https://herremadwp.herremad.dk/30-11-2021-crema-catalana/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "07.12.2021",
+		"Link": "https://herremadwp.herremad.dk/07-12-2021-menu/",
+		"recipes": [
+			{
+				"name": "Gourmet Krebs",
+				"ID": "gourmet-krebs",
+				"Link": "https://herremadwp.herremad.dk/07-12-2021-gourmet-krebs/",
+				"type": "forret"
+			},
+			{
+				"name": "Andebryst med svampe, forårsløg og \n\t\t\t\t\trødvinssauce",
+				"ID": "andebryst-med-svampe-foraarsloeg-og-roedvinssauce",
+				"Link": "https://herremadwp.herremad.dk/07-12-2021-andebryst-med-svampe-foraarsloeg-og-roedvinssauce/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "14.12.2021",
+		"Link": "https://herremadwp.herremad.dk/14-12-2021-menu/",
+		"recipes": [
+			{
+				"name": "Stegte \n\t\t\t\t\tsildefilet i tomatsauceMarinerede hvide sildStegte rødspættefileterTarteletterRibbenstegGammeldags æbleflæsk",
+				"ID": "stegte-sildefilet-i-tomatsaucemarinerede-hvide-sildstegte-roedspaettefiletertarteletterribbensteggammeldags-aebleflaesk",
+				"Link": "https://herremadwp.herremad.dk/14-12-2021-stegte-sildefilet-i-tomatsaucemarinerede-hvide-sildstegte-roedspaettefiletertarteletterribbensteggammeldags-aebleflaesk/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Ris a la \n\t\t\t\t\tmande",
+				"ID": "ris-a-la-mande",
+				"Link": "https://herremadwp.herremad.dk/14-12-2021-ris-a-la-mande/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "04.01.2022",
+		"Link": "https://herremadwp.herremad.dk/04-01-2022-menu/",
+		"recipes": [
+			{
+				"name": "Involtini di prosciutto e Mozzarella",
+				"ID": "involtini-di-prosciutto-e-mozzarella",
+				"Link": "https://herremadwp.herremad.dk/04-01-2022-involtini-di-prosciutto-e-mozzarella/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Pastiera\n      Napoletana Maniera di Knud-Erik",
+				"ID": "pastiera-napoletana-maniera-di-knud-erik",
+				"Link": "https://herremadwp.herremad.dk/04-01-2022-pastiera-napoletana-maniera-di-knud-erik/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.01.2022",
+		"Link": "https://herremadwp.herremad.dk/11-01-2022-menu/",
+		"recipes": [
+			{
+				"name": "Italiensk kødgryde",
+				"ID": "italiensk-koedgryde",
+				"Link": "https://herremadwp.herremad.dk/11-01-2022-italiensk-koedgryde/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Italiensk jordbærtrifli",
+				"ID": "italiensk-jordbaertrifli",
+				"Link": "https://herremadwp.herremad.dk/11-01-2022-italiensk-jordbaertrifli/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.01.2022",
+		"Link": "https://herremadwp.herremad.dk/18-01-2022-menu/",
+		"recipes": [
+			{
+				"name": "Originale italienske kødboller med pasta",
+				"ID": "originale-italienske-koedboller-med-pasta",
+				"Link": "https://herremadwp.herremad.dk/18-01-2022-originale-italienske-koedboller-med-pasta/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Tiramisu med Whisky",
+				"ID": "tiramisu-med-whisky",
+				"Link": "https://herremadwp.herremad.dk/18-01-2022-tiramisu-med-whisky/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.01.2022",
+		"Link": "https://herremadwp.herremad.dk/25-01-2022-menu/",
+		"recipes": [
+			{
+				"name": "Ministrone suppe",
+				"ID": "ministrone-suppe",
+				"Link": "https://herremadwp.herremad.dk/25-01-2022-ministrone-suppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Farfalle med kylling, salviesmør og butternutsquash",
+				"ID": "farfalle-med-kylling-salviesmoer-og-butternutsquash",
+				"Link": "https://herremadwp.herremad.dk/25-01-2022-farfalle-med-kylling-salviesmoer-og-butternutsquash/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "01.02.2022",
+		"Link": "https://herremadwp.herremad.dk/01-02-2022-menu/",
+		"recipes": [
+			{
+				"name": "Tapas",
+				"ID": "tapas",
+				"Link": "https://herremadwp.herremad.dk/01-02-2022-tapas/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "08.02.2022",
+		"Link": "https://herremadwp.herremad.dk/08-02-2022-menu/",
+		"recipes": [
+			{
+				"name": "Pa amb \n\toli (tomaquet)",
+				"ID": "pa-amb-oli-tomaquet",
+				"Link": "https://herremadwp.herremad.dk/08-02-2022-pa-amb-oli-tomaquet/",
+				"type": "forret"
+			},
+			{
+				"name": "Paella con pollo y mariscos (Paella \n\t\t\t\t\tmixta)",
+				"ID": "paella-con-pollo-y-mariscos-paella-mixta",
+				"Link": "https://herremadwp.herremad.dk/08-02-2022-paella-con-pollo-y-mariscos-paella-mixta/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Almendrados",
+				"ID": "almendrados",
+				"Link": "https://herremadwp.herremad.dk/08-02-2022-almendrados/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.02.2022",
+		"Link": "https://herremadwp.herremad.dk/15-02-2022-menu/",
+		"recipes": [
+			{
+				"name": "Paella",
+				"ID": "paella",
+				"Link": "https://herremadwp.herremad.dk/15-02-2022-paella/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "22.02.2022",
+		"Link": "https://herremadwp.herremad.dk/22-02-2022-menu/",
+		"recipes": [
+			{
+				"name": "Tapas - Spansk aften med Gitte og Sussi",
+				"ID": "tapas-spansk-aften-med-gitte-og-sussi",
+				"Link": "https://herremadwp.herremad.dk/22-02-2022-tapas-spansk-aften-med-gitte-og-sussi/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "01.03.2022",
+		"Link": "https://herremadwp.herremad.dk/01-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Fransk \n\t\t\t\t\tløgsuppe",
+				"ID": "fransk-loegsuppe",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-fransk-loegsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Franske \n\t\t\t\t\tkoteletter",
+				"ID": "franske-koteletter",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-franske-koteletter/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Crepes \n\t\t\t\t\tSuzette",
+				"ID": "crepes-suzette",
+				"Link": "https://herremadwp.herremad.dk/01-03-2022-crepes-suzette/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "08.03.2022",
+		"Link": "https://herremadwp.herremad.dk/08-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Boeuf \n\tBourguignon",
+				"ID": "boeuf-bourguignon",
+				"Link": "https://herremadwp.herremad.dk/08-03-2022-boeuf-bourguignon/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Æbletærte",
+				"ID": "aebletaerte",
+				"Link": "https://herremadwp.herremad.dk/08-03-2022-aebletaerte/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "15.03.2022",
+		"Link": "https://herremadwp.herremad.dk/15-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Coq au \n\t\t\t\t\tvin",
+				"ID": "coq-au-vin",
+				"Link": "https://herremadwp.herremad.dk/15-03-2022-coq-au-vin/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Eclairs \n\t\t\t\t\tmed vaniljecreme og choko-glasur",
+				"ID": "eclairs-med-vaniljecreme-og-choko-glasur",
+				"Link": "https://herremadwp.herremad.dk/15-03-2022-eclairs-med-vaniljecreme-og-choko-glasur/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.03.2022",
+		"Link": "https://herremadwp.herremad.dk/22-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Fransk løgsuppe",
+				"ID": "fransk-loegsuppe",
+				"Link": "https://herremadwp.herremad.dk/22-03-2022-fransk-loegsuppe/",
+				"type": "forret"
+			},
+			{
+				"name": "Cote de Boeuf med Bearnaisesauce og Pommes fritesGrøn salat med Orleanais dressing",
+				"ID": "cote-de-boeuf-med-bearnaisesauce-og-pommes-fritesgroen-salat-med-orleanais-dressing",
+				"Link": "https://herremadwp.herremad.dk/22-03-2022-cote-de-boeuf-med-bearnaisesauce-og-pommes-fritesgroen-salat-med-orleanais-dressing/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.03.2022",
+		"Link": "https://herremadwp.herremad.dk/29-03-2022-menu/",
+		"recipes": [
+			{
+				"name": "Bouillabaisse",
+				"ID": "bouillabaisse",
+				"Link": "https://herremadwp.herremad.dk/29-03-2022-bouillabaisse/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Clafoutis \n\t\t\t\t\tmed brombær",
+				"ID": "clafoutis-med-brombaer",
+				"Link": "https://herremadwp.herremad.dk/29-03-2022-clafoutis-med-brombaer/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "05.04.2022",
+		"Link": "https://herremadwp.herremad.dk/05-04-2022-menu/",
+		"recipes": [
+			{
+				"name": "Paprikagryde / mørbradgryde",
+				"ID": "paprikagryde-moerbradgryde",
+				"Link": "https://herremadwp.herremad.dk/05-04-2022-paprikagryde-moerbradgryde/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Blåbærtrifli",
+				"ID": "blaabaertrifli",
+				"Link": "https://herremadwp.herremad.dk/05-04-2022-blaabaertrifli/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "19.04.2022",
+		"Link": "https://herremadwp.herremad.dk/19-04-2022-menu/",
+		"recipes": [
+			{
+				"name": "Kinarejer \n\t\t\t\t\tmed friske asparges",
+				"ID": "kinarejer-med-friske-asparges",
+				"Link": "https://herremadwp.herremad.dk/19-04-2022-kinarejer-med-friske-asparges/",
+				"type": "forret"
+			},
+			{
+				"name": "Stegt \n\t\t\t\t\tlaks med ingefær-appelsinsauce, fennikelsalat med \n\t\t\t\t\tkaramelliseret appelsin",
+				"ID": "stegt-laks-med-ingefaer-appelsinsauce-fennikelsalat-med-karamelliseret-appelsin",
+				"Link": "https://herremadwp.herremad.dk/19-04-2022-stegt-laks-med-ingefaer-appelsinsauce-fennikelsalat-med-karamelliseret-appelsin/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Mocca \n\t\t\t\t\tdessert",
+				"ID": "mocca-dessert",
+				"Link": "https://herremadwp.herremad.dk/19-04-2022-mocca-dessert/",
+				"type": "dessert"
+			}
+		]
+	}
+]
