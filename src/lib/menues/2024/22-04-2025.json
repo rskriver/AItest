@@ -1,0 +1,89 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-04-22",
+        "image": "",
+        "dishes": [
+            {
+                "id": "hvide-asparges-med-stenbiderrogn",
+                "name": "Hvide asparges med stenbiderrogn",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "20 Hvide asparges",
+                            "2 dl Cremefraiche",
+                            "150 g Stenbiderrogn",
+                            "En håndfuld Rugbrødschips",
+                            "Et halvt bundt Dild",
+                            "1 Citron",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skræl de hvide asparges og knæk det allernederste stykke af.",
+                            "Damp de hvide asparges i kogende letsaltet vand i ca. 3 – 4 minutter.",
+                            "Anret de hvide asparges på en tallerken og pynt med cremefraiche og stenbiderrogn og dild.",
+                            "Smag til med citronsaft, samt drys med rugbrødschips og salt og peber og serveres med flutes."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "wienerschnitzel-med-dreng",
+                "name": "Wienerschnitzel med dreng",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 Kalveschnitzler",
+                            "1 dl Hvedemel",
+                            "Salt",
+                            "Peber",
+                            "2 æg sammenpisket",
+                            "2 dl Rasp",
+                            "3 spsk Olivenolie",
+                            "30 g Smør",
+                            "1 øko Citron",
+                            "1 glas eller 1 ds Benfri sild",
+                            "2 spsk Peberrod",
+                            "2 spsk Kapers",
+                            "Flagesalt",
+                            "Peber",
+                            "1 kg. kartofler",
+                            "300 gram ærter",
+                            "2 spsk Olivenolie",
+                            "2 spsk Smør",
+                            "Flagesalt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær kartoflerne i ca. 1 cm. tykke skiver og vend dem i olie og salt, kom kartoflerne på en bradepande med bagepapir.",
+                            "Bag dem i en forvarmet ovn ved 200 grader varmluft i ca. 30 minutter.",
+                            "Bank kødet fladt til ca. 1/2 cm. med en pande eller kasserolle eller kødhammer.",
+                            "Vend dem på begge sider først i en skål med hvedemel blandet med salt og peber.",
+                            "Derefter vendes i en skål med sammenpisket æg og til sidst i en skål med rasp og salt og peber.Steg med smør og olie.",
+                            "Varm de brunede wienerschnitzel nederst i ovnen de sidste 5 minutter af kartoflernes bagetid.",
+                            "Lad smør bruse af på en ren pande og lynrist ærterne i ca. 1 minut med høj varme under omrøring.",
+                            "Drys med salt og peber og server til wienerschnitzelerne mens ærterne er rygende varme.",
+                            "Server wienerschnitzel med en citronskive, toppet med sild, kapers og peberrod, samt kartoffelskiver og smørristede varme ærter."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

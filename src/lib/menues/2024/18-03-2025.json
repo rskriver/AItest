@@ -1,0 +1,135 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-03-18",
+        "image": "",
+        "dishes": [
+            {
+                "id": "spanakopita-med-butterdej",
+                "name": "Spanakopita med butterdej",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "40 gram frisk spinat",
+                            "1/2 bundt persille",
+                            "1 fed hvidløg",
+                            "100 gram flødeost",
+                            "160 gram salattern",
+                            "Salt og peber",
+                            "50 gram mandler",
+                            "1 plader fersk butterdej",
+                            "1 æg let pisket"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Tænd ovnen på 180 grader varmluft",
+                            "Kom spinat, persille og hvidløg i en foodprocessor. Kør indtil finthakket",
+                            "Kom nu flødeost, salattern, salt og peber i og kør, indtil du har en lækker grøn creme. Smag cremen til med evt. mere salt og peber.",
+                            "Kom nu mandlerne i og kør nogle omgange, så mandlerne bliver hakket en smule, men ikke for meget. Lad mandlerne forblive groft hakket. Nu er cremen færdig.",
+                            "Der er nok creme til 2 plader butterdej – 24 stk. Skær de to plader butterdej ud i 12 firkanter hver.",
+                            "Kom fyld i midten af alle firkanter. Ikke for meget og ikke for lidt.",
+                            "Nu skal de foldes. Tag to modsatte hjørner og saml dem. Tag herefter de to andre modsattehjørner og saml dem, Pensl dem alle sammen med æg.",
+                            "Bag de lækre hapser i ovnen i ca. 14 minutter eller indtil de er flotte gyldne."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "stifado",
+                "name": "Stifado",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 kg tykkam eller inderlår skåret i tern",
+                            "10 skalotteløg",
+                            "2 stænger bladselleri, fintsnittet",
+                            "2 store gulerødder, skåret i skiver",
+                            "4 fed hvidløg, skåret i tynde skiver",
+                            "1 håndfuld bredbladet persille",
+                            "5 dl rødvin",
+                            "2 dl vand + 1 oksebouillon terning",
+                            "3 spsk tomatkoncentrat",
+                            "2 spsk hvedemel",
+                            "2 kanelstænger",
+                            "2 laurbærblade",
+                            "1 tsk spidskommen",
+                            "¼ tsk stødt nelliker",
+                            "Salt",
+                            "Friskkværnet peber",
+                            "Olie",
+                            "1 stor agurk",
+                            "400 g græsk yoghurt",
+                            "3 fed hvidløg",
+                            "2 spsk. Oliven olie",
+                            "1 spsk. friskpresset citronsaft",
+                            "2 spsk. dild eller mynte",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Varm en god sjat olie i en gryde og brun kødet godt af. Krydr med salt og friskkværnet peber.",
+                            "Tilsæt de hele pillede løg, hvidløg, bladselleri, gulerod og persille og steg med i 5 minutters tid –rør undervejs.",
+                            "Drys krydderierne over og varm igennem, inden tomatkoncentratet tilsættes og varmes med.",
+                            "Tilsæt melet og rør det godt rundt. Hæld derefter rødvinen over sammen med kanelstænger oglaurbærblade. Lad det småsimre i 10 minutter.",
+                            "Tilsæt vand og bouillon og lad retten simre under låg – gerne med lidt luft til i ca. 2-2 ½ timer. Røret par gange undervejs.",
+                            "Den sidste halve time kan låget tages af, så retten får lov at komme af med dampen og kogeyderligere ind. Rør forsigtigt så løgene ikke går i stykker.",
+                            "Smag saucen til med salt og friskkværnet peber og server med en god kartoffelmos, ris ellerlignende.",
+                            "Riv agurken groft (man kan fjerne kernerne).",
+                            "Pres saften ud af agurken evt. i et viskestykke.",
+                            "Læg agurken i en sigte og tilsæt lidt salt, og vend det med hænderne og lad det stå i ca. 15 min.",
+                            "Bland imens ingredienserne til dressingen.",
+                            "Vend agurken i og smag til med lidt peber og evt. salt.",
+                            "Opbevares på køl til servering."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "graesk-yoghurt-med-mango-og-passion",
+                "name": "Græsk yoghurt med mango og passion",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "6 dl græsk yoghurt",
+                            "1 moden mango",
+                            "2 passionsfrugter",
+                            "2 dl hindbær",
+                            "Lidt honning",
+                            "Lidt bær og evt. frisk mynte til topping"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hvis hindbærrene er frosne, start med at tå dem op. Blend bærrene med lidt honning",
+                            "Blend mangoen med indholdet fra de 2 passionsfrugter",
+                            "Fordel yoghurt, hindbær og mango i 4 glas",
+                            "Top med bær og evt. blade af pebermynte.",
+                            "Klar til servering!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

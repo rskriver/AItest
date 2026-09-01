@@ -1,0 +1,129 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-10-08",
+        "image": "",
+        "dishes": [
+            {
+                "id": "roeget-krondyr-grillet-salat-og-mormordressing",
+                "name": "Røget krondyr, grillet salat og mormordressing",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "120-140 g Krondyrkølle",
+                            "½ salathoved f.eks. Hjertesalat eller Romaine salat",
+                            "¼ l piskefløde",
+                            "1 tsk sukker",
+                            "1 tsk eddike",
+                            "saft af 1/2 citron",
+                            "salt &amp; peber",
+                            "Fast ost – feks. Comté, Vesterhavsost el. lign.",
+                            "Olievenolie",
+                            "Havsalt",
+                            "4 skiver godt surdejsbrød der ristes."
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hæld fløden i en skål og rør eddike, citron, og sukker i. Smag til med salt og peber.",
+                            "Lad dressingen stå i 5 minutter til citronen begynder at tykne fløden. Pisk det hele til passende tykkelsemed et piskeris.",
+                            "Grill det halve salathoved, eller steg det på panden i lidt smør.",
+                            "Skær tynde skiver af røget krondyr.",
+                            "Anret: Kom mormordressing på salaten og godt med tyndskåret krondyr – gerne rigeligt – eller bare til du skammer dig!",
+                            "Giv det hele en lille tur med skiver af en fast ost efter din smag, olivenolie og havsalt",
+                            "Du kan sagtens spise et groft, ristet, surdejsbrød til."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "vildtgryde-med-svampe",
+                "name": "Vildtgryde med svampe",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "100 gr bacon i tern",
+                            "2 løg (hakket)",
+                            "400 gr vildtkød, fx krondyr",
+                            "2 tsk timian",
+                            "3 laurbærblade",
+                            "5 dl okse- eller vildtbouillon (evt. bouillonterning + vand)",
+                            "2 gulerødder (skrællede og skåret i tern)",
+                            "2 pastinakker (skrællede og skåret i tern)",
+                            "1 dl fløde",
+                            "2 tsk ribsgele (kan erstattes af 1-2 tsk sukker)",
+                            "evt. saucekulør",
+                            "evt. maizena eller saucejævner",
+                            "salt",
+                            "peber",
+                            "1 spsk smør eller olie",
+                            "150 gr champignons i skiver (andre svampe kan også bruges)",
+                            "1 kg bagekartofler",
+                            "¼ Selleri",
+                            "Laurbærblad til kogevandet",
+                            "2 æg",
+                            "25 g smør",
+                            "1/2 dl sødmælk",
+                            "Salt",
+                            "Friskkværnet peber",
+                            "50 g friskreven parmesan – (kan udelades)",
+                            "1 fed presset hvidløg – (kan udelades)",
+                            "1½ dl Fraiche",
+                            "1 tsk Rødvinseddike",
+                            "1 spsk Sukker",
+                            "150 g Bacon i meget små tern",
+                            "500 g Broccoli i meget små buketter og tern",
+                            "1 Rødløg i meget små tern (ca. 100 g)",
+                            "1 dl Solsikkekerner",
+                            "1 dl Rosiner"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Opvarm en gryde og steg baconstykkerne brune og sprøde heri.",
+                            "Tilsæt hakket løg og lad det sautere et par minutter.",
+                            "Tilsæt vildtkød i tern til gryden og brun det godt af.",
+                            "Tilsæt herefter timian og laurbærblade, hæld bouillon ved, læg låg på og lad kødet simre med svagvarme i ca 1 time.",
+                            "Efter 1 time tilsættes gulerødder og pastinakker. Lad herefter vildtgryden simre i ca. 10 minutter.",
+                            "Tilsæt fløde til gryden og smag til med ribsgelé, salt og peber. Juster evt. farven med lidt saucekulør.",
+                            "Ønskes en tykkere konsistens, så kan retten jævnes med meljævning eller maizena udrørt i vand.Der kan også drysses saucejævner i retten.",
+                            "Opvarm smørret på en pande og sauter svampene heri, indtil de bliver gyldne.",
+                            "Kom de sauterede svampe i vildtgryden og server med kartoffelmos.",
+                            "Skræl kartofler og selleri i ensartede stykker.",
+                            "Kom kartoffel og selleritern i en gryde og dæk med vand. Lad være med at komme salt i.",
+                            "Kog kartoflerne og selleri helt møre.",
+                            "Hæld vandet fra og sæt gryden tilbage uden låg på, og lad kartofler og selleri dampe tørre på eftervarmen.",
+                            "Mos kartoflerne med en kartoffelmoser.",
+                            "Varm mælken op i en lille gryde eller i microovnen. Den må ikke koge.",
+                            "Tilsæt mælken til de mosede kartofler under omrøring. Det er aldrig helt til at sige hvor meget mælk derskal bruges, det afhænger af kartoflerne.",
+                            "Hak smøret i små stykker og rør dem ind i den varme kartoffelmos. Kryd med rigeligt salt og peber.",
+                            "Du kan også vælge at tilføje et presset fed hvidløg og/eller halvdelen af den revne parmesan.",
+                            "Del æggene i blommer og hvider. Kom hviderne i en helt ren skål og rør æggeblommerne ind i den letafkølede kartoffelmos én af gangen. Rør godt mellem hver æggeblomme.",
+                            "Pisk æggehviderne stive og vend dem forsigtigt ind i kartoffelmosen.",
+                            "Smør et ovnfast fad med smør og fordel kartoffelmosen deri.",
+                            "Lav eventuelt et pænt mønster på toppen med bagsiden af en våd ske eller med en gaffel. Du kan også sprøjte lidt af kartoffelmosen ud i små toppe med en sprøjtepose, hvis du synes det er flot og har god tid.",
+                            "Tænd ovnen på 200 C",
+                            "Sæt fadet i ovnen og bag kartoffelmosen i ca 25 minutter til den er gylden på toppen.",
+                            "Rør fraiche med rødvinseddike og sukker.",
+                            "Rist baconen sprød og lad den dryppe af på et stykke køkkenrulle eller lignende.",
+                            "Bland broccolibuketter, solsikkekerner, rosiner, rødløg og halvdelen af baconen i en skål.",
+                            "Hæld dressingen over og vend rundt. Pynt med resten af baconen."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

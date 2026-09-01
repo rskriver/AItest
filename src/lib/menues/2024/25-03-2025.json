@@ -1,0 +1,131 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-03-25",
+        "image": "",
+        "dishes": [
+            {
+                "id": "stifado-med-kylling-og-krydrede-ris",
+                "name": "Stifado med kylling og krydrede ris",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 g kyllingebrystfilet",
+                            "300 g perleløg eller små skalotteløg",
+                            "olivenolie til stegning",
+                            "1 spsk. koncentreret tomatpuré",
+                            "1 dl rødvin",
+                            "1 kanelstang",
+                            "3 små laurbærblade",
+                            "1 ds hakkede tomater",
+                            "2 dl grøntsagsbouillon",
+                            "Ca. 300 g gulerødder",
+                            "salt",
+                            "peber",
+                            "2 løg",
+                            "olivenolie til stegning",
+                            "1 ts spidskommenfrø",
+                            "3 dl ris",
+                            "1 kanelstang",
+                            "2 hele nelliker",
+                            "2 laurbærblade",
+                            "5-6 dl grøntsagsbouillon",
+                            "2 ss frisk mynte",
+                            "4 rødbeder",
+                            "1½ dl mandler",
+                            "½ dl. soja",
+                            "Bredbladet persille",
+                            "3 spsk. græsk yoghurt",
+                            "Saft af ½ økocitron",
+                            "1 stort fed hvidløg",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær kyllingefileter i store tern.",
+                            "Pil løgene.",
+                            "Brun kylling og de hele løg i olie i en stor gryde. Tilsæt tomatpuré og vin. Kog ind til ca. den halvemængde.",
+                            "Tilsæt kanel, laurbærblade, hakkede tomater og bouillon, og lad det simre i 10 minutter under låg.",
+                            "Skræl gulerødder, skær dem i mindre stykker, og læg dem i gryden. Kog i yderligere 10 minutter, ogsmag til med salt og peber.",
+                            "Pil og hak løg fint, og rist dem i olie i en gryde sammen med spidskommen.",
+                            "Tilsæt ris, kanel, nelliker og laurbærblade, og varm det igennem.",
+                            "Tilsæt bouillon, og kog ved svag varme under låg i 15 minutter (se evt. på pakken/posen).",
+                            "Bland ris og mynte i en skål, og servér til stifadoen med kylling.",
+                            "Skræl rødbeder og skær enderne af og riv dem groft.",
+                            "Rist mandler på en tør pande, til de tager farve.",
+                            "Hæld soja på panden og lad det brænde af, mens du rører rundt (tager kun 10-15 sekunder).",
+                            "Tag mandlerne af og lad dem køle helt ned.",
+                            "Lav dressing af græsk yoghurt, citronsaft, salt, peber, hakket hvidløg.",
+                            "Vend rødbeder i dressing og drys salaten med groft hakket bredbladet persille og pynt med debagte mandler."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "frigania-laekker-graesk-dessert",
+                "name": "Frigania - Lækker græsk dessert",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "Tvebakker, ( Antal, så bunden af fadet/bradepanden er dækket)",
+                            "125 g vand",
+                            "150 g sukker",
+                            "½ tsk stødt kanel",
+                            "1 stk øko citron (skallen)",
+                            "½ l mælk",
+                            "3 spsk majsstivelse",
+                            "3 spsk sukker",
+                            "2 stk æggeblommer",
+                            "½ tsk vaniljesukker",
+                            "250 g bær (jordbær, hindbær, brombær)",
+                            "2½ dl vand",
+                            "2½ stk husblas",
+                            "5 spsk sukker",
+                            "Flødeskum – eller –",
+                            "400 ml græsk youghurt",
+                            "3 spsk flormelis",
+                            "½ ts vaniljesukker",
+                            "40 g hakkede mandler"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hæld alle ingredienserne i en lille kasserolle og giv det et opkog indtil sukkeret er godt opløst",
+                            "Placer dine tvebakkebrød i en bradepande eller bageform. Skær evt kanterne til hvis du brugerrunde brød.",
+                            "Hæld sirup over mens den stadig er varm, så alle tvebakker er godt dækkede og kan suge sirup.",
+                            "Lav vaniljecreme ved at hælde mælk i en kasserolle og varm det op til nær kogepunktet",
+                            "Tilsæt æggeblommer, sukker og majsstivelse og pisk godt igennem",
+                            "Varm cremen op og pisk indtil den bliver tyk som budding",
+                            "Hæld cremen over de sirupsdækkede tvebakkebrød og lad det køle af. Stil den gerne i køleskabetmens du forbereder resten",
+                            "Læg husblas i blød i koldt vand",
+                            "Hæld resten af ingredienserne i en kasserolle og kog bær 10-15 min",
+                            "Si frugtsaften fra frugten over i en skål",
+                            "Tilsæt den udblødte husblas og rør grundigt til det er opløst.",
+                            "Lad gelen køle lidt af og hæld den over den kolde vaniljebudding, som nu gerne skulle være stivnet.",
+                            "Geleen skal være let afkølet men ikke så kold at den er begyndt at stivne.",
+                            "Når den hældes ovenpå den kolde vaniljecreme, så dannes der et flot lag",
+                            "Herefter stilles desserten igen i køleskabet indtil geleen er stivnet",
+                            "Flødeskum – eller",
+                            "Spises med yoghurt-creme",
+                            "Drys med lidt kanel og hakkede mandler"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

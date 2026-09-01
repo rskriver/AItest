@@ -1,0 +1,111 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-04-01",
+        "image": "",
+        "dishes": [
+            {
+                "id": "bruschetta-med-svampe",
+                "name": "Bruschetta med svampe",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 flute skåret i skrå stykker",
+                            "200 g markchampignon",
+                            "200 g østershatte",
+                            "1 løg finthakket",
+                            "2 tsk timian",
+                            "Smør",
+                            "2 dl piskefløde",
+                            "Salt og peber",
+                            "persille"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Del svampene i mindre stykker",
+                            "Smelt smør på en pande og rist svampene ved høj varme evt. af 2 omgange læg til side",
+                            "Sauter løgene til de er blanke og bløde",
+                            "Tilsæt de ristede svampe, drys med timian og hæld piskefløden i og lad den koge lidt ind. Smag til med salt og peber",
+                            "Server svampene på fluten og drys med finthakket persille."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "saltimbocca-med-ratatouille",
+                "name": "Saltimbocca med ratatouille",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 kalveschnitzler",
+                            "8 skiver parmaskinke",
+                            "16 stk friske salvieblade",
+                            "1 dl tør hvidvin",
+                            "1 dl Marsala",
+                            "smør",
+                            "olivenolie",
+                            "hvedemel",
+                            "salt og peber",
+                            "kødnåle/tandstikkere",
+                            "6-liters plastikposer"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Halver kalveschnitzlerne",
+                            "Læg de halverede schnitzler enkeltvis i en åbnet plastikpose og bank dem ihærdigt med kødhammer eller kagerulle til de kun er ca. ½ cm. tykke. krydr forsigtigt med salt og peber.",
+                            "Læg et par blade salvie på hver schnitzel og her ovenpå et stykke parmaskinke og igen et blad salvie ovenpå skinken.",
+                            "Fastgør parmaskinken og salviebladene med kødnåle/tandstikkere på schnitzlen. Undersiden af schnitzlerne pudres med mel.",
+                            "Varm smør og olivenolie på en pande og steg schnitzlerne først på skinkesiden i ca. 1 minut, hvorefter de vendes og steges i yderligere i ca. 1 minut.",
+                            "Hæld hvidvin og marsala ved og lad dem simre i ca. 3 – 5 minutter hvorefter de tages af panden.",
+                            "Kog væden ind og monter den til sovs med en smørklat"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "budding",
+                "name": "Budding",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "! brev buddingpulver",
+                            "100 g sukker",
+                            "1 liter letmælk",
+                            "Blandede \n\t\tfrugter/syltetøj/ eller marmelader",
+                            "Evt. hakkede mandler"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Et brev \n\t\tbuddingpulver hældes i en skål og blandes med 100g sukker. Røres til en \n\t\tjævning med 2 dl mælk.",
+                            "8 dl mælk bringes i \n\t\tkog. Gryden tages af varmen og jævningen røres i. Gryden sættes tilbage \n\t\tpå varmen og koger op under kraftig omrøring I ca. 1 minut.",
+                            "Buddingen hældes i \n\t\tsmåskåle/serveringsskåle. De vendes på en tallerken efter afkøling.",
+                            "Serveres med \n\t\tårstidens blandede frugter/syltetøj eller marmelader.",
+                            "Med fantasi kan der \n\t\ttilsættes mandler/hakkede til buddingblandingen."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

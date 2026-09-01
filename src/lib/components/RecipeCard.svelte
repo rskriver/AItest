@@ -76,6 +76,8 @@
 		border-radius: 16px;
 		padding: 1.5rem;
 		box-shadow: 0 4px 12px var(--shadow);
+		width: 100%;
+		box-sizing: border-box;
 	}
 
 	.recipe-header {
@@ -124,14 +126,17 @@
 
 	.recipe-body {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr 2fr;
 		gap: 2rem;
+		width: 100%;
+		box-sizing: border-box;
 	}
 
 	.recipe-section {
 		display: flex;
 		flex-direction: column;
 		gap: 0.75rem;
+		min-width: 0; /* Prevents long step text from breaking column sizes */
 	}
 
 	.section-title {
@@ -163,6 +168,8 @@
 		gap: 0.4rem;
 		color: var(--text);
 		line-height: 1.5;
+		overflow-wrap: break-word;
+		word-break: break-word;
 	}
 
 	.item-list {

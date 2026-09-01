@@ -1,0 +1,94 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-12-10",
+        "image": "",
+        "dishes": [
+            {
+                "id": "julegryde-med-kartoffelmos",
+                "name": "Julegryde med kartoffelmos",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200g champignon – i kvarte",
+                            "1 løg – hakket",
+                            "Olie til stegning",
+                            "1,5 svinemørbrad – afpudses i mundrette stykker",
+                            "1 spsk hvedemel",
+                            "3 dl hvidtøl",
+                            "2 dl madlavningsfløde",
+                            "1bouillonterning",
+                            "1 æble – i mindre tern",
+                            "1 tsk kanel",
+                            "1 tsk ingefær",
+                            "Citronsaft",
+                            "1 tsk ribsgele",
+                            "Salt og peber",
+                            "4 bagekartofler",
+                            "2 æg",
+                            "2 dl sødmælk",
+                            "½ bundt persille"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Du starter med at gøre alle ingredienserne klar, da de skal bruges ret hurtig efter hinanden under tilberedningen. Champignon skæres i kvarte, et mellemstort løg hakkes, svinemørbraden afpudses og skæres ud i mundrette tern, mens æblet udkernes og skæres i mindre tern.",
+                            "Først steges champignon ved en god varme, så de får en flot farve. Kom så lidt olie ved sammen med hakket løg og lad det stege et lille minut mere. Tages af panden.",
+                            "Brun så tern af svinemørbraden grundigt, så de får lidt farve. Stadig ved god varme.",
+                            "Hæld løg og champignon tilbage i gryden og drys lidt hvedemel over. Det jævner sovsen.",
+                            "Tilsæt hvidtøl sammen med madlavningsfløden, en terning bouillon, æbletern, kanel og ingefær.",
+                            "Vend godt rundt, lad det koge op og skru ned for varmen, læg låget på og lad det simre i ca 25 minutter.",
+                            "Smag til med lidt friskpresset citronsaft, ribsgele, salt og peber. Gerne også med ingefær og kanel, så du rammer den ønskede smag af jul i gryderetten.",
+                            "Kartoflerne skrælles og skæres i mindre stykker og koges møre ( uden salt )",
+                            "Kartoflerne moses med æg, sødmælk, salt, peber og finthakket persille."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "taerte-med-sommerbaer-og-kokoscreme",
+                "name": "Tærte med sommerbær og kokoscreme",
+                "type": "Dessert",
+                "serves": 8,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "150 g hvedemel",
+                            "100 g smør",
+                            "50 g sukker",
+                            "1 æggeblomme",
+                            "Evt 1 spsk vand",
+                            "Fyld:",
+                            "1 ps symfoni 400 g",
+                            "125 g sukker",
+                            "3 æg",
+                            "2 dl kokosmælk",
+                            "125 g kokosmel",
+                            "Vaniljeis"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hak smørret i melet med en kniv. Tilsæt sukker og æggeblomme, og ælt \n\t\thurtig dejen sammen, evt med lidt vand",
+                            "Lad dejen hvile 30 min i køleskabet, inden den rulles ud og lægges i en \n\t\tsmurt tærteform ca 24 cm i diameter.",
+                            "Bag tærten 15-20 min ved 200 grader",
+                            "Kom bærrene i tærten.",
+                            "Pisk sukker, æg, kokosmælk og kokosmel sammen og fordel det henover \n\t\tbærrene. Bag tærten færdig ved 175 grader i ca 35 minutter.",
+                            "Serveres lun eller kold med vaniljeis."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

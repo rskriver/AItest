@@ -1,0 +1,118 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-02-04",
+        "image": "",
+        "dishes": [
+            {
+                "id": "4-klemmer-du-aldrig-glemmer",
+                "name": "4 klemmer du aldrig glemmer",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 brioche boller",
+                            "200 g rejer",
+                            "1 dl cremefraice",
+                            "¾ dl mayonnaise",
+                            "1 spsk hakket dild",
+                            "2 fint snittet forårsløg",
+                            "½ lime saften herfra",
+                            "1 spsk chillisovs",
+                            "Brøndkarse",
+                            "Salt",
+                            "Peber",
+                            "8 stk flutes i skiver",
+                            "50 g mayonnaise",
+                            "20 g creme fraiche",
+                            "½ bundt purløg",
+                            "1 spsk hakkede kapers",
+                            "1 pk roastbeef i skiver",
+                            "1 spsk revet peberrod",
+                            "Ristede løg knust til pulver.",
+                            "Lidt olivenolie",
+                            "Salt",
+                            "Peber",
+                            "8 hjerte vafler.",
+                            "1 pk. Carpaccio med parmasan",
+                            "Brøndkarse",
+                            "150 g creme fraice",
+                            "1 pk, fintrevet peberrod",
+                            "½ lime (saften herfra)",
+                            "1 tsk. Dijon sennep",
+                            "Lidt sukker",
+                            "salt",
+                            "peber.",
+                            "4 skiver toastbrød",
+                            "Ruccola Syltede rødløg (afdryppede)",
+                            "Karse til pynt",
+                            "20 g smør",
+                            "100 g kogt skinke",
+                            "150 g bacontern",
+                            "1 dl mayonnaise",
+                            "2 spsk. Creme fraice",
+                            "1 tsk. Dijon sennep",
+                            "2 spsk.",
+                            "Fint hakket purløg 2 spsk.",
+                            "Fint hakket rødløg",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Dræn rejerne.",
+                            "Rør alle ingredienserne sammen og smag til med salt og peber.",
+                            "Lun bollerne og del dem. Kom rejesalaten og brøndkarsen i mellem.",
+                            "Skær 8 brødskiver af fluten.",
+                            "Dryp dem med lidt olivenolie. Kom dem i ovnen ved 200 grader i 6-7 minutter til de er gyldne.",
+                            "Rør cremen med mayo, creme fraice, purløg, kapers og revet peberrod, smag til med salt og peber.",
+                            "Smør de afkølede brødskiver med cremen, kom en skive roastbeef på. Pynt med lidt creme og de knuste ristede løg.",
+                            "Bland alle ingredienserne til peberrodscremen og rør dem godt sammen.",
+                            "Smør et godt lag creme på vaflen, læg parmasan og carpaccio oven på.",
+                            "Pynt med brøndkarsen.",
+                            "Steg bacontern sprøde (køles af)",
+                            "Skær skinkeskiverne i små tern",
+                            "Bland mayo, creme fraice, sennep, rødløg og purløg.",
+                            "Kom de afkølede bacontern og skinken i mayo blandingen. Smag til med salt og peber.",
+                            "Skær “skorperne” af toastbrødet og rist brødet sprødt i smør på en pande.",
+                            "Brødet “bygges op” med ruccola, skinkesalat, rødløg og karse."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "softice-med-vafler",
+                "name": "Softice med vafler",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "½ l. vanilie is",
+                            "1 dl piskefløde",
+                            "8 hjerte vafler",
+                            "Chokolade drys"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Lad isen tø lidt op i en skål og tilsæt fløden.",
+                            "Rør blandingen sammen til softice.",
+                            "Fordel softicen på vaflerne og drys med chokoladen."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-01-28",
+        "image": "",
+        "dishes": [
+            {
+                "id": "sposai-pollo-can-la-pasta-sciocche-za-de-prugne",
+                "name": "Sposai, Pollo, Can La Pasta Sciocche Za De Prugne",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "400 g Tipo 00 mel",
+                            "4 stk æg",
+                            "1 tsk salt",
+                            "4 stk kyllingefiler",
+                            "30 g hvedemel",
+                            "2 stk løg, fint hakket",
+                            "4 fed hvidløg, fint revet",
+                            "75 g soltørrede tomater i olie, finthakket",
+                            "2 tsk tørret oregano",
+                            "1 tsk tørret timian",
+                            "½ tsk chili pulver",
+                            "½ tsk Chayenne peber",
+                            "2 dl hønsebouillon",
+                            "2,5 dl piskefløde",
+                            "15 g koncentreret tomatpuré",
+                            "1 håndfuld frisk basilikum",
+                            "100 g parmesan, fintrevet",
+                            "2 spsk olie",
+                            "10 g smør",
+                            "Salt",
+                            "Sort peber, friskkværnet",
+                            "2 forårsløg",
+                            "½ broccoli"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hæld melet ud på et rent bord og lav en stor fordybning i midten.",
+                            "Slå æggene ud heri og drys med salt. Brug en gaffel til at piske æggen sammen og melet ilidt ad gangen.",
+                            "Ælt derefter dejen godt med dine hænder, til den bliver smidig og plastisk – her skal du have lidt tålmodighed, for det tager i hvert fald 10-15 minutter. Er din dej lidt for tør, kan der tilsættes et par spsk vand. Lad pastadejen hvile i 30-60 minutter i en skål med et klæde over.",
+                            "Drys mel på bordet, og del pastadejen i to stykker.",
+                            "Rul ét stykke ud af gangen med en kagerulle. Så tyndt som muligt, da de bliver til dobbelt tykkelse når det koges. Når pastaen er rullet tynd, skæres pastaen ud i strimler i den ønskede størrelse, ca. 1 cm i bredden, med en skarp kniv.",
+                            "Læg din pasta på et meldrysset bord, imens du ruller den anden halvdel af dejen ud, på samme måde.",
+                            "Umiddelbart før servering koges pastastrimlerne i godt saltet vand, til den er al dente. Det tager 4-5 minutters tid afhængig af størrelsen. Smag dig evt. frem.",
+                            "Hak løg og hvidløg finthakket. Fint hak de soltørrede tomater. Riv parmesanen til fintrevet.",
+                            "Lav hønsebouillonen. Hak den friske basilikum (og stil den til side). Hav alle ingredienserklar.",
+                            "Dup kyllingestykkerne med køkkenrulle. Vend kyllingestykkerne i en blanding af hvedemel, salt og peber, så det er godt dækket på alle sider.",
+                            "Varm en sauterpande op med olie. Kom smør på lad det bruse af.",
+                            "Steg derefter kyllingestykkerne i 2 minutter på begge sider ved middelhøj varme til kyllingekødet har fået en flot farve og stegeskorpe.",
+                            "Tag kyllingestykkerne fra og lad dem hvile på en tallerken et øjeblik.",
+                            "Kom soltørrede tomater i olie, løg og hvidløg på den samme pande og sauter i et par minutter ved middelvarme, til løgene er bløde.",
+                            "Tilsæt oregano, timian, chili pulver, Cayennepeber, hønsebouillon, piskefløde, tomatpuré på panden, og rør det godt sammen.",
+                            "Kom kyllingestykkerne tilbage på panden, og lad saucen simre i 10-15 minutter, til kødet ergennemstegt.",
+                            "Imens laves mindre buketter af broccolien, som koges til al dente.",
+                            "Kog imens pastaen (se ovenfor).",
+                            "Rør parmesanen og de hakkede basilikum blade i saucen og smag derefter saucen til medsalt og friskkværnet peber.",
+                            "Forårsløgene snittes meget fint, og bruges som drys ovenpå saucen.",
+                            "Serveres med broccolien til"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "sveske-trifli",
+                "name": "Sveske trifli",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "250 g svesker",
+                            "3 dl vand",
+                            "20 g sukker",
+                            "1-2 tsk vaniljesukker",
+                            "Lidt portvin (Resten drikkes til desserten)",
+                            "0,35 dl mælk",
+                            "2 stk æg",
+                            "50 g sukker",
+                            "1 spsk vaniljesukker",
+                            "2 spsk Maizenamel",
+                            "15 stk makroner",
+                            "¼ l fløde til flødeskum",
+                            "50 g chokolade"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hæld sveskerne i en gryde og tilsæt vand og lidt portvin. Lad dem koge op i 10 – 15minutter, til de er udblødte og udkogte.",
+                            "Blend sveskerne med en stavblender direkte i gryden og smag evt. til med sukker og vaniljesukker. Vil man have sveskerne mere rustik, moses de med en gaffel.",
+                            "Så er sveskemosen klar til brug. Stil den til afkøling. Er den for fast i strukturen, kan man rør lidt vand i.",
+                            "Rør maizena melet ud i 1 dl mælk.",
+                            "Rør æg, sukker og vaniljesukker sammen, og rør maizena blandingen ud heri.",
+                            "Varm resten af mælken langsomt op i en gryde. Hæld maizena-æggeblanding ud i den nu næsten kogende mælk, i en tynd stråle. Pisk godt til cremen tykner. Rør konstant, den vil nemlig nemt brænde på.",
+                            "Tag gryden af blusset, når cremen har nået en passende konsistens. Stil cremen til afkøling.",
+                            "Knus makronerne i hånden, så der ikke bliver for store stykker.",
+                            "Fløden piskes til at toppe triflien med, sammen med den revne chokolade.",
+                            "Serveres i små glas. Læg 2 spsk sveskemos bunden, derefter 2 spsk vaniljecreme, makroner i lag.",
+                            "Toppes med flødeskum og revet chokolade"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

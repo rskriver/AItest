@@ -1,0 +1,94 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-11-12",
+        "image": "",
+        "dishes": [
+            {
+                "id": "flaaet-pighaj",
+                "name": "Flået pighaj",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "3-4 udskårne ’hajkoteletter’ á 2-3 cm bredde",
+                            "1½ dl olivenolie",
+                            "Salt og peber",
+                            "200 gram Persillerod",
+                            "500 gram Knoldselleri",
+                            "400 gram gulerødder",
+                            "150 gram porrer",
+                            "100 gram rødløg",
+                            "Olivenolie, salt og peber",
+                            "2 dl hønsebouillon",
+                            "1 dl tør hvidvin",
+                            "1 spsk smør",
+                            "1 kg små kartofler"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skæres i koteletter på ca. 2-3 cm. Lav en lage af olie, salt, peber og evt. lidt krydderurter. Vend koteletterne i olien og lad dem trække i 20 min.",
+                            "Koletterne brunes på en pande i ca. 1-2 min, og bages færdig i ca. 6 min. ved 200 grader C. alm. ovn.",
+                            "Overdæk pighajen og lad den trække endnu 5 min. inden servering.",
+                            "Skær rodfrugterne i ensartede tynde stave og hak løget.",
+                            "Det hele svitses på en pande i lidt olie i ca. 5 min. indtil de er “al dente”. Må ikke blive for møre. Krydre med salt og evt. lidt sojasauce.",
+                            "Kom hønsefonden i en gryde og lad den reducere til det halve.",
+                            "Tilsæt hvidvin og lad det igen koge ind til det halve.",
+                            "Smag til med en smørklat, salt og peber. Lad det koge til det får en sirupsagtig konsistens.",
+                            "Server retten med små kartofler med skræl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "bastogne-kage",
+                "name": "Bastogne kage",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "42,5 g. smør",
+                            "130 g. Bastognekiks",
+                            "22,5 g. sukker",
+                            "1,5 stk. æggehvide",
+                            "0,5 knivspids salt",
+                            "70 g. sukker",
+                            "1,3 dl. piskefløde",
+                            "0,5 tsk. vaniljesukker",
+                            "0,5 spsk. flormelis",
+                            "1 spsk. creme fraiche",
+                            "50 g. hindbær",
+                            "25 g. blåbær"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Tænd ovnen på 160 grader alm. ovn.",
+                            "Smelt smør i en lille gryde eller i mikroovnen. Knus kiksene, så de er \n\t\thelt fine (et tip er at putte dem i en plastikpose og så slå knuse dem \n\t\tmed en kagerulle). Bland de knuste kiks med det smeltede smør og sukker.",
+                            "Beklæd en springform (Ø23) med bagepapir og pres kikseblandingen godt \n\t\tned i bunden.",
+                            "Pisk nu æggehvider til det skummer med en elpisker. Tilsæt salt og \n\t\tsukker og skru op for hastigheden.",
+                            "Pisk ved høj hastighed indtil du har en luftig og glat marengs. Det \n\t\ttager ca. 5-10 minutter.",
+                            "Fordel marengsen ovenpå kiksebunden.",
+                            "Bag kagen i ovnen i ca. 20-25 minutter i den forvarmede ovn. Kagen skal \n\t\tvære fast på toppen og have fået lidt farve. Hvis den ikke er det, så \n\t\tgiv den lidt længere tid i ovnen.",
+                            "Tag bunden ud og lad den afkøle helt, så bunden får lov at sætte sig.",
+                            "Løsn forsigtigt formen og fjern den. Skub evt. bunden af \n\t\tspringformsbunden og over på en tallerken.",
+                            "Kom piskefløde, vaniljesukker og flormelis op i en skål. Pisk med en \n\t\telpisker, indtil du har en fast skum. Vend så creme fraiche i.",
+                            "Fordel cremen på kagen kort inden servering og pynt med bær/frugt efter \n\t\teget ønske."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

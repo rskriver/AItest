@@ -1,0 +1,164 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-04-29",
+		"image": "",
+		"dishes": [
+			{
+				"id": "lakserillette",
+				"name": "Lakserillette",
+				"type": "Forret",
+				"serves": 20,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1000 g varmrøget laks",
+							"5 1/2 dl cremefraiche 38%",
+							"15 spsk mayonnaise",
+							"3 øko citroner, fintrevet skal og saften herfra",
+							"2,50 tsk dijon sennep",
+							"Salt (smag til)",
+							"5 spsk hakket rødløg",
+							"1 liter mælk, stuetemperatur",
+							"2 pk. gær",
+							"500 g boghvedemel",
+							"250 g hvedemel",
+							"5 æg",
+							"2 1/2 tsk salt",
+							"½ pk. smør til stegning",
+							"1 dusk frisk dild"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Mos laksen let med en gaffel og kom den i en skål sammen med cremefraiche, mayonnaise, citronskal og -saften. Rør godt rundt og smag rilletten til med sennep, salt og peber.",
+							"Kom mælk i en skål og rør gær ud i mælken, pisk derefter boghvedemel, hvedemel, salt og æggeblomme i dejen. Sæt æggehviden til side til senere.",
+							"Lad dejen hæve med et rent viskestykke over på køkkenbordet i 1 time.",
+							"Pisk æggehviden helt stiv med en håndmikser og fold forsigtigt den stiftpiskede æggehvide i dejen, uden at luften slåes ud.",
+							"Smelt smørret på en pande og kom små klatter dej på med en spiseske. Steg blinis gyldne på begge sider.",
+							"Fordel rilletten på blinis og sæt dem på et fad med et drys dild og citronbåde."
+						]
+					}
+				]
+			},
+			{
+				"id": "indbagt-kalvemoerbrad-og-estragonsauce",
+				"name": "Indbagt kalvemørbrad og estragonsauce",
+				"type": "Hovedret",
+				"serves": 20,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 pk. smør",
+							"4 stk. afpudset kalvemørbrad (ca.800 g pr. stk.)",
+							"5 tsk. groft salt",
+							"friskkværnet peber",
+							"1,5 kg kalkunbryst i tern",
+							"3 æg (str. stor)",
+							"½ liter piskefløde",
+							"½ dl. friske estragonblade",
+							"4 tsk. groft salt",
+							"friskkværnet peber",
+							"400 g spegeskinke i tynde skiver",
+							"3 dl. vand",
+							"stegesky fra kødet",
+							"1½ liter Karolines MornaySauce",
+							"¾ liter mælk",
+							"¼ liter piskefløde",
+							"4 spsk. friske, finthakkede",
+							"estragonblade",
+							"5 kg kartofler",
+							"3 grofthakkede porrer (ca. 300 g)",
+							"6 tsk. groft salt",
+							"friskkværnet peber",
+							"450 g smør",
+							"Ca. 1 kg dampede grønne asparges",
+							"20 bagte tomater",
+							"tørrede krydderurter, f.eks.",
+							"oregano el. timianfriske",
+							"krydderurter f.eks. merian, kørvel eller basilikum",
+							"havsalt",
+							"friskkværnet sort peber"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"(Bruning: ca. 15 min ved 250 gr. ??? )",
+							"Stegetid: ca. 45 min. Ved 175 gr.",
+							"Lad halvdelen af smørret blive gyldent i en sauterpande",
+							"Brun den ene mørbrad i ca. 2 min. Brun de tre resterende i resten af smørret. Drys med salt og peber og lad kødet hvile tildækket i køleskabet.",
+							"Hak halvdelen af ingredienserne i en foodprocessor ved hurtigste hastighed i ca. 15 sek.",
+							"Hak resten af ingredienserne. Stil al farsen tildækket i køleskabet i ca. ½ time.",
+							"Del farsen i 8 portioner. Læg en portion fars i en stribe på et stykke bagepapir.",
+							"Læg herpå en mørbrad og en portion fars. Pak mørbraden ind i farsen og dæk den medhalvdelen af spegeskinken. Gentag ”indpakningen” af de 3 resterende mørbrad.",
+							"Løft – ved hjælp af bagepapiret – stegene over på ovnens rist. Klip så der kun er papir under farsen.",
+							"Læg risten i bradepanden og brun midt i ovnen, skru ned og hæld vand ved.",
+							"Steg mørbradene færdige.",
+							"Tag de 2 ”stege” ud og mål med et stegetermometer kødets centrumstemperatur. Den skal være ca. 60 gr. Lad ”stegene” hvile tildækket i ca. 20 min.",
+							"Si stegeskyen over i en stor, tykbundet gryde og tilsæt resten af ingredienserne.",
+							"Bring saucen i kog under omrøring og smag til.",
+							"Skræl kartoflerne og riv dem groft. Læg dem i koldt vand i ca. 15 min. Tryk væden af i et håndklæde eller køkken ruller.",
+							"Fordel halvdelen af kartoflerne i 24 smurte flade ovnfaste portionsforme.Drys med porrer, salt og peber.",
+							"Afslut med resten af kartoflerne, og fordel smørklatter hist og her.",
+							"Bag kartoflerne midt i ovnen i ca. 25 min ved 225 g.",
+							"Kalvemørbraden kan hvile mens kartoflerne bager.",
+							"Damp dem. Pas på så de ikke bliver for bløde.",
+							"Varm ovnen op til 180 grader. Halver tomaterne så de kan stå med skæresiden opad.",
+							"Krydder med havsalt, friskkværnet sort peber og tørrede eller friske krydderurter. Ind i ovnen med dem og lad dem stå 20 minutter eller til de er møre.",
+							"Tag fadet ud af ovnen og lad tomaterne trække 5-10 minutter.",
+							"Tag dem forsigtigt op fra det ildfaste fad og server med det samme eller lad dem køle ned."
+						]
+					}
+				]
+			},
+			{
+				"id": "udsoegt-ostekransekage",
+				"name": "Udsøgt osteKransekage",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Kransekagemasse",
+						"items": [
+							"300g flormelis",
+							"150g æggehvider (ca. 4 stk.)",
+							"750g stuetempereret, ren rå marcipan"
+						]
+					},
+					{
+						"label": "Glasur",
+						"items": ["100 g flormelis", "Lidt pasteuriseret æggehvide"]
+					}
+				],
+				"method": [
+					{
+						"label": "Kransekagemasse",
+						"steps": [
+							"Rør en tredjedel af æggehviden ind i flormelissen. Tilsæt marcipanen i mindre stykker og ælt det godt sammen med en spatel på en røremaskine eller i hænderne.",
+							"Tilføj resten af æggehviden lidt ad gangen, mens der stadig æltes.",
+							"Kom kransekagemassen i en stofsprøjtepose med en trekantet tylle i og sprøjt massen ud på en bageplade beklædt med bagepapir eller bageark eller i lige store rustikke ’kransekager’ a ca. 50 gram.",
+							"Lad disse ’lufttørre’ i 1/2 time, før de rettes op med hænderne: Form med en ganske lillebitte smule vand på fingrene de tørrede, rustikke kransekager til fine, ensartede kransekager.",
+							"Bag kransekagerne i en 200 grader varm ovn, til de er gyldne, 8-10 minutter afhængigt af ovnen.",
+							"Tag dem ud og lad dem køle af ved stuetemperatur."
+						]
+					},
+					{
+						"label": "Glasur",
+						"steps": [
+							"Sigt flormelissen i en skål og kom en anelse pasteuriseret æggehvide i. Pisk glasuren luftig og hvid med en håndmikser. Bemærk, at glasuren skal være lige nøjagtig så flydende, at man kan sprøjte den, men at den heller ikke må flyde sammen, når der røres i den.",
+							"Kom glasuren i et lille kornet – et trekantet stykke bagepapir foldet til et kræmmerhus – og sprøjt det i de klassiske striber på de afkølede kransekager."
+						]
+					}
+				]
+			}
+		]
+	}
+}

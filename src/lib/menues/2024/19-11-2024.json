@@ -1,0 +1,138 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-11-19",
+        "image": "",
+        "dishes": [
+            {
+                "id": "avocadomos-med-rejer",
+                "name": "Avocadomos med rejer",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 stk. avocado",
+                            "salt/peber",
+                            "200 g. rejer",
+                            "8 stilke frisk dild",
+                            "1 stk. citron",
+                            "4 skiver rugbrød",
+                            "8 spsk.m mayonnaise",
+                            "1 fed hvidløg",
+                            "salt/peber",
+                            "1 æg",
+                            "1⁄2 tsk groft salt",
+                            "2 dl smagsneutral olie (fx vindruekerneolie eller solsikkeolie)",
+                            "2 tsk citronsaft eller hvidvinseddike (eller efter smag)",
+                            "1 tsk sennep, fx dijonsennep (kan udelades)"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Start med at lave mayonnaise (se nedenfor).Fortsæt her med at komme hvidløg i:",
+                            "Hak hvidløg fint eller knus i en hvidløgspresser. Smagmayonnaise til med hvidløg, så detpasser til din smag. Tilsæt også salt og peber. Sæt til side.",
+                            "Udhul avocadoen. Skær den i små tern.",
+                            "Vend den med lidt salt. Mos den evt. en anelse, men lad der være nogle store stykker tilbage.",
+                            "Brug en rund udstikker og sæt den på den tallerken, hvor dugerne vil anrette forretten.",
+                            "Start først med at lægge et lag avocado og pres den let ned mod bunden.",
+                            "Fordel herefter rejer oven på.",
+                            "Tag udstikkeren op.",
+                            "Pynt evt. med frisk dild.",
+                            "Server med ristet rugbrød og en citronbåd.",
+                            "Hæld æggeblommen og eventuelt 1⁄2 æggehvide i stavblenderens kande eller en skål",
+                            "Tilsæt salt og citronsaft.",
+                            "Brug stavblenderen til at blande det sammen.",
+                            "Tilsæt olien lidt ad gangen imens du blender – det er vigtigt at der ikke kommer for meget i af gangen, især i starten. Hvis olien kommer i for hurtigt vil mayonnaisen skille.",
+                            "Fortsæt med at tilsætte olien stille og roligt indtil al olien er optaget af æggeblommen.",
+                            "Så er din mayonnaise færdig. Opbevar den i et rent skoldet glas i køleskabet i op til cirka 1 uge."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "rombo-al-forno-con-patate",
+                "name": "Rombo al Forno con patate",
+                "type": "Hovedret",
+                "serves": 8,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 stk Pighvar ca. 3 kg",
+                            "8 stk store bagekartofler",
+                            "30 stk tomater ( san marzano)",
+                            "2 dåse sorte oliven uden sten",
+                            "en smule olivenolie",
+                            "7-8 fed hvidløg",
+                            "4 stk citroner",
+                            "lidt smør",
+                            "lidt salt",
+                            "lidt peber",
+                            "500 gram smør",
+                            "8 æggeblommer stue temp.",
+                            "2 spiseske fiskefond",
+                            "saft af en 1 citron",
+                            "En smule salt",
+                            "En smule peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Pighvar skylles og tørres af så den er til at arbejde med. Klipfinnerne af og fjern indvoldene.",
+                            "Smør et passende størrelse fad og læg pighvarren i.",
+                            "Skær skiver af citron på ca. 1 cm. Og læg dem ovenpå fisken, med et par klatter smør.",
+                            "Snit rosmarin og hvidløg fint.",
+                            "Skræl kartoflerne og skær dem i mundrette stykker, vend dem i rosmarin og hvidløg, og krydr dem med salt og peber. Fordel kartoflerne rundt om fisken.",
+                            "Lav et snit igennem fisken, så den kan få lidt saft fra citron og smør.",
+                            "Sæt fadet i en forvarmet ovn ved 200c og bag den i ca. 30 min.",
+                            "Tomater skæres i mundrette stykker og vendes med fint snittet persille, oliven, lidt fint snittet hvidløg og krydres med salt og peber.",
+                            "Efter 10 min. i ovnen tages fisken ud, og tomaterne og oliven lægges ved. Giv det hele en lille sjat hvidvin og sæt fisken tilbage i ovnen i de resterende 20 min.",
+                            "Fjern forsigtigt fileterne fra fisken og anret dem med det omkring liggende tilbehør.",
+                            "Klar smørret. Det gøres ved at smelte det langsomt, og derpå skumme vallen af på toppen, inden det hældes forsigtigt over i en anden gryde, uden at bundfaldet kommer med.",
+                            "Æggeblommerne piskes sammen med fiskefond over et vandbad til massen bliver lys og skummende, hvorpå det klarede smør tilsættes, først ganske lidt ad gangen, mens der piskes, siden i en rolig strøm.",
+                            "Smag til med citronsaft, salt og hvid peber."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "nem-aebletaerte-med-kanel-og-smuldredej",
+                "name": "Nem æbletærte med kanel og smuldredej",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200 g smør",
+                            "200 g sukker",
+                            "100 g hvedemel",
+                            "100 g havregryn",
+                            "ca. 5 æbler",
+                            "1 tsk kanel"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skræl æblerne og skær dem i både. Læg æblebådene i et smurt tærtefad, og dryskanel over.",
+                            "Ælt smør, sukker, mel og havregryn sammen i en skål, og smuldr dejen over æblerne.",
+                            "Bag æbletærten ved 200 grader i ca. 25 minutter, eller til den er gylden. Den er blødnår den kommer ud af ovnen, men når den lige køler lidt af, så bliver dejen dejligtsprød.",
+                            "Server f.eks. med creme fraiche, is eller flødeskum."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

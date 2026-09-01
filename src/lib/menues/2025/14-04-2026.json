@@ -5,8 +5,8 @@
 		"image": "https://herremadwp.herremad.dk/wp-content/uploads/2025/07/hl1.jpg",
 		"dishes": [
 			{
-				"id": "lamme-kotelletter",
-				"name": "Lamme kotelletter",
+				"id": "lamme-koteletter",
+				"name": "Lamme koteletter",
 				"type": "Hovedret",
 				"serves": 4,
 				"ingredients": [

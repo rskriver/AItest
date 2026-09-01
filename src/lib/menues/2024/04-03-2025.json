@@ -1,0 +1,142 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-03-04",
+        "image": "",
+        "dishes": [
+            {
+                "id": "graesk-salat",
+                "name": "Græsk salat",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "300 g tomat, skåret i kvarte",
+                            "1 agurk, i tern",
+                            "1 grøn peberfrugt, i tern",
+                            "1 rødløg, i ringe",
+                            "100 g feta, smuldret",
+                            "80 g sorte oliven",
+                            "1 tsk sukker",
+                            "1 øko citron, fintrevet skal og lidt citronsaft",
+                            "3 spsk frisk oregano, meget finthakket",
+                            "2 spsk olivenolie",
+                            "flagesalt",
+                            "sort peber, friskkværnet"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Vend alle grøntsagerne sammen i en stor skål.",
+                            "Smuldr feta ud over og drys med sorte oliven.",
+                            "Drys med lidt ekstra frisk oregano inden servering.",
+                            "Rør olivenolie, sukker, citronskal og saft, salt, peber og finthakket oregano sammen, til sukkeret eropløst, og vend den græske salat sammen med dressingen."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "souvlaki-graesk-kebab",
+                "name": "Souvlaki - græsk kebab",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "300 g koteletter",
+                            "0,50 citron, saften herfra",
+                            "1 spsk tørret mynte",
+                            "1 spsk tørret oregano",
+                            "3 spsk olivenolie",
+                            "2 fed hvidløg, pressede",
+                            "salt",
+                            "sort peber, friskkværnet",
+                            "200 g hvedemel",
+                            "100 g grahamsmel",
+                            "2 dl vand",
+                            "1 tsk salt",
+                            "3 spsk olivenolie, + ekstra til udrulning",
+                            "1 agurk, groftrevet",
+                            "1 fed hvidløg, presset",
+                            "1 dl græsk yoghurt 10 %",
+                            "1 tsk salt",
+                            "sort peber, friskkværnet",
+                            "1 håndfuld frisk mynte"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær koteletterne ud i mundrette stykker og kom dem i en skål.",
+                            "Lav en marinade af olie, citronsaft, mynte, oregano, hvidløg, salt og peber som røres sammen i en skål.",
+                            "Vend kødet heri. Lad det stå overdækket i køleskabet i nogle timer, gerne fra om morgenen til aftensmadstid.",
+                            "Kom kødstykkerne på grillspyd og grill på en varm grill – ller lynsteg alternativt kødet med marinaden påen brandvarm pande.",
+                            "Kom olie og vand i en skål og rør groft mel, hvedemel og salt i. Ælt det grundigt i gennemgennem. Lad dejen hvile i en halv times tid.",
+                            "Skær dejen ud i 10 lige store kugler, som rulles ud til meget tynde fladbrød. Brug olivenolie påbordpladen til udruldningen i stedet for mel.",
+                            "Varm en pande op til middelhøj varme og bag fladbrødene derpå.",
+                            "Kom den revne agurk i en skål og drys salt over. Vend salten godt rundt i agurkestrimlerne og laddet stå et kvarters tid.",
+                            "Vrid agurken for væske. Brug evt en sigte til at lade den dryppe godt af.",
+                            "Vend agurk, hvidløg og græsk yoghurt sammen. Smag til med peber.",
+                            "Rul fladbrødene med kebab, tzatziki, rødløg og pynt med friske mynteblade."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "citrontrifli-med-braendt-marengs",
+                "name": "Citrontrifli med brændt marengs",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 usprøjtede citroner",
+                            "200 g sukker",
+                            "2 æg",
+                            "2 æggeblommer",
+                            "75 g smør",
+                            "75 g hasselnøddekerner",
+                            "150 g havrekiks",
+                            "75 g smør",
+                            "¼ tsk. groft salt",
+                            "200 g skyr",
+                            "1 tsk. vaniljesukker",
+                            "1½ æggehvider",
+                            "75 g sukker"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Riv skallen af citronerne fint på et rivejern, og pres saften af dem.",
+                            "Bland citronskal, citronsaft, sukker, æg og æggeblommer i en gryde, og tilsæt smør skåret i små tern.",
+                            "Varm forsigtigt blandingen op til lige under kogepunktet. Rør konstant i gryden med et piskeris, til cremen har konsistens som tyk creme. Den må absolut ikke koge!",
+                            "Tag gryden af varmen, og hæld citroncremen gennem en finmasket si og over i en skål, så den bliver jævn og glat.",
+                            "Hæld citroncremen i et rent, skoldet glas med låg. Cremen tykner endnu mere, når den er afkølet. Lad cremen blive helt kold i køleskabet.",
+                            "Tænd ovnen på 180°. Fordel hasselnødderne i et lille ovnfad, og rist dem gyldne i ovnen i 10 minutter.",
+                            "Nulr de løse brune hinder af, og hak nødderne groft.",
+                            "Læg kiksene i en frysepose, og knus dem med en kagerulle til grove krummer.",
+                            "Smelt smørret i en kasserolle. Rør kiks, smør, salt og hasselnødder sammen i en skål.",
+                            "Rør skyr og vaniljesukker sammen i en skål.",
+                            "Pisk hviderne stive med en elpisker. Tilsæt sukkeret lidt ad gangen under piskning, så du får en fast marengsmasse.",
+                            "Anret kiksekrummer, citroncreme og vaniljeskyr lagvis i portionsglas. Fyld sprøjteposen med marengsmassen, og sprøjt en fin marengstop ud på toppen af hver trifli.",
+                            "Brænd forsigtigt marengsen gylden med en lille gasbrænder.",
+                            "Servér straks."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

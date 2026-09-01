@@ -1,0 +1,145 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-12-03",
+        "image": "",
+        "dishes": [
+            {
+                "id": "bruchetta",
+                "name": "Bruchetta",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "250 g sorte oliven uden sten",
+                            "2 ss kapers",
+                            "4 ansjosfileter",
+                            "2-3 ss tomatpure",
+                            "Citron",
+                            "4 – 5 tomater",
+                            "2 fed hvidløg",
+                            "3 ss hakket basilikum",
+                            "4 skiver hvidt brød",
+                            "1 dl olivenolie",
+                            "2 fed hakket hvidløg"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hak oliven, kapers og ansjosfileter (finhed efter eget ønske) og bland det med tomatpure, lidt citronsaftsamt salt og peber",
+                            "Tomater, hvidløg og basilikum hakkes (finhed efter eget ønske) og blandes. Smag til med salt og peber.",
+                            "Bland 1 dl olivenolie med 2 fed hakket hvidløg. Blandingen smøres på brødet inden det ristes (i ovnen)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "andebryst-med-honningstegte-rosenkaal",
+                "name": "Andebryst med honningstegte rosenkål",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1.000 g små kartofler",
+                            "1 tsk honning",
+                            "250 g rosenkål",
+                            "2 stk andebryst",
+                            "1 dl cremefine",
+                            "Evt. majsstivelse",
+                            "1,5 dl vand",
+                            "0.5 terning hønsebouillon",
+                            "Salt og peber",
+                            "1 stk fennikel (eller 1 stor)",
+                            "3 bladselleri, stængler",
+                            "3 appelsiner, søde",
+                            "20 vindruer, søde",
+                            "1/2 stk iceberg eller anden salat",
+                            "3 spsk (raps)olie",
+                            "3 spsk balsamicoeddike, hvid",
+                            "1 spsk sirup",
+                            "1/2 tsk salt",
+                            "friskkværnet peber",
+                            "Opsamlet appelsinsaft",
+                            "20 g valnøddekerner",
+                            "15 g tranebær, tørrede"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skrub og skyl kartoflerne og kog dem møre i letsaltet vand. Pil evt. kartoflerne.",
+                            "Rens og skyl rosenkål og halvér dem.",
+                            "Varm en pande op med olivenolie og honning og steg rosenkålene ved middelvarme til de har fået engylden farve",
+                            "Rids fedtet på andebrysterne og krydr med salt og peber.",
+                            "Steg andebrysterne ved middel varme med skindsiden nedad i ca. 10 min. Vend andebrysterne og stegdem yderligere i ca. 10 min",
+                            "Tag andebrysterne af panden og lad dem trække på et spækbræt.",
+                            "Gem stegeskyen på panden.",
+                            "Hæld cremefine på panden med stegeskyen, tilsæt lidt majsstivelse blandet med vand og lad det koge op under omrøring. Tilsæt bouillon og smag til med salt og peber.",
+                            "Skær andebrysterne i skiver og server dem sammen med de honningstegte rosenkål, kartofler og salat",
+                            "Rens fenniklerne og skær dem i meget tynde skiver. De grønne toppe kan bruges som topping",
+                            "Skyl salat og bladsellerien og snit dem i tynde skiver på skrå",
+                            "Filetér appelsinerne – sørg for at opsamle saften f. eks. i et fad",
+                            "Halver vindruerne og udsten dem, hvis de ikke er stenfri.",
+                            "Pisk ingredienserne til dressingen sammen (herunder den opsamlede appelsinsaft).",
+                            "Hak valnødderne groft",
+                            "Anret fennikel, blegselleri, appelsin og vindruer på et fad.",
+                            "Fordel dressingen over",
+                            "Top med fennikeltop, valnøddekerner og tørrede tranebær"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "aeblecrumble-med-marcipan",
+                "name": "Æblecrumble med marcipan",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "650 g æbler – ca. 5 stk",
+                            "3 ss sukker",
+                            "2 tsk kanel",
+                            "100 g hvedemel",
+                            "100 g havregryn – gerne grovvalsede",
+                            "1 tsk vaniljesukker",
+                            "1nip salt",
+                            "80 g mandler, grofthakkede",
+                            "80 g sukker",
+                            "150 g koldt smør",
+                            "100 g marcipan, groftrevet",
+                            "3 dl creme fraiche",
+                            "1 spsk flormelis",
+                            "1 citron, fintrevet skal heraf",
+                            "2 tsk vaniljesukker"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær æblerne i tern eller skiver og vend dem med sukker og kanel.",
+                            "Hæld æblerne i en tærteform på ca. 25 cm, og fordel dem godt",
+                            "Bland mel, havregryn, vaniljesukker, salt, hakkede mandler og sukker i \n\t\ten skål og smuldr smørret heri så du får en crumble",
+                            "Fordel marcipanen og crumblen over æblerne – sørg for at æblerne er \n\t\tdækket hele vejen rundt",
+                            "Bag din æblecrumble i en forvarmet ovn ved 200 grader i ca. 25 minutter",
+                            "Bland ingredienserne til en creme.",
+                            "Lad æblecrumblen hvile i 10 minutters tid inden den serveres med creme \n\t\tfraiche rørt med vanilje, flormelis og citronskal"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

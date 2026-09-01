@@ -1,0 +1,117 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-10-29",
+        "image": "",
+        "dishes": [
+            {
+                "id": "ovnstegte-fasaner-med-hasselback-kartofler-sauce-sellerigratin-og-svampe",
+                "name": "Ovnstegte fasaner med hasselback-kartofler, sauce, sellerigratin og svampe",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 fasaner",
+                            "2 pk baconsvøb",
+                            "Smør/olie",
+                            "Salt og peber",
+                            "1 dl kyllinge fond",
+                            "1 løg",
+                            "3 spsk æbleeddike",
+                            "2 ½ dl kyllingefond",
+                            "2 dl fløde",
+                            "200 g mark champignon",
+                            "Smør, salt og peber",
+                            "½ knold selleri ca 350 g",
+                            "3 æg",
+                            "1 ½ dl piskefløde",
+                            "1 tsk groft salt",
+                            "Friskkværnet peber",
+                            "12 stk mellemstore kartofler",
+                            "1 sp.sk smør",
+                            "1 ½ tsk groft salt",
+                            "200 g svampe",
+                            "1 sp.sk smør",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skyl og tør 2 fasaner og brun dem på alle sider i en gryde med smør/olie.",
+                            "Tag dem op, tilsæt salt og peber og rigelig baconsvøb fast gøres med husholdningssnor.",
+                            "Et fad smøres i olie og ca. 1 dl fond hældes i hvorefter fasanerne lægges i og fadetsættes i ovnen 30-40 min. 180 grader til de bliver møre. Ikke varm luft.",
+                            "Svits 1 løg og 200 g markchampignon i lidt smør/olie.",
+                            "Tilsæt 2 ½ dl kyllingefond og 3 spsk æbleeddike.",
+                            "Kog et par min. og pisk 2 dl fløde i.",
+                            "Giv saucen et opkog før servering, smag til og tilsæt evt. maizena for at tykke saucen",
+                            "Skær den halve selleri i mindre stykker og kom den i en gryde kogende vand og kog dem møre under låg i ca. 10 min.",
+                            "Hæld dem til afdrypning i en sigte.",
+                            "Kom stykkerne i en skål og mos dem groft med en gaffel. Rør 1 ½ dl fløde og derefter 3 æg iet ad gangen.",
+                            "Tilsæt salt og peber.",
+                            "Rør blandingen godt igennem. Fordel gratindejen i fire smurte ovnfaste skåle.",
+                            "Bag sellerigratinerne midt i ovnen.",
+                            "Skræl 12 kartofler og skær dem næsten igennem i tynde skiver på tværs.",
+                            "Læg dem i et smurt ovnfast fad og pensel med smør/olie. Drys salt over.",
+                            "Bag kartoflerne midt i ovnen til de er møre.",
+                            "200 g svampe steges let i smør i gryde.",
+                            "Smag til med salt og peber."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "aebletaerte",
+                "name": "Æbletærte",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "160 g hvedemel",
+                            "45 g flormelis",
+                            "1 knivspids salt",
+                            "70 g smør",
+                            "1 æg",
+                            "200 g marcipan",
+                            "60 g smør",
+                            "60 g sukker",
+                            "2 æg",
+                            "25 g hvedemel",
+                            "2-3 æbler",
+                            "0,5 tsk. kanel",
+                            "2 spsk sukker"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Først skal mørdejen laves, som er bunden i din tærte.",
+                            "Bland mel, flormelis og salt i en skål. Skær smør i tern og ælt det i \n\t\tskålen",
+                            "Tilsæt æg og saml dejen. Læg mørdejen i en skål og stil den på frost i \n\t\t30 min",
+                            "Rul nu mørdejen ud i en cirkel på ca 28 cm i diameter,den skal passe til en tærteform på ca 20-22 cm i diameter.",
+                            "Læg dejen i formen og skær kanterne til. Stil den på køl.",
+                            "Nu skal Mazarinmassen laves",
+                            "Ovnen tændes på 175 grader varmluft.",
+                            "Pisk blødt smør, marcipan og sukker godt sammen. Pisk derefter æg i.",
+                            "Tilsæt til sidst hvedemel og rør det sammen til en ensartet masse.",
+                            "Fordel Mazarinmassen ovenpå mørdejen.",
+                            "Skræl æbler og fjern kernehus, og skær i både.",
+                            "Fordel æbleskiverne oven i Mazarinmassen.",
+                            "Vend sukker og kanel sammen. Drys det ovenpå.",
+                            "Bag tærten i ca. 20-25 min, alt efter din ovn. Hold øje med den efter ca \n\t\t18 min.",
+                            "Server den lun, evt. med Creme fraiche. Man kan blande Vaniljesukker i \n\t\tCreme fraichen."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

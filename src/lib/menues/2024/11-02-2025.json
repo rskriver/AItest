@@ -1,0 +1,108 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-02-11",
+        "image": "",
+        "dishes": [
+            {
+                "id": "bruschetta",
+                "name": "Bruschetta",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "8 små skiver koldhævet brød",
+                            "4 tomater",
+                            "Olivenolie med hvidløg",
+                            "100 g marinerede hvidløg",
+                            "Frisk oregano",
+                            "Havsalt",
+                            "25 g parmesan"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Brødskiverne pensles med olivenolie og ristes let i ovnen ved 200°C.",
+                            "Fjern kernerne i tomaterne, og skær dem i tern.",
+                            "Bland dem sammen med marinerede hvidløg og friskhakket oregano.",
+                            "Brødskiverne placeres på en bageplade, og tomatblandingen fordeles på brødet.",
+                            "Top med høvlet parmesan.",
+                            "Bagepladen placeres øverst i ovnen og grilles, indtil det syder og sprutter, og parmesanen begynder at smelte.",
+                            "Pynt med frisk oregano, og server brødene rygende varme som appetizer eller forret."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "brunkaal",
+                "name": "Brunkål",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1500 gram hvidkål fintsnittet",
+                            "150 gram sukker",
+                            "30 gram smør",
+                            "800 gram kød ( flæsk, bacon, medister)",
+                            "400 gram Kartofler skåret i mundrette firkanter",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Sæt flæsk og bacon over til hurtigt opkog",
+                            "Smelt sukker til karamelisering i gryde",
+                            "Tilsæt smørret og rør rundt til homogen",
+                            "Tilsæt hvidkålen og rør rundt",
+                            "Tilsæt lidt kogevand fra kødet",
+                            "Kom kødet i gryden og pak hvidkålen omkring og over. Læg låg på.",
+                            "Sørg for at der hele tiden er vand i bunden",
+                            "Efter 90 minutter tilsættes kartoflerne",
+                            "Koger videre i 15 minutter hvorefter medister tilsættes i gryden",
+                            "Peber og salt skal først tilsættes nu",
+                            "Kød og pølse tages op og serveres apart i skiver",
+                            "Serveres med sennep, rødbeder, rugbrød"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "bagte-aebler-med-marcipan-og-chokolade",
+                "name": "Bagte æbler med marcipan og chokolade",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 Æbler uden \n\t\tkærnehus og stilk",
+                            "60 g mørk chokolade \n\t\t55%",
+                            "100 g Marcipan",
+                            "Flødeskum eller en \n\t\tgod is"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Hak mørk chokolade, \n\t\tælt det ind i marcipanen og kom det i æblerne.",
+                            "Bag æblerne ved 180° \n\t\tC i ca. 15 minutter.",
+                            "Serveres med kold \n\t\tflødeskum eller en god is."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

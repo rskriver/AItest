@@ -1,0 +1,117 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-11-26",
+        "image": "",
+        "dishes": [
+            {
+                "id": "kammusling-aguachile",
+                "name": "Kammusling Aguachile",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "3 kammuslinger",
+                            "Saften fra ca. 2 lime",
+                            "2 agurker",
+                            "1/4 – ½ jalapeño chili",
+                            "1 fed hvidløg",
+                            "1 stort bundt frisk koriander",
+                            "½ rødløg",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær kammuslingerne i tynde skiver af ca. 3 mm. Drys et tyndt lag salt over dem på begge sider.Kom dem i en skål, hvor de dækkes med limesaft ca. 35 min før servering. Lad dem stå på køl i ca. 30 minutter, hvor de ind i mellem vendes. Kammuslingerne tilberedes pga. syren fra limen.",
+                            "Blend 1½ agurk og pres væden ud gennem en si, eller brug en saftpresser.",
+                            "Blend den halve agurk, hvidløget, 2 koriander og jalapeñoen til en pesto masse, som smages til med salt og peber, og om der skal tilsættes mere chili.",
+                            "Hak rødløget i meget fine tern.",
+                            "Ved servering kommes en ønsket mængde agurkesaft i en dyb tallerken eller skål. Fordel kammuslingeskiverne i saften.",
+                            "Kom noget pesto over kammuslingerne og drys lidt fint hakkede rødløg over.",
+                            "Pynt med korianderblade og spiselige blomster."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "torsk-i-fad-med-groentsager-og-perlebyg",
+                "name": "Torsk i fad med grøntsager og perlebyg",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "500 g torskefilet",
+                            "2 porrer",
+                            "300 g gulerødder",
+                            "1 fennikel",
+                            "1 spsk. Smør til stegning",
+                            "1 potte frisk dild",
+                            "Salt og peber",
+                            "1 dl hvidvin",
+                            "1 dl grøntsagsbouillon",
+                            "1 ½ dl piskefløde",
+                            "2 dl perlebyg",
+                            "1 citron"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Tænd ovnen på 200 grader. Gå fisken efter for ben og skær den i portionsstykker.",
+                            "Rens porrerne og skær dem i tynde skiver. Skræl gulerødderne, og skær dem i tynde stave. Rens fennikel og skær den i tynde skiver. Steg alle grøntsagerne i en varm pande i 2-3 min til de falder let sammen.",
+                            "Fordel grøntsagerne i et ovnfast fad. Hak dilden, tag lidt fra til pynt. Drys hakket dild over grøntsagerneog krydder med salt og peber. Hæld hvidvin og bouillon i fadet. Bag retten i 15 min.",
+                            "Tag fadet ud af ovnen og vend rundt i grøntsagerne. Læg torskestykkerne oven på grøntsagerne og bag retten i yderligere 10 min, til fisken er gennemstegt.",
+                            "Tilbered perlebyggen efter pakkens anvisning.",
+                            "Pynt retten med dild og server den med perlebyg og citronbåde."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "citron-og-passionsfrugttaerte-med-marengs",
+                "name": "Citron og passionsfrugttærte med marengs",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "Færdig tærtedej",
+                            "2 citroner",
+                            "1 passionsfrugt",
+                            "100 g sukker",
+                            "2 æg",
+                            "2 æggeblommer",
+                            "2 dl piskefløde",
+                            "2 pasteuriserede æggehvider",
+                            "100 g. sukker",
+                            "4 stilke citronmellisse"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Bag tærtedejen efter pakkens anvisning. Strø evt. lidt sukker på dejen. Skru ovnen ned på 150 grader.",
+                            "Skær skallen af citronerne. Skær fileterne ud. Blend citronfileterne, indmad fra passionsfrugten, sukker, æg, æggeblommer og fløde sammen i en blender. Sigt cremen så kernerne fra passionsfrugten sorteres fra.",
+                            "Hæld cremen over tærtebunden. Bag tærten i ca. 45 minutter, så cremen sætter sig. Lad kagen køleaf.",
+                            "Pisk æggehviderne til hvidt skum. Tilsæt sukkeret lidt af gangen. Pisk videre til æggehviderne er helt stive.Fyld marengsmassen i sprøjteposer med rund tylle. Sprøjt marengsen på tærten i små toppe.Brænd marengsen med en gas brænder.",
+                            "Pynt kagen med citronmelisse."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+	"menu": {
+		"title": "Foreningen HERREMAD",
+		"date": "2025-04-08",
+		"image": "",
+		"dishes": [
+			{
+				"id": "bruschetti",
+				"name": "Bruschetti",
+				"type": "Forret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"1 chiabatta flute",
+							"ruccula",
+							"rød peberfrugt",
+							"valnødder",
+							"75 g gorgonzola cremosa",
+							"75 g flødeost naturel",
+							"25 g smør",
+							"½ dl olivenolie,",
+							"1 tsk tørret timian",
+							"1 nip salt."
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Skiver af et chiabatta flute steges I lidt smør på panden – afkøles",
+							"En rød peberfrugt halveres og renses for kerner, bages på bagepapir ca. 20 min ved 225 gr i ovnen tilskindet bliver mørkt – vend dem i ovnen et par gange – processen gør peberfrugterne søde og får skindet til at løsne sig.",
+							"Lad peberfrugterne afkøle indtil du nemt kan trække skindet af. Peberfrugten skæres i tynde strimler på langs – ½-1 cm brede.",
+							"Strimlerne marineres køligt i ca ½ time før brug",
+							"Rucula skylles og sættes til afdrypning",
+							"Gorgozola cremoso og flødeost røres sammen – smøres på de ristede flutes skiver. På halvdelen af skiverne lægges valnødder og rucula – på den anden halvdel marinerede peberstrimler"
+						]
+					}
+				]
+			},
+			{
+				"id": "involtini-alla-romana-italiens-svar-paa-benloese-fugle",
+				"name": "Involtini alla romana (italiens svar på ”benløse fugle\")",
+				"type": "Hovedret",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": "Kartoffelmos",
+						"items": ["8 Kartofler", "½  Selleri", "Smør", "1 dl Mælk", "Salt"]
+					},
+					{
+						"label": "Involtini",
+						"items": [
+							"2 løg",
+							"2 fed hvidløg hakkes",
+							"olie",
+							"1 tsk tørret origano",
+							"Efter 5 min tilsættes 2 ds flåede hakkede tomater",
+							"2 ds flåede hakkede tomater",
+							"1 ds vand"
+						]
+					},
+					{
+						"label": "Fyld",
+						"items": [
+							"100 g revet parmasanost",
+							"Hakket bredbladet persille",
+							"2 fed finthakket hvidløg",
+							"Revet skal af en halv citron",
+							"2 spsk rasp",
+							"salt og peber",
+							"olivenolie"
+						]
+					},
+					{
+						"label": "Schnitzler",
+						"items": [
+							"4 Schnitzler af kalveinderlår",
+							"1 pk Parmaskinke",
+							"Olie",
+							"Hvidvin",
+							"Salt og Peber",
+							"? Sukker",
+							"1 ps Spinat",
+							"25 g Smør"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": "Kartoffelmos",
+						"steps": [
+							"Kartofler skrælles og skæres i mindre stykker.",
+							"Selleri befries for skallen og skæres i tern.",
+							"Kartofler og selleri koges 15 min ( ingen salt). Vandet hældes fra.",
+							"Tilsæt 50 g smør, som smelter og derefter blendes.",
+							"Tilsæt mælk til passende konsistens. Smag til med salt"
+						]
+					},
+					{
+						"label": "Involtini",
+						"steps": [
+							"Løg og hvidløg hakkes og varmes i olie i en gryde. Tilsæt origano.",
+							"Efter 5 min tilsættes de flåede hakkede tomater + 1 ds vand. Det skal stå og simre 30 min."
+						]
+					},
+					{
+						"label": "Fyld",
+						"steps": [
+							"Ingredienserne blandes og tilsættes derefter olivenolie til fyldet er fugtigt (behøver ikke at hænge sammen)"
+						]
+					},
+					{
+						"label": "Schnitzler",
+						"steps": [
+							"Schnitzlerne  lægges mellem 2 stykker plastik og bankes med bunden af en pande på et spækbrædt. Fjern evt. sener fra kødet.",
+							"Schnitzlerne deles i 2, der tilsættes salt og peber Ovenpå lægges parmaskinke og en skefuld fyld.",
+							"Schnitzlerne rulles og bindes sammen med kødsnor. De brunes i olie på en pande, stænkes med lidt tør hvidvin.",
+							"Tomatsovs (Fra Involtini) blendes og smages til med salt, peber og evt sukker.",
+							"Tomatsovsen hældes over rullerne som står og simrer i ½ time.",
+							"Helbladet spinat skylles, befris for stilke, dryppes af og varmes på en pande i smør i ca. 5 min."
+						]
+					}
+				]
+			},
+			{
+				"id": "tiramisu",
+				"name": "Tiramisu",
+				"type": "Dessert",
+				"serves": 4,
+				"ingredients": [
+					{
+						"label": null,
+						"items": [
+							"2 dl kaffe",
+							"1 dl marsala",
+							"1 vaniljestang",
+							"100 g Sukker",
+							"4 Æg",
+							"200 g Ladyfingers",
+							"250 g mascarpone",
+							"Kakaopulver til pynt"
+						]
+					}
+				],
+				"method": [
+					{
+						"label": null,
+						"steps": [
+							"Bland kaffe, marsala sammen i en skål",
+							"Flæk vaniljestang på langs og skrab vaniljekornene ud i en skål med sukker.",
+							"Del æggene i hvider og blommer i hver sin skål. Pisk blommer, sukker og vaniljekorn til en luftig masse.",
+							"Vend mascarpone i. – Pisk hviderne stive og vend dem forsigtigt i mascarponecremen med en dejskraber ad flere omgange.",
+							"Bræk Ladyfingers i mindre stykker så de passer i størrelsen til portionsglassene. Dyp hver ladyfinger ikaffeblandingen og fordel ladyfingers og mascarponecreme lagvis i portionsglas. Sæt på køl i 3 timer",
+							"Drys med kakaopulver på toppen lige inden servering."
+						]
+					}
+				]
+			}
+		]
+	}
+}

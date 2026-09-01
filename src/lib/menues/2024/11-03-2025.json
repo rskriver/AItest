@@ -1,0 +1,175 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-03-11",
+        "image": "",
+        "dishes": [
+            {
+                "id": "dakos-graeske-tomat-broed",
+                "name": "DAKOS Græske tomat brød",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 skiver brød",
+                            "Olivenolie",
+                            "4 mellemstore tomater",
+                            "16 oliven",
+                            "1 dl god feta",
+                            "Frisk oregano (tørret)",
+                            "Basilikum",
+                            "Salt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær brødet ud.",
+                            "Hæld en god sjat olivenolie på brødet",
+                            "Steg det på en pande 1-2 minutter.",
+                            "Skær tomaten og feta i mindre stykker, fordel det på brødet.",
+                            "Udsten oliven, hvis de ikke er det, skær dem i mindre stykker og fordel på brødene.",
+                            "Krydder med salt og pynt med oregano og basilikum.",
+                            "Hæld evt. lidt olivenolie over."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "fladbroed-med-graeske-koedboller-og-graesk-salat-og-tzatziki",
+                "name": "Fladbrød med græske kødboller og græsk salat og tzatziki",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "½ pakke gær",
+                            "1,6 dl lunken vand",
+                            "½ tsk. sukker",
+                            "275 gram hvedemel",
+                            "1 spsk. olivenolie",
+                            "½ tsk salt",
+                            "Olie til stegning",
+                            "1 stor agurk",
+                            "400 g græsk yoghurt",
+                            "3 fed hvidløg",
+                            "2 spsk. Oliven olie",
+                            "1 spsk. friskpresset citronsaft",
+                            "2 spsk. dild eller mynte",
+                            "Salt og peber",
+                            "500 g hakket okse",
+                            "50 g feta",
+                            "1 æg",
+                            "1 håndfuld bredbladet persille",
+                            "1finthakket løg",
+                            "2fed hvidløg",
+                            "½ chili",
+                            "2 spsk. rasp",
+                            "1 tsk. Oregano",
+                            "½ tsk spidskommen",
+                            "½ tsk. Stødt koriander",
+                            "¼ tsk kanel",
+                            "Salt og peber",
+                            "1 dl hvedemel (til at rulle bollerne i)",
+                            "3 dl olie.",
+                            "½ agurk",
+                            "1 rød peberfrugt",
+                            "14 cherrytomater",
+                            "1 lille rødløg",
+                            "120 g feta",
+                            "1 håndfuld hakket persille",
+                            "1 glas oliven",
+                            "1 fed fint revet hvidløg",
+                            "½ tsk Dijon sennep",
+                            "1 tsk honning",
+                            "2 tsk god mørk balsamico",
+                            "1 spsk. citronsaft",
+                            "1 ½ tsk oregano",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Opløs gæren i vand tilsæt sukker og olie.",
+                            "Bland mel og salt og rør det i dejen lidt ad gangen. Ælt dejen godt. Dæk med folie og lad hvile lunt en god times tid.",
+                            "Del dejen i 4 stykker og tril dem til boller.",
+                            "Rul dejen ud til 4 cirkler á ca. 2-3 mm tyk.",
+                            "Varm en pande op og hæld lidt olie på. Bag brødene et par minutter på hver side. Bobler og let lysebrune. Gentag med hvert brød.",
+                            "Læg dem på en tallerken stablet med stanniol over, så de bliver bløde.",
+                            "Riv agurken groft (man kan fjerne kernerne). Pres saften ud af agurken evt. i et viskestykke.",
+                            "Læg agurken i en sigte og tilsæt lidt salt, og vend det med hænderne og lad det stå i ca. 15 min.",
+                            "Bland imens ingredienserne til dressingen.",
+                            "Vend agurken i og smag til med lidt peber og evt. salt.",
+                            "Opbevares på køl til servering.",
+                            "Rør oksekød sammen med de hakkede grøntsager, æg, krydderier og smuldret feta.",
+                            "Tilsæt rasp og krydder med salt og peber. Lad farsen trække 15 min.",
+                            "Form farsen til runde kødboller ca. 35 gram pr styk og rul dem i hvedemel.",
+                            "Sørg for et tyndt jævnt lag.",
+                            "Varm olie op på en pande ca. 1 cm. Olie. Steg bollerne let gyldne.",
+                            "Rør olivenolie sammen med Dijon, honning og balsamico. Rør indtil ensartet konsistens.",
+                            "Tilsæt hvidløg, citronsaft og oregano rør godt sammen. Smag til med salt og peber. Stil marinaden til side.",
+                            "Halver agurken og fjern kerner med en ske skær i skiver.",
+                            "Skær peberfrugt og rødløg i strimler og halver tomaterne.Bland alle grøntsagerne med oliven, feta og persille.",
+                            "Hæld marinaden over og vend det godt sammen",
+                            "Server brødene i bunden toppet med kødboller salat og Tzatziki."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "portokalopita",
+                "name": "PORTOKALOPITA",
+                "type": "Dessert",
+                "serves": 16,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 gram fillodej",
+                            "6 æg",
+                            "2 dl sukker",
+                            "2 dl græsk yoghurt",
+                            "Appelsinskal fint revet fra 1,5 appelsin",
+                            "1 dl appelsinsaft",
+                            "4 tsk Vanilje",
+                            "1 1/2 tsk bagepulver",
+                            "1 ½ natron",
+                            "½ dl olivenolie.",
+                            "2 appelsiner i skiver",
+                            "200 gram sukker",
+                            "2 dl frisk appelsinsaft",
+                            "2 dl vand",
+                            "1 kanelstang",
+                            "2 tsk honning"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Start med at lave orange sirup. Bland alle ingredienser i en lille gryde. Kog det op og lad det simre indtil det tykner som sirup. Ca. 10 min.",
+                            "Opvarm ovnen til 150 grader. Skær fillodejen i 2,5 cm strimler. Læg dem på en plade og sæt dem i ovnen i 15 minutter tag dem ud og vend dem.",
+                            "Tænd ovnen på 175 grader. Rør yoghurt og appelsinsaft sammen i en lille skål og stil til side.",
+                            "I en stor skål pisk æg tilsæt sukker og pisk igen tilsæt yoghurtblandingen.",
+                            "Tilsæt vanillapulver, bagepulver og appelsinskal.",
+                            "Tilsæt olien lidt ad gangen, mens der røres.",
+                            "Tilsæt den knuste fillodej lidt ad gangen mens der røres med en ske.",
+                            "Put det i en passende smurt og mel drysset form, pynt med appelsinskiver og bag det 30-35 minutter indtil mørk gylden overflade.",
+                            "Lav huller i kagen med en gaffel og hæld siruppen over kagen lidt ad gangen. Lad den hvile længst muligt.",
+                            "Serveres med vanilje is"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

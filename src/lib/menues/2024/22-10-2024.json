@@ -1,0 +1,106 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-10-22",
+        "image": "",
+        "dishes": [
+            {
+                "id": "aspargessuppe-med-hjemmelavede-koedboller",
+                "name": "Aspargessuppe med hjemmelavede kødboller",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 ds asparges snitter",
+                            "30 gr smør",
+                            "4 spsk hvedemel",
+                            "1 l hønse- eller grønsagsbouillon (evt. 1 l vand + 2 bouillonterninger)",
+                            "1,5 dl piskefløde",
+                            "salt",
+                            "peber, evt. hvid peber",
+                            "450-500 gr hakket svinekød",
+                            "1 æg",
+                            "1 spsk hvedemel",
+                            "2 tsk salt og friskkværnet peber",
+                            "1-1,5 l vand til kogning af kødbollerne",
+                            "Evt. Flutes"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Afdryp aspargessnitterne i en sigte, men gem væden.",
+                            "Smelt smørret i en stor gryde og pisk melet i smørret.",
+                            "Tilsæt aspargesvandet under piskning og pisk smør, mel og aspargesvand sammen til en klumpfri opbagning.",
+                            "Tilsæt bouillon (eller vand + 2 terninger) og lad suppen koge i ca. 5 minutter.",
+                            "Tilsæt piskefløde, smag til med salt og (hvid) peber og tilsæt aspargessnitterne og kødboller.",
+                            "Varm suppen op og server rygende varm, gerne med lækkert brød til.",
+                            "Rør farsen sammen af kød, æg, hvedemel, salt og peber.",
+                            "Bring vandet i kog i en gryde – der skal være så meget vand i gryden, at kødbollerne kan flyde under kogningen.",
+                            "Tag farsen op med en teske og tril små kødboller mellem hænderne. Er farsen for klistret, så tilsæt lidt mere mel eller brug teskeen til at forme kødbollerne med.",
+                            "Plump kødbollerne i det kogende vand og kog dem i ca. 5 minutter.",
+                            "Tag kødbollerne op af vandet, lad dem afdryppe",
+                            "Server bollerne i den hjemmelavede aspargessuppe – evt. med flutes"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "krondyrkoelle-i-gryde",
+                "name": "Krondyrkølle i gryde",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "Ca. 900g Krondyrkøllesteg (udbenet)",
+                            "salt",
+                            "peber",
+                            "50g.bacon",
+                            "2.5 dl.kogende vand eller fond",
+                            "1 laurbærblad",
+                            "2 hakkede løg",
+                            "10 peberkorn",
+                            "1 dl. rødvin",
+                            "3 dl. fløde",
+                            "50g. ribsgelé",
+                            "500g. champignon",
+                            "200g. bacon",
+                            "2.5 dl. Cremefraiche 38%",
+                            "1.5 spsk.Sukker",
+                            "0.25 tsk.Salt, groft",
+                            "4 stilke Bladselleri",
+                            "400 gram Vindruer, grønne",
+                            "2 Æbler",
+                            "150 gram Valnøddekerner"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Køllen gnides med salt og peber.",
+                            "Brunes i en gryde sammen med 2 – 3 skiver bacon.",
+                            "Vand eller fond med krydderier samt løg tilsættes. Småkoger under låg \n\t\tca. 90 min. Kødet vendes jævnligt.Den sidste halve time tilsættes \n\t\trødvinen.",
+                            "Stegeskyen sies, fløde tilsættes, hvorefter der smages til med salt, \n\t\tpeber og ribsgelé inden den jævnes.",
+                            "Champignon og bacon skæres i terninger og ristes på en pande.Kødet skæres ud i ca. 1/2 cm. tykke skiver og og pyntes med bacon i \n\t\tterninger sammen med champignon.",
+                            "Serveres med smørstegte, råstegte eller hvide kartofler og Waldorfsalat.",
+                            "Smag cremefraiche til med sukker og salt.",
+                            "Rens bladselleri stilkene og skær dem på tværs i tynde skiver.",
+                            "Halver druerne og fjern kernerne. Skær æblerne i små tern.",
+                            "Tag \n\t\tlidt valnøddekerner fra til pynt og hak resten groft.",
+                            "Bland fyldet i dressingen.",
+                            "Lad \n\t\tsalaten stå kold til servering og pynt med druer, valnøddekerner og \n\t\tblade fra bladselleri."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

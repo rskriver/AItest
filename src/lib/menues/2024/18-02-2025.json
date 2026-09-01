@@ -1,0 +1,50 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-02-18",
+        "image": "",
+        "dishes": [
+            {
+                "id": "jaegergryde",
+                "name": "Jægergryde",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "500 g svinemørbrad",
+                            "2 spsk mel",
+                            "salt",
+                            "peber",
+                            "3 spsk smør",
+                            "4 spsk paprika (mild)",
+                            "3 løg",
+                            "200 g pølser eller cocktailpølser",
+                            "2 røde peberfrugter",
+                            "400 g champignoner",
+                            "3 dl madlavningsfløde",
+                            "2 spsk tomatpuré"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Afpuds svinemørbraden (fjern fedt og sener) og skær den i tern.",
+                            "Bland mel, salt og peber i en frysepose. Kom mørbradternene i og luk posen. Ryst godt til melethænger fast på mørbraden.",
+                            "Smelt smørret i en gryde, kom derefter posens indhold i, og steg let. Tilsæt paprika.",
+                            "Hak løgene fint og kom dem i gryden.",
+                            "Skær pølserne i mundrette stykker (ikke nødvendigt hvis du bruger cocktailpølser), og kom dem igryden.",
+                            "Skær peberfrugt i grove tern og champignon i skiver. Kom dem i gryden.Tilsæt fløde og tomatpure.",
+                            "Lad jægergryden simre lidt (15-30 minutter) og koge ind til den har den ønskede konsistens.",
+                            "Smag til med salt og peber.",
+                            "Serveres med ris"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

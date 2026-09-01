@@ -1,0 +1,103 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-02-25",
+        "image": "",
+        "dishes": [
+            {
+                "id": "hummer-bisque",
+                "name": "Hummer Bisque",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "10 – 15 jomfruhummer",
+                            "2 kviste timian",
+                            "2 laurbærblade",
+                            "1 dl. tomatpure",
+                            "10 peberkorn sorte",
+                            "1 gulerod i tern",
+                            "1 porre i skiver",
+                            "1 lille tsk. Herbes de provance",
+                            "¼ knoldcelleri i tern",
+                            "4 dl. Hvidvin",
+                            "1 dl. Cognac/visky",
+                            "1 l fiskefon",
+                            "3 dl fløde",
+                            "1 dl. jomfruolivenolie",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Først tager du jomfruhummerne ud af skallerne, nemmest ved at klippe dem op i ryggen, og brække skallen af og samtidig fjerne den sorte streng/tarm. Gem skallerne i en skål, og put jomfruhummerne i en anden skål, og dæk den til, og stil dem i køleskabet. (knus gerne skallerne på et spækbrædt med en køkkenkniv inden de kommer i gryden).",
+                            "Kom olivenolie i en stor gryde, der skal varmes op til meget høj temp. Gerne så olien ryger lidt, tilsæt så skallerne og rør rundt i gryden,",
+                            "Efter 1 min tilsættes 1 dl. Cognac/visky, og flamberes mens der stadig røres i gryden, pas på at emhætten er slukket da der kan komme høje flammer.",
+                            "Nu tilsættes suppeurterne og herbes de provence, tomatpure, jo mere du vender dem, jo mere sødme frigiver de til suppen.",
+                            "Så tilsættes hvidvin og fon så det dækker skallerne og lad det småkoge i 20 min. Det kan godt skumme lidt lige i starten. Det kan fjernes med en hulske.",
+                            "Tag gryden af og lad den trække 10 min, inden du sier suppen fra. Nu er suppen klar til at komme fløden i. Smag til, hvis den ikke er smagfuld nok.",
+                            "Lad den så koge lidt mere ind, og så smag til med salt og peber.",
+                            "Kan tilberedes ved at stege dem på en pande med smør/hvidløgssmør i 2 min på en meget varm pande. Hummerne må ikke røre ved hinanden og skal gerne ligge på ryggen. Efter 1 min vendes de.De kan alternativt kommes i suppen i 4 min. Inden servering.",
+                            "Der serveres et godt brød til."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "oksefilet-med-svampe-og-selleri",
+                "name": "Oksefilet med svampe og selleri",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 tykke skiver oksefilet",
+                            "200 g bøgehatte eller anden svamp",
+                            "1 knoldselleri",
+                            "3 fed hvidløg",
+                            "Frisk timian",
+                            "100 g smør",
+                            "½ dl. fløde",
+                            "Olivenolie (til smøring af knoldsellerien)",
+                            "½ fl. rødvin",
+                            "½ l. kalvefond",
+                            "2 skalotteløg",
+                            "2 fed hvidløg",
+                            "1 bakke champignon",
+                            "50 g. koldt smør"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom godt med salt og peber på begge sider af bøffen. Herefter skal der tændes op på fuld skrald! Det er vigtigt at man kommer op på høje temperaturer Når panden lige akkurat begynder at småryge lidt, er du klar til at gå igang.",
+                            "Kom lidt olie på panden. Kom herefter bøfferne på panden, og giv dem 30-45 sek. ved fuld varme på begge sider.",
+                            "Skru derefter ned på ca. halv styrke, og sørg for at vende bøfferne mindst en gang i minutet, så de bliver stegt jævnt.",
+                            "Alt efter hvordan du godt kan li din bøf, skal man til at overveje at tage den af panden nu. Man kan mærke på kødet hvornår bøffen er færdig ved at trykke på bøffen med sin finger.",
+                            "Alt efter hvad du er til, kan du her se hvordan bøffen skal føles når du trykker forsigtigt på den.",
+                            "Skræl knoldsellerien.",
+                            "Gnid den skrællede knoldselleri med olie. Krydr med salt og peber.",
+                            "Pak knolden ind i stanniol sammen med timian og knust hvidløg. Bag i 3 timer ved 150 grader.",
+                            "Den bagte selleri deles i 2. Den ene halvdel blendes med fløde og smør til en glat puré.",
+                            "Den anden halvdel skæres i mindre stykker, som brunes let i smør inden serveringen.",
+                            "Rengør bøgehattene (eller hvad vi får købt) og vend dem hurtigt i smør på panden og krydr med salt og peber.",
+                            "Løg, hvidløg og champignon svitses i olie, og rødvin tilsættes.",
+                            "Lad saucen koge ind til det halve, tilsæt fond, og kog igen ind til det halve.",
+                            "Si saucen, rør koldt smør i og smag til.",
+                            "Anret på lune tallerkner og pynt med strimler af grønt og aktuelle krydderurter."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

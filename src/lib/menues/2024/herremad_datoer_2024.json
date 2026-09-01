@@ -1,23 +1,5 @@
 [
 	{
-		"date": "01.10.2024",
-		"Link": "https://herremadwp.herremad.dk/01-10-2024-menu/",
-		"recipes": [
-			{
-				"name": "Cremet pasta med laks, fløde og grønt",
-				"ID": "cremet-pasta-med-laks-floede-og-groent",
-				"Link": "https://herremadwp.herremad.dk/01-10-2024-cremet-pasta-med-laks-floede-og-groent/",
-				"type": "forret"
-			},
-			{
-				"name": "Vildtgryde",
-				"ID": "vildtgryde",
-				"Link": "https://herremadwp.herremad.dk/01-10-2024-vildtgryde/",
-				"type": "hovedret"
-			}
-		]
-	},
-	{
 		"date": "08.10.2024",
 		"Link": "https://herremadwp.herremad.dk/08-10-2024-menu/",
 		"recipes": [
@@ -101,8 +83,8 @@
 		"recipes": [
 			{
 				"name": "Flået pighaj",
-				"ID": "flaet-pighaj",
-				"Link": "https://herremadwp.herremad.dk/12-11-2024-flaet-pighaj/",
+				"ID": "flaaet-pighaj",
+				"Link": "https://herremadwp.herremad.dk/12-11-2024-flaaet-pighaj/",
 				"type": "forret"
 			},
 			{
@@ -233,9 +215,309 @@
 		"recipes": [
 			{
 				"name": "Bruschetta med tomater/svampe og gedeost med parmaskinke",
-				"ID": "bruschetta-med-tomater-svampe-og-gedeost-med-parmaskinke",
-				"Link": "https://herremadwp.herremad.dk/14-01-2025-bruschetta-med-tomater-svampe-og-gedeost-med-parmaskinke/",
+				"ID": "bruschetta-med-tomatersvampe-og-gedeost-med-parmaskinke",
+				"Link": "https://herremadwp.herremad.dk/14-01-2025-bruschetta-med-tomatersvampe-og-gedeost-med-parmaskinke/",
 				"type": "forret"
+			},
+			{
+				"name": "Spaghetti Carbonara",
+				"ID": "spaghetti-carbonara",
+				"Link": "https://herremadwp.herremad.dk/14-01-2025-spaghetti-carbonara/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Appelsinkage med glasur",
+				"ID": "appelsinkage-med-glasur",
+				"Link": "https://herremadwp.herremad.dk/14-01-2025-appelsinkage-med-glasur/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "21.01.2025",
+		"Link": "https://herremadwp.herremad.dk/21-01-2025-menu/",
+		"recipes": [
+			{
+				"name": "Åben lasagne med Østershatte, pancetta og burrata",
+				"ID": "aaben-lasagne-med-oestershatte-pancetta-og-burrata",
+				"Link": "https://herremadwp.herremad.dk/21-01-2025-aaben-lasagne-med-oestershatte-pancetta-og-burrata/",
+				"type": "forret"
+			},
+			{
+				"name": "Lakselasagne med spinat",
+				"ID": "lakselasagne-med-spinat",
+				"Link": "https://herremadwp.herremad.dk/21-01-2025-lakselasagne-med-spinat/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "28.01.2025",
+		"Link": "https://herremadwp.herremad.dk/28-01-2025-menu/",
+		"recipes": [
+			{
+				"name": "Sposai, Pollo, Can La Pasta Sciocche Za De Prugne",
+				"ID": "sposai-pollo-can-la-pasta-sciocche-za-de-prugne",
+				"Link": "https://herremadwp.herremad.dk/28-01-2025-sposai-pollo-can-la-pasta-sciocche-za-de-prugne/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Sveske trifli",
+				"ID": "sveske-trifli",
+				"Link": "https://herremadwp.herremad.dk/28-01-2025-sveske-trifli/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "04.02.2025",
+		"Link": "https://herremadwp.herremad.dk/04-02-2025-menu/",
+		"recipes": [
+			{
+				"name": "4 klemmer du aldrig glemmer",
+				"ID": "4-klemmer-du-aldrig-glemmer",
+				"Link": "https://herremadwp.herremad.dk/04-02-2025-4-klemmer-du-aldrig-glemmer/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Softice med vafler",
+				"ID": "softice-med-vafler",
+				"Link": "https://herremadwp.herremad.dk/04-02-2025-softice-med-vafler/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.02.2025",
+		"Link": "https://herremadwp.herremad.dk/11-02-2025-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetta",
+				"ID": "bruschetta",
+				"Link": "https://herremadwp.herremad.dk/11-02-2025-bruschetta/",
+				"type": "forret"
+			},
+			{
+				"name": "Brunkål",
+				"ID": "brunkaal",
+				"Link": "https://herremadwp.herremad.dk/11-02-2025-brunkaal/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Bagte æbler med marcipan og chokolade",
+				"ID": "bagte-aebler-med-marcipan-og-chokolade",
+				"Link": "https://herremadwp.herremad.dk/11-02-2025-bagte-aebler-med-marcipan-og-chokolade/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.02.2025",
+		"Link": "https://herremadwp.herremad.dk/18-02-2025-menu/",
+		"recipes": [
+			{
+				"name": "Jægergryde",
+				"ID": "jaegergryde",
+				"Link": "https://herremadwp.herremad.dk/18-02-2025-jaegergryde/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "25.02.2025",
+		"Link": "https://herremadwp.herremad.dk/25-02-2025-menu/",
+		"recipes": [
+			{
+				"name": "Hummer Bisque",
+				"ID": "hummer-bisque",
+				"Link": "https://herremadwp.herremad.dk/25-02-2025-hummer-bisque/",
+				"type": "forret"
+			},
+			{
+				"name": "Oksefilet med svampe og selleri",
+				"ID": "oksefilet-med-svampe-og-selleri",
+				"Link": "https://herremadwp.herremad.dk/25-02-2025-oksefilet-med-svampe-og-selleri/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "04.03.2025",
+		"Link": "https://herremadwp.herremad.dk/04-03-2025-menu/",
+		"recipes": [
+			{
+				"name": "Græsk salat",
+				"ID": "graesk-salat",
+				"Link": "https://herremadwp.herremad.dk/04-03-2025-graesk-salat/",
+				"type": "forret"
+			},
+			{
+				"name": "Souvlaki - græsk kebab",
+				"ID": "souvlaki-graesk-kebab",
+				"Link": "https://herremadwp.herremad.dk/04-03-2025-souvlaki-graesk-kebab/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Citrontrifli med brændt marengs",
+				"ID": "citrontrifli-med-braendt-marengs",
+				"Link": "https://herremadwp.herremad.dk/04-03-2025-citrontrifli-med-braendt-marengs/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "11.03.2025",
+		"Link": "https://herremadwp.herremad.dk/11-03-2025-menu/",
+		"recipes": [
+			{
+				"name": "DAKOS Græske tomat brød",
+				"ID": "dakos-graeske-tomat-broed",
+				"Link": "https://herremadwp.herremad.dk/11-03-2025-dakos-graeske-tomat-broed/",
+				"type": "forret"
+			},
+			{
+				"name": "Fladbrød med græske kødboller og græsk salat og tzatziki",
+				"ID": "fladbroed-med-graeske-koedboller-og-graesk-salat-og-tzatziki",
+				"Link": "https://herremadwp.herremad.dk/11-03-2025-fladbroed-med-graeske-koedboller-og-graesk-salat-og-tzatziki/",
+				"type": "hovedret"
+			},
+			{
+				"name": "PORTOKALOPITA",
+				"ID": "portokalopita",
+				"Link": "https://herremadwp.herremad.dk/11-03-2025-portokalopita/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "18.03.2025",
+		"Link": "https://herremadwp.herremad.dk/18-03-2025-menu/",
+		"recipes": [
+			{
+				"name": "Spanakopita med butterdej",
+				"ID": "spanakopita-med-butterdej",
+				"Link": "https://herremadwp.herremad.dk/18-03-2025-spanakopita-med-butterdej/",
+				"type": "forret"
+			},
+			{
+				"name": "Stifado",
+				"ID": "stifado",
+				"Link": "https://herremadwp.herremad.dk/18-03-2025-stifado/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Græsk yoghurt med mango og passion",
+				"ID": "graesk-yoghurt-med-mango-og-passion",
+				"Link": "https://herremadwp.herremad.dk/18-03-2025-graesk-yoghurt-med-mango-og-passion/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "25.03.2025",
+		"Link": "https://herremadwp.herremad.dk/25-03-2025-menu/",
+		"recipes": [
+			{
+				"name": "Stifado med kylling og krydrede ris",
+				"ID": "stifado-med-kylling-og-krydrede-ris",
+				"Link": "https://herremadwp.herremad.dk/25-03-2025-stifado-med-kylling-og-krydrede-ris/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Frigania - Lækker græsk dessert",
+				"ID": "frigania-laekker-graesk-dessert",
+				"Link": "https://herremadwp.herremad.dk/25-03-2025-frigania-laekker-graesk-dessert/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "01.04.2025",
+		"Link": "https://herremadwp.herremad.dk/01-04-2025-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetta med svampe",
+				"ID": "bruschetta-med-svampe",
+				"Link": "https://herremadwp.herremad.dk/01-04-2025-bruschetta-med-svampe/",
+				"type": "forret"
+			},
+			{
+				"name": "Saltimbocca med ratatouille",
+				"ID": "saltimbocca-med-ratatouille",
+				"Link": "https://herremadwp.herremad.dk/01-04-2025-saltimbocca-med-ratatouille/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Budding",
+				"ID": "budding",
+				"Link": "https://herremadwp.herremad.dk/01-04-2025-budding/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "08.04.2025",
+		"Link": "https://herremadwp.herremad.dk/08-04-2025-menu/",
+		"recipes": [
+			{
+				"name": "Bruschetti",
+				"ID": "bruschetti",
+				"Link": "https://herremadwp.herremad.dk/08-04-2025-bruschetti/",
+				"type": "forret"
+			},
+			{
+				"name": "Involtini alla romana (italiens svar på ”benløse fugle\")",
+				"ID": "involtini-alla-romana-italiens-svar-paa-benloese-fugle",
+				"Link": "https://herremadwp.herremad.dk/08-04-2025-involtini-alla-romana-italiens-svar-paa-benloese-fugle/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Tiramisu",
+				"ID": "tiramisu",
+				"Link": "https://herremadwp.herremad.dk/08-04-2025-tiramisu/",
+				"type": "dessert"
+			}
+		]
+	},
+	{
+		"date": "22.04.2025",
+		"Link": "https://herremadwp.herremad.dk/22-04-2025-menu/",
+		"recipes": [
+			{
+				"name": "Hvide asparges med stenbiderrogn",
+				"ID": "hvide-asparges-med-stenbiderrogn",
+				"Link": "https://herremadwp.herremad.dk/22-04-2025-hvide-asparges-med-stenbiderrogn/",
+				"type": "forret"
+			},
+			{
+				"name": "Wienerschnitzel med dreng",
+				"ID": "wienerschnitzel-med-dreng",
+				"Link": "https://herremadwp.herremad.dk/22-04-2025-wienerschnitzel-med-dreng/",
+				"type": "hovedret"
+			}
+		]
+	},
+	{
+		"date": "29.04.2025",
+		"Link": "https://herremadwp.herremad.dk/29-04-2025-menu/",
+		"recipes": [
+			{
+				"name": "Lakserillette",
+				"ID": "lakserillette",
+				"Link": "https://herremadwp.herremad.dk/29-04-2025-lakserillette/",
+				"type": "forret"
+			},
+			{
+				"name": "Indbagt kalvemørbrad og estragonsauce",
+				"ID": "indbagt-kalvemoerbrad-og-estragonsauce",
+				"Link": "https://herremadwp.herremad.dk/29-04-2025-indbagt-kalvemoerbrad-og-estragonsauce/",
+				"type": "hovedret"
+			},
+			{
+				"name": "Udsøgt osteKransekage",
+				"ID": "udsoegt-ostekransekage",
+				"Link": "https://herremadwp.herremad.dk/29-04-2025-udsoegte-ostekransekage/",
+				"type": "dessert"
 			}
 		]
 	}

@@ -1,0 +1,56 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-01-21",
+        "image": "",
+        "dishes": [
+            {
+                "id": "aaben-lasagne-med-oestershatte-pancetta-og-burrata",
+                "name": "Åben lasagne med Østershatte, pancetta og burrata",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "225 g pancetta",
+                            "100 g smør",
+                            "350 g Østershatte",
+                            "1 pk friske lasagneplader",
+                            "2 burrata oste",
+                            "70 g rucola",
+                            "Salt og friskkværnet peber",
+                            "Olie",
+                            "Reven parmasan"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Østershattene. Er de meget store skal du skære eller plukke dem ud i mindre stykker. Skær stilken fra, smid væk.",
+                            "Skær lasagnepladen ud i stykker på ca. 7 cm i bredden – beregn 2 stk pr. person.",
+                            "Skær pancetta I tern, og steg den sprød, evt. i en smule olie, på en pande. Læg den til side og tør panden af.",
+                            "På samme pande smeltes smørret, og Østershattene steges ved middel varme til de er gyldne og lækre. Krydr med en smule salt og friskkværnet peber, og hæld pancettaen tilbage på panden. Lad det stå ved lavt blus.",
+                            "Kog imens lasagne pladerne al dente – ca. 3-4 minutter, og dræn dem derefter for væde. Vend dem med en smule olie, så de ikke klæber sammen.",
+                            "Saml de åbne lasagner ved at fordele lidt fyld imellem hvert lag.",
+                            "Start med lidt svampe, pancetta og rucola i bunden, læg en lasagne plade over (så den kan foldes), og læg lidt burrata på denne sammen med lidt af det andet fyld.",
+                            "Fold pladen ind over og læg en smule fyld igen. Du behøver ikke have alle elementer imellem hvert lag – og brug kun en smule så ikke lasagnen bliver for høj.",
+                            "Fortsæt til du har brugt 2 lasagneplader til hver servering.",
+                            "Hæld en smule af smørret fra panden over toppen, og krydr med friskkværnet peber, og reven Parmasan på toppen inden servering.."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "lakselasagne-med-spinat",
+                "name": "Lakselasagne med spinat",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

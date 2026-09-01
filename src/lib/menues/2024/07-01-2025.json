@@ -1,0 +1,125 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-01-07",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tuntaerte",
+                "name": "Tuntærte",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "100 g margarine",
+                            "150 g mel",
+                            "200 g rejer",
+                            "1 dåse tun",
+                            "1 dåse asparges",
+                            "225 g mayonaise",
+                            "2 spsk sennep",
+                            "2 spsk vineddike",
+                            "3 æggehvider",
+                            "Salt",
+                            "Peber",
+                            "Dild"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Tærtebund:",
+                            "Alle ingredienser blandes og dejen hviler i køleskab ca. 5-10 min.",
+                            "Dejen rulles ud og placeres i formen.",
+                            "Tærten bages ved 225 grader i 12 min.",
+                            "Kom tun i bunden af den forbagte tærtebund, derefter rejer og asparges samt dild.",
+                            "Pisk æggehvider stive.",
+                            "Vend vineddike, mayonnaise og sennep i de piskede æggehvider og kom massen ovenpå tærten med fyld.",
+                            "Bages ca. 15 min ved 200 grader"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "pasta-med-laks-og-spinat",
+                "name": "Pasta med laks og spinat",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "400 g laks",
+                            "2 spsk. olivenolie til stegning",
+                            "500 g frisk pasta",
+                            "4 fed hvidløg",
+                            "2 spsk. olivenolie",
+                            "500 g frisk babyspinat",
+                            "200 g ricotta",
+                            "50 g friskrevet parmesan",
+                            "1 citron",
+                            "salt",
+                            "peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Steg laksen i en smule olie på en varm pande. Lad den stege næsten færdig på den ene side.",
+                            "Tag panden af varmen, vend fisken, og lad den stege færdig på eftervarmen. Krydr med salt ogfjern skindsiden.",
+                            "Kog pastaen efter anvisningen på pakken. Dræn vandet fra, men gem det.",
+                            "Pil hvidløget, og skær det i tynde skiver. Sautér hvidløg i olivenolie i en stor sauterepande ellergryde, til det brunes lidt.",
+                            "Tilsæt spinat, og lad den falde sammen.",
+                            "Tilsæt ricotta og kogt pasta. Lad det hele varme kort op.",
+                            "Spæd op med en smule kogevand, og smag til med salt og masser af sort peber.",
+                            "Vend brud af laks i.",
+                            "Servér straks med masser af parmesan, citron skåret i både."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "hindbaersnitter",
+                "name": "Hindbærsnitter",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "40 g smør",
+                            "20 g flormelis",
+                            "½ tsk. vaniljesukker",
+                            "65 g hvedemel",
+                            "0,3 stk. æg (del med de andre hold)",
+                            "0.3 dl. hindbærsyltetøj",
+                            "½ spsk. vand",
+                            "1 dl. flormelis"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær smørret i mindre stykker og kom i en skål. Bland flormelis og vaniljesukker i.",
+                            "Rør nu melet heri og saml dejen med æg.",
+                            "Dejen rulles ud på meldrysset bord og stikkes ud med vandglas eller lignende, således der er 8lige store stykker.",
+                            "Kom kagerne på bagepapir",
+                            "Sæt ovnen på 180 grader.  Bages ca. 25 min. Kagerne skal være fint gyldne. Tag ud og afkøl helt.",
+                            "Smør hindbærsyltetøj over halvdelen af kagerne",
+                            "Kom vand i en skål og rør flormelis i lidt efter lidt til en glasur.",
+                            "Kom glasuren på de resterende kager."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2025-01-14",
+        "image": "",
+        "dishes": [
+            {
+                "id": "bruschetta-med-tomatersvampe-og-gedeost-med-parmaskinke",
+                "name": "Bruschetta med tomater/svampe og gedeost med parmaskinke",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "spaghetti-carbonara",
+                "name": "Spaghetti Carbonara",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "300 g. typo 00 hvedemel",
+                            "3 æg",
+                            "1 knivspids salt",
+                            "Lidt vand",
+                            "150 g bacon",
+                            "1 løg",
+                            "2 dl piskefløde (alternativt madlavningsfløde)",
+                            "2 æg",
+                            "120 g friskrevet parmesanost",
+                            "250 g spaghetti"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Sigt melet, som hældes ud på et bord. Lav en fordybning i midten, som en vulkan.",
+                            "Slå æggene ud i fordybningen af melet og tilsæt salt, (og evt. farve som blæksprutteblæk).",
+                            "Vend mel og æg sammen med gaffel og hånden. Melet skal trækkes ind i æggemassen til engrov dej.",
+                            "Tilsæt eventuelt lidt mere vand, hvis dejen er for tør, eller mel hvis den er for klistret.",
+                            "Ælt dejen færdig i ca. 10 – 15 minutter indtil den er glat og elastisk.",
+                            "Pak den ind i film, og lad den hvile i 30 minutter.",
+                            "Når dejen skal rulles ud skal det enten gøres ved hånkraft og kagerulle, eller med enpastamaskine.",
+                            "Ved håndkraft drysses bordet med mel, hvor dejen vha. af en kagerulle rulles ud til den ønskede tykkelse. Start fra midten af dejen og arbejd ud mod kanten. Vend ind i mellem dejen.",
+                            "Tag dejen op og ælt vha. håndkraft. Altenativt: Kør dejen flere gange igennem en pastamaskine indtil den er glat og elastisk.",
+                            "Pak dejen ind i film, og lad den hvile i 30 minutter.",
+                            "Kør dejen igennem pastamaskinen, hvor man starter med tykkeste indstilling og går gradvistned i tykkelse indtil den ønskede tykkelse er opnået",
+                            "Frisk pasta skal koge 4 – 5 minutter i rigeligt saltet vand.",
+                            "Steg bacon på en dyb pande til det er sprødt.",
+                            "Tag af panden og placer det på et stykke køkkenrulle, så det kan suge overskydende fedt.",
+                            "Hak løget fint og sautér på panden til løgene er klare og bløde.",
+                            "Kom bacon tilbage på panden sammen med løg og tilsæt nu fløden. Lad den koge op kort.",
+                            "Pisk æg og halvdelen af parmesanosten sammen i en skål. Krydder med masser af friskkværnet peber.",
+                            "Tag panden af varmen og bland nu ægge/oste-blandingen heri. Bland det hele godt sammen og tilføj nu resten af osten. Gem lidt ost til topping.",
+                            "Smag til med salt og friskkværnet peber og nydmed det samme."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "appelsinkage-med-glasur",
+                "name": "Appelsinkage med glasur",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "100 g smør",
+                            "2 æg",
+                            "150 g sukker",
+                            "2 dl naturel yoghurt",
+                            "skal af 2 appelsiner",
+                            "saft af 1 appelsin",
+                            "200 g hvedemel",
+                            "1⁄2 tsk bagepulver",
+                            "3⁄4 tsk natron",
+                            "2 tsk vaniljesukker",
+                            "1 springform",
+                            "2 dl flormelis",
+                            "ca. 1 spsk appelsinsaft",
+                            "evt. revet appelsinskal til pynt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Sigt melet, som hældes ud på et bord. Lav en fordybning i midten, som en vulkan.",
+                            "Smelt smørret, og lad det køle lidt af.",
+                            "Pisk æg og sukker luftigt. Rør yoghurt sammen med appelsinskal og -saft. Rør det forsigtigt i denluftige æggeblanding.",
+                            "Bland hvedemel, bagepulver, natron og vaniljesukker. Sigt halvdelen i dejen, og vend det forsigtigtrundt.",
+                            "Tilsæt smørret, og bland det i. Sigt og vend den sidste halvdel af de tørre ingredienser i, tildejen er ensartet.",
+                            "Smør en springform (ca. 22-23 cm i diameter), og fordel dejen heri. Bag kagen ved 180 grader i 25-30minutter (afhængigt af ovn). Lad kagen køle helt af, og lav glasuren imens.",
+                            "Bland flormelis og appelsinsaft sammen til en glat, tyk glasur. Smør den forsigtigt ud over denafkølede kage. Pynt evt. appelsinkagen med fintrevet appelsinskal for et sidste lille pift."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
