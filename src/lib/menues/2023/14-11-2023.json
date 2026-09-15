@@ -1,0 +1,122 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-11-14",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tandoori-rejer-med-raita-dressing-og-blomkaalsris",
+                "name": "Tandoori rejer med \n\tRaita dressing og blomkålsris",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "300 g rejer i bæger",
+                            "1 spsk tandoori krydderi",
+                            "2 spsk græsk yoghurt (10%)",
+                            "1 tsk salt",
+                            "2 spsk olivenolie",
+                            "2 dl græsk yoghurt (10%)",
+                            "150 g agurk",
+                            "1 fed hvidløg",
+                            "1/3 potte frisk mynte",
+                            "1 ½ tsk citronsaft",
+                            "½ tsk stødt spidskommen",
+                            "300 g blomkålsris",
+                            "Lidt frisk mynte blade",
+                            "Salt og friskkværnet peber",
+                            "25 g gær",
+                            "1 dl lunkent vand",
+                            "1 dl mælk",
+                            "1 sammenpisket æg",
+                            "1 dl drænet yoghurt",
+                            "3 spsk olivenolie",
+                            "1 tsk salt",
+                            "1 tsk sukker",
+                            "450 g hvedemel cirka",
+                            "20 g smeltet smør",
+                            "1 håndfuld finthakket frisk koriander",
+                            "1 tsk nigella frø",
+                            "2 fed hvidløg finthakket"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Rejerne skal i si og dryppe af og næsten tørre vendes i tandoori krydderiet, græskyoghurt. salt og olivenolien.",
+                            "Herefter lægges på meget varm pande (måske med en tsk olivenolie) Overvåg pan-den mens væden reducerer, ca. 3 minutter.",
+                            "Rejerne sammen med evt. snask fra panden er klar til servering som 1/3 af retten.",
+                            "150 g groftrevet agurk (væden presses fra og kasseres) blandes med 2dl græskyoghurt, 1 fed fintrevet hvidløg, 1 ½ tsk citronsaft, ½ tsk stødt spidskommen og1/3 potte frisk mynte, hakket.",
+                            "Raitaen udgør endnu 1/3 af retten.",
+                            "Læg blomkålsrisene i en si over en skål.",
+                            "Kog vand og hæld over risene og lad dem ´soppe´ i det varme vand 3 minutter.",
+                            "Retten er klar til servering med de 3 dele hver for sig på tallerkenen pyntet mednogle få mynteblade.",
+                            "Fremgangsmåde (ca 1½time fra start til færdig)",
+                            "Lun vandet i lille gryde og tilsæt mælk.",
+                            "Rør gæret ud i væsken.",
+                            "Tilsæt det sammenpiskede æg, yoghurt, olivenolie, sukker og salt og halvdelen afmelet.",
+                            "Rør grundigt igennem og tilsæt så lidt efter lidt mere mel.",
+                            "Ælt dejen godt, skal være smidig men ikke hård og ikke for klistret.",
+                            "Læg dejen i en skål og lad den hæve til dobbelt størrelse i en times tid.",
+                            "Del dejen i 4 og form dem flade i dråbeform.",
+                            "Lad dem hæve et kvarter på en bageplade med bagepapir.",
+                            "Pensl dem med smagene gerne rundhåndet.",
+                            "Bag dem i forvarmet ovn ved 230 g varmluft i c a. 10 min."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "chicken-tikka-masala",
+                "name": "Chicken Tikka Masala",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 g kyllingbryst",
+                            "2 dl youghurt naturel",
+                            "3 fed hvidløg",
+                            "½ tsk chiliflager",
+                            "1 tsk tørret gurkemeje",
+                            "½ tsk stødt spidskommen",
+                            "2 tsk Garam Masala",
+                            "1 stk lime",
+                            "Sauce:",
+                            "2 løg",
+                            "3 fed hvidløg",
+                            "1 spsk tomatpure",
+                            "1 spsk sukker",
+                            "2,5 dl madlavningsfløde",
+                            "2 tsk tørret gurkemeje",
+                            "1 tsk paprika",
+                            "Salt og peber",
+                            "Ris og Naanbrød"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Marinaden til kyllingen \n\t\tlaves. Youghurt blandes med tørrede chiliflager, gurkemeje, spidskommen, \n\t\tgaram masala samt saft fra 1 lime.",
+                            "Hvidløg presses i \n\t\thvidløgspresser. Vend det i marinaden. Kyllingen renses og skæres i tern \n\t\tog vendes godt i marinaden og trækker lidt.",
+                            "Imens hakkes løg og hvidløg \n\t\tfint ( eller presses ) til saucen.",
+                            "En pande eller gryde varmes \n\t\top med 2-3 spsk olie.",
+                            "Herefter svitses løg og \n\t\thvidløg i 3-4 min ( må ikke blive brunt ).",
+                            "Herefter tilsættes tomatpure \n\t\tog de forskellige krydderier.",
+                            "Så tilsættes \n\t\tmadlavningsfløden og kylling og marinade kommes i gryden/panden. Dette \n\t\tsimrer i 10-15 min, til kyllingen er færdigstegt og saucen tykner.",
+                            "Smag til med salt og peber.",
+                            "Pynt med frisk koriander og \n\t\ten skefuld Creme fraiche 18%"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

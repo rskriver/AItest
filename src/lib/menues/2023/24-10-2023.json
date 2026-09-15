@@ -1,0 +1,84 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-10-24",
+        "image": "",
+        "dishes": [
+            {
+                "id": "cremet-sellerikasserolle-med-glaserede-aebler",
+                "name": "Cremet \n\t\t\t\t\tSellerikasserolle med glaserede æbler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 stk. Knoldselleri",
+                            "500 gr. Gulerødder",
+                            "2-3 stk.Skalotteløg",
+                            "4 stk.Syrlige æbler",
+                            "0,5l Hvedeøl",
+                            "2-3 spsk. Æblecidereddike",
+                            "750 ml. Grøntbouillon",
+                            "1 pakke Smør",
+                            "100gr. Fast ost (Them Krystal el.lign.)",
+                            "5-6 kviste Frisk timian",
+                            "2 spsk. Rygeost",
+                            "2-3 sk. Rugbrød",
+                            "1 stk. Citron (skallen herfra)"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Rens grøntsagerne og skær dem ”Brunoise”. Det vil sige meget små tern! Gerne såsmå som 0.25cm x 0.25cm.Som nævnt er denne del essentiel for rettens færdige udtryk og oplevelse. Hvisgrøntsagerne er for grove, vil de ikke optage væsken tilstrækkeligt.",
+                            "Klar løg og gulerødder i en god klat smør i en gryde/kasserolle. Det skal ikke tage for meget farve.",
+                            "Tilsæt selleritern og svits det yderligere et par minutter. Nu tilsættes et glas øl, en spiseske eddike og en buket timiankviste.",
+                            "Arbejd fonden ind i retten lidt efter lidt – lidt i stil med en risotto – til det er cremet ogmørt ”al dente”.",
+                            "Tern nu et æble og kom det i gryden sammen med en skefuld rygeost eller to og riv lidt at den faste ost i.",
+                            "Nu skal retten samle sig og blive ekstra cremet. Smag til med salt, peber og eventuelt rygeost, eddike og citronskal.",
+                            "De resterende æbler skæres i både og kommes på en pande med en god klat smør. Når smørret bruner, tilsættes en slat øl. Blandingen reducerer indtil æblerne er glaceret i øl/smør glacen.",
+                            "Rist rugbrødstern i smør på en pande. Bare giv den én på hatten!",
+                            "Servér retten på en rustik tallerken.",
+                            "De glacerede æbler og rugbrødsknas drysses over og ost rives på ved servering."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "romerske-kager",
+                "name": "Romerske Kager",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "225 g sukker",
+                            "¼ fl hvidvin (1,9 dl)",
+                            "225 g olivenolie",
+                            "1½ ts bagepulver",
+                            "750 g pizzamel",
+                            "Brombærmarmelade"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom sukker, vin, olie og bagepulver i en skål. Rør mel i – lidt \n\t\t\tad gangen.Ælt dejen hurtigt sammen så den bliver glat, blank og smidig.Lad den hvile i 10 – 15 minutter.",
+                            "Del dejen i 4 stykker og rul hvert stykke ud i ca. 3 mm tykkelse \n\t\t\tpå et meldrysset bord.Skær dejen ud i firkanter på 7 x 7 cm.",
+                            "Læg en teskefuld brombærmarmelade på midten af hver firkant. \n\t\t\tFold dejen sammen fra to sider over for hinanden og tryk sammen. \n\t\t\tTryk også enderne sammen, så marmeladen ikke løber ud under \n\t\t\tbagningen.",
+                            "Læg kagerne på bagepapir på en bageplade og sæt den i ovnen ved \n\t\t\t225 grader i 10 – 15 minutter.",
+                            "Tag dem ud når de er lysebrune og køl dem på en rist.",
+                            "Sigt flormelis over før servering."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

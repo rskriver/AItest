@@ -1,0 +1,128 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-02-20",
+        "image": "",
+        "dishes": [
+            {
+                "id": "bankekoed",
+                "name": "Bankekød",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "800 g Okseyderlår i skiver",
+                            "3 Spiseskefulde mel",
+                            "3 Løg",
+                            "3-4 Lauerbærblade",
+                            "1 Spiseskefuld Engelsk Sovs",
+                            "Salt – Peberkorn ca 15 stk",
+                            "Lidt Sovsejævner og Kulør",
+                            "Lidt Olie/smør",
+                            "1-2 dl Fløde",
+                            "5 dl oksefond",
+                            "1kg Kartofler/Bagekartofler",
+                            "60-150g Smør",
+                            "1-2 dl Mælk",
+                            "Salt-Peber",
+                            "1 Salathoved",
+                            "2 dl Kaffefløde",
+                            "3 Spiseskefuld Citronsaft",
+                            "2 Teskefuld Sukker",
+                            "Salt og friskkværnet Peber",
+                            "Kog Kartoflerne til de er møre, i USALTET VAND",
+                            "Hæld vandet fra og lad dem stå lidt, inden der de skæres i mindre stykker",
+                            "Smag til med Salt og Peber",
+                            "Pluk Salaten kom den i Skål",
+                            "Bland Fløde-Citronsaft-Sukker-Salt-Peber til det begynder at tykne lidt, smag til.",
+                            "VIGTIGT Dressing hældes først på når den serveres"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kødet vendes i mel",
+                            "Kom olie/smør i en Stegegryde og brun kødet ved høj varme",
+                            "Læg kødet til side efterhånden når det er stegt",
+                            "Løg snittes og svitses i gryden med lidt mere smør / olie",
+                            "Læg kødet tilbage i gryden Hæld oksefond i gryden sammen med Engelsk sauce – Lauerbær blade – HelePeberkorn",
+                            "Lad det små simre i ca. 1 time med låg på",
+                            "Tag en smagsprøve efter 50 min om kødet er mørt",
+                            "Smag retten til, kom fløde i efter behov og kulør Skal nok jævnes en smule",
+                            "Man kan komme en smule sukker i sovsen et lille godt råd."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "apfelstrudel",
+                "name": "Apfelstrudel",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "40 g vand",
+                            "1,5 dl hvedemel",
+                            "0,5 spsk olie",
+                            "0,5 tsk sukker",
+                            "0,5 tsk lys eddike",
+                            "0,25 tsk salt",
+                            "50 g smør",
+                            "1 dl rasp",
+                            "0,5 dl mandelsplitter",
+                            "0,25 tsk salt",
+                            "0,5 dl sukker",
+                            "0,5 kg æbler",
+                            "0,25 tsk kanel",
+                            "0,25 kardemomme",
+                            "1 spsk sukker",
+                            "0,5 spsk hvedemel",
+                            "0,25 dl rosiner",
+                            "0,25 tsk salt",
+                            "1 spsk mørk rom (kan \n\t\tundlades)",
+                            "Desuden: 25g smør til \n\t\tpensling.",
+                            "1/8 l fløde.",
+                            "Flormelis."
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom ingredienser til dejen i \n\t\ten skål og rør det sammen.",
+                            "Læg dejen ud på et meldrysset \n\t\tbord, og ælt dejen i 15 min, så den bliver elastisk og smidig. Kan også \n\t\tæltes i røremaskine.",
+                            "Lad dejen stå overdækket med \n\t\tet fugtigt klæde i ca 1 time.",
+                            "Smelt smørret i en pande, og \n\t\trist raspen indtildet bliver mørkebrunt.",
+                            "Sluk for varmen, og tilsæt \n\t\tresten af in-gredienserne.",
+                            "Skræl æblerne, skær i kvarte, \n\t\tog kasser kernehusene.",
+                            "Skær æblerne i tynde skiver \n\t\tog kom dem i en skål sammen medresten af ingredienserne.",
+                            "Rør godt sammen.",
+                            "Forvarm ovnen til 180 grader \n\t\tuden varm luft og dæk en bradepande med bagepapir.",
+                            "Smelt smørret til pensling.",
+                            "Placer et rent, tørt \n\t\tviskestykke eller bagepapir på en ren arbejdsflade og drys det med mel.",
+                            "Læg dejen i midten af \n\t\tviskestykket/bagepapiret, brug en kagerulletil at rulle dejen ud, og drys løbende med hvedemel.",
+                            "Start fra midten af dejen, og \n\t\trul mod kanten. Drej dejen let og fortsætmed at rulle og trække dejen til et rektangel indtil den bliver så tyndat man næsten kan se gennem dejen. Den skal være ca. 20×25 cm.",
+                            "Pensl dejen med smør og spred \n\t\tmandelknas ud på hele fladen.",
+                            "Læg æblerne i en jævn bunke i \n\t\tden ene ende langs den korte side afrektanglet.",
+                            "Løft viskestykket/bagepapiret \n\t\tså dejen kommer en enkelt gangrundt om æblefyldet.",
+                            "Pensl igen dejen med smør.",
+                            "Fortsæt med at rulle dejen om \n\t\tsig selv til en lang pølse og pensl med smør hver gang.",
+                            "Kom din strudel på bagepladen \n\t\tog bag i ca. 45 min. indtil overfladen er blevet godt afbagtog helt sprød.",
+                            "Lad kagen afkøle i minimum 30 \n\t\tmin.",
+                            "Pisk fløden til flødeskum.",
+                            "Drys kagen med flormelis og \n\t\tskær i tykkestykker.",
+                            "Server flødeskummet til."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

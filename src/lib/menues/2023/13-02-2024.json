@@ -1,0 +1,98 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-02-13",
+        "image": "",
+        "dishes": [
+            {
+                "id": "gammeldags-bankekoed",
+                "name": "Gammeldags bankekød",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "800 g okseinderlår i skiver",
+                            "2 løg",
+                            "3 spiseskefulde hvedemel",
+                            "5 deciliter oksefond – eller bouillon",
+                            "3 laurbærblade",
+                            "15 peberkorn – sorte",
+                            "1 spiseskefuld engelsk sauce",
+                            "salt og friskkværnet peber",
+                            "Lidt Maizena",
+                            "1 kilo kartofler",
+                            "300 gram rodselleri",
+                            "100 gram smør",
+                            "2 dl mælk. Ca.",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Oksekødet bankes let fladt med håndroden, og deraf navnet bankekød. Du kan også banke skiverne med en kødhammer eller lignende, men kødet skal ikke smadres. Blot bankes let ud. Krydr kødskiverne med salt og peber.",
+                            "Kom tre spiseskefulde hvedemel i en tallerken, og vend kødskiverne grundigt i melet.",
+                            "Smelt en god klat smør i en stegegryde sammen med lidt olie, og brun nu bankekødet grundigt på begge sider ved en høj varme. Brun ikke for mange skiver ad gangen, men i stedet over flere omgange, hvor skiverne lægges til side efterhånden.",
+                            "Læg kødet tilbage i gryden, og kom oksefond ved sammen med laurbærblade, peberkorn og lidt engelsk sauce, og ld nu bankekødet simre under låg i cirka halvanden time.",
+                            "Smag retten med bankekød til, og jævn eventuelt sovsen yderligere med lidt Maizena, der udrøres i en smule koldt vand.",
+                            "Kartofler og rodselleri koges møre sammen i usaltet vand.",
+                            "Vandet sies fra og kart.selleri dampes af.",
+                            "Piskes til passende konsistens",
+                            "Herefter indpiskes smør",
+                            "Mælk tilsættes til ønsket konsistens",
+                            "Smages til med salt/peber",
+                            "Rødbeder serveres apart."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "oekologisk-citronfromage-uden-floede",
+                "name": "Økologisk \n\t\t\t\t\tcitronfromage uden fløde",
+                "type": "Dessert",
+                "serves": 6,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "6 blade husblas",
+                            "revet skal fra ½ økologisk \n\t\tcitron",
+                            "3 økologiske citroner , \n\t\tsaften – ca. 1 dl",
+                            "6 økologiske æggeblommer , \n\t\tevt. pasteuriseret",
+                            "6 økologiske æggehvider , \n\t\tevt. pasteuriseret",
+                            "150 g økologisk, lyst \n\t\trørsukker",
+                            "2 ½ dl økologisk piskefløde",
+                            "kandiserede violer",
+                            "økologisk mynteblad"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Tag æggene ud fra køleskabet ca. 1 time før du går i gang så de \n\t\t\ter tempererede.",
+                            "Find portionsglas eller serveringsskål frem så det er klart.",
+                            "Læg husblas i blød i koldt vand i mindst 10 minutter. Læg \n\t\t\tbladene i vandet et af gangen så hvert blad omsluttes af vand.",
+                            "Riv skallen af en halv økologisk citron og pres 3 økologiske \n\t\t\tcitroner for saft så der bliver ca. 1 dl saft.",
+                            "Del æggene i hvider og blommer og læg dem i hver sin store skål. \n\t\t\tTilsæt rørsukker til æggeblommerne og pisk det til en tyk æggesnaps, \n\t\t\tca. 10 minutter eller indtil sukkeret er opløst.",
+                            "Rengør piskerisene med vand og sæbe. Der må ikke sidde \n\t\t\tfedtrester på. Pisk æggehviderne helt stive. Hvis der sidder \n\t\t\tfedtrester på piskeriset vil æggehviderne ikke stivne.",
+                            "Varm kort citronsaften op i en kasserolle og tag den af varmen.",
+                            "Klem husblassen for vand og smelt den i citronsaften under \n\t\t\tomrøring.",
+                            "Lad citronsaften køle en smule af til den er lillefingervarm.",
+                            "Hæld citronsaften i æggesnapsen i en tynd stråle under konstant \n\t\t\tomrøring.",
+                            "Vend derefter de stive æggehvider i blandingen en skefuld af \n\t\t\tgangen indtil blandingen er jævn",
+                            "Anret citronfromagen i serveringsglas og stil dem på køl i \n\t\t\tmindst 1 time. (Anrettes i en stor serveringsskål skal der påregnes \n\t\t\tca. 4 timer på køl indtil fromagen er stivnet).",
+                            "Hvis citronfromagen skal pyntes, så vent til lige inden \n\t\t\tservering.",
+                            "Pisk fløden til en blød skum og pynt fromagen med skefulde af \n\t\t\tflødeskum, klassiske kandiserede violer og mynteblade."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

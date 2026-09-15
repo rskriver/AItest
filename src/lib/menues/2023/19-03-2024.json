@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-03-19",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tapas",
+                "name": "Tapas  >>>",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "ansjossvoebte-olivensvesker-i-baconsvoebchorizo-med-vagtelspejlaegbagte-kartofler-med-aeg-og-tonnatosaucerisotto-med-lufttoerret-italiensk-poelse-rosmarin-og-ristede-svampe",
+                "name": "Ansjossvøbte olivenSvesker i baconsvøbChorizo med vagtelspejlægBagte kartofler med æg og tonnatosauceRisotto med lufttørret italiensk pølse, rosmarin og ristede \n\t\t\t\t\tsvampe",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "tapas",
+                "name": "<<<  Tapas",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

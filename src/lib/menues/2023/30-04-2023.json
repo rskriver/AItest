@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-04-30",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tuntatar-med-avocado",
+                "name": "Tuntatar \n\t\t\t\t\tmed avocado",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "svinekaeber-i-oel-med-kartoffelmos",
+                "name": "Svinekæber i øl med kartoffelmos",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "tuc-kage-med-kaffecreme-og-mandelknas",
+                "name": "TUC-kage \n\t\t\t\t\tmed kaffecreme og mandelknas",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-10-31",
+        "image": "",
+        "dishes": [
+            {
+                "id": "cremet-sellerikasserolle-med-glaserede-aebler",
+                "name": "Cremet \n\tSellerikasserolle med glaserede æbler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 stk. Knoldselleri",
+                            "500 gr. Gulerødder",
+                            "2-3 stk.Skalotteløg",
+                            "4 stk.Syrlige æbler",
+                            "0,5l Hvedeøl",
+                            "2-3 spsk. Æblecidereddike",
+                            "750 ml. Grøntbouillon",
+                            "1 pakke Smør",
+                            "100gr. Fast ost (Them Krystal el.lign.)",
+                            "5-6 kviste Frisk timian",
+                            "2 spsk. Rygeost",
+                            "2-3 sk. Rugbrød",
+                            "1 stk. Citron (skallen herfra)"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Rens grøntsagerne og skær dem ”Brunoise”. Det vil sige meget små tern! Gerne såsmå som 0.25cm x 0.25cm.Som nævnt er denne del essentiel for rettens færdige udtryk og oplevelse. Hvisgrøntsagerne er for grove, vil de ikke optage væsken tilstrækkeligt.",
+                            "Klar løg og gulerødder i en god klat smør i en gryde/kasserolle. Det skal ikke tage for meget farve.",
+                            "Tilsæt selleritern og svits det yderligere et par minutter. Nu tilsættes et glas øl, en spiseske eddike og en buket timiankviste.",
+                            "Arbejd fonden ind i retten lidt efter lidt – lidt i stil med en risotto – til det er cremet ogmørt ”al dente”.",
+                            "Tern nu et æble og kom det i gryden sammen med en skefuld rygeost eller to og riv lidt at den faste ost i.",
+                            "Nu skal retten samle sig og blive ekstra cremet. Smag til med salt, peber og eventuelt rygeost, eddike og citronskal.",
+                            "De resterende æbler skæres i både og kommes på en pande med en god klat smør. Når smørret bruner, tilsættes en slat øl. Blandingen reducerer indtil æblerne er glaceret i øl/smør glacen.",
+                            "Rist rugbrødstern i smør på en pande. Bare giv den én på hatten!",
+                            "Servér retten på en rustik tallerken.",
+                            "De glacerede æbler og rugbrødsknas drysses over og ost rives på ved servering."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "paeretaerte-med-marcipan",
+                "name": "Pæretærte \n\tmed marcipan",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "170 g hvedemel",
+                            "30 g flormelis",
+                            "80 g smør",
+                            "0.3 tsk salt",
+                            "1 æg",
+                            "65 g marcipan",
+                            "65 g sukker",
+                            "65 g smør",
+                            "1 æg",
+                            "20 g hvedemel",
+                            "20 g mandler, hakkede",
+                            "3 pærer",
+                            "cremefraiche"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Bland mel og flormelis sammen i en skål.",
+                            "Skær smørret i mindre tern og smuldr det i melet.",
+                            "Tilsæt salt.",
+                            "Saml mørdejen med ægget. Ælt med fingrene indtil dejen er ensartet.",
+                            "Form dejen lidt flad og pak den ind i husholdningsfilm. Læg den i køleskabet i cirka 30 minutter.",
+                            "Imens mørdejen er på køl laver du marcipanmassen.",
+                            "Bland marcipan, sukker og smør sammen i en skål.",
+                            "Tilsæt æg og pisk sammen med en elpisker.",
+                            "Tilsæt hvedemel og hakkede mandler. Bland det rundt i marcipanmassen.",
+                            "Tag mørdejen ud af køleskabet og rul den ud med en kagerulle.",
+                            "Læg dejen i en tærteform på cirka 24 cm i diameter. Det gøres nemmest ved at rulle dejen let (evt. omkring kagerullen) og så løfte den op i formen for så at rulle den ud igen.",
+                            "Tryk dejen ned i formen og brug kagerullen til at ‘skære’ kanterne af i toppen af formen. Gem den overskydende dej på køl til senere.",
+                            "Prik lidt huller i bunden i dejen med en gaffel, så bunden ikke buler op under bagningen. Hvis du også vil undgå at siderne ‘falder ned’ under forbagningen kan du prøve dette trick: Form alufolie til en lang pølse, og sæt den fast langs kanten på tærten.",
+                            "Sæt tærtebunden i ovnen ved 200 grader i 15 minutter.",
+                            "Imens skræller du pærerne og skærer dem i halve.",
+                            "Tag tærtebunden ud af ovnen.",
+                            "Hæld marcipanmassen over bunden.",
+                            "Læg de halve pærer ned i marcipanmassen.",
+                            "Tag den overskydende mørdej frem og rul den ud med en kagerulle.",
+                            "Skær mørdejen i strimler.",
+                            "Læg strimler af mørdej i et ‘net’ ovenpå tærten.",
+                            "Bag din pæretærte i ovnen ved 200 grader i cirka 30 minutter."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

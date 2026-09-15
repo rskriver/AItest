@@ -1,0 +1,114 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-02-27",
+        "image": "",
+        "dishes": [
+            {
+                "id": "lune-stegte-sild-fra-bornholm",
+                "name": "Lune stegte sild fra Bornholm",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 stk. sild",
+                            "100 g rugmel",
+                            "grov sennep (gerne Bornholmer-sennep)",
+                            "4 stk. løg",
+                            "Peber",
+                            "Salt",
+                            "Smør (til stegning)",
+                            "Olie til (til stegning)",
+                            "4 skiver rugbrød",
+                            "Rødbeder",
+                            "Fedt til rugbrødet"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Sildefileterne vendes i rugmelet, som er krydret med salt og peber.",
+                            "De kan nu steges på et højere blus, og dermed blive sprødere.",
+                            "Skær løg i tynde skiver og steg dem brune. Der tilsættes lidt øl til sidst for at gøre løgene lidt bløde.",
+                            "Sildene serveres på fedtsmurt rugbrød med de bløde løg, sennep og rødbeder. Dertil kan selvfølgelig drikkes øl og snaps."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "skibberlabskovs",
+                "name": "Skibberlabskovs",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 gram kalvekød i 2×2 cm. tern",
+                            "1 liter vand",
+                            "10 stk. laurbærblade",
+                            "20 stk. peberkorn",
+                            "1,20 kg. bagekartofler",
+                            "75 gram smør",
+                            "1 spsk. æbleeddike",
+                            "En passende mængde hakket purløg og rødbeder",
+                            "sennep",
+                            "smør",
+                            "rugbrød"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Start med at sætte kødet over i koldt vand i en gryde. Lad det koge op, og skum urenhederne fra gryden. Den mængde vand du skimmer af sammen med urenhederne, skal du tilføre igen.",
+                            "Kom nu peberkorn og laurbærblade i gryden, og sæt låg på i en times tid, imens det simrer.",
+                            "Imens skrælles kartoflerne, og de skæres i grove tern. Dæk dem med koldt vand, så de ikke bliver brune.",
+                            "Når kødet er næsten mørt, kommes kartoflerne op i gryden. Låg på, og kog videre i ca. 10-15 min.",
+                            "Tag lidt af væden fra. Den kan altid tilføres igen. Brug en kartoffelmoser, eller bare et piskeris til at mose det hele sammen med. Bliver det lidt for tykt, kan de altid tilsætte lidt af væden igen.",
+                            "Smag godt til med smørret, salt og peber. Balancer smagen med æbleeddiken.",
+                            "Når alt skal på bordet, så sæt lidt ekstra smørtern, hakket purløg, grov sennep og hakkede rødbeder med i små skåle. Og husk at man spiser godt rugbrød til."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "kaernemaelksfromage",
+                "name": "Kærnemælksfromage",
+                "type": "Dessert",
+                "serves": 6,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "10 blade husblads",
+                            "1/2 ltr kærnemælk",
+                            "4 spsk. Florsukker",
+                            "Korn af 1 stang vanilie",
+                            "1/2 ltr piskefløde",
+                            "Lun kirsebær- el. anden \n\t\tbær-sause."
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Læg husbladsene i koldt vand i 5 – 8 min.",
+                            "Rør kærnemælk med florsukker og vaniliekorn.",
+                            "Træk husbladsene op af vandet med det vand der hænger ved, smelt \n\t\t\tden i et vandbad, ikke for varmt det skal kun smelte.",
+                            "Afkøl busbladsen med lidt af kærnemælksblandingen og bland \n\t\t\tderefter dette med resten af kærnemælken under omrøring.",
+                            "Pisk fløden stiv og vend den forsigtigt i kærnemælksblandingen \n\t\t\tnår den begynder at stivne.",
+                            "Hæld fromagen i portionsglas og stil dem koldt i nogle timer."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-11-07",
+        "image": "",
+        "dishes": [
+            {
+                "id": "thaifiskesuppe",
+                "name": "Thaifiskesuppe",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "3-5 cm ingefær",
+                            "3 fed hvidløg",
+                            "2 løg",
+                            "2 stængler citrongræs",
+                            "4 kaffirlimeblade",
+                            "1 spsk gurkemeje",
+                            "2 dåser kokosmælk",
+                            "250 ml grønsagsbouillon",
+                            "3 fileter af hvid fisk som torsk eller lange(Ca. 500g)",
+                            "100 g mangetout-ærter eller edamame bønner",
+                            "2 håndfulde spinatblade",
+                            "1 bundt koriander",
+                            "1 1/2 rød chili",
+                            "200 g store rejer",
+                            "kokosolie til stegning",
+                            "saft af 1 lime",
+                            "havsalt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skræl ingefær, hvidløg og løg, snit det fint og kom det i en gryde med opvarmet kokosolie.",
+                            "Skær citrongræsset i fine stykker og tilsæt citrongræs, kaffirlimeblade og gurkemeje. Lad det simre i 5 minutter.",
+                            "Tilsæt kokosmælken og ca. 150 ml bouillon.",
+                            "Lad suppen simre i endnu 15 minutter, indtil det dufter dejligt.",
+                            "Suppen kan med fordel blendes nu, så de tørrede kaffirlimeblade findeles.",
+                            "Skær fisken i mindre stykker og kom den i gryden og lad suppen trække i 5 minutter.",
+                            "Herefter tilsættes ærterne, de skyllede spinatblade, koriander, hakket chili og rejer.",
+                            "Suppen opvarmes kortvarig, så den koger. Suppen smages til med limesaft og havsalt.Kaffirlimeblade fås tørrede i velassorterede supermarkeder. Hos nogle grønthandlere kan de fås friske."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "butter-chicken",
+                "name": "Butter \n\t\t\t\t\tChicken",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 tsk Stødt kardemomme",
+                            "2 tsk Stødt koriander",
+                            "2 tsk Garam masala",
+                            "1 tsk Chilipulver",
+                            "2 spsk Fintrevet frisk ingefær",
+                            "5 fed hvidløg – pressede",
+                            "1,5 dl Græsk yoghurt 10 %",
+                            "2 spsk Koncentreret tomatpuré",
+                            "2 tsk groft salt",
+                            "½ tsk sukker",
+                            "500g Udbenet kyllingeoverlår i mundrette stykke",
+                            "50 g smør",
+                            "20 g Smør",
+                            "2 Grofthakkede zittauerløg",
+                            "1 dåse Hakkede tomater",
+                            "1 dl Hønsebouillon",
+                            "1 dl Piskefløde 38%",
+                            "Frisk koriander",
+                            "Ristede, grofthakkede cashewnødder",
+                            "Kogte ris"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Vend de tørrede krydderier sammen med ingefær og hvidløg.",
+                            "Bland yoghurt med tomatpuré, salt, sukker og krydderiblandingen.",
+                            "Vend marinaden godt sammen med kyllingestykkerne, og lad kødet marinere tildækket i køleskabet i ca. ½ time.",
+                            "Lad smørret (50g) blive gyldent i en sauterpande og steg kyllingekødet med den marinade, der hænger ved – ca. 3 min. på hver side.",
+                            "Tag den stegte kylling af panden og sæt til side.",
+                            "Lad smørret (20g) blive gyldent i samme sauterpande og steg løg ved jævn varme i ca. 5 min.",
+                            "Tilsæt tomater og bouillon og lad retten koge ved svag varme i ca. 10 min. under låg.",
+                            "Tilsæt fløde og blend retten helt glat, evt. med en stavblender.",
+                            "Kom den stegte kylling ned i saucen, og varm det hele godt igennem.",
+                            "Anret og top med lidt koriander og cashewnødder.",
+                            "Server med ris."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

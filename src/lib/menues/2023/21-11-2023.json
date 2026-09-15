@@ -1,0 +1,110 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-11-21",
+        "image": "",
+        "dishes": [
+            {
+                "id": "mulligatawny-suppe-med-kylling",
+                "name": "Mulligatawny suppe med kylling",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "400 g kyllingebryst",
+                            "Smagsneutral kokosolie til stegning",
+                            "100 g løg finthakket",
+                            "3 fed hvidløg finthakket",
+                            "150 g gulerod i tern",
+                            "3 stængler bladselleri i tern",
+                            "1  æble  i tern",
+                            "2 spsk karry",
+                            "1 spsk  garam masala , (hjemmelavet Garam Masala)",
+                            "0,5 tsk kanel",
+                            "2 spsk frisk ingefær revet",
+                            "1 l kyllingebouillon/hønsebouillon",
+                            "1 dåse flåede tomater",
+                            "1 dåse kokosmælk",
+                            "2 spsk  sødning",
+                            "salt",
+                            "friskkværnet peber",
+                            "limesaft",
+                            "frisk koriander",
+                            "cashewnødder ristet",
+                            "1 tsk stødt spidskommen",
+                            "1 tsk stødt koriander",
+                            "1 tsk stødt kardemomme",
+                            "1 tsk friskkværnet peber",
+                            "1 tsk stødte nelliker",
+                            "1 tsk kanel",
+                            "1 tsk stødt muskatnød",
+                            "1 tsk chiliflager valgfrit",
+                            "1 tsk gurkemeje valgfrit"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom kyllingebrystet i en gryde med vand eller fond og lad den småsimre i 10-15 minutter, til den er tilberedtLæg den til side",
+                            "Opvarm lidt kokosolie i en stor gryde",
+                            "Sauter løg og hvidløg, til de er klare i farven",
+                            "Tilsæt gulerod, selleri og æble og steg med i et øjeblik",
+                            "Tilsæt karry, garam masala, kanel og ingefær og lad det stege med til det begynder at dufte",
+                            "Hæld bouillon og flåede tomater i gryden og lad det koge op og simre i ca 10 minutter",
+                            "Tilsæt kokosmælken og lad det simre videre i ca. 5 minutter",
+                            "Smag til med sødning, salt, peber og limesaft",
+                            "Skær eller riv kyllingen i mindre stykker og rør det enten i suppen eller fordel det på toppen af skålene vedservering",
+                            "Server med frisk koriander og evt. ristede cashewnødder"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "moo-shu-pork",
+                "name": "Moo SHU \n\t\t\t\t\tPORK",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "500 g svinekoteletter",
+                            "smagsneutral kokosolie til \n\t\tstegning",
+                            "6 spsk sojasauce eller \n\t\tglutenfri tamari",
+                            "4 spsk risvineddike",
+                            "4 fed hvidløg revet",
+                            "2 spsk frisk ingefær revet",
+                            "2 spsk sesamolie",
+                            "2 spsk Sukrin Gold",
+                            "200 g champignon i skiver",
+                            "4 æg",
+                            "4 forårsløg snittet",
+                            "400 g hvidkål revet",
+                            "200 g gulerod revet",
+                            "1 rød chili skåret i skiver"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Bland soja/tamari, risvineddike, hvidløg, ingefær, sesamolie og \n\t\t\tsukrin sammen ien skål eller frysepose.",
+                            "Skær koteletterne i tynde strimler og bland dem sammen med \n\t\t\tmarinaden.Lad kødet marinere i mindst 30 minutter.",
+                            "Opvarm lidt smags neutral kokosolie på en pande og steg kødet i \n\t\t\tet minuts tidved høj varme, til det har fået farve.",
+                            "Skub kødet lidt til side og tilsæt champignonerne og lad dem \n\t\t\tsmide lidt af væsken",
+                            "Tilsæt evt. en anelse mere kokosolie og slå æggene ud på panden, \n\t\t\trør i det så detbliver til røræg og bland det sammen med kødet og champignonerne.",
+                            "Tilsæt det hvide af forårsløgene, hvidkål og gulerod og lad det \n\t\t\tstege med etøjeblik.",
+                            "Smag til evt. med lidt ekstra soja, risvinseddike og sødning.",
+                            "Drys med resten af forårsløgene og evt. frisk koriander, chili \n\t\t\tog sesamfrø vedservering."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-03-12",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tapas",
+                "name": "Tapas  >>>",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "smaa-kartoffelhapserebroed-med-bacon-og-aspargessmaa-tapas-spyd-med-agurk-melon-og-fetasmaa-hapsere-med-ost-og-poelsefish-n-chipshjemmelavet-mayonnaise",
+                "name": "Små kartoffelhapsereBrød med bacon og aspargesSmå Tapas spyd med agurk, melon og fetaSmå hapsere med ost og pølseFish n’ ChipsHjemmelavet mayonnaise",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "tapas",
+                "name": "<<<  Tapas",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

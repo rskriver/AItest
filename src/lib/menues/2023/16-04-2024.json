@@ -1,0 +1,43 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-04-16",
+        "image": "",
+        "dishes": [
+            {
+                "id": "butterchicken-med-raita-og-groenblanding-endvidere-ris-og-naanbroed",
+                "name": "Butterchicken med raita og grønblanding - endvidere ris og \n\t\t\t\t\tnaanbrød",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "hindbaermousse",
+                "name": "Hindbærmousse",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200 g frosne hindbær",
+                            "¼ l piskefløde",
+                            "1 dl flormelis"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Mos hindbær og flormelis med \n\t\ten gaffel.",
+                            "Pisk fløden stiv og vend \n\t\tforsigtigt mosen heri.",
+                            "Fordél i glas og pynt med \n\t\tfriske bær."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

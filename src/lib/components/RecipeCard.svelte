@@ -19,6 +19,12 @@
 	}
 
 	let { recipe }: { recipe: Recipe } = $props();
+
+	// Number of group rows = the longer of the two group lists, so both
+	// columns always render the same number of rows and labels stay aligned.
+	const groupCount = $derived(
+		Math.max(recipe.ingredients?.length ?? 0, recipe.method?.length ?? 0)
+	);
 </script>
 
 <article class="recipe-card" role="region" aria-label={`Opskrift: ${recipe.name}`}>
@@ -35,37 +41,36 @@
 	</header>
 
 	<div class="recipe-body">
-		<section class="recipe-section">
+		<div class="recipe-row row-headers">
 			<h3 class="section-title">Ingredienser</h3>
-			{#each recipe.ingredients as group}
+			<h3 class="section-title">Fremgangsmåde</h3>
+		</div>
+
+		{#each Array.from({ length: groupCount }) as _, i (i)}
+			<div class="recipe-row">
 				<div class="recipe-group">
-					{#if group.label}
-						<h4 class="group-label">{group.label}</h4>
+					{#if recipe.ingredients[i]?.label}
+						<h4 class="group-label">{recipe.ingredients[i].label}</h4>
 					{/if}
 					<ul class="item-list">
-						{#each group.items as item}
+						{#each recipe.ingredients[i]?.items ?? [] as item, j (j + ':' + item)}
 							<li>{item}</li>
 						{/each}
 					</ul>
 				</div>
-			{/each}
-		</section>
 
-		<section class="recipe-section">
-			<h3 class="section-title">Fremgangsmåde</h3>
-			{#each recipe.method as group}
 				<div class="recipe-group">
-					{#if group.label}
-						<h4 class="group-label">{group.label}</h4>
+					{#if recipe.method[i]?.label}
+						<h4 class="group-label">{recipe.method[i].label}</h4>
 					{/if}
 					<ol class="step-list">
-						{#each group.steps as step}
+						{#each recipe.method[i]?.steps ?? [] as step, j (j + ':' + step)}
 							<li>{step}</li>
 						{/each}
 					</ol>
 				</div>
-			{/each}
-		</section>
+			</div>
+		{/each}
 	</div>
 </article>
 
@@ -125,18 +130,22 @@
 	}
 
 	.recipe-body {
-		display: grid;
-		grid-template-columns: 1fr 2fr;
-		gap: 2rem;
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
 		width: 100%;
 		box-sizing: border-box;
 	}
 
-	.recipe-section {
-		display: flex;
-		flex-direction: column;
-		gap: 0.75rem;
-		min-width: 0; /* Prevents long step text from breaking column sizes */
+	.recipe-row {
+		display: grid;
+		grid-template-columns: 1fr 2fr;
+		gap: 2rem;
+		min-width: 0;
+	}
+
+	.row-headers {
+		align-items: baseline;
 	}
 
 	.section-title {
@@ -150,6 +159,7 @@
 		display: flex;
 		flex-direction: column;
 		gap: 0.5rem;
+		min-width: 0;
 	}
 
 	.group-label {
@@ -181,9 +191,9 @@
 	}
 
 	@media (max-width: 640px) {
-		.recipe-body {
+		.recipe-row {
 			grid-template-columns: 1fr;
-			gap: 1.5rem;
+			gap: 1rem;
 		}
 	}
 </style>

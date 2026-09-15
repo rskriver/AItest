@@ -1,0 +1,136 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-04-23",
+        "image": "",
+        "dishes": [
+            {
+                "id": "lakseboard",
+                "name": "Lakseboard",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200 g flødeost",
+                            "200 g rygeost",
+                            "200 g koldrøget laks",
+                            "2 ss syltede rødløg (se nedenfor)",
+                            "4 ss små citronstykker",
+                            "5-6 kviste kørvel",
+                            "4 ss kapers",
+                            "1 bundt frisk dild",
+                            "2 rødløg",
+                            "2 dl æblecidereddike",
+                            "½ dl vand",
+                            "½ dl sukker",
+                            "½ tsk peberkorn"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Flødeost og rygeost piskes sammen og smøres ud på en tallerken",
+                            "Laksen brækkes i mundrette stykker og fordeles ud over.",
+                            "Citron, rødløg, kapers, kørvel og finthakket dild fordeles ud over.",
+                            "Servers med smørstegt lyst brød.",
+                            "Skær løgene i tynde ringe og kom dem i en skål.",
+                            "Kog eddike, vand og sukker op i en gryde sammen med peberkorn til sukkerkornene er smeltet.",
+                            "Hæld den kogende varme eddikeblanding over løgene og lad trække."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "brandade-gratineret",
+                "name": "Brandade \n\t\t\t\t\t- gratineret",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200 g kullerfilet (eller anden lignende fisk)",
+                            "400 g skrællede kartofler",
+                            "2 kviste timian",
+                            "2 kviste rosmarin",
+                            "2 laurbærblade",
+                            "5 enebær",
+                            "2 skalotteløg – grofthakkede",
+                            "2 fed hvidløg – grofthakkede",
+                            "2 dl sødmælk",
+                            "(50 g) smør efter behov",
+                            "Olivenolie efter behov",
+                            "Rasp",
+                            "50 g pecorino eller parmasan",
+                            "Salt",
+                            "Peber",
+                            "400 g rosenkål",
+                            "1 ts dijonsennep",
+                            "½ dl hvidvinseddike",
+                            "Ca. 2 dl olivenolie",
+                            "1 økologisk citron",
+                            "1 skalotteløg",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Drys fisken med salt og lad den trække på køl i min. 2 timer, men gerne natten over.",
+                            "Skyl fisken i koldt vand og dup den tør med køkkenrulle. Skær fisk og kartofler i grove stykker.",
+                            "Læg timian, rosmarin, laurbærblade og enebær i en tepose/kaffepose og snør den sammen.",
+                            "Kog alle ingredienser, dog ikke smør og olie, under låg i en tykbundet gryde til de er møre (15-20minutter). Rør af og til i gryden.",
+                            "Tag teposen op og tilsæt smør og olie og purér massen jævn med et piskeris. Smag til med salt ogpeber.",
+                            "Kom brandaden i et ildfast fad og drys med rasp og revet ost.",
+                            "Sæt fadet under grill til osten er smeltet og let gylden.",
+                            "Skær bunden af rosenkålene og pil bladene af. Skær igen bunden af, når det ikke er muligt at få fat ibladene og fortsæt, indtil kun hjertet er tilbage.",
+                            "Blancher hjerter og blade i letsaltet vand (To til fire minutter) og kom dem derefter direkte over i en skålmed koldt vand."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "pandekager-med-is-og-solbaerrom",
+                "name": "Pandekager med is og solbærrom",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "3 æg",
+                            "3 dl mælk",
+                            "75 g smør",
+                            "1 spsk sukker",
+                            "tsk groft salt",
+                            "Revet skal af en ½ citron",
+                            "80 g hvedemel"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Pisk æggene sammen og hæld mælk, sukker, salt og revet citron ved.",
+                            "Pisk hvedemel i lidt ad gangen, til en klumpfri dej.",
+                            "Smelt smørret i panden, og hæld det i dejen og pisk det godt igennem.",
+                            "Bag pandekagerne ved jævn varme, til de er lysebrune med sprøde kanter.",
+                            "Fold pandekagerne sammen 2 gange, og læg dem på et varmt fad.",
+                            "Hold dem varme under folie.",
+                            "Skær isen i bjælker og læg dem ind i pandekagerne lige før serveringen.",
+                            "Fortæres med solbærsyltetøj efter behag og et sip solbærrom"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

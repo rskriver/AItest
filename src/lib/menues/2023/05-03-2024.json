@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-03-05",
+        "image": "",
+        "dishes": [
+            {
+                "id": "tapas",
+                "name": "Tapas  >>>",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "butterdej-med-spinatblinis-med-lakserilettefyldte-peberfrugterminiburgerekyllingfrikadeller-med-groentappelsinfromage",
+                "name": "Butterdej med spinatBlinis med lakseriletteFyldte peberfrugterMiniburgereKyllingfrikadeller med grøntAppelsinfromage",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "tapas",
+                "name": "<<<  Tapas",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

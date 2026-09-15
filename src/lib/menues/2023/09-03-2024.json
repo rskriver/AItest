@@ -1,0 +1,33 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-03-09",
+        "image": "",
+        "dishes": [
+            {
+                "id": "pandekager-med-fyld",
+                "name": "Pandekager med fyld",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "roed-linsesuppe",
+                "name": "Rød \n\t\t\t\t\tLinsesuppe",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "chokolademousse",
+                "name": "Chokolademousse",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

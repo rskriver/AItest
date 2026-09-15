@@ -1,0 +1,17 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-04-02",
+        "image": "",
+        "dishes": [
+            {
+                "id": "pasta-med-lakshoejrebsfilet-med-portvinssauce-mango-salat-og-timian-kartofler",
+                "name": "PASTA MED LAKSHøjrebsfilet med portvinssauce, mango salat og timian \n\t\t\t\t\tkartofler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

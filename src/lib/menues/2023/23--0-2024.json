@@ -1,0 +1,25 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024--0-23",
+        "image": "",
+        "dishes": [
+            {
+                "id": "forret",
+                "name": "FORRET",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "hovedret",
+                "name": "HOVEDRET",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

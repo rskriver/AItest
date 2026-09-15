@@ -1,0 +1,83 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-10-03",
+        "image": "",
+        "dishes": [
+            {
+                "id": "forloren-and-med-svesker-og-aspargeskartofler",
+                "name": "Forloren and med svesker og aspargeskartofler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "400 g svinemørbrad",
+                            "100 g svesker",
+                            "50 g æble",
+                            "300 g aspargeskartofler",
+                            "2 dl fløde",
+                            "100 g bacon",
+                            "Balsamico",
+                            "Sukker",
+                            "Salt",
+                            "Peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Æblet skæres i fine tern.",
+                            "Svinemørbraden bankes fladt ud, og halvdelen af sveskerne samt alle æblerne lægges oven på. Mørbraden rulles så sammen og bindes med snor.",
+                            "Derefter brunes den på pande og steges færdig i ovnen i cirka 20 minutter ved 180 grader.",
+                            "Resten af sveskerne vikles ind i bacon og steges i ovn sammen med mørbraden til de er sprøde.",
+                            "Kartoflerne renses og koges med skræl i letsaltet vand. De afkøles og sauteres på pande med sukker og balsamico, til de er glaserede.",
+                            "Fløden tilsættes skyen fra panden og koges op, smages til med salt og peber, og er klar til servering."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "gammeldags-aeblekage",
+                "name": "Gammeldags Æblekage",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "800 g æble, skrællede og \n\t\tskåret i små tern",
+                            "1 dl vand",
+                            "0,50 vaniljestang",
+                            "1 knivspids kanel",
+                            "1 knivspids stødt kardemomme",
+                            "110 g sukker",
+                            "25 g smør",
+                            "75 g rasp",
+                            "15 g sukker",
+                            "300 g makroner",
+                            "2 dl piskefløde"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom æbletern, vand, \n\t\tkrydderier og sukker i en gryde, kog op og lad det simrekoge uden låg i \n\t\t15 minutter.",
+                            "Rør det igennem et par gange \n\t\tundervejs.",
+                            "Stil grøden i køleskab og lad \n\t\tden køle helt af.",
+                            "Smelt smør på en pande og \n\t\trist rasp og sukker under konstant omrøring i et par minutter til \n\t\tsukkeret er smeltet.",
+                            "Lad det køle af på et stykke \n\t\tbagepapir.",
+                            "Knus makronerne lidt til de \n\t\ter i passende stykker og bland dem med sukkerraspen.",
+                            "Pisk fløden til luftig lækker \n\t\tflødeskum."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

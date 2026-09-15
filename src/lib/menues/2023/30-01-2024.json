@@ -1,0 +1,120 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-01-30",
+        "image": "",
+        "dishes": [
+            {
+                "id": "groenlandsk-forret",
+                "name": "Grønlandsk forret",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "Rekling af hellefisk",
+                            "Matak af narhval",
+                            "Røget kød af moskusokse",
+                            "Røget kød af rensdyr",
+                            "Brød",
+                            "Soya sauce"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Ingredienserne skæres i mindre bidder og placeres på en tallerken enten som portionsanretning eller på en større tallerken sammen med tilstrækkeligt antal serveringsspyd (tandstikker).",
+                            "Bemærk, at Matakken er forberedt i strimler af 1 cm bredde, der forberedes således:Strimlen skæreshalvtigennem i hele længdenFor hver anden halve centimeter skæres strimlerne halvt igennem, og hver anden skæres de helt igennem, således, at der dannes 1 x 1 cm terninger med halvt gennemskåret spæklag på hver led ( 4 stk. 0,5 x 0.5 cm tern)",
+                            "Der serveres med brød og soya dyppelse"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "fisk-i-fad",
+                "name": "Fisk i \n\t\t\t\t\tfad",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 gulerødder",
+                            "½ knoldselleri",
+                            "2 scalotteløg",
+                            "1 porre",
+                            "500 g fisk, benfri (torsk, kuller, lange)",
+                            "1½ dl hvidvin",
+                            "Små kartofler",
+                            "Olie, salt,peber, dild",
+                            "250 g. smør",
+                            "3 æggeblommer stuetemperatur",
+                            "Saften fra ½ citron",
+                            "Salt og peber"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Selleri og gulerødder skrælles og snittes i julienne-tynde stave ( ca 3 x 3 x 50 mm).",
+                            "Porre og scalotteløg snittes i tynde skiver.",
+                            "Grøntsagerne steges i olie ved middel varme i samme pande i ca 10 min – de skal være al dente – og lægges i bunden af et smurt ildfast fad.",
+                            "Fisken lægges oven på grøntsagerne (enten som et helt stykke eller som 4 portions stykker).",
+                            "Hvidvin hældes over fisken, drys med salt og anbring små dildkviste oven på fiskestykkerne.",
+                            "Anbring det ildfaste fad i en forvarmet ovn ved 180 gr i ca 15 min – afhænger af hvor tykke fiskestykkerne er.",
+                            "Kartofler koges i letsaltet vand i 10 min",
+                            "Klar smørret ved at smelte det i en gryde, så vallen (det hvide) falder til bunds. Vallen må ikke bruges i saucen da dette vil få den til at skille. Hold det klarede smør lun.",
+                            "Skil æggeblommer fra hvide.",
+                            "Kom æggeblommer og citronsaft i en metal skål som sættes over et vandbad. Det vil sige at en gryde med vand varmes op ved lav varme, som sørger for at skålen varmes op.Alternativ kan man komme æggeblommer og citronsaft i en gryde som sættes over lav varme på komfuret.",
+                            "Pisk æggeblommer og citronsaft ved den lave varme indtil massen er lys og skummende.Det skal piskes rigtig godt og længe.",
+                            "Hæld dernæst meget lidt af den lune klarede smør i den ene side af æggemassen mens der piskes rigtig godt. Skiller saucen kan man piske resten af æggemassen sammen i smørret.",
+                            "Pas på at hollandaise saucen ikke kommer over 60 grader da den derved skiller. Sker det kan et andet trick være at komme et par skefulde koldt vand i.",
+                            "Hold hollandaise saucen lun indtil servering."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "frugttaerte-med-creme-fraiche",
+                "name": "Frugttærte med creme fraiche",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "250 g mel",
+                            "200 g smør",
+                            "1 æggeblomme",
+                            "100 g marcipan",
+                            "250 g blandede bær",
+                            "1/4 l fløde",
+                            "Lidt citronsaft"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Mel og ca. 190 g smør (en lille klat gemmes til at smøre tærteformen) æltes sammen og samles med en æggeblomme",
+                            "Dejen stilles på køl så længe som muligt eller til den kan rulles ud.",
+                            "Et tærtefad smøres med det overskydende smør (ca. 10 g)",
+                            "Dejen rulles ud og lægges i tærtefadet. Overskydende dej rulles til en pølse, som lægges langs fadets kant.",
+                            "Tærtebunden prikkes og bages i ca. 20 minutter ved 160 grader, eller til den er fast og gylden.",
+                            "Marcipanen findeles og fordeles på tærtebunden",
+                            "Frugtblandingen fordeles over marcipanen",
+                            "Tærten færdigbages ved 160 grader. Bagetiden vil være omkring 20 minutter",
+                            "Lidt citronsaft røres i fløden, der derved cremer. Hvis konsistensen er for flydende tilsættes ekstra citronsaft."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-01-23",
+        "image": "",
+        "dishes": [
+            {
+                "id": "vestkystsalat",
+                "name": "VESTKYSTSALAT",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "I dåse tun i olie",
+                            "En halv dåse Fiskeboller",
+                            "Et lille bæger Rejer",
+                            "Et halv glas Champignon",
+                            "Ca 1 dl. Citronsaft",
+                            "Dild – Salt -peber",
+                            "Et halvt bæger Creme fraiche 18%",
+                            "Ca. 200 g Mayonnaise",
+                            "Toastbrød",
+                            "Cherrytomat – Kaviar"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Champignon og Fiskeboller skæres i mindre stykker",
+                            "Tun – Rejer – Fiskeboller -Champignon hældes i en sigte så vand og olie løber fra.",
+                            "I en skål blandes Creme fraiche og Majonnaise",
+                            "Derefter kommer der salt – peber – Citron . Dild ca 1 spiseske i.",
+                            "Når det er smagt til, kommer Tun- fiskeboller – rejer – champignon i med let hånd.",
+                            "Det kommer så på ristet brød, f.eks i 2 trekanter",
+                            "Og pyntes med tomat og Kaviar og lidt Dild"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "moules-frites-med-estragonmayo",
+                "name": "Moules Frites med \n\testragonmayo",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 kg blåmuslinger",
+                            "100 gram god bacon i små tern",
+                            "2 dl tør hvidvin",
+                            "1/2 fennikel i tynde skiver",
+                            "2 gulerødder i tynde skiver",
+                            "2 fed mast hvidløg",
+                            "1 rødløg, finthakket",
+                            "Lidt paprika eller chili, evt.",
+                            "Olie, smagsneutral",
+                            "1 dl piskefløde eller kaffefløde",
+                            "2 citroner",
+                            "Bredbladet persille",
+                            "8 store bagekartofler",
+                            "Olie",
+                            "Timian",
+                            "Salt og peber",
+                            "4 æggeblommer, pateuriserede",
+                            "Smagsneutral olie, f.eks rapsolie",
+                            "Salt, peber",
+                            "Citron",
+                            "Dijonsennep",
+                            "1 bdt. finthakket frisk estragon"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skyl muslingerne, kassér skadede og åbne muslinger",
+                            "Hvis de lukker sig ved et let bank, er de stadig levende og helt fine",
+                            "Fjern evt. ”skæg” på muslingerne",
+                            "Bacon i små tern, løg, gulerødder, fennikel og hvidløg brunes let af i olie i en stor gryde.",
+                            "Kom hvidvin i og kog det op.",
+                            "Kom muslinger i og vend det hele let rundt.",
+                            "Læg låg på gryden og lad det småkoge i 5-10 min. indtil muslingerne har åbnet sig og bliver let rødlige i farven.",
+                            "Tilsæt fløden og kog kort op.",
+                            "Serveres med bredbladet persille på toppen sammen med fritter og estragonmayo.",
+                            "Æggeblommer, salt, peber, lidt citron eller hvidvinseddike og Dijonsennep piskes sammen til en glat og luftig æggemasse",
+                            "Æggemassen tilsættes olie i en tynd stråle under piskning indtil passende tyk konsistens er opnået.",
+                            "Hakket estragon tilsættes og røres rund",
+                            "Smag til med salt, peber og lidt citron efter behag",
+                            "Stil mayo’en køligt indtil den skal serveres.",
+                            "Kartoflerne skylles / renses og skæres i stave efter eget valg",
+                            "Kog kartofler i letsaltet vand ca. 8 min. indtil de er næsten møre",
+                            "Hæld vandet fra, behold kartoflerne i den varme gryde og tilsæt olie og evt. timian, der blandes let sammen",
+                            "Bred kartofterne ud på en bradepande med bagepapir.",
+                            "Bag kartoflerne i en forvarmet ovn på 250 gr varmluft i ca 8-10 min.",
+                            "Hold øje med fritterne og tag dem ud når de er gyldne og sprøde uden at være tørre.",
+                            "Server med groft salt og en ½ citron"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "franske-vafler",
+                "name": "Franske vafler",
+                "type": "Dessert",
+                "serves": 12,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "200 gr hvedemel",
+                            "150 gr koldt smør i mindre tern",
+                            "1 spsk vand",
+                            "1 tsk eddike",
+                            "Sukker til strøning",
+                            "100 gr blødt smør",
+                            "150 gr flormelis",
+                            "1 æggeblomme, pasteuriseret",
+                            "2 spsk friskpresset appelsinsaft",
+                            "1 tsk fintrevet usprøjtet appelsinskal"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Vafler",
+                            "Kom melet i en skål og smuldr smørret heri",
+                            "Tilsæt vand og eddike og saml hurtigt dejen. Tilsæt evt. lidt mere vand, hvis dejen ikke samler sig.",
+                            "Stil den tildækket i køleskabet i mindst ½ time.",
+                            "Rul dejen ud på et meldrysset bord til en ca ½ cm tyk dejplade.",
+                            "Stik runde kager ud med en dejudstikker eller et glas (ca. 5-6 cm i diameter).",
+                            "Strø sukker ud på et papir og rul kagerne ovale med et let tryk fra kagerullen, vend dem og kom dem på plader med bagepapir.",
+                            "Prik huller i dem med en gaffel og bag kagerne 8-10 min. ved 200 gr. – traditionel ovn til de er gyldne og sukkeret let karamellisere.",
+                            "Afkøl på bagerist.",
+                            "Pisk ingredienserne til smørcremen sammen til en luftig creme.",
+                            "Fordel cremen på halvdelen af kagerne og læg dem sammen med resten af kagerne."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-10-10",
+        "image": "",
+        "dishes": [
+            {
+                "id": "kaaldolmere",
+                "name": "Kåldolmere",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "400 g hakket svinekød, evt med 50/50 med halv hakket kalvekød",
+                            "1 løg, finthakket",
+                            "2 fed hvidløg, finthakket",
+                            "1 æg",
+                            "5 stængler frisk timian",
+                            "1 spsk havregryn, finvalset",
+                            "1 spsk hvedemel",
+                            "1 hvidkål, lille",
+                            "2 dl grøntsagsbouillon",
+                            "2 spsk smør",
+                            "flagesalt",
+                            "sort peber, friskkværnet"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Rør hakket kød godt sammen med løg, hvidløg, æg, timian, havregryn, hvedemel, samt salt og friskkværnet peber til en helt ensartet fars. Stil farsen i køleskabet i en skåll med låg i 30 minutter, så den kan hvile.",
+                            "Bring en stor gryde med grøntsagsbouillon og salt i kog og kom det hele hvidkål i det kogende vand i omkring 1-2 minutter, hvorefter det er nemmere at tage bladene forsigtigt fra.",
+                            "Tag dem op og dryp vandet af. Gem 1 dl af kogevandet.",
+                            "Form farsen i 8 lige store stykker og pak dem ind i hver sit kålblad som en kuvert. Saml evt med en ‘snor’ af en grov stængel purløg eller køkkensnor.",
+                            "Smør et ovnfast fad grundigt og sæt alle kåldolmerne deri. Hæld 1 dl af kogevandet med boullion i fadet og et par klatter smør. Krydr med salt og peber og læg et par kviste timian ved.",
+                            "Bag i en forvarmet ovn i 35-45 minutter ved 175 grader, til kødet er gennemstegt og mørt"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "aebletrifli",
+                "name": "Æbletrifli",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "750 g Syrlige, røde æbler i \n\t\ttern, fx Elstar",
+                            "2 spsk Sukker",
+                            "1 spsk Vand",
+                            "50 g Smør",
+                            "200 g Revet rugbrød",
+                            "2 spsk Sukker",
+                            "1 spsk Æggeblomme (ca. 1 æg)",
+                            "1½ spsk Sukker",
+                            "½ Vaniljestang",
+                            "½ spsk Majsstivelse fx \n\t\tmaizena",
+                            "1¼ dl Sødmælk",
+                            "1¼ dl Piskefløde 38%"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kom æbler, sukker og vand i en gryde. Kog ved svag varme og \n\t\t\tunder låg i ca. 20 min. eller til æblerne er møre – rør af og til, \n\t\t\tså mosen bliver jævn.Lad mosen køle af i køleskabet.",
+                            "Smelt smørret i en pande ved kraftig varme, men uden at det \n\t\t\tbruner.",
+                            "Rist halvdelen af rugbrødet med 1 spsk sukker i 4-5 min. ved \n\t\t\tkraftig varme og under omrøring. Rist evt. yderligere 2-3 min. ved \n\t\t\tjævn varme.",
+                            "Gentag med resten af ingredienserne og lad rugbrødsraspen køle \n\t\t\taf på en rist med bagepapir.",
+                            "Rør æggeblommer, sukker, vanilje og maizena sammen i en gryde. \n\t\t\tKom mælken i.",
+                            "Varm blandingen op ved jævn varme og under let piskning. Kog \n\t\t\tcremen, stadig under piskning, i 2-3 min.",
+                            "Hæld cremen i en skål og dæk den med film helt nede ved cremen, \n\t\t\tså den ikke danner skind. Lad cremen køle af og rør den herefter \n\t\t\tigennem.",
+                            "Pisk fløden til et let skum og vend ⅔ i den kolde creme.",
+                            "Læg æblemos, crumble og vaniljecreme lagvis i glas (á ca. 2½ \n\t\t\tdl). Top med resten af den letpiskede flødeskum."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

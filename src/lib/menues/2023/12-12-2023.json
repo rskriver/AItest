@@ -1,0 +1,25 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-12-12",
+        "image": "",
+        "dishes": [
+            {
+                "id": "sticky-chilli-lime-kylling-med-nudler",
+                "name": "Sticky \n\tChilli-lime-kylling med nudler",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            },
+            {
+                "id": "arme-riddere-med-softice",
+                "name": "Arme Riddere med \n\tsoftice",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [],
+                "method": []
+            }
+        ]
+    }
+}

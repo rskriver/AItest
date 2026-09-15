@@ -1,0 +1,129 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-01-16",
+        "image": "",
+        "dishes": [
+            {
+                "id": "fiskesuppe-fra-provence-med-ristet-broed-og-rouille",
+                "name": "FISKESUPPE fra Provence med ristet brød og rouille",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "250 g Laksefileter",
+                            "1 spsk. Olivenolie",
+                            "1/4 tsk. Stødt fennikel",
+                            "1 Lille fintsnittet pore",
+                            "100 g Fintsnittet fennikel",
+                            "2 fed Hvidløg",
+                            "1 spsk. Olivenolie",
+                            "1 dl. Tør hvidvin",
+                            "4 stk. Flåede tomater",
+                            "1 dåse. Tomatpuré",
+                            "½ tsk. Stødt anis",
+                            "1 dusk Persille",
+                            "0,1 g Safran",
+                            "6 dl. fiskebouilon",
+                            "½ tsk. Salt",
+                            "Peber",
+                            "1/4 stk. Flútes",
+                            "1 fed Hvidløg",
+                            "1 stk. Rød chili",
+                            "100 g Mayonnaise (Fremstilles under hovedretten)"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær fisken i mundrette stykker, bland dem med olivenolie og stødt fennikel og lad dem trække, mens suppen laves.",
+                            "Sauter porre, fennikel og hvidløg i 5 minutter i olivenolie.",
+                            "Tilsæt hvidvin, tomat, tomatpuré, anis, persille, safran samt fiskebouillon, og lad suppen koge 10 minutter for svag varme.",
+                            "Fjern persilledusken, kom fiskestykkerne i og lad suppen koge i endnu 5 minutter for meget svag varme.Smag til med salt og peber og anret suppen i dybe tallerkner.",
+                            "Knus hvidløget, og finhak chilien uden kerner (findél evt. chilien ekstra med stavblender).",
+                            "Rør knust hvidløg, chili og mayonnaise sammen til rouille.",
+                            "Server suppen med ristete flútes, skåret i skiver, og påsmurt rouillen."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "appelsindbagt-laks-med-ovnbagte-kartofler-med-citron",
+                "name": "APPELSINDBAGT LAKS med ovnbagte kartofler med citron",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "4 stk. Laksefileter á ca. 125 \n\t\tg",
+                            "1 bundt Forårsløg",
+                            "2 stk. Appelsiner",
+                            "1 stk. Rød chili",
+                            "1 tsk. Salt",
+                            "1 stk. Pasteuriseret \n\t\tæggeblomme",
+                            "3 dl. Vindruekerneolie",
+                            "1 tsk. Sennep",
+                            "½. Hvidvinseddike",
+                            "Citronsaft",
+                            "Salt",
+                            "Peber",
+                            "2 1/2 dl. Mayonnaise",
+                            "2 spsk. Finthakkede kapers",
+                            "2 spsk. Finthakkede \n\t\tcornichons",
+                            "1 spsk. Finthakket \n\t\tskalotteløg",
+                            "1 tsk. Dijon-sennep",
+                            "1 tsk. Finthakket ansjos",
+                            "1-2 spsk. Finthakkede urter \n\t\t(persille og purløg)",
+                            "Salt",
+                            "Peber",
+                            "Citronsaft",
+                            "500 g Babykartofler",
+                            "1 1/2 stk. Citron",
+                            "1 stk. Stort rødløg",
+                            "5 fed Hvidløg",
+                            "5 spsk. Olie",
+                            "Salt",
+                            "Peber",
+                            "Persille til pynt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Læg laksefileterne på hvert sit store stykke alufoile.",
+                            "Skær forårsløgene i strimler.",
+                            "Pil appelsinerne, og skær dem i hindefri både.",
+                            "Fjern kerner fra chilien, og skær i tynde strimler.",
+                            "Fordel løg, appelsin og chili henover laksestykkerne.",
+                            "Drys med 1 tsk. Salt.",
+                            "Fold alufolien til tætsluttende pakker, og stil dem på en \n\t\t\tbageplade.",
+                            "Steg midt i ovne, ca. 15-20 minuter, ved 225 grader.",
+                            "Kom alle ingrediencer i en skål, med undtagelse af olien.",
+                            "Pisk med et piskeris, tilsæt olien lidt for lidt, mens der \n\t\t\tpiskes hele tiden.",
+                            "Jo mere olie, jo tykkere bliver mayonnaisen.",
+                            "Smages til med lidt citronsaft.",
+                            "Bland alle ingrediencer sammen med mayonnaisen.",
+                            "Smag til med salt, peber og citronsaft.",
+                            "Kom babykartoflerne i et fad.",
+                            "Pil løget og skær det i tynde både.",
+                            "Pil hvidløgene.",
+                            "Vend kartofler, løg og hvidløg med oile i et ildfast fad.",
+                            "Skær den hele citron i skiver og kom dem ved.",
+                            "Drys med salt og peber.",
+                            "Kom kartoflerne i en forvarmet ovn på 180 grader varmluft, i ca. \n\t\t\t45-50 minutter, til de er møre og gyldne.",
+                            "Fem minutter før de er færdige presses saften af den resterende \n\t\t\thalve citron over kartoflerne, som vendes rundt og steges de sidste \n\t\t\tminutter.",
+                            "Kom olie og citronsaft over ved servering og drys med frisk \n\t\t\tpersille."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

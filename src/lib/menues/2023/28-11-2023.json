@@ -1,0 +1,91 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-11-28",
+        "image": "",
+        "dishes": [
+            {
+                "id": "lembu-laksa",
+                "name": "Lembu Laksa",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "500 g oksekød skåret i tern",
+                            "1 løg",
+                            "2 spsk smør eller margarine",
+                            "2 fed hvidløg",
+                            "1 tsk stødt ingefær",
+                            "1 dåse (285 ml) cocosmælk",
+                            "1-2 spk karrypulver",
+                            "2½ dl vand",
+                            "2½ dl langkornede ris",
+                            "1 løg",
+                            "6 dl hønsebouillon"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Afpuds kødet og lad det få \n\t\tstuetemperatur.",
+                            "Pil og hak løget.",
+                            "Smelt fedtstoffet i en stor \n\t\tstegegryde.",
+                            "Svits løg og kød hurtig, til \n\t\tkødet er smukt brunt på alle sider.",
+                            "Pil og finhak hvidløgene og \n\t\tkom dem i sammen med ingefær,karry og kokosmælk samt vand.",
+                            "Læg låg på, bring i kog og \n\t\tlad det simre ca. 40 min, eller tilkødet er mørt og saucen er jævn.",
+                            "Rør rundt nu og da.",
+                            "Hak det andet løg, og kom det \n\t\tsammen med ris ogbouillon i en gryde.",
+                            "Bring i kog, skru ned og lad \n\t\tdet småsimre under låg ca. 20 min,eller til al væske er kogt ind.",
+                            "Lad risene stå 5 min under \n\t\tlåg inden de serveres til gryden."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "dan-ta-aeggetaerter",
+                "name": "DAN-TA (æggetærter)",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "175 g hvedemel",
+                            "3 spsk sukker",
+                            "100 g usaltet smør (klaret)",
+                            "2 spsk vand",
+                            "2 små æg",
+                            "60 g sukker",
+                            "1¾ dl mælk",
+                            "½ tsk stødt muskat",
+                            "1/4 liter piskefløde :"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Sigt melet ned i en skål.",
+                            "Tilsæt sukker og gnid klaret smør ind i melet med fingerspidserne, til det ligner brødkrummer.",
+                            "Tilsæt vandet og ælt det til en fast dej.",
+                            "Læg dejen på et let melet bord og ælt den i 5 min, eller til den er glat.",
+                            "Pak den i husholdningsfilm og læg den i køleskab, mens fyldet tilberedes.",
+                            "Pisk æg og sukker sammen.",
+                            "Tilsæt mælken lidt efter lidt samt muskatnød og pisk det godt sammen.",
+                            "Del dejen i 12 lige store stykker.",
+                            "Rul dem ud til flade cirkler og pres dem ned i lave linseforme.",
+                            "Fordel cremen i kagerne og bag dem i en forvarmet ovn ved 150 i 25-30 min.",
+                            "Tag kagerne ud af formene og lad dem køle en smule af på en rist.",
+                            "Drys derefter muskat over cremen. Serveres varme eller kolde med flødeskum."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

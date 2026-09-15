@@ -1,0 +1,107 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-02-06",
+        "image": "",
+        "dishes": [
+            {
+                "id": "grydestegt-kylling-med-sauce-agurkesalat-og-salat-med-spidskaal",
+                "name": "Grydestegt kylling med sauce, agurkesalat og salat med \n\t\t\t\t\tspidskål",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "1 kylling 1200 g",
+                            "Salt og peber",
+                            "1 bundt persille",
+                            "Tandstikkere eller kødnåle",
+                            "1 spsk smør (15 g)",
+                            "1 spsk olie (15 g)",
+                            "1 1/4 dl hønsebouillon (evt. ekstra)",
+                            "Saucejævner",
+                            "Evt madkulør",
+                            "1 agurk 300 g",
+                            "4 tsk sukker 20 g",
+                            "1 lille rødløg 70 g",
+                            "2 spsk salt 35 g",
+                            "4 spsk lys vineddike 60 g",
+                            "1 spidskål",
+                            "2 æbler",
+                            "3 spsk ristede hasselnøddekerner",
+                            "2 spsk tørrede tranebær",
+                            "1 bakke karse",
+                            "1 spsk olivenolie",
+                            "½ tsk sennep",
+                            "Salt og peber",
+                            "1 spsk æblecidereddikevenolie",
+                            "500 g kartofler",
+                            "¼ bundt persille",
+                            "Kog kartoflerne.",
+                            "Hak persillen og drys den over kartoflerne."
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Dup kyllingen tør med køkkenrulle. Krydr den ind – og udvendigt med salt og peber.",
+                            "Fyld persille ind i kyllingen. Luk med tandstikkere eller kødnåle.",
+                            "Varm smør og olie i en gryde ved god varme til det er gyldent. Brun kyllingen på alle sider.",
+                            "Læg kyllingen på ryggen og hæld bouillon ved.",
+                            "Læg låg på gryden og kog ved svag varme i 45-60 minutter.",
+                            "Vend den evt. efter 30 minutter.",
+                            "Mærk ved låret om kyllingen har fået nok. Kødsaften skal være klar inde ved benet, når man vrider låret fra kroppen.",
+                            "Tag kyllingen op og lav saucen. Si evt. skyen",
+                            "Tilsæt evt. yderligere bouillon, hvis der ikke er nok til sauce.",
+                            "Tilsæt saucejævner og evt. et par dråber kulør. Smag saucen til med salt og peber.",
+                            "Skær eller klip kyllingen ud i passende stykker. Fjern fyld og evt. skind",
+                            "Skær agurken i tynde skiver, læg dem i en si, drys salt på og lad det trække i 10 minutter.",
+                            "Skyl og tryk agurkeskiverne tørre og bland dem rødløg i tynde både.",
+                            "Pisk sukker og vineddike sammen til sukkeret er opløst.",
+                            "Hæld det over agurkeskiver og løg.",
+                            "Kassér de yderste blade af spidskålen. Snit resten af spidskålen fint, gerne på et mandolinjern.",
+                            "Skyl æblerne, fjern kernehus og skær i tynde skiver.",
+                            "Vend spidskål og æble sammen i en skål. Hak hasselnødder groft. Drys nødder, tranebær og karse over salaten.",
+                            "Pisk olie, sennep, salt og peber sammen i en lille skål med en ske. Tilsæt eddiken dråbe for dråbe, imens du pisker dressingen sammen. Hæld dressingen over salaten"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "isdessert-a-la-soenderjysk-rugbroedslagkage",
+                "name": "Isdessert \n\t\t\t\t\ta la sønderjysk rugbrødslagkage",
+                "type": "Dessert",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "2 skiver rugbrød",
+                            "4 spsk hakkede hasselnødder",
+                            "1 spsk sukker",
+                            "1 dl piskefløde",
+                            "4 stk store kugler vaniljeis",
+                            "4 spsk syltede kirsebær",
+                            "lidt revet mørk chokolade"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Smuldr rugbrødet og kom på en stegepande sammen med sukker og hasselnødder.",
+                            "Rist blandingen indtil brødet begynder at blive mørkt og sprødt.",
+                            "Afkøl helt.",
+                            "Pisk fløden til skum og fordel på fire tallerkner.",
+                            "Kom is, kirsebær, de sprøde rugbrød og nødder og chokolade herpå og servér."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

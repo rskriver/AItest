@@ -1,0 +1,94 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2023-12-05",
+        "image": "",
+        "dishes": [
+            {
+                "id": "marokansk-inspireret-gulerodssuppe",
+                "name": "Marokansk \n\t\t\t\t\tinspireret gulerodssuppe",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 g gulerødder",
+                            "1 løg",
+                            "1 spsk. Olivenolie",
+                            "1 kanelstang",
+                            "8 dl vand",
+                            "2 spsk. Helio boullionpulver",
+                            "½ tsk. chiliflager eller ¼ tsk.cayennepeber",
+                            "salt",
+                            "peber",
+                            "2 dl. friskpresset appelsinsaft",
+                            "græsk yoghurt",
+                            "persille"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Skær gulerødder og løg ud i grove stykker.",
+                            "Svits dem i olie med kanelstangen et par minutter.",
+                            "Tilsæt vand, boullionpulver, chili, salt og peber.",
+                            "Lad suppen simre ca. ¾ time under låg til gulerødderne er helt møre.",
+                            "Tag kanelstangen op og blend suppen.",
+                            "Tilsæt appelsinsaft og smag til.",
+                            "Serveres med klatter af græsk yoguhrt, persilledrys og pitabrød."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "indiske-koedboller-i-karry",
+                "name": "Indiske \n\t\t\t\t\tkødboller i karry",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "500 gram hakket kalv evt. lam",
+                            "1 æg",
+                            "2 fed hvidløg",
+                            "1 spsk. Garam masala evt. karry",
+                            "1½ tsk. salt",
+                            "1 løg",
+                            "2 fed hvidløg",
+                            "2 spsk. olivenolie",
+                            "5 kardemommekapsler",
+                            "1 spsk. garam masala evt. karry",
+                            "1 tsk. stødt spidskommen",
+                            "½ tsk stødt nellike",
+                            "1 tsk. gurkemeje",
+                            "½ tsk. cayennepeber",
+                            "1 hel kanel",
+                            "2 laurbærblade",
+                            "1 dåse hakkede, flåede tomater",
+                            "1 dåse kokosmælk",
+                            "Salt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Boller:",
+                            "Pres hvidløget og rør alle ingredienser sammen, og lad farsen trække mindst ½ time i køleskabet.",
+                            "Form bollerne i valnøddestørrelse og hælddem i saucen, når den har kogt ½ time. Lad dem simre under låg i ca. 10 minutter.",
+                            "Hak løg og hvidløg og steg det i olie et par minutter.",
+                            "Tilsæt krydderierne og steg videre under omrøring nogle minutter.",
+                            "Tilsæt flåede tomater og kokosmælk. Lad det simre under låg i mindst ½ time.",
+                            "Serveres med ris og dampede grøntsager, fx ærter, blomkål eller spinat. Chutney passer ogsågodt til"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

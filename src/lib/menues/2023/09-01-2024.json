@@ -1,0 +1,100 @@
+{
+    "menu": {
+        "title": "Foreningen HERREMAD",
+        "date": "2024-01-09",
+        "image": "",
+        "dishes": [
+            {
+                "id": "jomfruhummerhaler-med-hvidoegssmoer",
+                "name": "Jomfruhummerhaler med \n\thvidøgssmør",
+                "type": "Forret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "Ca. 750 g eller 24 stk hummerhaler",
+                            "Ca. 200 g smør",
+                            "2 – 3 fed presset hvidløg",
+                            "1 bundt persille",
+                            "1 citron",
+                            "Salt"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Halerne klargøres ved at klippe dem op i ryggen, fjerne den sorte tarmstreng og tvinge rygskjoldet til siderne",
+                            "Kom de flækkede haler i et ildfast fad, læg dem tæt, men ikke lagdelt",
+                            "Rør blødt smør sammen med hvidløg, hakket persille og lidt salt",
+                            "Smørret lægges på halerne med en kniv eller et par teskeer",
+                            "Gratiner halerne i ovnen ved 200 gr (alm ovnfunktion) i 6 – 10 min til kødet begynder at blive mælkehvidt og smørret er smeltet",
+                            "Server hummerhalerne med citronsaft og flute.",
+                            "Fluten dyppes i hvidløgssmørret fra bunden af fadet."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "lyssej-eller-anden-torskefisk-paa-groentsagssaute-og-i-cremet-dildssauce",
+                "name": "Lyssej eller anden \n\ttorskefisk på Grøntsagssauté og i cremet dildssauce",
+                "type": "Hovedret",
+                "serves": 4,
+                "ingredients": [
+                    {
+                        "label": null,
+                        "items": [
+                            "600 g fiskefilet",
+                            "1 bundt forårsløg",
+                            "1 bundt grønne asparges",
+                            "2 porrer",
+                            "2 gulerødder",
+                            "2 løg",
+                            "1 fed hvidløg",
+                            "200 g brune champignons",
+                            "1 rød peber",
+                            "8 små cherrytomater",
+                            "1 bundt dild",
+                            "1 usprøjtet citron",
+                            "2 dl grønsagsbouillon",
+                            "2 dl piskefløde",
+                            "1 dl hvidvin",
+                            "Smør",
+                            "Salt og peber",
+                            "Små kartofler"
+                        ]
+                    }
+                ],
+                "method": [
+                    {
+                        "label": null,
+                        "steps": [
+                            "Kontroller for ben i fisken!",
+                            "Del fisken i 4 stykker",
+                            "Gourmetsalt fisken",
+                            "Smør et ildfast fad med smør",
+                            "Læg fisken i fadet og dryp \n\t\tden med lidt citronsaft og en smørklat på toppen",
+                            "Bag fisken i forvarmet ovn \n\t\tved 220 gr i ca. 10 min. eller til fiskekødet er hvidt",
+                            "Rens grøntsagerne",
+                            "Skær gulerødderne i meget \n\t\ttynde stave",
+                            "Skær porren i tynde ringe",
+                            "Del de grønne asparges, \n\t\trødpeberen og forårsløg i mindre stykker, tomater halveres",
+                            "1 løg hakkes fint",
+                            "Champignoner deles i halve og \n\t\tkvarte og ”tørsteges” på en pande og sættes til side",
+                            "Løg sauteres bløde og klare \n\t\tpå samme pande og sammen med hvidløg",
+                            "Grøntsagerne tilsættes og \n\t\tsauteres i smør, tilføj champignonerne, sidst tomater og krydr med salt \n\t\tog peber",
+                            "Dild hakkes groft",
+                            "Hak løget fint og sauter det \n\t\tpå en pande",
+                            "Kom hvidvin på panden og lad \n\t\tdet bruse af",
+                            "Tilsæt grøntsagsbouillon og \n\t\tpiskefløde og lad det småsimre i i 5 – 7 min",
+                            "Kom dild i saucen og smag til \n\t\tmed lidt revet citronskal, et par dråber citronsaft, salt og peber",
+                            "Fisken serveres på \n\t\tgrøntsagerne omgivet af dildsaucen og med små kogte kartofler"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
